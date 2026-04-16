@@ -396,16 +396,105 @@
     }
     .empty-state.active { display: block; }
     .empty-state h2 {
-      color: rgba(255,255,255,0.7);
-      font-size: 1.3rem;
-      margin-bottom: 0.75rem;
+      color: rgba(255,255,255,0.9);
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
     }
-    .empty-state p {
-      color: rgba(255,255,255,0.4);
-      font-size: 0.9rem;
+    .empty-state > p {
+      color: rgba(255,255,255,0.5);
+      font-size: 0.95rem;
       line-height: 1.6;
-      max-width: 44ch;
+      max-width: 50ch;
       margin-inline: auto;
+      margin-bottom: 2rem;
+    }
+
+    /* Enquiry form */
+    .enquiry-form {
+      max-width: 560px;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    .form-group {
+      display: flex;
+      flex-direction: column;
+    }
+    .form-group label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 0.35rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .form-group input,
+    .form-group select {
+      padding: 0.7rem 0.9rem;
+      font-size: 0.9rem;
+      font-family: var(--font);
+      border: 1.5px solid rgba(255,255,255,0.12);
+      border-radius: 0.5rem;
+      background: rgba(255,255,255,0.06);
+      color: #fff;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .form-group input::placeholder { color: rgba(255,255,255,0.25); }
+    .form-group input:focus,
+    .form-group select:focus { border-color: var(--pink); }
+    .form-group select {
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23888' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
+      padding-right: 2rem;
+    }
+    .form-group select option {
+      background: var(--navy);
+      color: #fff;
+    }
+    .form-submit {
+      display: block;
+      width: 100%;
+      margin-top: 1.25rem;
+      padding: 0.85rem;
+      font-size: 0.95rem;
+      font-family: var(--font);
+      font-weight: 700;
+      color: #fff;
+      background: var(--pink);
+      border: none;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .form-submit:hover {
+      background: var(--pink-dark);
+      transform: translateY(-1px);
+    }
+    .form-success {
+      text-align: center;
+      max-width: 440px;
+      margin: 0 auto;
+    }
+    .form-success h3 {
+      font-size: 1.2rem;
+      color: #fff;
+      margin: 1rem 0 0.5rem;
+    }
+    .form-success p {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.6;
+    }
+    @media (max-width: 640px) {
+      .form-row { grid-template-columns: 1fr; }
     }
 
     @media (max-width: 640px) {
@@ -442,10 +531,60 @@
   </section>
 
   <div class="empty-state" id="empty">
-    <h2>Not found in the Top 10%</h2>
-    <p>If your office isn't listed, you may not have qualified this year. Claim your ViewAgents page to make sure we have the full picture for the next round.</p>
-    <div style="margin-top:1.5rem;">
-      <a href="https://dashboard.kerfuffle.com" class="cta-btn" target="_blank" rel="noopener noreferrer" style="background:var(--pink);color:#fff;">Claim Your Page</a>
+    <h2>Can't find your agency?</h2>
+    <p>Not a problem. Fill in the form below and we'll tell you if we're collating your results and how you're doing.</p>
+    <form class="enquiry-form" id="enquiry-form" action="https://formspree.io/f/simon@kerfuffle.com" method="POST" onsubmit="return submitEnquiry(event)">
+      <div class="form-row">
+        <div class="form-group">
+          <label for="eq-name">Your Name</label>
+          <input type="text" id="eq-name" required placeholder="e.g. Sarah Jones">
+        </div>
+        <div class="form-group">
+          <label for="eq-agency">Agency Name</label>
+          <input type="text" id="eq-agency" required placeholder="e.g. Jones & Partners">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="eq-email">Email Address</label>
+          <input type="email" id="eq-email" required placeholder="e.g. sarah@jonespartners.co.uk">
+        </div>
+        <div class="form-group">
+          <label for="eq-phone">Phone (optional)</label>
+          <input type="tel" id="eq-phone" placeholder="e.g. 0113 234 5678">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="eq-postcode">Office Postcode</label>
+          <input type="text" id="eq-postcode" placeholder="e.g. LS1 4AP">
+        </div>
+        <div class="form-group">
+          <label for="eq-platform">Main Review Platform</label>
+          <select id="eq-platform">
+            <option value="" disabled selected>Select your main platform</option>
+            <option value="Google">Google</option>
+            <option value="Trustpilot">Trustpilot</option>
+            <option value="Facebook">Facebook</option>
+            <option value="Feefo">Feefo</option>
+            <option value="Yell">Yell</option>
+            <option value="AllAgents">AllAgents</option>
+            <option value="ESTAS">ESTAS</option>
+            <option value="Multiple">Multiple platforms</option>
+            <option value="Not sure">Not sure</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-group" style="margin-top:0.5rem;">
+        <label for="eq-other">Any other platforms you're on?</label>
+        <input type="text" id="eq-other" placeholder="e.g. Feefo, Trustpilot, Facebook...">
+      </div>
+      <button type="submit" class="form-submit">Find Out How I'm Doing</button>
+    </form>
+    <div class="form-success" id="form-success" style="display:none;">
+      <svg width="48" height="48" viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="24" fill="rgba(11,138,138,0.15)"/><path d="M15 24l6 6 12-12" stroke="#0B8A8A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <h3>Thanks — we'll be in touch</h3>
+      <p>We'll check whether we're already tracking your reviews and let you know how you're doing. If we're missing any of your platforms, we'll get those added too.</p>
     </div>
   </div>
 
@@ -483,6 +622,42 @@
   </footer>
 
   <script src="../winners-data.js"></script>
+  <script>
+    function submitEnquiry(e) {
+      e.preventDefault();
+      var form = document.getElementById('enquiry-form');
+      var data = {
+        name: document.getElementById('eq-name').value,
+        agency: document.getElementById('eq-agency').value,
+        email: document.getElementById('eq-email').value,
+        phone: document.getElementById('eq-phone').value,
+        postcode: document.getElementById('eq-postcode').value,
+        platform: document.getElementById('eq-platform').value,
+        otherPlatforms: document.getElementById('eq-other').value
+      };
+
+      // Send form data via fetch to Formspree
+      fetch('https://formspree.io/f/simon@kerfuffle.com', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          _subject: 'Trusted Agent Enquiry: ' + data.agency,
+          name: data.name,
+          agency: data.agency,
+          email: data.email,
+          phone: data.phone || 'Not provided',
+          postcode: data.postcode || 'Not provided',
+          main_platform: data.platform || 'Not selected',
+          other_platforms: data.otherPlatforms || 'None listed'
+        })
+      }).catch(function() {});
+
+      // Show success
+      form.style.display = 'none';
+      document.getElementById('form-success').style.display = 'block';
+      return false;
+    }
+  </script>
   <script>
     var searchInput = document.getElementById('search');
     var acBox = document.getElementById('autocomplete');
