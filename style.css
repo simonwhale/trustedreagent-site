@@ -570,6 +570,39 @@ section {
   line-height: 1.6;
 }
 
+.method-explainer {
+  margin-top: var(--space-10);
+  margin-bottom: var(--space-8);
+  padding: var(--space-8);
+  background: var(--color-surface);
+  border: 1px solid rgba(26, 26, 46, 0.06);
+  border-radius: var(--radius-xl);
+}
+
+.method-explainer h3 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: var(--space-5);
+}
+
+.method-explainer p {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}
+
+.method-explainer p:last-child {
+  margin-bottom: 0;
+}
+
+.method-explainer strong {
+  color: var(--navy);
+  font-weight: 600;
+}
+
 .method-qualifier {
   font-size: var(--text-base);
   font-weight: 600;
