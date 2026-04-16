@@ -1020,6 +1020,17 @@ section {
   color: rgba(255, 255, 255, 0.85);
 }
 
+.winner-name a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.winner-name a:hover {
+  color: var(--kerfuffle-pink-light);
+  text-decoration: underline;
+}
+
 @media (max-width: 960px) {
   .regional-winners-grid {
     grid-template-columns: repeat(3, 1fr);
