@@ -629,7 +629,130 @@ section {
 }
 
 /* ============================================
-   Section 5: Proving Period
+   Section 5: What Comes Next
+   ============================================ */
+
+.whats-next-section {
+  background: var(--color-bg);
+}
+
+.whats-next-intro {
+  font-size: var(--text-base);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  max-width: 64ch;
+  margin-bottom: var(--space-10);
+}
+.whats-next-intro strong {
+  color: var(--navy);
+  font-weight: 600;
+}
+
+.whats-next-timeline {
+  position: relative;
+  padding-left: var(--space-10);
+  margin-bottom: var(--space-10);
+}
+
+.whats-next-timeline::before {
+  content: '';
+  position: absolute;
+  left: 18px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--kerfuffle-pink), var(--tier-trusted));
+  border-radius: 2px;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: var(--space-8);
+}
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-marker {
+  position: absolute;
+  left: calc(-1 * var(--space-10));
+  top: 2px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--kerfuffle-pink);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-sm);
+  font-weight: 700;
+  box-shadow: 0 0 0 4px var(--color-bg);
+  z-index: 1;
+}
+
+.timeline-item:nth-child(2) .timeline-marker {
+  background: var(--navy);
+}
+
+.timeline-item:nth-child(3) .timeline-marker {
+  background: var(--tier-trusted);
+}
+
+.timeline-content h3 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: var(--space-2);
+  line-height: 1.3;
+}
+
+.timeline-content p {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  max-width: 56ch;
+}
+.timeline-content p strong {
+  color: var(--navy);
+  font-weight: 600;
+}
+
+.whats-next-cta {
+  background: var(--color-surface);
+  border-radius: var(--radius-xl);
+  padding: var(--space-6) var(--space-8);
+  border: 1px solid rgba(26, 26, 46, 0.06);
+  text-align: center;
+}
+
+.whats-next-cta p {
+  font-size: var(--text-base);
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin-bottom: var(--space-4);
+}
+
+@media (max-width: 640px) {
+  .whats-next-timeline {
+    padding-left: var(--space-8);
+  }
+  .timeline-marker {
+    left: calc(-1 * var(--space-8));
+    width: 30px;
+    height: 30px;
+    font-size: var(--text-xs);
+  }
+  .whats-next-timeline::before {
+    left: 14px;
+  }
+  .whats-next-cta {
+    padding: var(--space-5);
+  }
+}
+
+/* ============================================
+   Section 6: Proving Period
    ============================================ */
 
 .proving-section {
@@ -658,7 +781,7 @@ section {
 }
 
 /* ============================================
-   Section 6: Conference
+   Section 7: Conference
    ============================================ */
 
 .conference-section {
