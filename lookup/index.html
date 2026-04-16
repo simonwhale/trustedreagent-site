@@ -186,9 +186,7 @@
       padding: 0.2rem 0.5rem;
       border-radius: 4px;
     }
-    .ac-tier--P { background: rgba(139,115,85,0.12); color: #8B7355; }
-    .ac-tier--G { background: rgba(200,150,12,0.12); color: #C8960C; }
-    .ac-tier--T { background: rgba(11,138,138,0.12); color: #0B8A8A; }
+    .ac-tier--P, .ac-tier--G, .ac-tier--T { background: rgba(11,138,138,0.12); color: #0B8A8A; }
 
     /* Results */
     .results {
@@ -228,9 +226,7 @@
       border-radius: 100px;
       display: inline-block;
     }
-    .tier-P { background: linear-gradient(135deg, rgba(139,115,85,0.2), rgba(212,184,150,0.2)); color: #D4B896; border: 1px solid rgba(212,184,150,0.3); }
-    .tier-G { background: rgba(200,150,12,0.15); color: #E8B320; border: 1px solid rgba(200,150,12,0.3); }
-    .tier-T { background: rgba(11,138,138,0.15); color: #15C0C0; border: 1px solid rgba(11,138,138,0.3); }
+    .tier-P, .tier-G, .tier-T { background: rgba(11,138,138,0.15); color: #15C0C0; border: 1px solid rgba(11,138,138,0.3); }
     .agent-header__area {
       font-size: 0.85rem;
       color: rgba(255,255,255,0.5);
@@ -494,8 +490,8 @@
     var emptyDiv = document.getElementById('empty');
     var searchSection = document.getElementById('search-section');
 
-    var tierNames = { P: 'Platinum Trusted Agent', G: 'Gold Trusted Agent', T: 'Trusted Agent' };
-    var tierShort = { P: 'Platinum', G: 'Gold', T: 'Trusted Agent' };
+    var tierNames = { P: 'Trusted Agent', G: 'Trusted Agent', T: 'Trusted Agent' };
+    var tierShort = { P: 'Trusted Agent', G: 'Trusted Agent', T: 'Trusted Agent' };
 
     searchInput.addEventListener('input', function() {
       var q = this.value.trim().toLowerCase();
@@ -517,7 +513,7 @@
 
       acBox.innerHTML = matches.map(function(w, i) {
         return '<div class="ac-item" data-idx="' + WINNERS.indexOf(w) + '">' +
-          '<div><div class="ac-name">' + w.b + '</div><div class="ac-area">' + w.a + ' postcode area \u00B7 ' + w.n + ' agents</div></div>' +
+          '<div><div class="ac-name">' + w.b + '</div><div class="ac-area">' + w.a + ' postcode area</div></div>' +
           '<span class="ac-tier ac-tier--' + w.t + '">' + tierShort[w.t] + '</span></div>';
       }).join('');
       acBox.classList.add('active');
@@ -545,29 +541,29 @@
       var tierEl = document.getElementById('agent-tier');
       tierEl.textContent = tierNames[w.t];
       tierEl.className = 'agent-header__tier tier-' + w.t;
-      document.getElementById('agent-area').textContent = w.a + ' postcode area \u00B7 compared against ' + w.n + ' local agents';
+      document.getElementById('agent-area').textContent = w.a + ' postcode area';
 
       // Banner
       document.getElementById('comparison-banner').innerHTML =
-        'From ViewAgents \u2014 how <strong>' + w.b + '</strong> compares to <strong>' + w.n + ' agents</strong> in the ' + w.a + ' postcode area';
+        'From ViewAgents \u2014 how <strong>' + w.b + '</strong> compares to other agents in the ' + w.a + ' postcode area';
 
       // Build stat cards
       var grid = document.getElementById('stat-grid');
 
       // Card 1: Agents ahead of (score)
-      var scoreLabel = w.sp <= 5 ? 'Top ' + w.sp + '% locally' : 'Ahead of ' + w.sr + ' local agents';
+      var scoreLabel = w.sp <= 5 ? 'Top ' + w.sp + '% locally' : 'Top ' + Math.round(w.sp) + '% locally';
       var scoreContext = w.sp <= 5
         ? 'Your Google rating puts you in the <strong>top ' + w.sp + '%</strong> of agents in your area. The local average is just ' + w.las + '.'
-        : 'Your Google rating is above the local average of ' + w.las + ' and the <strong>UK average of 4.44</strong>. You\'re outperforming ' + Math.round(w.sr / w.n * 100) + '% of agents nearby.';
+        : 'Your Google rating is above the local average of ' + w.las + ' and the <strong>UK average of 4.44</strong>. You\'re comfortably ahead of the majority of agents in your area.';
 
       // Card 2: Reply rate position
       var replyLabel = w.rp <= 10 ? 'Top ' + w.rp + '% reply rate' : 'Top ' + Math.round(w.rp) + '% for replies';
       var replyContext = w.rp <= 5
         ? 'You\'re in the <strong>top ' + w.rp + '%</strong> for responding to reviews locally. The local average is just ' + w.lar + '%. Clients notice when you reply.'
-        : 'Your reply rate puts you ahead of <strong>' + w.ar + ' out of ' + w.n + '</strong> agents in your area. The UK average is just 34.6%.';
+        : 'You\'re in the <strong>top ' + Math.round(w.rp) + '%</strong> for responding to reviews in your area. The local average is just ' + w.lar + '% and the UK average is 34.6%.';
 
       // Card 3: Reviews position (visible)
-      var reviewContext = 'You\'re ahead of <strong>' + w.rr + ' out of ' + w.n + '</strong> agents in your area for total reviews. Volume matters \u2014 it builds trust before the first call.';
+      var reviewContext = 'You\'re in the <strong>top ' + Math.round(w.vp) + '%</strong> of agents in your area for total reviews. Volume matters \u2014 it builds trust before the first call.';
 
       // Card 4: 5-star % (blurred teaser)
       // Card 5: Platform reach (blurred teaser)
