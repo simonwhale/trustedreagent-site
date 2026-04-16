@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Check Your Status — Trusted Agent 2026</title>
+  <meta name="description" content="See how your office compares against other agents in your area. Trusted Agent 2026 — Built on Trust. Backed by Proof.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2L4 8v8c0 7.73 5.12 14.95 12 16.73C22.88 30.95 28 23.73 28 16V8L16 2z' fill='%23E91E8C'/%3E%3Cpath d='M13 17.5l-2.5-2.5-1.5 1.5 4 4 8-8-1.5-1.5z' fill='white'/%3E%3C/svg%3E">
+
+  <!-- Snitcher -->
+  <script>
+    !function(s,n,i,t,c,h){s.SnitchObject=i;s[i]||(s[i]=function(){
+    (s[i].q=s[i].q||[]).push(arguments)});s[i].l=1*new Date;c=n.createElement(t);
+    h=n.getElementsByTagName(t)[0];c.async=1;c.src="https://snid.snitcher.com/8415110.js";
+    h.parentNode.insertBefore(c,h)}(window,document,"snid","script");
+    snid('verify', 'sjZhNexAnM');
+  </script>
+  <!-- Plausible -->
+  <script async src="https://plausible.io/js/pa-zoSBORrOCWeN66aIKw1zI.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --pink: #E91E8C;
+      --pink-light: #F04DA5;
+      --pink-dark: #C8187A;
+      --navy: #1A1A2E;
+      --navy-light: #2D2D4A;
+      --teal: #0B8A8A;
+      --gold: #C8960C;
+      --bg: #FAFAFA;
+      --surface: #FFFFFF;
+      --text: #1A1A2E;
+      --text-muted: #5C5C7A;
+      --text-faint: #9B9BB0;
+      --radius: 1rem;
+      --font: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    body {
+      font-family: var(--font);
+      background: var(--navy);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* Nav */
+    .nav {
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(26,26,46,0.06);
+      padding: 0.75rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--navy);
+      text-decoration: none;
+    }
+    .nav-back {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--pink);
+      text-decoration: none;
+    }
+    .nav-back:hover { text-decoration: underline; }
+
+    /* Hero search */
+    .hero-search {
+      background: var(--navy);
+      padding: 4rem 1rem 3rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-search::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 60% 50% at 50% 30%, rgba(233,30,140,0.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-search h1 {
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.75rem;
+      position: relative;
+    }
+    .hero-search p {
+      font-size: 1rem;
+      color: rgba(255,255,255,0.6);
+      margin-bottom: 2rem;
+      max-width: 50ch;
+      margin-inline: auto;
+      line-height: 1.6;
+      position: relative;
+    }
+    .search-box {
+      position: relative;
+      max-width: 520px;
+      margin: 0 auto;
+    }
+    .search-input {
+      width: 100%;
+      padding: 1rem 1.25rem;
+      padding-right: 3rem;
+      font-size: 1rem;
+      font-family: var(--font);
+      border: 2px solid rgba(255,255,255,0.15);
+      border-radius: 0.75rem;
+      background: rgba(255,255,255,0.08);
+      color: #fff;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-input::placeholder { color: rgba(255,255,255,0.4); }
+    .search-input:focus { border-color: var(--pink); }
+    .search-icon {
+      position: absolute;
+      right: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: rgba(255,255,255,0.4);
+    }
+
+    /* Autocomplete */
+    .autocomplete {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: var(--surface);
+      border-radius: 0 0 0.75rem 0.75rem;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.2);
+      max-height: 280px;
+      overflow-y: auto;
+      z-index: 10;
+      display: none;
+    }
+    .autocomplete.active { display: block; }
+    .ac-item {
+      padding: 0.75rem 1.25rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      border-bottom: 1px solid rgba(26,26,46,0.04);
+      transition: background 0.15s;
+    }
+    .ac-item:hover { background: rgba(233,30,140,0.04); }
+    .ac-item:last-child { border-bottom: none; }
+    .ac-name {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--navy);
+    }
+    .ac-area {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    .ac-tier {
+      margin-left: auto;
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+    }
+    .ac-tier--P { background: rgba(139,115,85,0.12); color: #8B7355; }
+    .ac-tier--G { background: rgba(200,150,12,0.12); color: #C8960C; }
+    .ac-tier--T { background: rgba(11,138,138,0.12); color: #0B8A8A; }
+
+    /* Results */
+    .results {
+      display: none;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 1rem 4rem;
+    }
+    .results.active { display: block; }
+
+    /* Agent header */
+    .agent-header {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+      border-radius: var(--radius);
+      padding: 2rem 2.5rem;
+      margin-top: -1.5rem;
+      position: relative;
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .agent-header__shield svg { display: block; }
+    .agent-header__info h2 {
+      font-size: clamp(1.3rem, 3vw, 1.8rem);
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.25rem;
+    }
+    .agent-header__tier {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.25rem 0.75rem;
+      border-radius: 100px;
+      display: inline-block;
+    }
+    .tier-P { background: linear-gradient(135deg, rgba(139,115,85,0.2), rgba(212,184,150,0.2)); color: #D4B896; border: 1px solid rgba(212,184,150,0.3); }
+    .tier-G { background: rgba(200,150,12,0.15); color: #E8B320; border: 1px solid rgba(200,150,12,0.3); }
+    .tier-T { background: rgba(11,138,138,0.15); color: #15C0C0; border: 1px solid rgba(11,138,138,0.3); }
+    .agent-header__area {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.5);
+      margin-top: 0.5rem;
+    }
+
+    /* Comparison banner */
+    .comparison-banner {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.6);
+      background: rgba(233,30,140,0.06);
+      border: 1px solid rgba(233,30,140,0.1);
+      border-radius: 0.5rem;
+      padding: 0.75rem 1.25rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .comparison-banner strong { color: var(--pink-light); }
+
+    /* Stat cards — KIT style */
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .stat-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid rgba(26,26,46,0.06);
+    }
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: var(--pink);
+      border-radius: 4px 0 0 4px;
+    }
+    .stat-card--teal::before { background: var(--teal); }
+    .stat-card--gold::before { background: var(--gold); }
+
+    .stat-card__number {
+      font-size: clamp(2rem, 5vw, 2.8rem);
+      font-weight: 700;
+      color: var(--navy);
+      line-height: 1.1;
+      margin-bottom: 0.25rem;
+    }
+    .stat-card__label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.5rem;
+    }
+    .stat-card__context {
+      font-size: 0.8rem;
+      color: var(--text-faint);
+      line-height: 1.5;
+    }
+    .stat-card__context strong {
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    /* Blurred teaser cards */
+    .stat-card--blurred .stat-card__number,
+    .stat-card--blurred .stat-card__context {
+      filter: blur(6px);
+      user-select: none;
+      pointer-events: none;
+    }
+    .stat-card--blurred::after {
+      content: '🔒 Claim your page to unlock';
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--pink);
+      background: rgba(255,255,255,0.6);
+      backdrop-filter: blur(2px);
+      cursor: pointer;
+      z-index: 2;
+    }
+
+    /* CTA */
+    .cta-card {
+      background: linear-gradient(135deg, var(--pink) 0%, var(--pink-dark) 100%);
+      border-radius: var(--radius);
+      padding: 2rem 2.5rem;
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+    .cta-card h3 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    .cta-card p {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.8);
+      margin-bottom: 1.25rem;
+      line-height: 1.6;
+      max-width: 50ch;
+      margin-inline: auto;
+    }
+    .cta-btn {
+      display: inline-block;
+      background: #fff;
+      color: var(--pink);
+      font-family: var(--font);
+      font-size: 0.9rem;
+      font-weight: 700;
+      padding: 0.75rem 2rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .cta-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+
+    /* Caveat */
+    .caveat {
+      margin-top: 2rem;
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.35);
+      line-height: 1.6;
+      text-align: center;
+      max-width: 60ch;
+      margin-inline: auto;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--navy);
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.35);
+    }
+    .footer a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+    }
+
+    /* Empty state */
+    .empty-state {
+      display: none;
+      text-align: center;
+      padding: 4rem 1rem;
+    }
+    .empty-state.active { display: block; }
+    .empty-state h2 {
+      color: rgba(255,255,255,0.7);
+      font-size: 1.3rem;
+      margin-bottom: 0.75rem;
+    }
+    .empty-state p {
+      color: rgba(255,255,255,0.4);
+      font-size: 0.9rem;
+      line-height: 1.6;
+      max-width: 44ch;
+      margin-inline: auto;
+    }
+
+    @media (max-width: 640px) {
+      .stat-grid { grid-template-columns: 1fr; }
+      .agent-header {
+        flex-direction: column;
+        text-align: center;
+        padding: 1.5rem;
+      }
+      .cta-card { padding: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">
+        <svg width="24" height="24" viewBox="0 0 64 64" fill="none"><path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#E91E8C"/><path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="white"/></svg>
+        Trusted Agent 2026
+      </a>
+      <a href="../" class="nav-back">&larr; Back to main site</a>
+    </div>
+  </nav>
+
+  <section class="hero-search" id="search-section">
+    <h1>Check Your Status</h1>
+    <p>Search for your office to see how you compare against other agents in your area.</p>
+    <div class="search-box">
+      <input type="text" class="search-input" id="search" placeholder="Start typing your agency name..." autocomplete="off">
+      <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <div class="autocomplete" id="autocomplete"></div>
+    </div>
+  </section>
+
+  <div class="empty-state" id="empty">
+    <h2>Not found in the Top 10%</h2>
+    <p>If your office isn't listed, you may not have qualified this year. Claim your ViewAgents page to make sure we have the full picture for the next round.</p>
+    <div style="margin-top:1.5rem;">
+      <a href="https://dashboard.kerfuffle.com" class="cta-btn" target="_blank" rel="noopener noreferrer" style="background:var(--pink);color:#fff;">Claim Your Page</a>
+    </div>
+  </div>
+
+  <div class="results" id="results">
+    <div class="agent-header" id="agent-header">
+      <div class="agent-header__shield">
+        <svg width="60" height="72" viewBox="0 0 60 72" fill="none">
+          <path d="M30 3L5 13v16c0 16.2 10 31.3 23.3 34.8a5 5 0 003.4 0C45 60.3 55 45.2 55 29V13L30 3z" fill="#E91E8C" opacity="0.12"/>
+          <path d="M30 8L8 17v14c0 14 8.9 27.6 20.5 30.8a4 4 0 002.2 0C42.1 58.6 52 45 52 31V17L30 8z" stroke="#E91E8C" stroke-width="1.5" fill="none"/>
+          <path d="M24 37l-7-7-4 4 11 11 18-18-4-4z" fill="#E91E8C"/>
+        </svg>
+      </div>
+      <div class="agent-header__info">
+        <h2 id="agent-name"></h2>
+        <span class="agent-header__tier" id="agent-tier"></span>
+        <div class="agent-header__area" id="agent-area"></div>
+      </div>
+    </div>
+
+    <div class="comparison-banner" id="comparison-banner"></div>
+
+    <div class="stat-grid" id="stat-grid"></div>
+
+    <div class="cta-card">
+      <h3>See your full dashboard</h3>
+      <p>These are just the highlights. Claim your ViewAgents page to unlock your complete benchmarking report, competitor comparisons, and review platform audit.</p>
+      <a href="https://dashboard.kerfuffle.com" class="cta-btn" target="_blank" rel="noopener noreferrer">Claim Your Page</a>
+    </div>
+
+    <p class="caveat">This is based on data held on the ViewAgents platform, which aggregates information from Google, Trustpilot, Feefo, Facebook and other trusted review sources. To give yourself the best chance, ensure we have all the right information and let us know which other platforms you're on.</p>
+  </div>
+
+  <footer class="footer">
+    <p>Trusted Agent 2026 is a <a href="https://kerfuffle.com" target="_blank">Kerfuffle</a> programme. Powered by <a href="https://www.viewagents.com" target="_blank">ViewAgents</a>.</p>
+  </footer>
+
+  <script src="../winners-data.js"></script>
+  <script>
+    var searchInput = document.getElementById('search');
+    var acBox = document.getElementById('autocomplete');
+    var resultsDiv = document.getElementById('results');
+    var emptyDiv = document.getElementById('empty');
+    var searchSection = document.getElementById('search-section');
+
+    var tierNames = { P: 'Platinum Trusted Agent', G: 'Gold Trusted Agent', T: 'Trusted Agent' };
+    var tierShort = { P: 'Platinum', G: 'Gold', T: 'Trusted Agent' };
+
+    searchInput.addEventListener('input', function() {
+      var q = this.value.trim().toLowerCase();
+      emptyDiv.classList.remove('active');
+      if (q.length < 2) {
+        acBox.classList.remove('active');
+        acBox.innerHTML = '';
+        return;
+      }
+      var matches = WINNERS.filter(function(w) {
+        return w.b.toLowerCase().indexOf(q) !== -1;
+      }).slice(0, 8);
+
+      if (matches.length === 0) {
+        acBox.innerHTML = '<div style="padding:1rem;color:#9B9BB0;font-size:0.85rem;">No matches found in the Top 10%</div>';
+        acBox.classList.add('active');
+        return;
+      }
+
+      acBox.innerHTML = matches.map(function(w, i) {
+        return '<div class="ac-item" data-idx="' + WINNERS.indexOf(w) + '">' +
+          '<div><div class="ac-name">' + w.b + '</div><div class="ac-area">' + w.a + ' postcode area \u00B7 ' + w.n + ' agents</div></div>' +
+          '<span class="ac-tier ac-tier--' + w.t + '">' + tierShort[w.t] + '</span></div>';
+      }).join('');
+      acBox.classList.add('active');
+
+      acBox.querySelectorAll('.ac-item').forEach(function(el) {
+        el.addEventListener('click', function() {
+          selectAgent(WINNERS[parseInt(this.dataset.idx)]);
+        });
+      });
+    });
+
+    // Close autocomplete on outside click
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.search-box')) acBox.classList.remove('active');
+    });
+
+    function selectAgent(w) {
+      acBox.classList.remove('active');
+      searchInput.value = w.b;
+      emptyDiv.classList.remove('active');
+      resultsDiv.classList.add('active');
+
+      // Header
+      document.getElementById('agent-name').textContent = w.b;
+      var tierEl = document.getElementById('agent-tier');
+      tierEl.textContent = tierNames[w.t];
+      tierEl.className = 'agent-header__tier tier-' + w.t;
+      document.getElementById('agent-area').textContent = w.a + ' postcode area \u00B7 compared against ' + w.n + ' local agents';
+
+      // Banner
+      document.getElementById('comparison-banner').innerHTML =
+        'From ViewAgents \u2014 how <strong>' + w.b + '</strong> compares to <strong>' + w.n + ' agents</strong> in the ' + w.a + ' postcode area';
+
+      // Build stat cards
+      var grid = document.getElementById('stat-grid');
+
+      // Card 1: Agents ahead of (score)
+      var scoreLabel = w.sp <= 5 ? 'Top ' + w.sp + '% locally' : 'Ahead of ' + w.sr + ' local agents';
+      var scoreContext = w.sp <= 5
+        ? 'Your Google rating puts you in the <strong>top ' + w.sp + '%</strong> of agents in your area. The local average is just ' + w.las + '.'
+        : 'Your Google rating is above the local average of ' + w.las + ' and the <strong>UK average of 4.44</strong>. You\'re outperforming ' + Math.round(w.sr / w.n * 100) + '% of agents nearby.';
+
+      // Card 2: Reply rate position
+      var replyLabel = w.rp <= 10 ? 'Top ' + w.rp + '% reply rate' : 'Top ' + Math.round(w.rp) + '% for replies';
+      var replyContext = w.rp <= 5
+        ? 'You\'re in the <strong>top ' + w.rp + '%</strong> for responding to reviews locally. The local average is just ' + w.lar + '%. Clients notice when you reply.'
+        : 'Your reply rate puts you ahead of <strong>' + w.ar + ' out of ' + w.n + '</strong> agents in your area. The UK average is just 34.6%.';
+
+      // Card 3: Reviews position (visible)
+      var reviewContext = 'You\'re ahead of <strong>' + w.rr + ' out of ' + w.n + '</strong> agents in your area for total reviews. Volume matters \u2014 it builds trust before the first call.';
+
+      // Card 4: 5-star % (blurred teaser)
+      // Card 5: Platform reach (blurred teaser)
+
+      grid.innerHTML =
+        // Card 1 — Score
+        '<div class="stat-card">' +
+          '<div class="stat-card__number">' + scoreLabel + '</div>' +
+          '<div class="stat-card__label">Google Rating</div>' +
+          '<div class="stat-card__context">' + scoreContext + '</div>' +
+        '</div>' +
+
+        // Card 2 — Reply
+        '<div class="stat-card stat-card--teal">' +
+          '<div class="stat-card__number">' + replyLabel + '</div>' +
+          '<div class="stat-card__label">Review Reply Rate</div>' +
+          '<div class="stat-card__context">' + replyContext + '</div>' +
+        '</div>' +
+
+        // Card 3 — Volume
+        '<div class="stat-card stat-card--gold">' +
+          '<div class="stat-card__number">Top ' + Math.round(w.vp) + '%</div>' +
+          '<div class="stat-card__label">Review Volume</div>' +
+          '<div class="stat-card__context">' + reviewContext + '</div>' +
+        '</div>' +
+
+        // Card 4 — Blurred teaser (5-star)
+        '<div class="stat-card stat-card--blurred" onclick="window.open(\'https://dashboard.kerfuffle.com\',\'_blank\')">' +
+          '<div class="stat-card__number">94.7%</div>' +
+          '<div class="stat-card__label">5-Star Review Rate</div>' +
+          '<div class="stat-card__context">Your 5-star percentage and how it compares to the UK average of 69.2%.</div>' +
+        '</div>' +
+
+        // Card 5 — Blurred teaser (platforms)
+        '<div class="stat-card stat-card--blurred" onclick="window.open(\'https://dashboard.kerfuffle.com\',\'_blank\')" style="grid-column: 1 / -1;">' +
+          '<div class="stat-card__number">' + w.p + ' platform' + (w.p !== 1 ? 's' : '') + ' detected</div>' +
+          '<div class="stat-card__label">Multi-Platform Presence</div>' +
+          '<div class="stat-card__context">We\'ve found you on ' + w.p + ' review platform' + (w.p !== 1 ? 's' : '') + '. Are we missing any? The more platforms we track, the stronger your Trusted Agent score. Claim your page to tell us where else you\'re listed.</div>' +
+        '</div>';
+
+      // Scroll to results
+      resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // Handle enter key for "not found"
+    searchInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        var q = this.value.trim().toLowerCase();
+        if (q.length >= 2) {
+          var matches = WINNERS.filter(function(w) {
+            return w.b.toLowerCase().indexOf(q) !== -1;
+          });
+          if (matches.length === 0) {
+            resultsDiv.classList.remove('active');
+            emptyDiv.classList.add('active');
+          } else if (matches.length === 1) {
+            selectAgent(matches[0]);
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
