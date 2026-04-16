@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How We Calculate Scores — ViewAgents & The Trusted Agent</title>
+  <meta name="description" content="Our methodology explained. How ViewAgents and The Trusted Agent programme score, rank, and recognise estate agents across the UK.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2L4 8v8c0 7.73 5.12 14.95 12 16.73C22.88 30.95 28 23.73 28 16V8L16 2z' fill='%23E91E8C'/%3E%3Cpath d='M13 17.5l-2.5-2.5-1.5 1.5 4 4 8-8-1.5-1.5z' fill='white'/%3E%3C/svg%3E">
+
+  <!-- Snitcher -->
+  <script>
+    !function(s,n,i,t,c,h){s.SnitchObject=i;s[i]||(s[i]=function(){
+    (s[i].q=s[i].q||[]).push(arguments)});s[i].l=1*new Date;c=n.createElement(t);
+    h=n.getElementsByTagName(t)[0];c.async=1;c.src="https://snid.snitcher.com/8415110.js";
+    h.parentNode.insertBefore(c,h)}(window,document,"snid","script");
+    snid('verify', 'sjZhNexAnM');
+  </script>
+  <!-- Plausible -->
+  <script async src="https://plausible.io/js/pa-zoSBORrOCWeN66aIKw1zI.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --pink: #E91E8C;
+      --pink-light: #F04DA5;
+      --pink-dark: #C8187A;
+      --navy: #1A1A2E;
+      --navy-light: #2D2D4A;
+      --teal: #0B8A8A;
+      --bg: #FAFAFA;
+      --surface: #FFFFFF;
+      --text: #1A1A2E;
+      --text-muted: #5C5C7A;
+      --text-faint: #9B9BB0;
+      --radius: 1rem;
+      --font: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    /* Nav */
+    .nav {
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(26,26,46,0.06);
+      padding: 0.75rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--navy);
+      text-decoration: none;
+    }
+    .nav-back {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--pink);
+      text-decoration: none;
+    }
+    .nav-back:hover { text-decoration: underline; }
+
+    /* Hero */
+    .hero {
+      background: var(--navy);
+      padding: 5rem 1.5rem 3.5rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 50% 50% at 50% 30%, rgba(233,30,140,0.06) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--pink-light);
+      margin-bottom: 1rem;
+      position: relative;
+    }
+    .hero h1 {
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 1rem;
+      position: relative;
+      letter-spacing: -0.02em;
+    }
+    .hero p {
+      font-size: 1rem;
+      color: rgba(255,255,255,0.6);
+      max-width: 52ch;
+      margin: 0 auto;
+      position: relative;
+      line-height: 1.7;
+    }
+    .hero-logos {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 2rem;
+      position: relative;
+    }
+    .hero-logos span {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.45);
+      letter-spacing: 0.02em;
+    }
+    .hero-logos .divider {
+      width: 1px;
+      height: 20px;
+      background: rgba(255,255,255,0.15);
+    }
+
+    /* Content */
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+
+    .content h2 {
+      font-size: clamp(1.3rem, 3vw, 1.6rem);
+      font-weight: 700;
+      color: var(--navy);
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .content h2:first-child { margin-top: 0; }
+
+    .content p {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-bottom: 1.25rem;
+      line-height: 1.8;
+    }
+    .content p strong {
+      color: var(--navy);
+      font-weight: 600;
+    }
+
+    /* Pillar cards */
+    .pillars {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .pillar {
+      background: var(--surface);
+      border: 1px solid rgba(26,26,46,0.06);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .pillar::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+    }
+    .pillar:nth-child(1)::before { background: var(--pink); }
+    .pillar:nth-child(2)::before { background: var(--teal); }
+    .pillar:nth-child(3)::before { background: #C8960C; }
+    .pillar:nth-child(4)::before { background: var(--navy); }
+    .pillar:nth-child(5)::before { background: var(--pink-light); }
+
+    .pillar h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin-bottom: 0.5rem;
+    }
+    .pillar p {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      margin-bottom: 0;
+    }
+
+    /* Callout boxes */
+    .callout {
+      background: var(--surface);
+      border-left: 4px solid var(--pink);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 1.5rem 1.75rem;
+      margin: 2rem 0;
+    }
+    .callout--teal { border-left-color: var(--teal); }
+    .callout--navy { border-left-color: var(--navy); }
+
+    .callout h3 {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .callout p {
+      font-size: 0.85rem;
+      margin-bottom: 0;
+    }
+
+    /* Divider */
+    .section-divider {
+      border: none;
+      border-top: 1px solid rgba(26,26,46,0.06);
+      margin: 3rem 0;
+    }
+
+    /* Footer */
+    .footnote {
+      background: rgba(26,26,46,0.03);
+      border-radius: var(--radius);
+      padding: 1.5rem 1.75rem;
+      margin-top: 3rem;
+    }
+    .footnote h3 {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-faint);
+      margin-bottom: 0.75rem;
+    }
+    .footnote p {
+      font-size: 0.8rem;
+      color: var(--text-faint);
+      margin-bottom: 0.5rem;
+      line-height: 1.7;
+    }
+    .footnote p:last-child { margin-bottom: 0; }
+
+    .footer {
+      border-top: 1px solid rgba(26,26,46,0.06);
+      padding: 2rem 1.5rem;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 0.75rem;
+      color: var(--text-faint);
+    }
+    .footer a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    @media (max-width: 640px) {
+      .pillars { grid-template-columns: 1fr; }
+      .hero { padding: 3.5rem 1.5rem 2.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="../" class="nav-logo">
+        <svg width="24" height="24" viewBox="0 0 64 64" fill="none"><path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#E91E8C"/><path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="white"/></svg>
+        Trusted Agent 2026
+      </a>
+      <a href="../" class="nav-back">&larr; Back to main site</a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-label">Methodology</div>
+    <h1>How We Calculate Scores</h1>
+    <p>The scoring methodology behind ViewAgents and The Trusted Agent programme. Transparent in principle, proprietary in detail.</p>
+    <div class="hero-logos">
+      <span>ViewAgents</span>
+      <div class="divider"></div>
+      <span>The Trusted Agent</span>
+      <div class="divider"></div>
+      <span>Kerfuffle</span>
+    </div>
+  </section>
+
+  <div class="content">
+
+    <h2>What we measure</h2>
+    <p>ViewAgents aggregates review data from across the web — Google, Trustpilot, Facebook, Feefo, Yell and more — to build a comprehensive reputation profile for every estate agent office in the UK. The Trusted Agent programme uses this data, combined with additional factors, to identify and recognise the top-performing offices nationally.</p>
+    <p>The scoring algorithm evaluates multiple dimensions. No single metric determines an agent's position.</p>
+
+    <div class="pillars">
+      <div class="pillar">
+        <h3>Review Quality</h3>
+        <p>Star ratings across platforms, the proportion of five-star reviews, and the frequency of one-star reviews. Quality is measured in aggregate, not cherry-picked.</p>
+      </div>
+      <div class="pillar">
+        <h3>Client Engagement</h3>
+        <p>How consistently an agent responds to reviews — both positive and negative. Reply rate and the quality of those responses are factored into the score.</p>
+      </div>
+      <div class="pillar">
+        <h3>Volume of Evidence</h3>
+        <p>Total reviews across all tracked platforms. More evidence means more confidence in the data — but volume alone is never enough.</p>
+      </div>
+      <div class="pillar">
+        <h3>Multi-Platform Presence</h3>
+        <p>Agents visible across Google, Trustpilot, Facebook and other platforms demonstrate broader, more credible trust than those relying on a single source.</p>
+      </div>
+      <div class="pillar">
+        <h3>Market Performance</h3>
+        <p>For higher tiers of recognition, market performance data from tried and tested industry sources is factored in alongside reputation metrics.</p>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <h2>It's not just about the numbers</h2>
+    <p>A high volume of reviews alone isn't enough. Our algorithm looks at the full picture — quality, consistency, engagement, and how an agent's reputation is trending over time.</p>
+    <p>Recent reviews carry more weight than older ones. An office that delivered five-star service three years ago but has slipped since won't score the same as one that's delivering consistently right now. We call this <strong>review decay</strong> — because trust is earned today, not banked from the past.</p>
+    <p>We also look at the balance between volume and quality. A handful of perfect reviews tells a different story to hundreds of reviews with a strong but realistic spread. Neither is automatically better — the algorithm considers both in context.</p>
+    <p>Reply rates matter too. When a client takes the time to leave feedback, how an agent responds says as much about their service as the review itself. Agents who engage with their reviews — positive and negative — score more favourably than those who don't.</p>
+
+    <div class="callout">
+      <h3>Review Decay</h3>
+      <p>Reviews are weighted by recency. A strong track record matters, but recent performance matters more. An agent can't coast on historic reviews if their service quality has declined. The algorithm reflects what clients are experiencing <strong>right now</strong>.</p>
+    </div>
+
+    <p>The exact weightings, thresholds, and gate criteria are proprietary — they're reviewed and adjusted regularly to reflect how consumers actually use review data. What matters is that the methodology rewards agents who are genuinely, consistently delivering for their clients right now.</p>
+
+    <hr class="section-divider">
+
+    <h2>How Trusted Agent tiers work</h2>
+    <p>The Trusted Agent programme identifies the top-performing estate agent offices in the UK. To qualify, an office must pass through multiple scoring gates — there is no single metric that guarantees entry.</p>
+    <p><strong>Trusted Agent</strong> — the top 10% of UK estate agent offices by reputation score. This is the entry tier, awarded to offices that demonstrably outperform the national average across review quality, engagement, and evidence.</p>
+    <p><strong>Gold</strong> — the top 5%. These offices don't just perform well — they perform well consistently, across multiple platforms, with strong client engagement.</p>
+    <p><strong>Platinum</strong> — the top 2%. The highest tier of recognition, reserved for offices that combine outstanding reputation with proven market performance.</p>
+    <p>Disqualification criteria also apply. Offices with certain red flags — such as never replying to a review, unusually high rates of negative feedback, or insufficient evidence — are excluded regardless of their overall score.</p>
+
+    <hr class="section-divider">
+
+    <h2>ViewAgents and The Trusted Agent</h2>
+    <p><strong>ViewAgents</strong> is the underlying data platform. It tracks, aggregates, and benchmarks review data across every estate agent office in the UK. Agents can claim their ViewAgents page to ensure we have the most complete and accurate picture of their review presence.</p>
+    <p><strong>The Trusted Agent</strong> is the awards programme built on that data. It applies additional scoring gates, tier thresholds, and market performance factors to identify the offices that deserve public recognition.</p>
+    <p>Both are operated by <strong>Kerfuffle</strong>, which for the last 8 years has been combining data from suppliers, reviews and dashboards to give an unparalleled view of what the best agents are using and how they're performing.</p>
+
+    <hr class="section-divider">
+
+    <div class="callout callout--teal">
+      <h3>Platform Caveat</h3>
+      <p>Scores are based on data held on the ViewAgents platform, which aggregates information from Google, Trustpilot, Feefo, Facebook and other trusted review sources. No dataset is perfect without taking direct feeds from every platform. To give yourself the best chance, ensure we have all the right information and let us know which other platforms you're on — such as Feefo, Facebook, Trustpilot, Yell etc. The more complete the data, the more accurate the score.</p>
+    </div>
+
+    <div class="footnote">
+      <h3>Data & Methodology Notes</h3>
+      <p>Trusted Agent 2026 scores were calculated using ViewAgents platform data as of April 2026. The dataset covers 22,836 estate agent offices across the UK.</p>
+      <p>Review data is sourced from Google, Trustpilot, Facebook, Feefo, Yell and other publicly accessible review platforms. Market performance data for higher tiers is sourced from tried and tested industry data providers.</p>
+      <p>Scoring methodology, weightings, and gate criteria are proprietary to Kerfuffle and are subject to review and adjustment. Historical scores may differ from current scores as the algorithm evolves.</p>
+      <p>Last updated: April 2026.</p>
+    </div>
+
+  </div>
+
+  <footer class="footer">
+    <p><a href="https://kerfuffle.com" target="_blank">Kerfuffle</a> &middot; <a href="https://www.viewagents.com" target="_blank">ViewAgents</a> &middot; <a href="../">The Trusted Agent 2026</a></p>
+  </footer>
+
+</body>
+</html>
