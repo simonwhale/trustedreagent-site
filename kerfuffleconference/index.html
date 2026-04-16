@@ -1,0 +1,1556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>K Con 2026 — Built On Trust | Kerfuffle Conference</title>
+<meta name="description" content="K Con 2026 — Built On Trust. The UK's premier property technology conference. 7th July 2026, ICC Wales. Speakers, networking, and the future of PropTech.">
+<meta name="theme-color" content="#0a0a16">
+<link rel="preconnect" href="https://api.fontshare.com" crossorigin>
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=clash-display@600,700&display=swap" rel="stylesheet">
+<script async src='https://plausible.io/js/pa-zoSBORrOCWeN66aIKw1zI.js'></script>
+<style>
+/* ── Reset ── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;scroll-behavior:smooth;scroll-padding-top:5rem}
+body{min-height:100dvh;font-family:'Satoshi',sans-serif;font-size:clamp(1rem,.95rem + .25vw,1.125rem);line-height:1.6;color:#ccc;background:#0a0a16;overflow-x:hidden}
+img,svg{display:block;max-width:100%}
+input,button,textarea,select{font:inherit;color:inherit}
+h1,h2,h3,h4{font-family:'Clash Display',sans-serif;line-height:1.15;text-wrap:balance}
+p,li{text-wrap:pretty;max-width:72ch}
+button{cursor:pointer;background:none;border:none}
+a{color:inherit;text-decoration:none}
+::selection{background:rgba(233,30,124,.3);color:#fff}
+:focus-visible{outline:2px solid #00b4b9;outline-offset:3px;border-radius:4px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+/* ── Variables ── */
+:root{
+  --teal:#00b4b9;--pink:#e91e7c;--navy:#0a0a16;
+  --gold:#c9a96e;--gold-light:#e2c992;--cream:#faf8f5;
+  --card-bg:rgba(255,255,255,.04);--card-border:rgba(255,255,255,.08);
+  --ease-out:cubic-bezier(.16,1,.3,1);
+  --transition:180ms cubic-bezier(.16,1,.3,1);
+}
+
+/* ── Background Glow ── */
+.bg-glow{
+  position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 10%,rgba(0,180,185,.07),transparent),
+    radial-gradient(ellipse 50% 60% at 80% 80%,rgba(233,30,124,.05),transparent);
+}
+
+/* ── Sticky Nav ── */
+.site-nav{
+  position:fixed;top:0;left:0;right:0;z-index:100;
+  background:rgba(10,10,22,.85);backdrop-filter:blur(16px) saturate(1.2);
+  border-bottom:1px solid rgba(255,255,255,.06);
+  transition:box-shadow .3s;
+}
+.site-nav.scrolled{box-shadow:0 4px 24px rgba(0,0,0,.4)}
+.nav-inner{
+  display:flex;align-items:center;justify-content:space-between;
+  max-width:1100px;margin:0 auto;padding:.75rem 1.5rem;
+}
+.nav-logo{display:flex;align-items:center;gap:.6rem}
+.nav-logo svg{width:32px;height:32px}
+.nav-logo span{font-family:'Clash Display',sans-serif;font-weight:700;font-size:1.05rem;color:#fff}
+.nav-links{display:flex;align-items:center;gap:1.75rem;list-style:none}
+.nav-links a{font-size:.85rem;font-weight:600;color:rgba(255,255,255,.6);transition:color var(--transition)}
+.nav-links a:hover{color:#fff}
+.nav-cta{
+  font-size:.8rem;font-weight:700;color:#fff;
+  background:var(--pink);padding:.5rem 1.1rem;border-radius:6px;
+  transition:background var(--transition),transform var(--transition);
+  box-shadow:0 2px 12px rgba(233,30,124,.3);
+}
+.nav-cta:hover{background:#d4186f;transform:translateY(-1px)}
+@media(max-width:768px){
+  .nav-links{display:none}
+  .nav-mobile-btn{display:flex;flex-direction:column;gap:4px;cursor:pointer;padding:4px}
+  .nav-mobile-btn span{display:block;width:22px;height:2px;background:#fff;border-radius:2px;transition:transform .2s,opacity .2s}
+}
+@media(min-width:769px){.nav-mobile-btn{display:none}}
+
+/* Mobile menu */
+.mobile-menu{
+  display:none;position:fixed;inset:0;z-index:99;
+  background:rgba(10,10,22,.97);backdrop-filter:blur(20px);
+  flex-direction:column;align-items:center;justify-content:center;gap:2rem;
+}
+.mobile-menu.open{display:flex}
+.mobile-menu a{font-family:'Clash Display',sans-serif;font-size:1.3rem;font-weight:600;color:#fff;transition:color .2s}
+.mobile-menu a:hover{color:var(--pink)}
+.mobile-menu .close-btn{position:absolute;top:1.25rem;right:1.5rem;font-size:1.5rem;color:#fff;cursor:pointer}
+
+/* ── Container ── */
+.container{width:min(1100px,92vw);margin:0 auto;padding:0 1.25rem}
+.container-narrow{width:min(800px,92vw);margin:0 auto;padding:0 1.25rem}
+
+/* ── Hero ── */
+.hero{
+  padding:clamp(7rem,14vw,10rem) 0 clamp(3rem,6vw,5rem);
+  text-align:center;position:relative;
+}
+.hero-badge{
+  display:inline-flex;align-items:center;gap:.6rem;
+  font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  background:rgba(233,30,124,.1);color:var(--pink);
+  padding:.5rem 1.1rem;border-radius:20px;border:1px solid rgba(233,30,124,.2);
+  margin-bottom:1.5rem;flex-wrap:wrap;justify-content:center;
+}
+.hero-badge .eb-label{white-space:nowrap}
+.eb-countdown{display:inline-flex;gap:.4rem;align-items:center}
+.eb-countdown .eb-unit{display:flex;flex-direction:column;align-items:center;line-height:1}
+.eb-countdown .eb-num{
+  font-family:'Clash Display',sans-serif;font-size:clamp(.85rem,1.8vw,1.1rem);
+  font-weight:700;color:#fff;min-width:1.6em;text-align:center;
+}
+.eb-countdown .eb-lbl{font-size:.5rem;color:rgba(255,255,255,.4);letter-spacing:.08em;font-weight:600}
+.eb-countdown .eb-sep{color:rgba(233,30,124,.4);font-size:.9rem;font-weight:700;margin:0 .1rem;align-self:flex-start;line-height:1.3}
+.hero h1{
+  font-size:clamp(2.4rem,6vw,4.2rem);font-weight:700;
+  color:#fff;margin-bottom:.75rem;
+  background:linear-gradient(135deg,#fff 0%,rgba(255,255,255,.8) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.hero h1 em{
+  font-style:normal;
+  background:linear-gradient(135deg,var(--teal),var(--pink));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.hero .subtitle{
+  font-size:clamp(1rem,2vw,1.3rem);color:rgba(255,255,255,.5);
+  margin-bottom:.5rem;font-weight:500;
+}
+.hero .hero-meta{
+  font-size:.9rem;color:rgba(255,255,255,.4);margin:0 auto 2rem;text-align:center;
+}
+.hero .hero-meta strong{color:var(--teal);font-weight:600}
+.hero-actions{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+.btn-hero{
+  display:inline-flex;align-items:center;gap:.5rem;
+  padding:.85rem 2rem;font-weight:700;font-size:.95rem;
+  border-radius:8px;transition:all var(--transition);
+}
+.btn-pink{
+  background:var(--pink);color:#fff;
+  box-shadow:0 4px 20px rgba(233,30,124,.35);
+}
+.btn-pink:hover{background:#d4186f;transform:translateY(-2px);box-shadow:0 8px 30px rgba(233,30,124,.45)}
+.btn-outline{
+  border:1.5px solid rgba(255,255,255,.2);color:#fff;
+  background:rgba(255,255,255,.03);
+}
+.btn-outline:hover{border-color:var(--teal);background:rgba(0,180,185,.06)}
+
+/* ── Section Shared ── */
+.section{padding:clamp(3rem,7vw,5.5rem) 0}
+.section-header{text-align:center;margin-bottom:clamp(2rem,4vw,3rem)}
+.section-header .label{
+  display:inline-block;font-size:.65rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--pink);margin-bottom:.75rem;
+}
+.section-header h2{font-size:clamp(1.6rem,3.5vw,2.4rem);color:#fff;margin-bottom:.5rem}
+.section-header p{font-size:.95rem;color:rgba(255,255,255,.5);max-width:52ch;margin:0 auto}
+.divider{width:60px;height:2px;background:linear-gradient(90deg,var(--teal),var(--pink));margin:0 auto 1rem;border-radius:2px}
+
+/* ── Event Overview ── */
+.overview-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;
+  max-width:900px;margin:0 auto;
+}
+.overview-card{
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:12px;padding:1.5rem;text-align:center;
+  transition:border-color var(--transition),transform var(--transition);
+}
+.overview-card:hover{border-color:rgba(0,180,185,.2);transform:translateY(-2px)}
+.overview-card .icon{
+  width:48px;height:48px;border-radius:10px;margin:0 auto .75rem;
+  display:flex;align-items:center;justify-content:center;
+}
+.overview-card .icon.ic-date{background:rgba(0,180,185,.1)}
+.overview-card .icon.ic-date svg{color:var(--teal)}
+.overview-card .icon.ic-venue{background:rgba(233,30,124,.1)}
+.overview-card .icon.ic-venue svg{color:var(--pink)}
+.overview-card .icon.ic-delegates{background:rgba(201,169,110,.1)}
+.overview-card .icon.ic-delegates svg{color:var(--gold)}
+.overview-card .icon.ic-format{background:rgba(108,92,231,.1)}
+.overview-card .icon.ic-format svg{color:#a78bfa}
+.overview-card h3{font-size:1rem;color:#fff;margin-bottom:.25rem}
+.overview-card p{font-size:.85rem;color:rgba(255,255,255,.5);margin:0 auto}
+
+/* ── Speakers ── */
+.speakers-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1.5rem;
+  max-width:900px;margin:0 auto;
+}
+.speaker-card{text-align:center}
+.speaker-avatar{
+  width:120px;height:120px;border-radius:50%;margin:0 auto .75rem;
+  display:flex;align-items:center;justify-content:center;
+  font-family:'Clash Display',sans-serif;font-weight:700;font-size:1rem;color:#fff;
+  position:relative;overflow:hidden;background-size:cover;background-position:center top;
+  border:2px solid rgba(255,255,255,.08);
+}
+.speaker-avatar.s1{background-color:#007a7d}
+.speaker-avatar.s2{background-color:#b8155f}
+.speaker-avatar.s3{background-color:#a88a50}
+.speaker-avatar.s4{background-color:#6c5ce7}
+.speaker-avatar.s5{background-color:#00b4b9}
+.speaker-avatar.s6{background-color:#e91e7c}
+.speaker-name{font-weight:700;font-size:.85rem;color:#fff;margin-bottom:.15rem}
+.speaker-role{font-size:.72rem;color:rgba(255,255,255,.4);line-height:1.3}
+.speaker-keynote{
+  display:inline-block;font-size:.55rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));color:#0a0a16;
+  padding:.15rem .5rem;border-radius:3px;margin-top:.35rem;
+}
+
+/* ── Ticket Tiers ── */
+.pricing-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;
+  max-width:1000px;margin:0 auto;
+}
+.ticket-card{
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:14px;padding:1.75rem;position:relative;overflow:hidden;
+  display:flex;flex-direction:column;
+  transition:border-color var(--transition),transform var(--transition),box-shadow var(--transition);
+}
+.ticket-card:hover{border-color:rgba(255,255,255,.15);transform:translateY(-3px);box-shadow:0 12px 40px rgba(0,0,0,.3)}
+.ticket-card.featured{
+  border-color:rgba(201,169,110,.3);
+  background:linear-gradient(145deg,rgba(201,169,110,.08),rgba(0,180,185,.04));
+}
+.ticket-card.featured{overflow:hidden}
+.ticket-card.featured::before{
+  content:'MOST POPULAR';position:absolute;top:18px;right:-30px;
+  font-size:.55rem;font-weight:700;letter-spacing:.15em;
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));color:#0a0a16;
+  padding:.3rem 2.5rem;transform:rotate(45deg);z-index:1;
+}
+.ticket-card .tier-label{
+  font-size:.65rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;
+  color:var(--teal);margin-bottom:.5rem;
+}
+.ticket-card.featured .tier-label{color:var(--gold)}
+.ticket-card h3{font-size:clamp(1.1rem,2.5vw,1.35rem);color:#fff;margin-bottom:.75rem}
+.ticket-card .price-row{display:flex;align-items:baseline;gap:.5rem;margin-bottom:.15rem}
+.ticket-card .price{
+  font-family:'Clash Display',sans-serif;font-size:clamp(1.9rem,4vw,2.6rem);
+  font-weight:700;color:var(--teal);
+}
+.ticket-card.featured .price{
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.ticket-card .price-note{font-size:.75rem;color:rgba(255,255,255,.4)}
+.ticket-card .price-standard{font-size:.78rem;color:rgba(255,255,255,.35);margin-bottom:1rem}
+.ticket-card .price-standard s{margin-right:.25rem}
+.ticket-card .features{list-style:none;margin-bottom:1.5rem;flex:1}
+.ticket-card .features li{
+  font-size:.82rem;color:rgba(255,255,255,.6);
+  padding:.35rem 0;display:flex;align-items:flex-start;gap:.5rem;
+}
+.ticket-card .features li::before{
+  content:'✓';color:var(--teal);font-weight:700;font-size:.8rem;flex-shrink:0;margin-top:.05rem;
+}
+.ticket-card.featured .features li::before{color:var(--gold)}
+.btn-ticket{
+  display:block;width:100%;padding:.8rem 1rem;
+  font-weight:700;font-size:.9rem;border:none;border-radius:8px;
+  text-align:center;text-decoration:none;
+  transition:transform var(--transition),box-shadow var(--transition),background var(--transition);
+}
+.btn-ticket:hover{transform:translateY(-1px)}
+.qty-selector{display:flex;align-items:center;justify-content:center;gap:.5rem;margin-bottom:.75rem}
+.qty-selector button{width:32px;height:32px;border-radius:50%;border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#fff;font-size:1.1rem;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.qty-selector button:hover{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.3)}
+.qty-selector .qty-val{font-family:'Clash Display',sans-serif;font-size:1.1rem;font-weight:700;color:#fff;min-width:2rem;text-align:center}
+.qty-total{font-size:.8rem;color:rgba(255,255,255,.5);margin-bottom:.25rem;text-align:center;min-height:1.2em}
+.qty-total strong{color:#fff}
+.qty-saving{font-size:.78rem;font-weight:700;color:#e91e7c;text-align:center;margin-bottom:.75rem;min-height:1.2em;transition:all .2s}
+.qty-saving svg{vertical-align:middle;margin-right:.15rem}
+
+.btn-teal{background:var(--teal);color:#fff;box-shadow:0 4px 16px rgba(0,180,185,.25)}
+.btn-teal:hover{background:#009da1;box-shadow:0 6px 20px rgba(0,180,185,.35)}
+.btn-gold{
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));color:#0a0a16;
+  box-shadow:0 4px 16px rgba(201,169,110,.25);
+}
+.btn-gold:hover{box-shadow:0 6px 20px rgba(201,169,110,.4)}
+.btn-pink-solid{background:var(--pink);color:#fff;box-shadow:0 4px 16px rgba(233,30,124,.25)}
+.btn-pink-solid:hover{background:#d4186f;box-shadow:0 6px 20px rgba(233,30,124,.35)}
+
+/* Table ticket card */
+.table-card{
+  background:linear-gradient(145deg,rgba(233,30,124,.06),rgba(0,180,185,.04));
+  border:1px solid rgba(233,30,124,.15);border-radius:14px;
+  padding:1.75rem;max-width:1000px;margin:2rem auto 0;
+  display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;
+}
+@media(max-width:640px){.table-card{grid-template-columns:1fr}}
+.table-card h3{font-size:clamp(1.1rem,2.5vw,1.5rem);color:#fff;margin-bottom:.5rem}
+.table-card .table-desc{font-size:.85rem;color:rgba(255,255,255,.55);line-height:1.6;margin-bottom:1rem}
+.table-card .table-features{list-style:none}
+.table-card .table-features li{
+  font-size:.82rem;color:rgba(255,255,255,.6);padding:.3rem 0;display:flex;align-items:flex-start;gap:.5rem;
+}
+.table-card .table-features li::before{content:'✓';color:var(--pink);font-weight:700;flex-shrink:0}
+.table-card .table-right{text-align:center}
+.table-card .table-price{
+  font-family:'Clash Display',sans-serif;font-size:clamp(2rem,4.5vw,2.8rem);
+  font-weight:700;color:var(--pink);margin-bottom:.25rem;
+}
+.table-card .table-note{font-size:.78rem;color:rgba(255,255,255,.4);margin-bottom:1rem}
+
+/* ── RAN Members Banner ── */
+.ran-banner{
+  max-width:800px;margin:2.5rem auto 0;
+  background:linear-gradient(135deg,rgba(0,180,185,.08),rgba(0,180,185,.03));
+  border:1px solid rgba(0,180,185,.2);border-radius:14px;
+  padding:clamp(1.5rem,3vw,2rem);text-align:center;
+}
+.ran-banner h3{font-size:clamp(1rem,2.2vw,1.3rem);color:#fff;margin-bottom:.4rem}
+.ran-banner .ran-price{
+  font-family:'Clash Display',sans-serif;font-size:clamp(1.4rem,3vw,1.8rem);
+  font-weight:700;color:var(--teal);margin-bottom:.25rem;
+}
+.ran-banner .ran-note{font-size:.82rem;color:rgba(255,255,255,.5);margin-bottom:1rem;max-width:48ch;margin-left:auto;margin-right:auto}
+.ran-banner .btn-ticket{max-width:300px;margin:0 auto}
+
+/* ── Savings Badge ── */
+.savings-row{
+  display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-top:.35rem;
+}
+.savings-badge{
+  display:inline-flex;align-items:center;gap:.3rem;
+  font-size:.75rem;font-weight:800;letter-spacing:.04em;
+  color:#fff;background:var(--pink);padding:.3rem .7rem;border-radius:6px;
+  animation:pulseSave 2s ease-in-out infinite;
+}
+@keyframes pulseSave{0%,100%{box-shadow:0 0 0 0 rgba(233,30,124,.3)}50%{box-shadow:0 0 0 6px rgba(233,30,124,0)}}
+.savings-badge svg{flex-shrink:0}
+.price-was{
+  font-size:1rem;font-weight:700;color:rgba(255,255,255,.55);
+  text-decoration:line-through;text-decoration-color:rgba(233,30,124,.8);
+  text-decoration-thickness:2.5px;
+}
+.eb-savings-section{}
+.eb-savings-section.eb-expired{display:none}
+
+/* ── Agenda ── */
+.agenda-timeline{max-width:600px;margin:0 auto}
+.agenda-item{
+  display:grid;grid-template-columns:80px 1fr;gap:1rem;
+  padding:1rem 0;border-bottom:1px solid rgba(255,255,255,.06);
+}
+.agenda-item:last-child{border-bottom:none}
+.agenda-item.vip-exclusive{
+  background:linear-gradient(135deg,rgba(233,30,124,.06),rgba(233,30,124,.02));
+  border:1px solid rgba(233,30,124,.15);border-radius:10px;
+  padding:1rem;margin-bottom:.5rem;
+}
+.agenda-item.vip-exclusive .agenda-time{color:var(--pink)}
+.agenda-item.vip-exclusive .vip-tag{
+  display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;
+  background:var(--pink);color:#fff;padding:.15rem .5rem;border-radius:3px;margin-top:.25rem;
+}
+.agenda-time{
+  font-family:'Clash Display',sans-serif;font-weight:700;font-size:.9rem;color:var(--teal);
+}
+.agenda-detail h4{font-size:.95rem;color:#fff;margin-bottom:.15rem}
+.agenda-detail p{font-size:.8rem;color:rgba(255,255,255,.45)}
+
+/* ── Golf Day ── */
+.golf-card{
+  max-width:800px;margin:0 auto;
+  background:linear-gradient(145deg,rgba(201,169,110,.06),rgba(0,180,185,.04));
+  border:1px solid rgba(201,169,110,.2);border-radius:14px;
+  overflow:hidden;
+}
+.golf-card-inner{
+  display:grid;grid-template-columns:1fr 1fr;gap:0;
+}
+@media(max-width:640px){.golf-card-inner{grid-template-columns:1fr}}
+.golf-content{padding:clamp(1.5rem,3vw,2.5rem)}
+.golf-content .golf-badge{
+  display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));color:#0a0a16;
+  padding:.25rem .7rem;border-radius:4px;margin-bottom:1rem;
+}
+.golf-content h3{font-size:clamp(1.2rem,2.5vw,1.6rem);color:#fff;margin-bottom:.5rem}
+.golf-content .golf-meta{font-size:.85rem;color:rgba(255,255,255,.5);margin-bottom:1rem;line-height:1.6}
+.golf-content .golf-meta strong{color:var(--gold-light)}
+.golf-features{list-style:none;margin-bottom:1.25rem}
+.golf-features li{
+  font-size:.82rem;color:rgba(255,255,255,.6);padding:.3rem 0;display:flex;align-items:flex-start;gap:.5rem;
+}
+.golf-features li::before{content:'⛳';flex-shrink:0}
+.golf-visual{
+  background:linear-gradient(135deg,rgba(201,169,110,.15),rgba(0,180,185,.1));
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:2rem;text-align:center;
+}
+.golf-visual .golf-icon{font-size:3rem;margin-bottom:1rem}
+.golf-visual .golf-price{
+  font-family:'Clash Display',sans-serif;font-size:clamp(1.2rem,2.5vw,1.5rem);
+  font-weight:700;color:var(--gold-light);margin-bottom:.25rem;
+}
+.golf-visual .golf-price-note{font-size:.75rem;color:rgba(255,255,255,.4);margin-bottom:1rem}
+
+/* ── Venue ── */
+.venue-card{
+  max-width:800px;margin:0 auto;
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:14px;overflow:hidden;
+}
+.venue-map{
+  width:100%;height:280px;border:none;
+}
+.venue-info{padding:clamp(1.5rem,3vw,2rem)}
+.venue-info h3{font-size:clamp(1.1rem,2.5vw,1.5rem);color:#fff;margin-bottom:.5rem}
+.venue-info .venue-addr{font-size:.88rem;color:rgba(255,255,255,.5);margin-bottom:1rem;line-height:1.5}
+.venue-highlights{display:flex;flex-wrap:wrap;gap:.75rem;margin-bottom:1.25rem}
+.venue-tag{
+  font-size:.72rem;font-weight:600;color:rgba(255,255,255,.7);
+  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
+  padding:.3rem .75rem;border-radius:20px;
+}
+.venue-link{
+  display:inline-flex;align-items:center;gap:.4rem;
+  font-size:.85rem;font-weight:600;color:var(--teal);
+  transition:color var(--transition);
+}
+.venue-link:hover{color:#00d4d9}
+
+/* ── Hotels ── */
+.hotels-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;
+  max-width:800px;margin:1.5rem auto 0;
+}
+.hotel-card{
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:10px;padding:1.25rem;text-align:center;
+  transition:border-color var(--transition);
+}
+.hotel-card:hover{border-color:rgba(0,180,185,.2)}
+.hotel-card h4{font-size:.9rem;color:#fff;margin-bottom:.2rem}
+.hotel-card p{font-size:.75rem;color:rgba(255,255,255,.4)}
+.hotel-card .hotel-distance{font-size:.7rem;color:var(--teal);font-weight:600;margin-top:.35rem}
+
+/* ── FAQ ── */
+.faq-list{max-width:680px;margin:0 auto}
+.faq-item{border-bottom:1px solid rgba(255,255,255,.06)}
+.faq-q{
+  display:flex;justify-content:space-between;align-items:center;gap:1rem;
+  padding:1.1rem 0;cursor:pointer;font-weight:600;font-size:.95rem;color:#fff;
+  transition:color var(--transition);
+}
+.faq-q:hover{color:var(--teal)}
+.faq-q .faq-icon{
+  flex-shrink:0;width:24px;height:24px;border-radius:50%;
+  background:rgba(255,255,255,.06);display:flex;align-items:center;justify-content:center;
+  transition:transform .3s var(--ease-out),background .2s;
+}
+.faq-item.open .faq-q .faq-icon{transform:rotate(45deg);background:rgba(0,180,185,.15)}
+.faq-a{
+  max-height:0;overflow:hidden;transition:max-height .4s var(--ease-out),padding .3s;
+}
+.faq-item.open .faq-a{max-height:300px;padding-bottom:1.1rem}
+.faq-a p{font-size:.85rem;color:rgba(255,255,255,.5);line-height:1.6}
+
+/* ── CTA Banner ── */
+.cta-section{
+  padding:clamp(3rem,6vw,5rem) 0;text-align:center;
+  background:linear-gradient(180deg,transparent,rgba(233,30,124,.04),transparent);
+}
+.cta-section h2{font-size:clamp(1.5rem,3.5vw,2.2rem);color:#fff;margin-bottom:.5rem}
+.cta-section p{font-size:.95rem;color:rgba(255,255,255,.5);margin:0 auto 2rem;max-width:48ch}
+.cta-section .countdown{
+  display:flex;gap:1.25rem;justify-content:center;flex-wrap:wrap;margin-bottom:2rem;
+}
+.cta-section .countdown-item{text-align:center}
+.cta-section .countdown-item .num{
+  font-family:'Clash Display',sans-serif;font-size:clamp(1.8rem,4vw,2.8rem);
+  font-weight:700;color:var(--pink);display:block;line-height:1;
+}
+.cta-section .countdown-item .lbl{
+  font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4);font-weight:600;
+}
+
+/* ── Footer ── */
+.site-footer{
+  padding:2.5rem 0;border-top:1px solid rgba(255,255,255,.06);text-align:center;
+}
+.footer-logo{margin:0 auto .75rem}
+.site-footer .footer-links{display:flex;gap:1.5rem;justify-content:center;flex-wrap:wrap;margin-bottom:1rem}
+.site-footer .footer-links a{color:var(--teal);font-size:.85rem;transition:color var(--transition)}
+.site-footer .footer-links a:hover{color:#00d4d9}
+.site-footer .small-print{font-size:.7rem;color:rgba(255,255,255,.25);max-width:60ch;margin:0 auto}
+
+/* ── Golf Modal ── */
+.modal-overlay{
+  position:fixed;inset:0;z-index:1000;
+  background:rgba(10,10,22,.85);backdrop-filter:blur(8px);
+  display:flex;align-items:center;justify-content:center;
+  opacity:0;visibility:hidden;transition:opacity .3s,visibility .3s;
+}
+.modal-overlay.open{opacity:1;visibility:visible}
+.modal-box{
+  background:#141428;border:1px solid rgba(255,255,255,.1);border-radius:16px;
+  width:min(480px,92vw);max-height:90vh;overflow-y:auto;
+  padding:clamp(1.5rem,3vw,2.5rem);position:relative;
+  transform:translateY(20px);transition:transform .3s var(--ease-out);
+}
+.modal-overlay.open .modal-box{transform:translateY(0)}
+.modal-close{
+  position:absolute;top:1rem;right:1rem;width:32px;height:32px;
+  border-radius:50%;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
+  display:flex;align-items:center;justify-content:center;
+  color:rgba(255,255,255,.5);font-size:1.2rem;cursor:pointer;
+  transition:background .2s,color .2s;
+}
+.modal-close:hover{background:rgba(255,255,255,.12);color:#fff}
+.modal-box h3{
+  font-family:'Clash Display',sans-serif;font-size:clamp(1.1rem,2.5vw,1.4rem);
+  color:#fff;margin-bottom:.25rem;
+}
+.modal-box .modal-subtitle{font-size:.85rem;color:rgba(255,255,255,.5);margin-bottom:1.5rem}
+.modal-box label{
+  display:block;font-size:.78rem;font-weight:600;color:rgba(255,255,255,.6);
+  margin-bottom:.3rem;margin-top:.85rem;
+}
+.modal-box input,.modal-box select,.modal-box textarea{
+  width:100%;padding:.6rem .8rem;background:rgba(255,255,255,.05);
+  border:1px solid rgba(255,255,255,.12);border-radius:8px;
+  color:#fff;font-size:.88rem;transition:border-color .2s;
+}
+.modal-box input:focus,.modal-box select:focus,.modal-box textarea:focus{
+  outline:none;border-color:var(--teal);
+}
+.modal-box textarea{resize:vertical;min-height:60px}
+.modal-box select option{background:#141428;color:#fff}
+.modal-box .btn-submit{
+  width:100%;margin-top:1.25rem;padding:.75rem;border:none;border-radius:10px;
+  font-weight:700;font-size:.9rem;cursor:pointer;transition:opacity .2s;
+}
+.modal-box .btn-submit:hover{opacity:.9}
+.modal-box .btn-submit.btn-gold-bg{
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));color:#0a0a16;
+}
+.modal-box .btn-submit.btn-teal-bg{
+  background:var(--teal);color:#fff;
+}
+.modal-success{
+  text-align:center;padding:2rem 0;
+}
+.modal-success .success-icon{font-size:2.5rem;margin-bottom:.75rem}
+.modal-success h4{font-family:'Clash Display',sans-serif;font-size:1.2rem;color:#fff;margin-bottom:.35rem}
+.modal-success p{font-size:.85rem;color:rgba(255,255,255,.5);max-width:36ch;margin:0 auto}
+
+/* ── Animations ── */
+@keyframes fadeUp{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}
+.fade-up{opacity:0;transform:translateY(30px);transition:opacity .8s var(--ease-out),transform .8s var(--ease-out)}
+.fade-up.visible{opacity:1;transform:translateY(0)}
+</style>
+</head>
+<body>
+
+<div class="bg-glow"></div>
+
+<!-- ── Nav ── -->
+<nav class="site-nav" id="siteNav">
+  <div class="nav-inner">
+    <a href="#top" class="nav-logo">
+      <!-- Kerfuffle Shield Logo -->
+      <svg viewBox="0 0 40 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20 0L40 8v14c0 12-8.5 18.7-20 22C8.5 40.7 0 34 0 22V8L20 0z" fill="#00b4b9"/>
+        <path d="M20 4L36 10.5v12c0 10.2-7 15.8-16 18.5V4z" fill="#e91e7c" opacity=".85"/>
+        <text x="12" y="30" font-family="'Clash Display',sans-serif" font-weight="700" font-size="22" fill="#fff">K</text>
+      </svg>
+      <span>K Con 2026</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#speakers">Speakers</a></li>
+      <li><a href="#tickets">Tickets</a></li>
+      <li><a href="#agenda">Agenda</a></li>
+      <li><a href="#golf">Golf Day &amp; Night</a></li>
+      <li><a href="#venue">Venue</a></li>
+      <li><a href="#tickets" class="nav-cta">Get Tickets</a></li>
+    </ul>
+    <div class="nav-mobile-btn" id="mobileBtn" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+</nav>
+
+<!-- Mobile Menu -->
+<div class="mobile-menu" id="mobileMenu">
+  <div class="close-btn" id="closeMenu">&times;</div>
+  <a href="#about" onclick="closeMobile()">About</a>
+  <a href="#speakers" onclick="closeMobile()">Speakers</a>
+  <a href="#tickets" onclick="closeMobile()">Tickets</a>
+  <a href="#agenda" onclick="closeMobile()">Agenda</a>
+  <a href="#golf" onclick="closeMobile()">Golf Day &amp; Night</a>
+  <a href="#venue" onclick="closeMobile()">Venue</a>
+  <a href="#tickets" class="nav-cta" onclick="closeMobile()" style="margin-top:1rem">Get Tickets</a>
+</div>
+
+<!-- ── Hero ── -->
+<section class="hero" id="top">
+  <div class="container">
+    <div class="hero-badge" id="ebBadge">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+      <span class="eb-label">Early Bird Ends In</span>
+      <span class="eb-countdown" id="ebCountdown">
+        <span class="eb-unit"><span class="eb-num" id="eb-d">--</span><span class="eb-lbl">Days</span></span>
+        <span class="eb-sep">:</span>
+        <span class="eb-unit"><span class="eb-num" id="eb-h">--</span><span class="eb-lbl">Hrs</span></span>
+        <span class="eb-sep">:</span>
+        <span class="eb-unit"><span class="eb-num" id="eb-m">--</span><span class="eb-lbl">Min</span></span>
+        <span class="eb-sep">:</span>
+        <span class="eb-unit"><span class="eb-num" id="eb-s">--</span><span class="eb-lbl">Sec</span></span>
+      </span>
+    </div>
+    <p style="font-family:'Clash Display',sans-serif;font-size:clamp(1.1rem,2.5vw,1.6rem);font-weight:700;color:var(--pink);margin-bottom:.5rem;letter-spacing:.02em">Kerfuffle Conference 2026</p>
+    <h1>Built On <em>Trust</em></h1>
+    <p class="subtitle">The UK's Premier Property Festival Of Fun!</p>
+    <p class="hero-meta"><strong>7th July 2026</strong> &nbsp;·&nbsp; ICC Wales, Newport &nbsp;·&nbsp; 600+ Delegates</p>
+    <div class="hero-actions">
+      <a href="#tickets" class="btn-hero btn-pink">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 100 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 100-4V7a2 2 0 00-2-2H5z"/></svg>
+        Get Tickets
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── About / Overview ── -->
+<section class="section" id="about">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">The Event</span>
+      <h2>One Day. Unlimited Potential.</h2>
+      <p>A full-day conference bringing together estate agents, lettings professionals, and the PropTech innovators shaping the future of the UK property industry.</p>
+    </div>
+    <div class="overview-grid">
+      <div class="overview-card fade-up" onclick="downloadIcal()" style="cursor:pointer;transition:border-color .2s" onmouseover="this.style.borderColor='rgba(0,180,185,.3)'" onmouseout="this.style.borderColor=''">
+        <div class="icon ic-date">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+        </div>
+        <h3>7th July 2026</h3>
+        <p>Full day conference with evening networking</p>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.4rem">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+          Add to calendar
+        </span>
+      </div>
+      <div class="overview-card fade-up">
+        <div class="icon ic-venue">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        </div>
+        <h3>ICC Wales</h3>
+        <p>World-class venue in Newport, South Wales</p>
+      </div>
+      <div class="overview-card fade-up">
+        <div class="icon ic-delegates">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg>
+        </div>
+        <h3>600+ Delegates</h3>
+        <p>Agents, suppliers, and industry leaders</p>
+      </div>
+      <div class="overview-card fade-up">
+        <div class="icon ic-format">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        </div>
+        <h3>Keynotes &amp; Panels</h3>
+        <p>Thought leaders sharing real insights, not sales pitches</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Speakers ── -->
+<section class="section" id="speakers" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.01),transparent)">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">Speakers</span>
+      <h2>Learn From The Best</h2>
+      <p>Industry leaders sharing real-world insights on technology, growth, and the future of property.</p>
+    </div>
+    <div class="speakers-grid fade-up">
+      <div class="speaker-card">
+        <div class="speaker-avatar s3" style="background-image:url('https://v.fastcdn.co/u/51d6fea2/65812483-0-Rectangle-52.png')"></div>
+        <div class="speaker-name">Kevin Gaskell</div>
+        <div class="speaker-role">&ldquo;The Business Fixer&rdquo;</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s1" style="background-image:url('https://v.fastcdn.co/u/51d6fea2/65812481-0-Rectangle-50.png');background-position:center center"></div>
+        <div class="speaker-name">Josh Phegan</div>
+        <div class="speaker-role">World's Leading Property Coach</div>
+        <div class="speaker-keynote">Only UK Appearance</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s2" style="background-image:url('https://v.fastcdn.co/u/51d6fea2/65819052-0-Screenshot-2026-01-2.png')"></div>
+        <div class="speaker-name">Alastair Campbell</div>
+        <div class="speaker-role">Political Strategist &amp; Communicator</div>
+        <div class="speaker-keynote">Keynote</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s6" style="background-image:url('https://daraobriain.com/wp-content/uploads/2019/05/dara-o-briain-2-1.jpg');background-position:center 20%"></div>
+        <div class="speaker-name">Dara &Oacute; Briain</div>
+        <div class="speaker-role">Evening Host &amp; Entertainment</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s4" style="background-image:url('https://v.fastcdn.co/t/51d6fea2/61efff41/1776074207-65813754-376x286x376x372x0x14-Robert-Guest---Annua.jpg')"></div>
+        <div class="speaker-name">Robert Guest</div>
+        <div class="speaker-role">Deputy Editor, The Economist</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s5" style="background-image:url('https://v.fastcdn.co/t/51d6fea2/61efff41/1776074243-65878676-380x307x465x307x43x0-Screenshot-2026-03-1.png')"></div>
+        <div class="speaker-name">Gemma Warne</div>
+        <div class="speaker-role">Co-Founder, Agent Marketer</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s2" style="background-image:url('https://v.fastcdn.co/u/51d6fea2/65820650-0-verona-frankish-875.webp')"></div>
+        <div class="speaker-name">Verona Frankish</div>
+        <div class="speaker-role">CEO, Yopa Property</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s1" style="background-image:url('https://propertyindustryeye.com/wp-content/uploads/2025/02/Adam-Day.jpg');background-position:center 15%"></div>
+        <div class="speaker-name">Adam Day</div>
+        <div class="speaker-role">Expansion Leader, eXp Realty</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s3" style="background-image:url('https://v.fastcdn.co/t/51d6fea2/61efff41/1776074223-65830941-380x283x566x318x20x35-Screenshot-2026-01-3.png');background-position:center center"></div>
+        <div class="speaker-name">Simon Gates</div>
+        <div class="speaker-role">Opening the Gates Consultancy</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s4" style="background-image:url('https://v.fastcdn.co/t/51d6fea2/61efff41/1776074219-65830929-380x287x391x347x0x45-Screenshot-2026-01-3.png');background-position:center center"></div>
+        <div class="speaker-name">Claire Yates</div>
+        <div class="speaker-role">Conversion Specialist</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s6" style="background-image:url('https://v.fastcdn.co/t/51d6fea2/61efff41/1776074208-65890696-380x304x380x361x0x0-Screenshot-2026-03-2.png')"></div>
+        <div class="speaker-name">Toby Martin</div>
+        <div class="speaker-role">Property Consultant</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s1" style="background-image:url('https://proptech-x.com/wp-content/uploads/2025/01/thumbnail_Gareth-Samples.png');background-position:center 15%"></div>
+        <div class="speaker-name">Gareth Samples</div>
+        <div class="speaker-role">CEO, The Property Franchise Group</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s2" style="background-image:url('https://propertyindustryeye.com/wp-content/uploads/2023/04/Paul-Hardy.jpg')"></div>
+        <div class="speaker-name">Paul Hardy</div>
+        <div class="speaker-role">MD, LSL Estate Agency Franchising</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s4" style="background-image:url('https://propertyindustryeye.com/wp-content/uploads/2021/06/Peter-Rollings.jpg')"></div>
+        <div class="speaker-name">Peter Rollings</div>
+        <div class="speaker-role">NED, Foxtons Group</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s5" style="background-image:url('https://propertyindustryeye.com/wp-content/uploads/2021/01/Steph-Walker-headshot-The-Agency-UK.jpg')"></div>
+        <div class="speaker-name">Steph Walker</div>
+        <div class="speaker-role">Co-Founder, The Agency UK</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s3" style="background-image:url('https://yt3.googleusercontent.com/RRKwf9GSIjjpSfBIXy4cylfZq_O1gbEr15hxz9Y-RLXbB_Vf4fiiky7kNnNopkkWxHxKxW4YlA=s900-c-k-c0x00ffffff-no-rj');background-position:center center"></div>
+        <div class="speaker-name">Christopher Watkin</div>
+        <div class="speaker-role">Founder, Property Stato</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s1" style="background-image:url('https://propertyindustryeye.com/wp-content/uploads/2022/04/Russell-Quirk.jpeg');background-position:center 20%"></div>
+        <div class="speaker-name">Russell Quirk</div>
+        <div class="speaker-role">Co-Founder, ProperPR</div>
+      </div>
+      <div class="speaker-card">
+        <div class="speaker-avatar s6" style="background-image:url('https://27b67461b6f5b0ef0f7f-4ed8056a596c81d3dd354ce52d883b92.ssl.cf3.rackcdn.com/x.dev/450cm450/images/team/Simon.jpg')"></div>
+        <div class="speaker-name">Simon Whale</div>
+        <div class="speaker-role">Shameless Show Off</div>
+      </div>
+    </div>
+    <p style="text-align:center;font-size:.8rem;color:rgba(255,255,255,.35);margin-top:1.5rem" class="fade-up">+ More speakers announced soon</p>
+  </div>
+</section>
+
+<!-- ── Tickets ── -->
+<section class="section" id="tickets">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">Tickets</span>
+      <h2>Choose Your Experience</h2>
+      <p>All prices exclude VAT. Early bird pricing available for a limited time.</p>
+    </div>
+
+    <div class="pricing-grid fade-up">
+      <!-- Day Pass -->
+      <div class="ticket-card">
+        <span class="tier-label">Day Pass</span>
+        <h3>Conference Day</h3>
+        <div class="price-row">
+          <span class="price">£199</span>
+          <span class="price-note">+VAT · Early Bird</span>
+        </div>
+        <div class="eb-savings-section">
+          <div class="savings-row">
+            <span class="price-was">£250</span>
+            <span class="savings-badge"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>SAVE £51</span>
+          </div>
+        </div>
+        <ul class="features">
+          <li>Full day conference access</li>
+          <li>All keynotes &amp; panels</li>
+          <li>Exhibition hall access</li>
+          <li>Networking breaks &amp; lunch</li>
+          <li>Conference materials</li>
+        </ul>
+        <div class="qty-selector">
+          <button onclick="changeQty('day',-1)">−</button>
+          <span class="qty-val" id="qtyDay">1</span>
+          <button onclick="changeQty('day',1)">+</button>
+        </div>
+        <div class="qty-total" id="totalDay"></div>
+        <div class="qty-saving" id="savingDay"></div>
+        <a href="https://buy.stripe.com/8x29AS3Kn1Jya1O8568AE0o" onclick="return bookTicket('day',this);" class="btn-ticket btn-teal" id="linkDay">Book Day Pass</a>
+      </div>
+
+      <!-- Day + Evening (Featured) -->
+      <div class="ticket-card featured">
+        <span class="tier-label">Day + Evening</span>
+        <h3>Conference &amp; Evening Gala</h3>
+        <div class="price-row">
+          <span class="price">£299</span>
+          <span class="price-note">+VAT · Early Bird</span>
+        </div>
+        <div class="eb-savings-section">
+          <div class="savings-row">
+            <span class="price-was">£350</span>
+            <span class="savings-badge"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>SAVE £51</span>
+          </div>
+        </div>
+        <ul class="features">
+          <li>Everything in Day Pass</li>
+          <li>Evening gala dinner</li>
+          <li>Awards ceremony</li>
+          <li>After-party &amp; entertainment</li>
+          <li>Extended networking</li>
+        </ul>
+        <div class="qty-selector">
+          <button onclick="changeQty('dayeve',-1)">−</button>
+          <span class="qty-val" id="qtyDayeve">1</span>
+          <button onclick="changeQty('dayeve',1)">+</button>
+        </div>
+        <div class="qty-total" id="totalDayeve"></div>
+        <div class="qty-saving" id="savingDayeve"></div>
+        <a href="https://buy.stripe.com/dRm4gy5Sv4VK6PCade8AE0q" onclick="return bookTicket('dayeve',this);" class="btn-ticket btn-gold" id="linkDayeve">Book Day + Evening</a>
+      </div>
+
+      <!-- VIP -->
+      <div class="ticket-card">
+        <span class="tier-label">Gold — VIP Level</span>
+        <h3>The Full VIP Experience</h3>
+        <div class="price-row">
+          <span class="price">£450</span>
+          <span class="price-note">+VAT · Early Bird</span>
+        </div>
+        <div class="eb-savings-section">
+          <div class="savings-row">
+            <span class="price-was">£550</span>
+            <span class="savings-badge"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>SAVE £100</span>
+          </div>
+        </div>
+        <ul class="features">
+          <li>Everything in Day + Evening</li>
+          <li>Priority front-row seating</li>
+          <li>Exclusive VIP networking lunch</li>
+          <li>Exclusive VIP coaching with Josh Phegan</li>
+          <li>VIP gift bag</li>
+        </ul>
+        <div class="qty-selector">
+          <button onclick="changeQty('vip',-1)">−</button>
+          <span class="qty-val" id="qtyVip">1</span>
+          <button onclick="changeQty('vip',1)">+</button>
+        </div>
+        <div class="qty-total" id="totalVip"></div>
+        <div class="qty-saving" id="savingVip"></div>
+        <a href="https://buy.stripe.com/3cIaEWgx9bk87TG1GI8AE0s" onclick="return bookTicket('vip',this);" class="btn-ticket btn-pink-solid" id="linkVip">Book VIP</a>
+      </div>
+    </div>
+
+    <!-- Table of 10 -->
+    <div class="table-card fade-up">
+      <div>
+        <h3>Table of 10</h3>
+        <p class="table-desc">The ultimate team experience. A premium reserved table for 10 guests at the evening gala — perfect for agencies wanting to reward their team.</p>
+        <ul class="table-features">
+          <li>10 x VIP tickets</li>
+          <li>Premium reserved table at gala</li>
+          <li>Exclusive VIP coaching with Josh Phegan</li>
+          <li>Priority seating at conference</li>
+          <li>Dedicated event concierge</li>
+        </ul>
+      </div>
+      <div class="table-right">
+        <div class="table-price">£2,000 <span style="font-size:.55em;font-weight:400;opacity:.5">+VAT</span></div>
+        <div class="eb-savings-section" style="margin-bottom:.75rem">
+          <div class="savings-row" style="justify-content:center">
+            <span class="price-was">10 x VIP = £5,500</span>
+            <span class="savings-badge" style="font-size:.85rem;padding:.35rem .85rem"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>SAVE £3,500</span>
+          </div>
+        </div>
+        <div class="qty-selector">
+          <button onclick="changeQty('table',-1)">−</button>
+          <span class="qty-val" id="qtyTable">1</span>
+          <button onclick="changeQty('table',1)">+</button>
+        </div>
+        <div class="qty-total" id="totalTable"></div>
+        <div class="qty-saving" id="savingTable"></div>
+        <a href="https://buy.stripe.com/28EdR8ep1gEsgqc4SU8AE0u" onclick="return bookTicket('table',this);" class="btn-ticket btn-pink-solid" style="max-width:260px;margin:0 auto" id="linkTable">Book Table</a>
+      </div>
+    </div>
+
+
+  </div>
+</section>
+
+<!-- ── Agenda ── -->
+<section class="section" id="agenda" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.01),transparent)">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">Agenda</span>
+      <h2>Your Day at K Con</h2>
+      <p>A packed programme of talks, panels, and networking.</p>
+    </div>
+    <div class="agenda-timeline fade-up">
+      <div class="agenda-item vip-exclusive">
+        <div class="agenda-time">08:30</div>
+        <div class="agenda-detail">
+          <h4>Exclusive VIP Coaching Session with Josh Phegan</h4>
+          <p>An intimate, high-impact session with the world's leading property coach — VIP ticket holders only</p>
+          <span class="vip-tag">VIP Exclusive • 08:30 – 09:15</span>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">09:15</div>
+        <div class="agenda-detail">
+          <h4>Registration &amp; Coffee</h4>
+          <p>Check in, grab a coffee, and start networking</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">09:45</div>
+        <div class="agenda-detail">
+          <h4>Welcome &amp; Opening</h4>
+          <p>Simon Whale opens K Con 2026</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">10:00</div>
+        <div class="agenda-detail">
+          <h4>Keynote: Kevin Gaskell</h4>
+          <p>&ldquo;The Business Fixer&rdquo; — leadership, resilience, and building world-class teams</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">11:00</div>
+        <div class="agenda-detail">
+          <h4><s style="opacity:.5">Dragons</s> Whale's Den</h4>
+          <p>You know the format, but the rules have changed!</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">12:30</div>
+        <div class="agenda-detail">
+          <h4>Networking Lunch</h4>
+          <p>Connect with fellow delegates and exhibitors</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">14:00</div>
+        <div class="agenda-detail">
+          <h4>Afternoon Sessions</h4>
+          <p>AI in property, growth strategies, and industry deep-dives</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">16:00</div>
+        <div class="agenda-detail">
+          <h4>Alastair Campbell</h4>
+          <p>Political strategy, communication, and winning under pressure</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">17:00</div>
+        <div class="agenda-detail">
+          <h4>Conference Close</h4>
+          <p>Key takeaways and wrap-up</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">18:00</div>
+        <div class="agenda-detail">
+          <h4>Drinks Reception</h4>
+          <p>Champagne reception ahead of the gala dinner</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">19:00</div>
+        <div class="agenda-detail">
+          <h4>Gala Dinner &amp; Awards</h4>
+          <p>Three-course dinner, awards ceremony, and entertainment hosted by Dara &Oacute; Briain</p>
+        </div>
+      </div>
+      <div class="agenda-item">
+        <div class="agenda-time">22:00</div>
+        <div class="agenda-detail">
+          <h4>After-Party</h4>
+          <p>The night continues — DJ, drinks, and dancing</p>
+        </div>
+      </div>
+      <p style="text-align:center;font-size:.75rem;color:rgba(255,255,255,.35);margin-top:1.5rem;font-style:italic">Provisional schedule, may change</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── Golf Day ── -->
+<section class="section" id="golf">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">6th July 2026</span>
+      <h2>Pre-Conference Golf Day &amp; Night</h2>
+      <p>The perfect warm-up. Join us the day before K Con for a day on the greens at the legendary Celtic Manor Resort.</p>
+    </div>
+    <div class="golf-card fade-up">
+      <div class="golf-card-inner">
+        <div class="golf-content">
+          <span class="golf-badge">The Day Before</span>
+          <h3>Celtic Manor Golf Day &amp; Night</h3>
+          <p class="golf-meta">
+            <strong>Monday 6th July 2026</strong><br>
+            Celtic Manor Resort, Newport NP18 1HQ<br>
+            Home of the 2010 Ryder Cup
+          </p>
+          <ul class="golf-features">
+            <li>Exclusive course access</li>
+            <li>BBQ dinner &amp; networking</li>
+            <li>Relaxed pre-conference warm-up</li>
+            <li>Prizes for longest drive &amp; nearest the pin</li>
+          </ul>
+          <p style="font-size:.78rem;color:rgba(255,255,255,.4);line-height:1.5">Can't play but still want to join? Dinner-only tickets available.</p>
+        </div>
+        <div class="golf-visual" style="gap:1.5rem">
+          <!-- Golf Day option -->
+          <div style="text-align:center">
+            <div class="golf-icon">🏌️</div>
+            <div style="font-family:'Clash Display',sans-serif;font-size:.95rem;font-weight:700;color:#fff;margin-bottom:.15rem">Golf Day & Night Package</div>
+            <div style="font-size:.75rem;color:rgba(255,255,255,.4);margin-bottom:.75rem">18 holes + BBQ dinner</div>
+            <button onclick="openGolfModal('golf_day')" class="btn-ticket btn-gold" style="text-align:center;max-width:200px;margin:0 auto">Enquire Now</button>
+          </div>
+          <!-- Divider -->
+          <div style="width:100%;height:1px;background:rgba(255,255,255,.08);margin:.25rem 0"></div>
+          <!-- Dinner Only option -->
+          <div style="text-align:center">
+            <div style="position:relative;display:inline-block;margin-bottom:.5rem">
+              <span style="font-size:2.5rem;opacity:.35;filter:grayscale(1)">🏌️</span>
+              <span style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:2.8rem;color:#e91e7c;font-weight:700;line-height:1">×</span>
+            </div>
+            <div style="font-size:1.5rem;margin-bottom:.35rem">🍾🥂</div>
+            <div style="font-family:'Clash Display',sans-serif;font-size:.85rem;font-weight:700;color:var(--pink);margin-bottom:.15rem">Hate golf but love a glass or two?</div>
+            <div style="font-size:.75rem;color:rgba(255,255,255,.4);margin-bottom:.75rem">Dinner only — £99 ex VAT</div>
+            <button onclick="openGolfModal('dinner_only')" class="btn-ticket btn-teal" style="text-align:center;max-width:200px;margin:0 auto">Enquire Now</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Venue ── -->
+<section class="section" id="venue" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.01),transparent)">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">Location</span>
+      <h2>ICC Wales</h2>
+      <p>A world-class convention centre in the heart of Newport, South Wales.</p>
+    </div>
+    <div class="venue-card fade-up">
+      <iframe class="venue-map" src="https://www.google.com/maps?q=ICC+Wales,+Coldra+Woods,+Newport+NP18+1HQ&z=15&output=embed" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <div class="venue-info">
+        <h3>International Convention Centre Wales</h3>
+        <p class="venue-addr">Coldra Woods, The Coldra, Newport NP18 1HQ<br>Just off the M4, easily accessible from across the UK</p>
+        <div class="venue-highlights">
+          <span class="venue-tag">Free Parking</span>
+          <span class="venue-tag">Adjacent Hotels</span>
+          <span class="venue-tag">M4 Access</span>
+          <span class="venue-tag">Cardiff 20 mins</span>
+          <span class="venue-tag">Bristol 30 mins</span>
+          <span class="venue-tag">London 2hrs by rail</span>
+        </div>
+        <a href="https://www.iccwales.com" target="_blank" class="venue-link">
+          Visit ICC Wales website
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Nearby Hotels -->
+    <div class="hotels-grid fade-up">
+      <a href="https://www.celtic-manor.com" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>Celtic Manor Resort</h4>
+        <p>5-star luxury on the doorstep</p>
+        <div class="hotel-distance">Golf Day &amp; Night Venue</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+      <a href="https://www.ihg.com/holidayinn/hotels/gb/en/newport/nptuk/hoteldetail" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>Holiday Inn Newport</h4>
+        <p>Woodland setting, just off J24 M4</p>
+        <div class="hotel-distance">5 min drive</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+
+      <a href="https://www.celtic-manor.com/home/the-manor-house/" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>The Manor House</h4>
+        <p>19th-century charm, Celtic Manor Resort</p>
+        <div class="hotel-distance">On resort grounds</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+      <a href="https://www.premierinn.com/gb/en/hotels/wales/gwent/newport/newport-wales-m4-j24.html" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>Premier Inn Newport</h4>
+        <p>Great value, right off J24 M4</p>
+        <div class="hotel-distance">5 min drive</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+
+      <a href="https://www.coldra-court.com/" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>Coldra Court Hotel</h4>
+        <p>Contemporary hotel, 5 mins from ICC Wales</p>
+        <div class="hotel-distance">5 min drive</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+      <a href="https://www.thepriorycaerleon.co.uk/" target="_blank" class="hotel-card" style="text-decoration:none;display:block">
+        <h4>The Priory Caerleon</h4>
+        <p>(No NOT that one, although you might need it)</p>
+        <div class="hotel-distance">10 min drive</div>
+        <span style="display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;font-weight:600;color:var(--teal);margin-top:.5rem">Book Now <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── FAQ ── -->
+<section class="section" id="faq">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="divider"></div>
+      <span class="label">FAQ</span>
+      <h2>Common Questions</h2>
+    </div>
+    <div class="faq-list fade-up">
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          What's included in each ticket tier?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>Day Pass includes full conference access, all keynotes and panels, exhibition hall, networking breaks, and lunch. Day + Evening adds the gala dinner, awards ceremony, and after-party. VIP (Gold) includes everything plus priority seating, exclusive VIP coaching with Josh Phegan, and a VIP gift bag.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          Are prices inclusive of VAT?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>All ticket prices shown are exclusive of VAT. VAT at 20% will be added at checkout. A VAT invoice will be issued automatically after purchase.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          Do RAN members get a special rate?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>Yes. RAN members receive one complimentary VIP ticket per member brand. Additional colleague tickets are available at exclusive discounted rates. Check your email for your personal RSVP link.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          When does early bird pricing end?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>Early bird pricing is available for a limited time only. We'll announce the deadline via email — book early to secure the best price.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          Is there parking at ICC Wales?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>Yes, ICC Wales has free on-site parking for all delegates. The venue is located just off the M4, making it easily accessible from across England and Wales.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          Can I attend just the golf day &amp; night?
+          <span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span>
+        </div>
+        <div class="faq-a"><p>The golf day &amp; night on 6th July is a separate event at Celtic Manor Resort. Dinner-only tickets are available at £99 ex VAT for those who want to join the networking without playing. Contact us for full golf day &amp; night packages.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ── -->
+<section class="cta-section" id="cta">
+  <div class="container fade-up">
+    <h2>Secure Your Spot</h2>
+    <p>Early bird tickets are limited. Don't miss the UK's biggest property technology event of 2026.</p>
+    <div class="countdown" id="countdown">
+      <div class="countdown-item"><span class="num" id="cd-days">--</span><span class="lbl">Days</span></div>
+      <div class="countdown-item"><span class="num" id="cd-hours">--</span><span class="lbl">Hours</span></div>
+      <div class="countdown-item"><span class="num" id="cd-mins">--</span><span class="lbl">Minutes</span></div>
+      <div class="countdown-item"><span class="num" id="cd-secs">--</span><span class="lbl">Seconds</span></div>
+    </div>
+    <a href="#tickets" class="btn-hero btn-pink" style="display:inline-flex">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 100 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 100-4V7a2 2 0 00-2-2H5z"/></svg>
+      Get Your Tickets Now
+    </a>
+  </div>
+</section>
+
+<!-- ── Golf Enquiry Modal ── -->
+<div class="modal-overlay" id="golfModal">
+  <div class="modal-box">
+    <div class="modal-close" onclick="closeGolfModal()">&times;</div>
+    <div id="golfFormContent">
+      <h3 id="golfModalTitle">Enquire — Golf Day &amp; Night</h3>
+      <p class="modal-subtitle" id="golfModalSub">Monday 6th July · Celtic Manor Resort</p>
+      <form id="golfForm" onsubmit="submitGolfEnquiry(event)">
+        <input type="hidden" id="golfPackageType" value="golf_day">
+        <label for="golfName">Full Name *</label>
+        <input type="text" id="golfName" required placeholder="Your full name">
+        <label for="golfEmail">Email *</label>
+        <input type="email" id="golfEmail" required placeholder="you@company.com">
+        <label for="golfPhone">Mobile *</label>
+        <input type="tel" id="golfPhone" required placeholder="07xxx xxxxxx">
+        <label for="golfCompany">Company / Agency *</label>
+        <input type="text" id="golfCompany" required placeholder="Your company or agency">
+        <label for="golfGuests">How many tickets? *</label>
+        <select id="golfGuests" required>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+        </select>
+        <button type="submit" class="btn-submit btn-gold-bg" id="golfSubmitBtn">Send Enquiry</button>
+      </form>
+    </div>
+    <div id="golfSuccess" class="modal-success" style="display:none">
+      <div class="success-icon">⛳</div>
+      <h4>Enquiry Received</h4>
+      <p>We’ll be in touch shortly with full details and pricing.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ── Save The Date Banner ── -->
+<div onclick="downloadIcal()" style="cursor:pointer;padding:1.25rem 1rem;text-align:center;background:linear-gradient(135deg,var(--pink),#c4166a);transition:filter .2s" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter=''">
+  <span style="display:inline-flex;align-items:center;gap:.6rem;flex-wrap:wrap;justify-content:center">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    <span style="font-family:'Clash Display',sans-serif;font-size:clamp(.95rem,2vw,1.2rem);font-weight:700;color:#fff;letter-spacing:.04em">SAVE THE DATE!</span>
+    <span style="font-size:.85rem;color:rgba(255,255,255,.85)">7th July 2026 · ICC Wales</span>
+    <span style="font-size:.75rem;font-weight:700;color:#fff;text-decoration:underline;text-underline-offset:3px">CLICK HERE</span>
+  </span>
+</div>
+
+<!-- ── Footer ── -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-logo">
+      <svg width="36" height="40" viewBox="0 0 40 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20 0L40 8v14c0 12-8.5 18.7-20 22C8.5 40.7 0 34 0 22V8L20 0z" fill="#00b4b9"/>
+        <path d="M20 4L36 10.5v12c0 10.2-7 15.8-16 18.5V4z" fill="#e91e7c" opacity=".85"/>
+        <text x="12" y="30" font-family="'Clash Display',sans-serif" font-weight="700" font-size="22" fill="#fff">K</text>
+      </svg>
+    </div>
+    <div class="footer-links">
+      <a href="https://kerfuffle.com" target="_blank">Kerfuffle</a>
+      <a href="https://www.relocationagentnetwork.com" target="_blank">Relocation Agent Network</a>
+      <a href="mailto:kerfuffle@kerfuffle.com">Contact Us</a>
+    </div>
+    <p class="small-print">K Con 2026 is organised by Kerfuffle Limited (03503291). Registered address: 15 Napier Street, Fenny Stratford, Milton Keynes, MK2 2NF. All prices exclude VAT unless otherwise stated.</p>
+  </div>
+</footer>
+
+<script>
+// ── Sticky nav shadow ──
+const nav = document.getElementById('siteNav');
+window.addEventListener('scroll', () => {
+  nav.classList.toggle('scrolled', window.scrollY > 40);
+}, {passive: true});
+
+// ── Mobile menu ──
+const mobileBtn = document.getElementById('mobileBtn');
+const mobileMenu = document.getElementById('mobileMenu');
+const closeMenuBtn = document.getElementById('closeMenu');
+mobileBtn.addEventListener('click', () => mobileMenu.classList.add('open'));
+closeMenuBtn.addEventListener('click', () => mobileMenu.classList.remove('open'));
+function closeMobile() { mobileMenu.classList.remove('open'); }
+
+// ── FAQ toggle ──
+function toggleFaq(el) {
+  const item = el.parentElement;
+  item.classList.toggle('open');
+}
+
+// ── Countdown to 7th July 2026 ──
+// ── Early Bird countdown (midnight 30 April BST) ──
+function updateEbCountdown() {
+  const ebTarget = new Date('2026-04-30T23:59:59+01:00');
+  const now = new Date();
+  const diff = ebTarget - now;
+  if (diff <= 0) {
+    document.getElementById('ebBadge').innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> Early Bird Pricing Has Ended';
+    // Hide all savings badges after EB expires
+    document.querySelectorAll('.eb-savings-section').forEach(el => el.classList.add('eb-expired'));
+    return;
+  }
+  const d = Math.floor(diff / 86400000);
+  const h = Math.floor((diff % 86400000) / 3600000);
+  const m = Math.floor((diff % 3600000) / 60000);
+  const s = Math.floor((diff % 60000) / 1000);
+  document.getElementById('eb-d').textContent = d;
+  document.getElementById('eb-h').textContent = String(h).padStart(2,'0');
+  document.getElementById('eb-m').textContent = String(m).padStart(2,'0');
+  document.getElementById('eb-s').textContent = String(s).padStart(2,'0');
+}
+updateEbCountdown();
+setInterval(updateEbCountdown, 1000);
+
+// ── Conference countdown (7 July) ──
+function updateCountdown() {
+  const target = new Date('2026-07-07T08:30:00+01:00');
+  const now = new Date();
+  const diff = target - now;
+  if (diff <= 0) {
+    document.getElementById('cd-days').textContent = '0';
+    document.getElementById('cd-hours').textContent = '0';
+    document.getElementById('cd-mins').textContent = '0';
+    document.getElementById('cd-secs').textContent = '0';
+    return;
+  }
+  const d = Math.floor(diff / 86400000);
+  const h = Math.floor((diff % 86400000) / 3600000);
+  const m = Math.floor((diff % 3600000) / 60000);
+  const s = Math.floor((diff % 60000) / 1000);
+  document.getElementById('cd-days').textContent = d;
+  document.getElementById('cd-hours').textContent = h;
+  document.getElementById('cd-mins').textContent = m;
+  document.getElementById('cd-secs').textContent = s;
+}
+updateCountdown();
+setInterval(updateCountdown, 1000);
+
+// ── Golf Enquiry Modal ──
+// Smart pre-fill: remember user details across forms
+function saveUserDetails(name, email, phone) {
+  try { localStorage.setItem('kcon_user', JSON.stringify({name, email, phone})); } catch(e) {}
+}
+function loadUserDetails() {
+  try { return JSON.parse(localStorage.getItem('kcon_user') || '{}'); } catch(e) { return {}; }
+}
+
+function openGolfModal(packageType) {
+  const modal = document.getElementById('golfModal');
+  document.getElementById('golfPackageType').value = packageType;
+  document.getElementById('golfFormContent').style.display = '';
+  document.getElementById('golfSuccess').style.display = 'none';
+  document.getElementById('golfForm').reset();
+
+  // Pre-fill from previous submissions
+  const saved = loadUserDetails();
+  if (saved.name) document.getElementById('golfName').value = saved.name;
+  if (saved.email) document.getElementById('golfEmail').value = saved.email;
+  if (saved.phone) document.getElementById('golfPhone').value = saved.phone;
+
+  if (packageType === 'dinner_only') {
+    document.getElementById('golfModalTitle').textContent = 'Enquire \u2014 Dinner Only';
+    document.getElementById('golfModalSub').textContent = 'Monday 6th July \u00b7 Celtic Manor Resort \u00b7 \u00a399 ex VAT';
+    document.getElementById('golfSubmitBtn').className = 'btn-submit btn-teal-bg';
+  } else {
+    document.getElementById('golfModalTitle').textContent = 'Enquire \u2014 Golf Day & Night Package';
+    document.getElementById('golfModalSub').textContent = 'Monday 6th July \u00b7 Celtic Manor Resort \u00b7 Home of the 2010 Ryder Cup';
+    document.getElementById('golfSubmitBtn').className = 'btn-submit btn-gold-bg';
+  }
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeGolfModal() {
+  document.getElementById('golfModal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+document.getElementById('golfModal').addEventListener('click', function(e) {
+  if (e.target === this) closeGolfModal();
+});
+async function submitGolfEnquiry(e) {
+  e.preventDefault();
+  const btn = document.getElementById('golfSubmitBtn');
+  btn.textContent = 'Sending...';
+  btn.disabled = true;
+  const fullName = document.getElementById('golfName').value;
+  const email = document.getElementById('golfEmail').value;
+  const phone = document.getElementById('golfPhone').value;
+  const company = document.getElementById('golfCompany').value;
+  // Save for pre-fill next time
+  saveUserDetails(fullName, email, phone);
+  const payload = {
+    fullName, email, phone, company,
+    packageType: document.getElementById('golfPackageType').value,
+    guests: document.getElementById('golfGuests').value
+  };
+  try {
+    const resp = await fetch('https://www.relocationagentnetwork.com/api/golf/enquire', {
+      method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(payload)
+    });
+    if (!resp.ok) throw new Error('Server error');
+    document.getElementById('golfFormContent').style.display = 'none';
+    document.getElementById('golfSuccess').style.display = '';
+  } catch (err) {
+    // Fallback: store locally in case API unreachable
+    const existing = JSON.parse(localStorage.getItem('kcon_golf_enquiries') || '[]');
+    existing.push({...payload, timestamp: new Date().toISOString()});
+    localStorage.setItem('kcon_golf_enquiries', JSON.stringify(existing));
+    document.getElementById('golfFormContent').style.display = 'none';
+    document.getElementById('golfSuccess').style.display = '';
+  }
+}
+
+// ── iCal Download ──
+function downloadIcal() {
+  const ical = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Kerfuffle//K Con 2026//EN',
+    'CALSCALE:GREGORIAN',
+    'METHOD:PUBLISH',
+    'BEGIN:VEVENT',
+    'DTSTART:20260707T083000Z',
+    'DTEND:20260708T000000Z',
+    'SUMMARY:K Con 2026 \u2014 Built On Trust',
+    'DESCRIPTION:Kerfuffle Conference 2026. The UK\u2019s Premier Property Festival Of Fun! Keynotes\\, panels\\, networking\\, gala dinner & awards. Book tickets at https://www.relocationagentnetwork.com/kcon',
+    'LOCATION:ICC Wales\\, Coldra Woods\\, Newport NP18 1HQ',
+    'URL:https://www.relocationagentnetwork.com/kcon',
+    'ORGANIZER;CN=Kerfuffle:mailto:kerfuffle@kerfuffle.com',
+    'STATUS:CONFIRMED',
+    'END:VEVENT',
+    'END:VCALENDAR'
+  ].join('\r\n');
+  const blob = new Blob([ical], {type: 'text/calendar;charset=utf-8'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'K-Con-2026.ics';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+// ── Ticket Quantity Selectors ──
+const savingArrow = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>';
+const qtyConfig = {
+  day:    { price: 199, saving: 51,   max: 100, stripeKey: 'day_eb',    qtyEl: 'qtyDay',    totalEl: 'totalDay',    savingEl: 'savingDay',    linkEl: 'linkDay',    label: 'Book Day Pass' },
+  dayeve: { price: 299, saving: 51,   max: 100, stripeKey: 'dayeve_eb', qtyEl: 'qtyDayeve', totalEl: 'totalDayeve', savingEl: 'savingDayeve', linkEl: 'linkDayeve', label: 'Book Day + Evening' },
+  vip:    { price: 450, saving: 100,  max: 100, stripeKey: 'vip_eb',    qtyEl: 'qtyVip',    totalEl: 'totalVip',    savingEl: 'savingVip',    linkEl: 'linkVip',    label: 'Book VIP' },
+  table:  { price: 2000, saving: 3500, max: 10, stripeKey: 'table_eb',  qtyEl: 'qtyTable',  totalEl: 'totalTable',  savingEl: 'savingTable',  linkEl: 'linkTable',  label: 'Book Table' }
+};
+const qtys = { day: 1, dayeve: 1, vip: 1, table: 1 };
+
+function changeQty(type, delta) {
+  const cfg = qtyConfig[type];
+  if (!cfg) return;
+  let newVal = qtys[type] + delta;
+  if (newVal < 1) newVal = 1;
+  if (newVal > cfg.max) newVal = cfg.max;
+  qtys[type] = newVal;
+
+  document.getElementById(cfg.qtyEl).textContent = newVal;
+
+  // Update total price display (ex-VAT)
+  const totalEl = document.getElementById(cfg.totalEl);
+  if (newVal > 1) {
+    const total = cfg.price * newVal;
+    totalEl.innerHTML = 'Total: <strong>\u00a3' + total.toLocaleString() + '</strong> +VAT';
+  } else {
+    totalEl.innerHTML = '';
+  }
+
+  // Update cumulative saving display (pink)
+  const savingEl = document.getElementById(cfg.savingEl);
+  const totalSaving = cfg.saving * newVal;
+  if (totalSaving > 0) {
+    savingEl.innerHTML = savingArrow + ' You save \u00a3' + totalSaving.toLocaleString() + ' with Early Bird';
+  }
+
+  // Update button text
+  const linkEl = document.getElementById(cfg.linkEl);
+  linkEl.textContent = newVal > 1 ? cfg.label + ' \u00d7 ' + newVal : cfg.label;
+}
+
+// ── Stripe Checkout ──
+function bookTicket(type, el) {
+  const cfg = qtyConfig[type];
+  if (!cfg) return true; // let default link work
+  const qty = qtys[type] || 1;
+  const origText = el.textContent;
+  el.textContent = 'Redirecting to payment...';
+  el.style.pointerEvents = 'none';
+  fetch('/api/kcon/checkout', {
+    method: 'POST',
+    headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({ ticket: cfg.stripeKey, quantity: qty })
+  })
+  .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+  .then(data => {
+    if (data.url) { window.location.href = data.url; }
+    else { throw new Error(); }
+  })
+  .catch(() => {
+    // Fallback: open the payment link directly
+    el.textContent = origText;
+    el.style.pointerEvents = '';
+    window.open(el.href, '_blank');
+  });
+  return false; // prevent default link
+}
+
+// ── Scroll fade-up ──
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); }});
+}, {threshold: 0.1, rootMargin: '0px 0px -40px 0px'});
+document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+</script>
+<!-- Snitcher visitor identification -->
+<script>
+!function(s,n,i,t,c,h){s.SnitchObject=i;s[i]||(s[i]=function(){
+(s[i].q=s[i].q||[]).push(arguments)});s[i].l=+new Date;c=n.createElement(t);
+h=n.getElementsByTagName(t)[0];c.src='//snid.snitcher.com/2055.js';
+h.parentNode.insertBefore(c,h)}(window,document,'snid','script');
+snid('verify', '2055');
+</script>
+</body>
+</html>
