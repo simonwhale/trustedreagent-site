@@ -813,7 +813,207 @@ section {
 }
 
 /* ============================================
-   Section 6: Proving Period
+   Section 6: 2025 Winners
+   ============================================ */
+
+.winners-section {
+  background: var(--navy);
+  color: var(--color-text-inverse);
+}
+
+.winners-section .section-label {
+  color: var(--kerfuffle-pink-light);
+}
+
+.winners-section .section-header h2 {
+  color: #fff;
+}
+
+.winners-section .section-header p {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+/* Overall Winner Spotlight */
+.winner-spotlight {
+  display: flex;
+  gap: var(--space-6);
+  align-items: flex-start;
+  background: linear-gradient(135deg, rgba(200, 150, 12, 0.1) 0%, rgba(200, 150, 12, 0.03) 100%);
+  border: 1px solid rgba(200, 150, 12, 0.2);
+  border-radius: var(--radius-xl);
+  padding: var(--space-8);
+  margin-bottom: var(--space-12);
+}
+
+.winner-spotlight__badge {
+  flex-shrink: 0;
+  padding-top: var(--space-1);
+}
+
+.winner-spotlight__tier {
+  display: inline-block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #C8960C;
+  margin-bottom: var(--space-2);
+}
+
+.winner-spotlight__content h3 {
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: var(--space-3);
+}
+
+.winner-spotlight__content p {
+  font-size: var(--text-sm);
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.7;
+  max-width: 60ch;
+}
+
+/* National Winners */
+.winners-subheading {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.national-winners-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-5);
+  margin-bottom: var(--space-12);
+}
+
+.national-winner-card {
+  background: var(--navy-light);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+}
+
+.national-winner-card__category {
+  display: inline-block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--kerfuffle-pink-light);
+  margin-bottom: var(--space-2);
+}
+
+.national-winner-card h4 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: var(--space-3);
+}
+
+.national-winner-card p {
+  font-size: var(--text-sm);
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.65;
+}
+
+/* Regional Winners Grid */
+.regional-winners-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-4);
+}
+
+.regional-card {
+  background: var(--navy-light);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+}
+
+.regional-card__region {
+  display: block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.regional-card__winners {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.regional-winner {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.medal {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.medal--gold {
+  background: #C8960C;
+  box-shadow: 0 0 6px rgba(200, 150, 12, 0.4);
+}
+
+.medal--silver {
+  background: #A8A8B8;
+  box-shadow: 0 0 6px rgba(168, 168, 184, 0.3);
+}
+
+.medal--bronze {
+  background: #B87333;
+  box-shadow: 0 0 6px rgba(184, 115, 51, 0.3);
+}
+
+.winner-name {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+@media (max-width: 960px) {
+  .regional-winners-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .national-winners-grid {
+    grid-template-columns: 1fr;
+  }
+  .regional-winners-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .winner-spotlight {
+    flex-direction: column;
+    padding: var(--space-6);
+  }
+}
+
+@media (max-width: 480px) {
+  .regional-winners-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================
+   Section 7: Proving Period
    ============================================ */
 
 .proving-section {
