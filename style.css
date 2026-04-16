@@ -284,6 +284,66 @@ section {
   justify-content: center;
 }
 
+/* 3D Shield badge */
+.shield-3d {
+  position: relative;
+  animation: shieldFloat 4s ease-in-out infinite;
+  will-change: transform;
+  filter: drop-shadow(0 0 40px rgba(233, 30, 140, 0.2));
+  perspective: 800px;
+}
+
+.shield-3d svg {
+  display: block;
+}
+
+/* Checkmark draw-in */
+.shield-check {
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200;
+  animation: checkDraw 1.2s ease-out 0.6s forwards;
+  stroke: url(#checkGrad);
+  stroke-width: 0;
+}
+
+/* Year fade in */
+.shield-year {
+  opacity: 0;
+  animation: yearFade 0.8s ease-out 1.4s forwards;
+}
+
+/* Glow pulse on the whole wrapper */
+.shield-3d::after {
+  content: '';
+  position: absolute;
+  inset: -20px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(233, 30, 140, 0.12) 0%, transparent 70%);
+  animation: glowPulse 3s ease-in-out infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes shieldFloat {
+  0%, 100% { transform: translateY(0px) rotate3d(0, 1, 0, 0deg); }
+  25% { transform: translateY(-8px) rotate3d(0, 1, 0.05, 3deg); }
+  50% { transform: translateY(-14px) rotate3d(0, 1, 0, 0deg); }
+  75% { transform: translateY(-8px) rotate3d(0, 1, -0.05, -3deg); }
+}
+
+@keyframes checkDraw {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes yearFade {
+  to { opacity: 1; }
+}
+
+@keyframes glowPulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+}
+
 @media (max-width: 768px) {
   .hero-inner {
     grid-template-columns: 1fr;
@@ -296,8 +356,9 @@ section {
     order: -1;
     margin-bottom: var(--space-4);
   }
-  .hero-badge-graphic svg {
-    width: 140px;
+  .hero-badge-graphic svg,
+  .shield-3d svg {
+    width: 160px;
     height: auto;
   }
   .hero-intro {
