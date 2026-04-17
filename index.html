@@ -525,50 +525,150 @@
         </div>
         <p class="conference-intro reveal">As a Trusted Agent, you're invited to the Kerfuffle Conference — <strong>Built on Trust</strong> — on <strong>7th July 2026</strong> where the Regional, National Champions and overall Trusted Agent of the Year will be unveiled. We want as many of the best agents around the country like you to be there, so we're giving discounts to those already in the top 10%.</p>
 
-        <div class="pricing-cards">
-          <div class="pricing-card reveal reveal-delay-1">
-            <h3>Day Ticket</h3>
-            <div class="pricing-card__original">Was £250</div>
-            <div class="pricing-card__price">£199</div>
-            <div class="pricing-card__label">Trusted Agent Price</div>
-            <div class="pricing-card__saving">SAVE £51</div>
-            <div class="pricing-card__vat">+VAT • Adjust quantity at checkout</div>
-            <a href="https://buy.stripe.com/3cI4gy2Gj2NCei4clm8AE0B" target="_blank" rel="noopener noreferrer" class="btn btn--primary pricing-card__btn">Buy Now</a>
+        <div class="ta-tickets">
+          <div class="ta-tickets__grid">
+            <!-- Day -->
+            <div class="ta-ticket-card reveal">
+              <h4>Day Pass</h4>
+              <div class="ta-ticket-card__price">£199 <span>+VAT • Trusted Agent Price</span></div>
+              <div class="ta-ticket-card__was">£250 <span class="ta-save">↓ SAVE £51</span></div>
+              <ul class="ta-ticket-card__features">
+                <li>Full day conference access</li>
+                <li>All keynotes & panels</li>
+                <li>Exhibition hall access</li>
+                <li>Networking breaks & lunch</li>
+                <li>Conference materials</li>
+              </ul>
+              <div class="ta-qty" data-type="day" data-price="199" data-was="250">
+                <button onclick="taQty('day',-1)">−</button>
+                <span id="taQtyDay">1</span>
+                <button onclick="taQty('day',1)">+</button>
+              </div>
+              <div class="ta-total" id="taTotalDay"></div>
+              <div class="ta-saving-total" id="taSavingDay"></div>
+              <a href="https://buy.stripe.com/3cI4gy2Gj2NCei4clm8AE0B" target="_blank" rel="noopener noreferrer" onclick="return taBook('day',this);" class="ta-buy-btn" id="taBtnDay">Book Day Pass</a>
+            </div>
+            <!-- Day + Evening -->
+            <div class="ta-ticket-card ta-ticket-card--featured reveal">
+              <div class="ta-popular">Most Popular</div>
+              <h4>Conference & Evening Gala</h4>
+              <div class="ta-ticket-card__price">£275 <span>+VAT • Trusted Agent Price</span></div>
+              <div class="ta-ticket-card__was">£350 <span class="ta-save">↓ SAVE £75</span></div>
+              <ul class="ta-ticket-card__features">
+                <li>Everything in Day Pass</li>
+                <li>Evening gala dinner</li>
+                <li>Awards ceremony</li>
+                <li>After-party & entertainment</li>
+                <li>Extended networking</li>
+              </ul>
+              <div class="ta-qty" data-type="dayeve" data-price="275" data-was="350">
+                <button onclick="taQty('dayeve',-1)">−</button>
+                <span id="taQtyDayeve">1</span>
+                <button onclick="taQty('dayeve',1)">+</button>
+              </div>
+              <div class="ta-total" id="taTotalDayeve"></div>
+              <div class="ta-saving-total" id="taSavingDayeve"></div>
+              <a href="https://buy.stripe.com/fZudR880Dag44Hu4SU8AE0C" target="_blank" rel="noopener noreferrer" onclick="return taBook('dayeve',this);" class="ta-buy-btn ta-buy-btn--gold" id="taBtnDayeve">Book Day + Evening</a>
+            </div>
+            <!-- VIP -->
+            <div class="ta-ticket-card reveal">
+              <h4>VIP</h4>
+              <div class="ta-ticket-card__price">£399 <span>+VAT • Trusted Agent Price</span></div>
+              <div class="ta-ticket-card__was">£550 <span class="ta-save">↓ SAVE £151</span></div>
+              <ul class="ta-ticket-card__features">
+                <li>Everything in Day + Evening</li>
+                <li>Priority front-row seating</li>
+                <li>Exclusive VIP networking lunch</li>
+                <li>Exclusive VIP coaching with Josh Phegan</li>
+                <li>VIP gift bag</li>
+              </ul>
+              <div class="ta-qty" data-type="vip" data-price="399" data-was="550">
+                <button onclick="taQty('vip',-1)">−</button>
+                <span id="taQtyVip">1</span>
+                <button onclick="taQty('vip',1)">+</button>
+              </div>
+              <div class="ta-total" id="taTotalVip"></div>
+              <div class="ta-saving-total" id="taSavingVip"></div>
+              <a href="https://buy.stripe.com/3cIeVcdkX5ZO8XKetu8AE0D" target="_blank" rel="noopener noreferrer" onclick="return taBook('vip',this);" class="ta-buy-btn ta-buy-btn--pink" id="taBtnVip">Book VIP</a>
+            </div>
           </div>
-          <div class="pricing-card pricing-card--featured reveal reveal-delay-2">
-            <h3>Day + Evening</h3>
-            <div class="pricing-card__original">Was £350</div>
-            <div class="pricing-card__price">£275</div>
-            <div class="pricing-card__label">Trusted Agent Price</div>
-            <div class="pricing-card__saving">SAVE £75</div>
-            <div class="pricing-card__vat">+VAT • Most Popular</div>
-            <a href="https://buy.stripe.com/fZudR880Dag44Hu4SU8AE0C" target="_blank" rel="noopener noreferrer" class="btn btn--primary pricing-card__btn">Buy Now</a>
-          </div>
-          <div class="pricing-card reveal reveal-delay-3">
-            <h3>VIP</h3>
-            <div class="pricing-card__original">Was £550</div>
-            <div class="pricing-card__price">£399</div>
-            <div class="pricing-card__label">Trusted Agent Price</div>
-            <div class="pricing-card__saving">SAVE £151</div>
-            <div class="pricing-card__vat">+VAT • Includes Josh Phegan Coaching</div>
-            <a href="https://buy.stripe.com/3cIeVcdkX5ZO8XKetu8AE0D" target="_blank" rel="noopener noreferrer" class="btn btn--primary pricing-card__btn">Buy Now</a>
-          </div>
-          <div class="pricing-card pricing-card--table reveal reveal-delay-4">
-            <h3>Table of 10 VIP</h3>
-            <div class="pricing-card__original">Was £2,500</div>
-            <div class="pricing-card__price">£2,000</div>
-            <div class="pricing-card__label">Trusted Agent Price</div>
-            <div class="pricing-card__saving">SAVE £500 — just £200/person</div>
-            <div class="pricing-card__vat">+VAT • The ultimate team experience</div>
-            <a href="https://buy.stripe.com/14A3cu6Wz1Jy5Lybhi8AE0E" target="_blank" rel="noopener noreferrer" class="btn btn--primary pricing-card__btn">Buy Now</a>
+          <!-- Table of 10 -->
+          <div class="ta-table-card reveal">
+            <div class="ta-table-card__left">
+              <h4>Table of 10</h4>
+              <p>The ultimate team experience. A premium reserved table for 10 guests at the evening gala — perfect for agencies wanting to reward their team.</p>
+              <ul class="ta-ticket-card__features">
+                <li>10 x VIP tickets</li>
+                <li>Premium reserved table at gala</li>
+                <li>Exclusive VIP coaching with Josh Phegan</li>
+                <li>Priority seating at conference</li>
+                <li>Dedicated event concierge</li>
+              </ul>
+            </div>
+            <div class="ta-table-card__right">
+              <div class="ta-ticket-card__price">£2,000 <span>+VAT</span></div>
+              <div class="ta-ticket-card__was"><s>10 x VIP = £5,500</s> <span class="ta-save">↓ SAVE £3,500</span></div>
+              <div class="ta-qty" data-type="table" data-price="2000" data-was="5500">
+                <button onclick="taQty('table',-1)">−</button>
+                <span id="taQtyTable">1</span>
+                <button onclick="taQty('table',1)">+</button>
+              </div>
+              <div class="ta-total" id="taTotalTable"></div>
+              <div class="ta-saving-total" id="taSavingTable"></div>
+              <a href="https://buy.stripe.com/14A3cu6Wz1Jy5Lybhi8AE0E" target="_blank" rel="noopener noreferrer" onclick="return taBook('table',this);" class="ta-buy-btn ta-buy-btn--pink" id="taBtnTable" style="max-width:280px;">Book Table</a>
+            </div>
           </div>
         </div>
 
         <div class="conference-cta-wrap reveal">
-          <p class="conference-vat-note">All prices exclude VAT. VAT at 20% will be added at checkout. You can adjust the number of tickets at checkout.</p>
+          <p class="conference-vat-note">All prices exclude VAT. VAT at 20% will be added at checkout.</p>
           <span class="conference-small-print">Early bird pricing ends 30th April 2026</span>
           <a href="./kerfuffleconference/" class="btn btn--outline" style="margin-top: var(--space-4);">See full conference details &rarr;</a>
         </div>
+
+        <script>
+        var taQtys = {day:1, dayeve:1, vip:1, table:1};
+        function taQty(t, d) {
+          var min = 1, max = t==='table'?10:20;
+          taQtys[t] = Math.max(min, Math.min(max, taQtys[t]+d));
+          document.getElementById('taQty'+t.charAt(0).toUpperCase()+t.slice(1)).textContent = taQtys[t];
+          var el = document.querySelector('[data-type="'+t+'"]');
+          var price = parseInt(el.dataset.price);
+          var was = parseInt(el.dataset.was);
+          var q = taQtys[t];
+          var totalEl = document.getElementById('taTotal'+t.charAt(0).toUpperCase()+t.slice(1));
+          var savingEl = document.getElementById('taSaving'+t.charAt(0).toUpperCase()+t.slice(1));
+          var btnEl = document.getElementById('taBtn'+t.charAt(0).toUpperCase()+t.slice(1));
+          if(q>1) {
+            totalEl.textContent = 'Total: \u00a3'+(price*q).toLocaleString()+' +VAT';
+            totalEl.style.display = 'block';
+            savingEl.textContent = 'You save \u00a3'+((was-price)*q).toLocaleString();
+            savingEl.style.display = 'block';
+          } else {
+            totalEl.style.display = 'none';
+            savingEl.style.display = 'none';
+          }
+          var labels = {day:'Book Day Pass',dayeve:'Book Day + Evening',vip:'Book VIP',table:'Book Table'};
+          btnEl.textContent = q>1 ? labels[t]+' \u00d7 '+q : labels[t];
+        }
+        function taBook(t, el) {
+          var q = taQtys[t] || 1;
+          var origText = el.textContent;
+          el.textContent = 'Redirecting to payment...';
+          el.style.pointerEvents = 'none';
+          var cfg = {day:'day_eb',dayeve:'dayeve_eb_275',vip:'vip_eb_399',table:'table_eb'};
+          fetch('https://www.relocationagentnetwork.com/api/kcon/checkout', {
+            method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({ticket:cfg[t],quantity:q})
+          }).then(function(r){return r.json()}).then(function(d){
+            if(d.url) window.location.href=d.url;
+            else { el.textContent=origText; el.style.pointerEvents='auto'; window.open(el.href,'_blank'); }
+          }).catch(function(){
+            el.textContent=origText; el.style.pointerEvents='auto'; window.open(el.href,'_blank');
+          });
+          return false;
+        }
+        </script>
       </div>
     </section>
 
