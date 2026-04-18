@@ -1031,6 +1031,14 @@ section {
   text-decoration: underline;
 }
 
+.winner-profile {
+  font-size: 0.7rem;
+  color: rgba(255, 255, 255, 0.4);
+  line-height: 1.5;
+  margin-top: var(--space-1);
+  margin-bottom: var(--space-1);
+}
+
 @media (max-width: 960px) {
   .regional-winners-grid {
     grid-template-columns: repeat(3, 1fr);
