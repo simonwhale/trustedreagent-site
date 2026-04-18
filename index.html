@@ -15,8 +15,8 @@
   <link rel="stylesheet" href="./base.css">
   <link rel="stylesheet" href="./style.css">
 
-  <!-- Favicon (inline SVG as data URI) -->
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2L4 8v8c0 7.73 5.12 14.95 12 16.73C22.88 30.95 28 23.73 28 16V8L16 2z' fill='%23E91E8C'/%3E%3Cpath d='M13 17.5l-2.5-2.5-1.5 1.5 4 4 8-8-1.5-1.5z' fill='white'/%3E%3C/svg%3E">
+  <!-- Favicon (inline SVG — navy TA shield) -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2L4 8v8c0 7.73 5.12 14.95 12 16.73C22.88 30.95 28 23.73 28 16V8L16 2z' fill='%230A1E3D'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='Arial,sans-serif' font-size='12' font-weight='bold' fill='white'%3ETA%3C/text%3E%3C/svg%3E">
 
   <!-- Snitcher Visitor Identification -->
   <script>
@@ -44,10 +44,10 @@
   <nav class="site-nav" aria-label="Primary">
     <div class="nav-inner">
       <a href="#" class="nav-logo" aria-label="Trusted Agent 2026 Home">
-        <!-- Inline mini shield logo -->
+        <!-- Inline mini TA shield logo -->
         <svg width="28" height="28" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-          <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#E91E8C"/>
-          <path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="white"/>
+          <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/>
+          <text x="32" y="40" text-anchor="middle" font-family="'DM Sans', Arial, sans-serif" font-size="22" font-weight="700" fill="white" letter-spacing="-1">TA</text>
         </svg>
         Trusted Agent 2026
       </a>
@@ -74,7 +74,7 @@
             <div class="hero-badge-label">
               <svg width="16" height="16" viewBox="0 0 64 64" fill="none" aria-hidden="true">
                 <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="currentColor"/>
-                <path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="#1A1A2E"/>
+                <text x="32" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1A1A2E">TA</text>
               </svg>
               Awards Programme
             </div>
@@ -85,96 +85,8 @@
           </div>
           <div class="hero-badge-graphic" aria-hidden="true">
             <div class="shield-3d">
-              <svg width="260" height="300" viewBox="0 0 260 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                  <!-- Main shield gradient — metallic pink -->
-                  <linearGradient id="shieldFace" x1="130" y1="20" x2="130" y2="280" gradientUnits="userSpaceOnUse">
-                    <stop offset="0%" stop-color="#F74EAF"/>
-                    <stop offset="40%" stop-color="#E91E8C"/>
-                    <stop offset="100%" stop-color="#B51570"/>
-                  </linearGradient>
-
-                  <!-- Side/depth gradient -->
-                  <linearGradient id="shieldDepth" x1="130" y1="20" x2="130" y2="280" gradientUnits="userSpaceOnUse">
-                    <stop offset="0%" stop-color="#9E1060"/>
-                    <stop offset="100%" stop-color="#6B0A40"/>
-                  </linearGradient>
-
-                  <!-- Top highlight -->
-                  <linearGradient id="shieldHighlight" x1="80" y1="40" x2="180" y2="160" gradientUnits="userSpaceOnUse">
-                    <stop offset="0%" stop-color="white" stop-opacity="0.35"/>
-                    <stop offset="50%" stop-color="white" stop-opacity="0.08"/>
-                    <stop offset="100%" stop-color="white" stop-opacity="0"/>
-                  </linearGradient>
-
-                  <!-- Glow filter -->
-                  <filter id="shieldGlow" x="-30%" y="-30%" width="160%" height="160%">
-                    <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur"/>
-                    <feComposite in="blur" in2="SourceGraphic" operator="over"/>
-                  </filter>
-
-                  <!-- Drop shadow -->
-                  <filter id="shieldShadow" x="-20%" y="-10%" width="140%" height="140%">
-                    <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#E91E8C" flood-opacity="0.3"/>
-                    <feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#000" flood-opacity="0.25"/>
-                  </filter>
-
-                  <!-- Inner shadow illusion -->
-                  <radialGradient id="innerShadow" cx="50%" cy="100%" r="70%">
-                    <stop offset="0%" stop-color="#000" stop-opacity="0.2"/>
-                    <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-                  </radialGradient>
-
-                  <!-- Checkmark gradient -->
-                  <linearGradient id="checkGrad" x1="90" y1="110" x2="170" y2="170" gradientUnits="userSpaceOnUse">
-                    <stop offset="0%" stop-color="#FFFFFF"/>
-                    <stop offset="100%" stop-color="#F0D0E0"/>
-                  </linearGradient>
-
-                  <!-- Rim light -->
-                  <linearGradient id="rimLight" x1="60" y1="30" x2="200" y2="270" gradientUnits="userSpaceOnUse">
-                    <stop offset="0%" stop-color="#FFB0D8" stop-opacity="0.6"/>
-                    <stop offset="30%" stop-color="#FFB0D8" stop-opacity="0.1"/>
-                    <stop offset="70%" stop-color="#FFB0D8" stop-opacity="0"/>
-                    <stop offset="100%" stop-color="#FF70B8" stop-opacity="0.3"/>
-                  </linearGradient>
-                </defs>
-
-                <!-- Outer ambient glow -->
-                <path d="M130 28L28 68v60c0 58 38.5 112 90 126a26 26 0 0015 0c51.5-14 90-68 90-126V68L130 28z" fill="#E91E8C" opacity="0.15" filter="url(#shieldGlow)"/>
-
-                <!-- Shield with drop shadow -->
-                <g filter="url(#shieldShadow)">
-                  <!-- 3D depth layer (offset down-right for depth) -->
-                  <path d="M133 32L33 71v58c0 56 37 108 87 121a24 24 0 0014 0c50-13 87-65 87-121V71L133 32z" fill="url(#shieldDepth)"/>
-
-                  <!-- Main shield face -->
-                  <path d="M130 28L30 68v58c0 56 37 108 87 121a24 24 0 0014 0c50-13 87-65 87-121V68L130 28z" fill="url(#shieldFace)"/>
-
-                  <!-- Inner shadow (bottom) -->
-                  <path d="M130 28L30 68v58c0 56 37 108 87 121a24 24 0 0014 0c50-13 87-65 87-121V68L130 28z" fill="url(#innerShadow)"/>
-
-                  <!-- Top-left highlight (specular) -->
-                  <path d="M130 28L30 68v58c0 56 37 108 87 121a24 24 0 0014 0c50-13 87-65 87-121V68L130 28z" fill="url(#shieldHighlight)"/>
-
-                  <!-- Rim/edge highlight -->
-                  <path d="M130 28L30 68v58c0 56 37 108 87 121a24 24 0 0014 0c50-13 87-65 87-121V68L130 28z" fill="none" stroke="url(#rimLight)" stroke-width="2"/>
-                </g>
-
-                <!-- Inner recessed area -->
-                <path d="M130 52L52 84v46c0 44 29 86 68.5 96a18 18 0 0011 0C171 216 200 174 200 130V84L130 52z" fill="#B51570" opacity="0.3"/>
-                <path d="M130 52L52 84v46c0 44 29 86 68.5 96a18 18 0 0011 0C171 216 200 174 200 130V84L130 52z" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
-
-                <!-- Checkmark with shadow -->
-                <g transform="translate(0, 2)" opacity="0.2">
-                  <path d="M106 148l-22-22-10 10 32 32 62-62-10-10z" fill="#000"/>
-                </g>
-                <path d="M104 146l-22-22-10 10 32 32 62-62-10-10z" fill="url(#checkGrad)" class="shield-check"/>
-
-                <!-- Year text with subtle shadow -->
-                <text x="131" y="204" text-anchor="middle" font-family="'DM Sans', sans-serif" font-size="22" font-weight="700" fill="#000" opacity="0.2" letter-spacing="0.15em">2026</text>
-                <text x="130" y="203" text-anchor="middle" font-family="'DM Sans', sans-serif" font-size="22" font-weight="700" fill="white" letter-spacing="0.15em" class="shield-year">2026</text>
-              </svg>
+              <!-- V2 TA Wordmark Logo -->
+              <img src="./ta-logo-v2.png" alt="Trusted Agent 2026" class="hero-logo-img" width="400" height="250">
             </div>
           </div>
         </div>
