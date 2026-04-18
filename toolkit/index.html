@@ -432,7 +432,7 @@
  .shield-pink {
  width: 54px;
  height: 62px;
- filter: drop-shadow(0 4px 12px rgba(233,30,140,0.4));
+ filter: drop-shadow(0 4px 12px rgba(10,30,61,0.4));
  }
  .shield-pink.lg {
  width: 88px;
@@ -608,7 +608,7 @@
  .ta-web-badge.dark .ta-web-badge-title { color: #fff; }
  .ta-web-badge.dark .ta-web-badge-sub { color: #F04DA5; }
  .ta-web-badge.light .ta-web-badge-title { color: #1A1A2E; }
- .ta-web-badge.light .ta-web-badge-sub { color: #E91E8C; }
+ .ta-web-badge.light .ta-web-badge-sub { color: #0A1E3D; }
 
  /* ==== Window sticker ==== */
  .sticker-preview {
@@ -1124,18 +1124,18 @@
  <stop offset="100%" stop-color="#FAFAFA"/>
  </linearGradient>
  <linearGradient id="certPink" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#F74EAF"/>
- <stop offset="100%" stop-color="#C8187A"/>
+ <stop offset="0%" stop-color="#0F2847"/>
+ <stop offset="100%" stop-color="#0A1E3D"/>
  </linearGradient>
  <linearGradient id="certShield" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#F74EAF"/>
- <stop offset="100%" stop-color="#B51570"/>
+ <stop offset="0%" stop-color="#0F2847"/>
+ <stop offset="100%" stop-color="#071832"/>
  </linearGradient>
  <filter id="certShadow" x="-20%" y="-20%" width="140%" height="140%">
- <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#E91E8C" flood-opacity="0.25"/>
+ <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0A1E3D" flood-opacity="0.25"/>
  </filter>
  <pattern id="certDots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
- <circle cx="2" cy="2" r="1" fill="#E91E8C" opacity="0.08"/>
+ <circle cx="2" cy="2" r="1" fill="#0A1E3D" opacity="0.08"/>
  </pattern>
  </defs>
 
@@ -1148,10 +1148,10 @@
 
  <!-- Inner border frame -->
  <rect x="40" y="40" width="1051" height="720" fill="none" stroke="#1A1A2E" stroke-width="1.5" opacity="0.15"/>
- <rect x="52" y="52" width="1027" height="696" fill="none" stroke="#E91E8C" stroke-width="0.8" opacity="0.35"/>
+ <rect x="52" y="52" width="1027" height="696" fill="none" stroke="#0A1E3D" stroke-width="0.8" opacity="0.35"/>
 
  <!-- Corner ornaments -->
- <g stroke="#E91E8C" stroke-width="2" fill="none" opacity="0.55">
+ <g stroke="#0A1E3D" stroke-width="2" fill="none" opacity="0.55">
  <path d="M80 80 L80 110 M80 80 L110 80"/>
  <path d="M1051 80 L1051 110 M1051 80 L1021 80"/>
  <path d="M80 720 L80 690 M80 720 L110 720"/>
@@ -1164,28 +1164,28 @@
 
  <!-- Eyebrow label -->
  <text x="565.5" y="120" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4" fill="#5C5C7A">CERTIFICATE OF RECOGNITION</text>
- <line x1="475" y1="130" x2="656" y2="130" stroke="#E91E8C" stroke-width="1.5"/>
+ <line x1="475" y1="130" x2="656" y2="130" stroke="#0A1E3D" stroke-width="1.5"/>
 
- <!-- Shield -->
+ <!-- Shield with TA monogram -->
  <g filter="url(#certShadow)" transform="translate(485.5, 150)">
  <path d="M80 10L20 40v40c0 38.65 25.6 74.75 60 83.65C114.4 154.75 140 118.65 140 80V40L80 10z" fill="url(#certShield)"/>
- <path d="M65 85l-12.5-12.5-7.5 7.5 20 20 40-40-7.5-7.5z" fill="white"/>
+ <text x="80" y="90" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="52" font-weight="700" fill="white" letter-spacing="-2">TA</text>
  </g>
 
  <!-- Headline -->
- <text x="565.5" y="360" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#1A1A2E" letter-spacing="-1">Trusted Agent 2026</text>
+ <text x="565.5" y="360" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#1A1A2E" letter-spacing="-1">Trusted Agent 2025/26</text>
 
  <!-- Certifies text -->
  <text x="565.5" y="410" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="18" fill="#5C5C7A">This certifies that</text>
 
  <!-- Agency name (dynamic) -->
- <text id="cert-agency-name" x="565.5" y="475" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#E91E8C" letter-spacing="-0.5">Your Agency Name</text>
+ <text id="cert-agency-name" x="565.5" y="475" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#0A1E3D" letter-spacing="-0.5">Your Agency Name</text>
 
  <!-- Divider -->
  <line x1="465" y1="510" x2="666" y2="510" stroke="#1A1A2E" stroke-width="1" opacity="0.2"/>
 
  <!-- Body -->
- <text x="565.5" y="548" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="17" fill="#1A1A2E">has been recognised as a <tspan font-weight="700">Trusted Agent 2026</tspan> —</text>
+ <text x="565.5" y="548" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="17" fill="#1A1A2E">has been recognised as a <tspan font-weight="700">Trusted Agent 2025/26</tspan> —</text>
  <text x="565.5" y="575" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="17" fill="#1A1A2E">verified as being in the top 10% of estate agent offices in</text>
  <text x="565.5" y="602" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="17" fill="#1A1A2E">the UK for client reputation.</text>
 
@@ -1198,12 +1198,12 @@
 
  <!-- Awarded by -->
  <line x1="731" y1="0" x2="931" y2="0" stroke="#1A1A2E" stroke-width="1" opacity="0.25"/>
- <text x="831" y="25" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A2E">Trusted Agent 2026</text>
+ <text x="831" y="25" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A2E">Trusted Agent 2025/26</text>
  <text x="831" y="45" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="11" fill="#9B9BB0" letter-spacing="1">AWARDED BY</text>
  </g>
 
  <!-- Footer URL -->
- <text x="565.5" y="750" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="11" fill="#9B9BB0" letter-spacing="2">THETRUSTEDAGENT.CO.UK · POWERED BY VIEWAGENTS · A KERFUFFLE PROGRAMME</text>
+ <text x="565.5" y="750" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="11" fill="#9B9BB0" letter-spacing="2">THETRUSTEDAGENT.CO.UK</text>
  </svg>
  </div>
  </div>
@@ -1254,10 +1254,10 @@
  <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/>
  <text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white">TA</text>
  </svg>
- <span class="sc-eyebrow">2026 · Officially Recognised</span>
+ <span class="sc-eyebrow">2025/26 · Officially Recognised</span>
  </div>
  <div class="sc-mid">
- <div class="sc-head">We're officially a Trusted Agent 2026</div>
+ <div class="sc-head">We're officially a Trusted Agent 2025/26</div>
  <div class="sc-agency social-agency">Your Agency</div>
  <div class="sc-divider"></div>
  <div style="font-size:0.95rem; color:rgba(255,255,255,0.85); font-weight:500;">Top 10% of UK estate agents for client reputation.</div>
@@ -1275,7 +1275,7 @@
  <div style="font-weight:600; color:var(--navy);">Square · 1080 × 1080</div>
  <div style="font-size:0.8125rem; color:var(--text-muted);">Instagram feed, Facebook post</div>
  </div>
- <button class="btn btn--primary locked" data-download="social-square-target" data-filename="trusted-agent-2026-square.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
+ <button class="btn btn--primary locked" data-download="social-square-target" data-filename="trusted-agent-2025-26-square.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
  <span class="lock-icon" aria-hidden="true">🔒</span>
  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
  Unlock Your Toolkit
@@ -1296,7 +1296,7 @@
  <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/>
  <text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white">TA</text>
  </svg>
- <span class="sc-eyebrow" style="margin-bottom:0;">Trusted Agent 2026</span>
+ <span class="sc-eyebrow" style="margin-bottom:0;">Trusted Agent 2025/26</span>
  </div>
  <div style="text-align:left;">
  <div class="sc-head-big">TOP<br>10%</div>
@@ -1307,7 +1307,7 @@
  </div>
  <div class="sc-sub" style="padding-top:0;">
  <strong style="color:#fff;">thetrustedagent.co.uk</strong><br>
- <span style="opacity:0.7; font-size:0.75rem;">Trusted Agent 2026</span>
+ <span style="opacity:0.7; font-size:0.75rem;">Trusted Agent 2025/26</span>
  </div>
  </div>
  </div>
@@ -1318,7 +1318,7 @@
  <div style="font-weight:600; color:var(--navy);">Story · 1080 × 1920</div>
  <div style="font-size:0.8125rem; color:var(--text-muted);">Instagram / Facebook stories</div>
  </div>
- <button class="btn btn--primary locked" data-download="social-story-target" data-filename="trusted-agent-2026-story.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
+ <button class="btn btn--primary locked" data-download="social-story-target" data-filename="trusted-agent-2025-26-story.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
  <span class="lock-icon" aria-hidden="true">🔒</span>
  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
  Unlock Your Toolkit
@@ -1341,13 +1341,13 @@
  </svg>
  </div>
  <div style="flex:1; display:flex; flex-direction:column; justify-content:center; min-width:0;">
- <div class="sc-eyebrow">Officially Recognised · 2026</div>
- <div class="sc-head">We're a Trusted Agent 2026</div>
+ <div class="sc-eyebrow">Officially Recognised · 2025/26</div>
+ <div class="sc-head">We're a Trusted Agent 2025/26</div>
  <div class="sc-agency social-agency" style="margin-top:0.35rem;">Your Agency</div>
  <div class="sc-divider"></div>
  <div style="font-size:clamp(0.7rem, 1.2vw, 0.95rem); color:rgba(255,255,255,0.8); line-height:1.4; font-weight:500; font-style:italic;">"Verified by independent data, not self-nomination."</div>
  <div style="font-size:clamp(0.65rem, 1vw, 0.8rem); color:rgba(255,255,255,0.55); margin-top:0.75rem;">
- <strong style="color:rgba(255,255,255,0.85);">thetrustedagent.co.uk</strong> · Trusted Agent 2026
+ <strong style="color:rgba(255,255,255,0.85);">thetrustedagent.co.uk</strong> · Trusted Agent 2025/26
  </div>
  </div>
  </div>
@@ -1359,7 +1359,7 @@
  <div style="font-weight:600; color:var(--navy);">Landscape · 1200 × 630</div>
  <div style="font-size:0.8125rem; color:var(--text-muted);">LinkedIn, X/Twitter, Facebook share</div>
  </div>
- <button class="btn btn--primary locked" data-download="social-landscape-target" data-filename="trusted-agent-2026-landscape.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
+ <button class="btn btn--primary locked" data-download="social-landscape-target" data-filename="trusted-agent-2025-26-landscape.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
  <span class="lock-icon" aria-hidden="true">🔒</span>
  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
  Unlock Your Toolkit
@@ -1393,10 +1393,10 @@
  <a href="https://thetrustedagent.co.uk" class="email-badge" style="margin-top:0.5rem;">
  <svg width="22" height="26" viewBox="0 0 64 64" fill="none" style="flex-shrink:0;">
  <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/>
- <path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="#fff"/>
+ <text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white">TA</text>
  </svg>
  <span class="email-badge-text">
- <span class="email-badge-title">Trusted Agent 2026 ✓</span><br>
+ <span class="email-badge-title">Trusted Agent 2025/26 ✓</span><br>
  <span class="email-badge-url">thetrustedagent.co.uk</span>
  </span>
  </a>
@@ -1409,7 +1409,7 @@
  <pre class="code-block" id="email-badge-code"><code>&lt;a href="https://thetrustedagent.co.uk" style="display:inline-flex;align-items:center;gap:8px;padding:6px 12px;background:#1A1A2E;border-radius:6px;font-family:Arial,Helvetica,sans-serif;text-decoration:none;border:1px solid #2D2D4A;width:200px;box-sizing:border-box;"&gt;
  &lt;img src="https://thetrustedagent.co.uk/badge-shield.png" alt="" width="22" height="26" style="display:block;border:0;"&gt;
  &lt;span style="display:inline-block;line-height:1.1;"&gt;
- &lt;span style="color:#ffffff;font-size:11px;font-weight:700;"&gt;Trusted Agent 2026 &amp;#10003;&lt;/span&gt;&lt;br&gt;
+ &lt;span style="color:#ffffff;font-size:11px;font-weight:700;"&gt;Trusted Agent 2025/26 &amp;#10003;&lt;/span&gt;&lt;br&gt;
  &lt;span style="color:#F04DA5;font-size:10px;font-weight:500;"&gt;thetrustedagent.co.uk&lt;/span&gt;
  &lt;/span&gt;
 &lt;/a&gt;</code></pre>
@@ -1447,7 +1447,7 @@
  </svg>
  <span class="ta-web-badge-text">
  <span class="ta-web-badge-sub">Officially</span>
- <span class="ta-web-badge-title">Trusted Agent 2026</span>
+ <span class="ta-web-badge-title">Trusted Agent 2025/26</span>
  </span>
  </a>
  </div>
@@ -1459,7 +1459,7 @@
  </svg>
  <span class="ta-web-badge-text">
  <span class="ta-web-badge-sub">Officially</span>
- <span class="ta-web-badge-title">Trusted Agent 2026</span>
+ <span class="ta-web-badge-title">Trusted Agent 2025/26</span>
  </span>
  </a>
  </div>
@@ -1469,10 +1469,10 @@
  <div>
  <label>Dark version — for dark/navy backgrounds</label>
  <pre class="code-block" id="web-badge-dark"><code>&lt;a href="https://thetrustedagent.co.uk" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:10px;padding:10px 16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.14);border-radius:10px;font-family:'DM Sans',Helvetica,Arial,sans-serif;text-decoration:none;"&gt;
- &lt;svg width="28" height="32" viewBox="0 0 64 64" fill="none"&gt;&lt;path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#E91E8C"/&gt;&lt;path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="white"/&gt;&lt;/svg&gt;
+ &lt;svg width="28" height="32" viewBox="0 0 64 64" fill="none"&gt;&lt;path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/&gt;&lt;text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white"&gt;TA&lt;/text&gt;&lt;/svg&gt;
  &lt;span style="display:flex;flex-direction:column;line-height:1.15;"&gt;
  &lt;span style="font-size:10px;font-weight:500;letter-spacing:0.06em;text-transform:uppercase;color:#F04DA5;"&gt;Officially&lt;/span&gt;
- &lt;span style="font-size:13px;font-weight:700;color:#fff;"&gt;Trusted Agent 2026&lt;/span&gt;
+ &lt;span style="font-size:13px;font-weight:700;color:#fff;"&gt;Trusted Agent 2025/26&lt;/span&gt;
  &lt;/span&gt;
 &lt;/a&gt;</code></pre>
  </div>
@@ -1489,10 +1489,10 @@
  <div>
  <label>Light version — for white/light backgrounds</label>
  <pre class="code-block" id="web-badge-light"><code>&lt;a href="https://thetrustedagent.co.uk" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:10px;padding:10px 16px;background:#fff;border:1px solid rgba(26,26,46,0.1);border-radius:10px;font-family:'DM Sans',Helvetica,Arial,sans-serif;text-decoration:none;box-shadow:0 1px 3px rgba(26,26,46,0.06);"&gt;
- &lt;svg width="28" height="32" viewBox="0 0 64 64" fill="none"&gt;&lt;path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#E91E8C"/&gt;&lt;path d="M26 34l-5-5-3 3 8 8 16-16-3-3z" fill="white"/&gt;&lt;/svg&gt;
+ &lt;svg width="28" height="32" viewBox="0 0 64 64" fill="none"&gt;&lt;path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="#0A1E3D"/&gt;&lt;text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white"&gt;TA&lt;/text&gt;&lt;/svg&gt;
  &lt;span style="display:flex;flex-direction:column;line-height:1.15;"&gt;
- &lt;span style="font-size:10px;font-weight:500;letter-spacing:0.06em;text-transform:uppercase;color:#E91E8C;"&gt;Officially&lt;/span&gt;
- &lt;span style="font-size:13px;font-weight:700;color:#1A1A2E;"&gt;Trusted Agent 2026&lt;/span&gt;
+ &lt;span style="font-size:10px;font-weight:500;letter-spacing:0.06em;text-transform:uppercase;color:#0A1E3D;"&gt;Officially&lt;/span&gt;
+ &lt;span style="font-size:13px;font-weight:700;color:#1A1A2E;"&gt;Trusted Agent 2025/26&lt;/span&gt;
  &lt;/span&gt;
 &lt;/a&gt;</code></pre>
  </div>
@@ -1525,14 +1525,14 @@
  <svg width="88" height="102" viewBox="0 0 64 64" fill="none" aria-hidden="true">
  <defs>
  <linearGradient id="stickerShield" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#F74EAF"/>
- <stop offset="100%" stop-color="#B51570"/>
+ <stop offset="0%" stop-color="#0F2847"/>
+ <stop offset="100%" stop-color="#0A1E3D"/>
  </linearGradient>
  </defs>
  <path d="M32 4L8 16v16c0 15.46 10.24 29.9 24 33.46C45.76 61.9 56 47.46 56 32V16L32 4z" fill="url(#stickerShield)"/>
  <text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white">TA</text>
  </svg>
- <div class="sticker-title">Trusted Agent<br>2026</div>
+ <div class="sticker-title">Trusted Agent<br>2025/26</div>
  <div class="sticker-subtitle">Top 10% of UK estate agents for client reputation</div>
  </div>
  <div class="sticker-footer">Verified by ViewAgents · </div>
@@ -1544,7 +1544,7 @@
  <div style="font-weight:600; color:var(--navy);">Portrait sticker — 1:1.35 ratio</div>
  <div style="font-size:0.8125rem; color:var(--text-muted);">Scales cleanly to A5, A4, or custom sizes.</div>
  </div>
- <button class="btn btn--primary locked" data-download="sticker-target" data-filename="trusted-agent-2026-window-sticker.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
+ <button class="btn btn--primary locked" data-download="sticker-target" data-filename="trusted-agent-2025-26-window-sticker.png" data-locked-label="Unlock Your Toolkit" data-unlocked-label="Download PNG" disabled aria-disabled="true">
  <span class="lock-icon" aria-hidden="true">🔒</span>
  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
  Unlock Your Toolkit
@@ -1568,8 +1568,8 @@
  <div class="card-preview" style="padding: 0; background: #fff;">
  <div class="press-release" id="press-release-content">
  <div class="subhead">FOR IMMEDIATE RELEASE · April 2026</div>
- <h3><span class="merge" data-merge="agency">[AGENCY NAME]</span> recognised as a Trusted Agent 2026</h3>
- <p><em><span class="merge" data-merge="town">[TOWN]</span>, April 2026 —</em> <span class="merge" data-merge="agency">[AGENCY NAME]</span> has been named a <strong>Trusted Agent 2026</strong>, placing it among the top 10% of estate agent offices in the UK for client reputation. The recognition was awarded by Kerfuffle, the estate agency industry's supplier discovery platform, and powered by independent data from ViewAgents.</p>
+ <h3><span class="merge" data-merge="agency">[AGENCY NAME]</span> recognised as a Trusted Agent 2025/26</h3>
+ <p><em><span class="merge" data-merge="town">[TOWN]</span>, April 2026 —</em> <span class="merge" data-merge="agency">[AGENCY NAME]</span> has been named a <strong>Trusted Agent 2025/26</strong>, placing it among the top 10% of estate agent offices in the UK for client reputation. The recognition was awarded by Kerfuffle, the estate agency industry's supplier discovery platform, and powered by independent data from ViewAgents.</p>
 
  <p>The Trusted Agent programme is built on a simple principle: recognition should be earned, not bought. Unlike traditional awards that rely on self-nomination or paid entry, Trusted Agent winners are identified through an independent review of publicly available client feedback across multiple platforms — including Google, Trustpilot, Facebook, and Feefo.</p>
 
@@ -1579,9 +1579,9 @@
 
  <p>Simon Whale, founder of Kerfuffle, said: <em>"Most awards in our industry are about who shouts the loudest or writes the best entry. Trusted Agent flips that. It only looks at what real clients have said — across every platform, over time. The agents who come out on top are the ones quietly getting it right, every day."</em></p>
 
- <p>Trusted Agent 2026 winners are listed publicly at <strong>thetrustedagent.co.uk</strong>, where sellers and landlords can check whether their local agent has been recognised.</p>
+ <p>Trusted Agent 2025/26 winners are listed publicly at <strong>thetrustedagent.co.uk</strong>, where sellers and landlords can check whether their local agent has been recognised.</p>
 
- <p class="note"><strong>About Trusted Agent 2026:</strong> Trusted Agent is a recognition programme run by Kerfuffle and powered by data from ViewAgents. It identifies the top 10% of UK estate agent offices based on client reputation across public review platforms. The programme is not a paid award, uses no self-nomination, and no agent pays to be included. Methodology and full criteria are published at thetrustedagent.co.uk/methodology.</p>
+ <p class="note"><strong>About Trusted Agent 2025/26:</strong> Trusted Agent is a recognition programme run by Kerfuffle and powered by data from ViewAgents. It identifies the top 10% of UK estate agent offices based on client reputation across public review platforms. The programme is not a paid award, uses no self-nomination, and no agent pays to be included. Methodology and full criteria are published at thetrustedagent.co.uk/methodology.</p>
 
  <p class="note"><strong>Media contact:</strong> <span class="merge" data-merge="contact">[YOUR CONTACT — name, email, phone]</span></p>
 
@@ -1957,7 +1957,7 @@
  var target = document.getElementById('certificate-target');
  var agency = (certInput.value.trim() || 'agency');
  var safe = agency.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40) || 'certificate';
- downloadPng(target, 'trusted-agent-2026-certificate-' + safe + '.png', 'Certificate Downloaded', { agency: storedData.agency || agency });
+ downloadPng(target, 'trusted-agent-2025-26-certificate-' + safe + '.png', 'Certificate Downloaded', { agency: storedData.agency || agency });
  });
 
  // Generic downloads (social cards, sticker)
@@ -2078,7 +2078,7 @@
  var agency = (mergeInputs.agency.value.trim() || 'agency').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
  var a = document.createElement('a');
  a.href = url;
- a.download = 'trusted-agent-2026-press-release-' + (agency || 'template') + '.txt';
+ a.download = 'trusted-agent-2025-26-press-release-' + (agency || 'template') + '.txt';
  document.body.appendChild(a);
  a.click();
  document.body.removeChild(a);
