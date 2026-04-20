@@ -10,13 +10,14 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2L4 8v8c0 7.73 5.12 14.95 12 16.73C22.88 30.95 28 23.73 28 16V8L16 2z' fill='%230A1E3D'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='Arial,sans-serif' font-size='12' font-weight='bold' fill='white'%3ETA%3C/text/%3E%3C/svg%3E">
 
-  <!-- Snitcher -->
+  <!-- Snitcher Visitor Identification -->
   <script>
-    !function(s,n,i,t,c,h){s.SnitchObject=i;s[i]||(s[i]=function(){
-    (s[i].q=s[i].q||[]).push(arguments)});s[i].l=1*new Date;c=n.createElement(t);
-    h=n.getElementsByTagName(t)[0];c.async=1;c.src="https://snid.snitcher.com/8415110.js";
-    h.parentNode.insertBefore(c,h)}(window,document,"snid","script");
-    snid('verify', 'sjZhNexAnM');
+  !function(e){"use strict";var t=e&&e.namespace;if(t&&e.profileId&&e.cdn){var i=window[t];if(i&&Array.isArray(i)||(i=window[t]=[]),!i.initialized&&!i._loaded)if(i._loaded)console&&console.warn("[Radar] Duplicate initialization attempted");else{i._loaded=!0;["track","page","identify","group","alias","ready","debug","on","off","once","trackClick","trackSubmit","trackLink","trackForm","pageview","screen","reset","register","setAnonymousId","addSourceMiddleware","addIntegrationMiddleware","addDestinationMiddleware","giveCookieConsent"].forEach((function(e){var a;i[e]=(a=e,function(){var e=window[t];if(e.initialized)return e[a].apply(e,arguments);var i=[].slice.call(arguments);return i.unshift(a),e.push(i),e})})),-1===e.apiEndpoint.indexOf("http")&&(e.apiEndpoint="https://"+e.apiEndpoint),i.bootstrap=function(){var t,i=document.createElement("script");i.async=!0,i.type="text/javascript",i.id="__radar__",i.setAttribute("data-settings",JSON.stringify(e)),i.src=[-1!==(t=e.cdn).indexOf("http")?"":"https://",t,"/releases/latest/radar.min.js"].join("");var a=document.scripts[0];a.parentNode.insertBefore(i,a)},i.bootstrap()}}else"undefined"!=typeof console&&console.error("[Radar] Configuration incomplete")}({
+    "apiEndpoint": "radar.snitcher.com",
+    "cdn": "cdn.snitcher.com",
+    "namespace": "Snitcher",
+    "profileId": "sOYa6Wlpyd"
+  });
   </script>
   <!-- Plausible -->
   <script async src="https://plausible.io/js/pa-zoSBORrOCWeN66aIKw1zI.js"></script>
