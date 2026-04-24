@@ -35,9 +35,9 @@
  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
  :root {
- --pink: #E91E8C;
- --pink-light: #F04DA5;
- --pink-dark: #C8187A;
+ --pink: #0A1E3D;
+ --pink-light: #1A3A6A;
+ --pink-dark: #071832;
  --navy: #1A1A2E;
  --navy-light: #2D2D4A;
  --navy-lighter: #3F3F66;
@@ -161,7 +161,7 @@
  margin-bottom: 1rem;
  }
  .hero h1 .accent {
- background: linear-gradient(135deg, #F74EAF 0%, #E91E8C 100%);
+ background: linear-gradient(135deg, #1A3A6A 0%, #0A1E3D 100%);
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
@@ -484,7 +484,7 @@
  font-weight: 700;
  line-height: 0.95;
  letter-spacing: -0.03em;
- background: linear-gradient(135deg, #F74EAF 0%, #E91E8C 100%);
+ background: linear-gradient(135deg, #1A3A6A 0%, #0A1E3D 100%);
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
@@ -811,7 +811,7 @@
  color: #fff;
  }
  .gate-heading .accent {
- background: linear-gradient(135deg, #F74EAF 0%, #E91E8C 100%);
+ background: linear-gradient(135deg, #1A3A6A 0%, #0A1E3D 100%);
  -webkit-background-clip: text;
  background-clip: text;
  color: transparent;
@@ -1167,10 +1167,9 @@
  <text x="565.5" y="120" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4" fill="#5C5C7A">CERTIFICATE OF RECOGNITION</text>
  <line x1="475" y1="130" x2="656" y2="130" stroke="#0A1E3D" stroke-width="1.5"/>
 
- <!-- Shield with TA monogram -->
- <g filter="url(#certShadow)" transform="translate(485.5, 150)">
- <path d="M80 10L20 40v40c0 38.65 25.6 74.75 60 83.65C114.4 154.75 140 118.65 140 80V40L80 10z" fill="url(#certShield)"/>
- <text x="80" y="90" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="52" font-weight="700" fill="white" letter-spacing="-2">TA</text>
+ <!-- V2 Trusted Agent wordmark logo -->
+ <g filter="url(#certShadow)">
+ <image href="/ta-logo-v2-email.png" x="340.5" y="155" width="450" height="135" preserveAspectRatio="xMidYMid meet"/>
  </g>
 
  <!-- Headline -->
@@ -1822,6 +1821,73 @@
  });
  }
 
+ // ---------- Winner validation lookup ----------
+ var winnersLookup = null;
+ var winnersLookupLoaded = false;
+
+ function loadWinnersLookup() {
+ if (winnersLookupLoaded) return Promise.resolve(winnersLookup);
+ return fetch('/ta-winners-lookup.json')
+ .then(function(r) { return r.ok ? r.json() : null; })
+ .then(function(data) {
+ winnersLookup = data;
+ winnersLookupLoaded = true;
+ return data;
+ })
+ .catch(function() {
+ winnersLookupLoaded = true;
+ return null;
+ });
+ }
+ // Preload in the background so it's ready when user submits
+ loadWinnersLookup();
+
+ function normalizeAgency(name) {
+ return (name || '').toString().toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 30);
+ }
+
+ function postcodeArea(pc) {
+ var s = (pc || '').toString().toUpperCase().replace(/\s+/g, '');
+ var m = s.match(/^([A-Z]{1,2}\d{1,2}[A-Z]?)/);
+ return m ? m[1] : s.slice(0, 4);
+ }
+
+ function verifyWinner(data) {
+ // Returns { verified: bool, method: 'domain'|'fuzzy'|'none', confidence: 0-1 }
+ if (!winnersLookup) {
+ return { verified: false, method: 'lookup-unavailable', confidence: 0 };
+ }
+
+ // STEP 1 — Email domain check (fastest, highest confidence)
+ var emailDomain = (data.email || '').toLowerCase().split('@')[1] || '';
+ if (emailDomain && winnersLookup.domains.indexOf(emailDomain) !== -1) {
+ return { verified: true, method: 'domain', confidence: 1.0 };
+ }
+
+ // STEP 2 — Fuzzy match on agency + postcode
+ var agencyNorm = normalizeAgency(data.agency);
+ var pcArea = postcodeArea(data.postcode);
+ if (agencyNorm.length < 3) {
+ return { verified: false, method: 'none', confidence: 0 };
+ }
+
+ for (var i = 0; i < winnersLookup.entries.length; i++) {
+ var entry = winnersLookup.entries[i];
+ // Exact postcode area match + agency name contained either way
+ if (pcArea && entry.p === pcArea) {
+ if (entry.a.indexOf(agencyNorm) !== -1 || agencyNorm.indexOf(entry.a) !== -1) {
+ return { verified: true, method: 'fuzzy', confidence: 0.85 };
+ }
+ }
+ // Strong agency match even without postcode (same normalized name, 8+ chars)
+ if (agencyNorm.length >= 8 && entry.a === agencyNorm) {
+ return { verified: true, method: 'fuzzy-name', confidence: 0.75 };
+ }
+ }
+
+ return { verified: false, method: 'none', confidence: 0 };
+ }
+
  // ---------- Gate form submit ----------
  var gateForm = document.getElementById('gate-form');
  var gateSubmit = document.getElementById('gate-submit');
@@ -1847,15 +1913,29 @@
 
  // Disable submit while processing
  gateSubmit.disabled = true;
- gateSubmit.textContent = 'Unlocking…';
+ gateSubmit.textContent = 'Verifying…';
 
  var data = { firstName: firstName, lastName: lastName, email: email, agency: agency, phone: phone, postcode: postcode, source: source };
 
+ // Ensure winners lookup is loaded, then verify
+ loadWinnersLookup().then(function() {
+ var verification = verifyWinner(data);
+ data.verified = verification.verified;
+ data.verifyMethod = verification.method;
+ data.verifyConfidence = verification.confidence;
+
+ if (verification.verified) {
+ gateSubmit.textContent = 'Unlocking…';
+ } else {
+ gateSubmit.textContent = 'Submitting for review…';
+ }
+
  // Fire both API calls in parallel — we don't block the unlock on success
- Promise.all([
+ return Promise.all([
  sendToBrevo(data).catch(function(err) { console.warn('Brevo contact error:', err); }),
  sendNotificationEmail(data).catch(function(err) { console.warn('Brevo email error:', err); })
- ]).then(function() {
+ ]);
+ }).then(function() {
  onUnlockSuccess(data);
  }).catch(function() {
  onUnlockSuccess(data); // Unlock anyway even if API fails
