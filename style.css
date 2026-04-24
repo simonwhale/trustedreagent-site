@@ -199,6 +199,17 @@ section {
   color: var(--navy);
   text-decoration: none;
 }
+.nav-links a.nav-cta {
+  background: var(--navy);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 100px;
+  font-weight: 600;
+}
+.nav-links a.nav-cta:hover {
+  background: #0F2847;
+  color: #fff;
+}
 
 @media (max-width: 640px) {
   .nav-links {
@@ -357,6 +368,24 @@ section {
 }
 .btn--primary:active {
   transform: translateY(0);
+}
+
+.btn--secondary {
+  background: var(--navy);
+  color: #fff;
+}
+.btn--secondary:hover {
+  background: #0F2847;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(10, 30, 61, 0.3);
+  color: #fff;
+}
+
+.hero-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
 }
 
 .btn--outline {
