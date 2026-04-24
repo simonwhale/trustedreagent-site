@@ -1678,6 +1678,35 @@
 
  var BREVO_KEY = ''; // Key removed — calls go via server proxy
 
+ // ---------- URL prefill (from email link) ----------
+ function prefillFromURL() {
+ try {
+ var params = new URLSearchParams(window.location.search);
+ var map = {
+ 'fn': 'gate-fname',
+ 'ln': 'gate-lname',
+ 'email': 'gate-email',
+ 'agency': 'gate-agency',
+ 'postcode': 'gate-postcode',
+ 'phone': 'gate-phone'
+ };
+ var filled = [];
+ Object.keys(map).forEach(function(key) {
+ var val = params.get(key);
+ if (val) {
+ var el = document.getElementById(map[key]);
+ if (el && !el.value) {
+ el.value = val.trim();
+ filled.push(key);
+ }
+ }
+ });
+ if (filled.length && window.plausible) {
+ window.plausible('Toolkit Prefilled', { props: { fields: filled.join(',') } });
+ }
+ } catch(e) {}
+ }
+
  // ---------- Stored user data ----------
  var storedData = {};
  function loadStoredData() {
@@ -1974,11 +2003,14 @@
 
  // ---------- Init gate on page load ----------
  loadStoredData();
+ prefillFromURL();
  if (storedData.unlocked) {
  showWelcomeBack();
  unlockAllButtons(false);
  } else {
  showGateForm();
+ // Run prefill again AFTER gate form is shown (in case DOM was just rendered)
+ setTimeout(prefillFromURL, 50);
  // All buttons already have .locked class from HTML
  }
 
