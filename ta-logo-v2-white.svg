@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" fill="none">
+  <g transform="translate(0, 10)">
+    <path d="M56 8 L14 24 v28 c0 28 20 52 42 58 c22-6 42-30 42-58 V24 Z"
+          fill="white"/>
+    <text x="56" y="70" text-anchor="middle"
+          font-family="Arial Black, Helvetica, sans-serif"
+          font-weight="900" font-size="44" fill="#0A1E3D"
+          letter-spacing="-1">TA</text>
+  </g>
+  <text x="130" y="60"
+        font-family="Arial Black, Helvetica, sans-serif"
+        font-weight="900" font-size="38" fill="white"
+        letter-spacing="1">TRUSTED AGENT</text>
+  <line x1="130" y1="80" x2="245" y2="80" stroke="white" stroke-width="2"/>
+  <line x1="335" y1="80" x2="450" y2="80" stroke="white" stroke-width="2"/>
+  <text x="290" y="94" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="700" font-size="20" fill="white"
+        letter-spacing="1">2026</text>
+</svg>
