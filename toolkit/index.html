@@ -1801,8 +1801,7 @@
  return fetch('https://www.relocationagentnetwork.com/api/toolkit-lead', {
  method: 'POST',
  headers: {
- 'Content-Type': 'application/json',
- 'api-key': BREVO_KEY
+ 'Content-Type': 'application/json'
  },
  body: JSON.stringify({
  email: data.email,
@@ -1838,8 +1837,7 @@
  return fetch('https://www.relocationagentnetwork.com/api/toolkit-notify', {
  method: 'POST',
  headers: {
- 'Content-Type': 'application/json',
- 'api-key': BREVO_KEY
+ 'Content-Type': 'application/json'
  },
  body: JSON.stringify({
  sender: { name: 'Trusted Agent', email: 'kerfuffle@kerfuffle.com' },
