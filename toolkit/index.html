@@ -1820,7 +1820,7 @@
  });
  }
 
- // ---------- Brevo: notification email to simon ----------
+ // ---------- Brevo: notification email to sales ----------
  function sendNotificationEmail(data) {
  var html = [
  '<h2>Toolkit Unlocked: ' + escapeHtml(data.agency) + '</h2>',
@@ -1841,7 +1841,7 @@
  },
  body: JSON.stringify({
  sender: { name: 'Trusted Agent', email: 'kerfuffle@kerfuffle.com' },
- to: [{ email: 'simon@kerfuffle.com' }],
+ to: [{ email: 'sales@kerfuffle.com' }],
  subject: 'Toolkit Unlock: ' + data.agency,
  htmlContent: html
  })
