@@ -2029,20 +2029,65 @@
  });
 
  // ---------- Download as PNG (html2canvas) ----------
+ // Production sizes by target id. We render an off-screen stage at half the
+ // production size and use html2canvas scale:2 so the captured PNG is at the
+ // exact production resolution while the visual layout (which uses vw/clamp)
+ // remains identical to the on-page preview — just larger.
+ var PRODUCTION_SIZES = {
+  'social-square-target':    { w: 1080, h: 1080 },
+  'social-story-target':     { w: 1080, h: 1920 },
+  'social-landscape-target': { w: 1200, h: 630  },
+  'sticker-target':          { w: 1240, h: 1754 },
+  'certificate-target':      { w: 1754, h: 1240 }
+ };
+
  function downloadPng(targetEl, filename, plausibleEventName, plausibleProps) {
  if (!window.html2canvas) {
  showToast('Download script still loading — try again');
  return;
  }
- var rect = targetEl.getBoundingClientRect();
- html2canvas(targetEl, {
+ var prod = PRODUCTION_SIZES[targetEl.id];
+ var stage = null;
+ var captureEl = targetEl;
+ var stageW, stageH;
+ if (prod) {
+  // Render the clone at PREVIEW size (matches what users see on the page),
+  // then capture at the right scale to land at exact production resolution.
+  // This preserves the visual layout exactly as previewed.
+  var previewRect = targetEl.getBoundingClientRect();
+  stageW = Math.round(previewRect.width);
+  stageH = Math.round(previewRect.height);
+  // If preview wasn’t laid out yet (display:none), fall back to half production.
+  if (!stageW || !stageH) { stageW = Math.round(prod.w / 2); stageH = Math.round(prod.h / 2); }
+  stage = document.createElement('div');
+  stage.setAttribute('aria-hidden', 'true');
+  stage.style.cssText = 'position:fixed;left:-100000px;top:0;width:' + stageW + 'px;height:' + stageH + 'px;pointer-events:none;z-index:-1;background:transparent;overflow:hidden;';
+  // Inject a scoped style override that fixes html2canvas’s lack of
+  // background-clip:text support. Within the stage only, render gradient text
+  // as solid color so the title actually appears in the captured PNG.
+  var fix = document.createElement('style');
+  fix.textContent = '.h2c-stage .sc-head-big{background:none !important;-webkit-background-clip:initial !important;background-clip:initial !important;color:#F4D9A1 !important;}.h2c-stage .sc-head{background:none !important;-webkit-background-clip:initial !important;background-clip:initial !important;color:#FFFFFF !important;}.h2c-stage .gate-headline{background:none !important;-webkit-background-clip:initial !important;background-clip:initial !important;color:#FFFFFF !important;}.h2c-stage .sc-eyebrow{color:#F4D9A1 !important;opacity:1 !important;}';
+  stage.classList.add('h2c-stage');
+  stage.appendChild(fix);
+  var clone = targetEl.cloneNode(true);
+  clone.removeAttribute('id');
+  clone.style.cssText = (clone.style.cssText || '') + ';width:' + stageW + 'px;height:' + stageH + 'px;max-width:none;aspect-ratio:auto;margin:0;transform:none;position:relative;';
+  stage.appendChild(clone);
+  document.body.appendChild(stage);
+  captureEl = clone;
+ }
+ var rect = captureEl.getBoundingClientRect();
+ // Calculate the scale factor needed to hit production size from this stage.
+ var captureScale = prod ? Math.max(prod.w / stageW, prod.h / stageH) : 2;
+ html2canvas(captureEl, {
  backgroundColor: null,
- scale: 2,
+ scale: captureScale,
  logging: false,
  useCORS: true,
- width: rect.width,
- height: rect.height,
- windowWidth: document.documentElement.scrollWidth
+ width: prod ? stageW : rect.width,
+ height: prod ? stageH : rect.height,
+ windowWidth: prod ? stageW : document.documentElement.scrollWidth,
+ windowHeight: prod ? stageH : document.documentElement.scrollHeight
  }).then(function (canvas) {
  canvas.toBlob(function (blob) {
  var url = URL.createObjectURL(blob);
@@ -2060,6 +2105,8 @@
  }).catch(function (err) {
  console.error(err);
  showToast('Download failed — please try again');
+ }).then(function () {
+ if (stage && stage.parentNode) stage.parentNode.removeChild(stage);
  });
  }
 
