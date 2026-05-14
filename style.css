@@ -1100,31 +1100,31 @@ section {
 /* Dark ticket cards — K Con style */
 .ta-tickets { margin-bottom: var(--space-8); }
 .ta-tickets__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-4); margin-bottom: var(--space-4); }
-.ta-ticket-card { background: var(--navy); border: 1px solid rgba(255,255,255,0.08); border-radius: var(--radius-xl); padding: 2rem 1.5rem; position: relative; }
-.ta-ticket-card--featured { border-color: rgba(201,169,110,0.3); background: linear-gradient(145deg, rgba(201,169,110,0.08), rgba(0,180,185,0.04)); }
+.ta-ticket-card { background: #ffffff; border: 1px solid rgba(26,26,46,0.08); border-radius: var(--radius-xl); padding: 2rem 1.5rem; position: relative; box-shadow: 0 2px 12px rgba(26,26,46,0.04); }
+.ta-ticket-card--featured { border: 2px solid var(--kerfuffle-pink); background: #ffffff; box-shadow: 0 6px 24px rgba(255,26,140,0.12); }
 .ta-popular { position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: var(--kerfuffle-pink); color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.25rem 1rem; border-radius: 100px; letter-spacing: 0.04em; white-space: nowrap; }
-.ta-ticket-card h4 { font-size: 1.2rem; font-weight: 700; color: #fff; margin-bottom: 0.75rem; }
+.ta-ticket-card h4 { font-size: 1.2rem; font-weight: 700; color: var(--navy); margin-bottom: 0.75rem; }
 .ta-ticket-card__price { font-size: clamp(1.8rem, 4vw, 2.4rem); font-weight: 700; color: var(--kerfuffle-pink); margin-bottom: 0.25rem; }
-.ta-ticket-card__price span { font-size: 0.7rem; font-weight: 500; color: rgba(255,255,255,0.45); vertical-align: middle; }
-.ta-ticket-card__was { font-size: 0.85rem; color: rgba(255,255,255,0.35); text-decoration: line-through; margin-bottom: 1rem; }
-.ta-ticket-card__was s { color: rgba(255,255,255,0.35); text-decoration: line-through; }
+.ta-ticket-card__price span { font-size: 0.7rem; font-weight: 500; color: rgba(26,26,46,0.55); vertical-align: middle; }
+.ta-ticket-card__was { font-size: 0.85rem; color: rgba(26,26,46,0.45); text-decoration: line-through; margin-bottom: 1rem; }
+.ta-ticket-card__was s { color: rgba(26,26,46,0.45); text-decoration: line-through; }
 .ta-save { text-decoration: none; display: inline-block; background: var(--kerfuffle-pink); color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.2rem 0.5rem; border-radius: 4px; margin-left: 0.5rem; }
 .ta-ticket-card__features { list-style: none; padding: 0; margin-bottom: 1.5rem; }
-.ta-ticket-card__features li { font-size: 0.8rem; color: rgba(255,255,255,0.6); padding: 0.3rem 0; padding-left: 1.2rem; position: relative; }
+.ta-ticket-card__features li { font-size: 0.85rem; color: var(--navy); padding: 0.3rem 0; padding-left: 1.4rem; position: relative; }
 .ta-ticket-card__features li::before { content: '\2713'; position: absolute; left: 0; color: #0B8A8A; font-weight: 700; }
 .ta-qty { display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 0.75rem; }
-.ta-qty button { width: 36px; height: 36px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.05); color: #fff; font-size: 1.1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: background 0.15s; }
-.ta-qty button:hover { background: rgba(255,255,255,0.12); }
-.ta-qty span { font-size: 1.3rem; font-weight: 700; color: #fff; min-width: 2rem; text-align: center; }
+.ta-qty button { width: 36px; height: 36px; border-radius: 50%; border: 1px solid rgba(26,26,46,0.15); background: rgba(26,26,46,0.04); color: var(--navy); font-size: 1.1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: background 0.15s; }
+.ta-qty button:hover { background: rgba(26,26,46,0.10); }
+.ta-qty span { font-size: 1.3rem; font-weight: 700; color: var(--navy); min-width: 2rem; text-align: center; }
 .ta-total { text-align: center; font-size: 0.85rem; font-weight: 600; color: var(--kerfuffle-pink); display: none; margin-bottom: 0.25rem; }
 .ta-saving-total { text-align: center; font-size: 0.75rem; font-weight: 600; color: var(--kerfuffle-pink); display: none; margin-bottom: 0.75rem; }
 .ta-buy-btn { display: block; text-align: center; padding: 0.75rem 1.5rem; border-radius: 0.5rem; font-family: var(--font); font-size: 0.9rem; font-weight: 700; text-decoration: none; background: #0B8A8A; color: #fff; transition: transform 0.15s, box-shadow 0.15s; }
 .ta-buy-btn--gold { background: linear-gradient(135deg, #C9A96E, #B8945A); color: #0a0a16; }
 .ta-buy-btn--pink { background: var(--kerfuffle-pink); color: #fff; }
 .ta-buy-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,0.2); }
-.ta-table-card { background: var(--navy); border: 1px solid rgba(255,255,255,0.08); border-radius: var(--radius-xl); padding: 2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; }
+.ta-table-card { background: var(--navy); color: #fff; border: 1px solid rgba(255,255,255,0.08); border-radius: var(--radius-xl); padding: 2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; }
 .ta-table-card h4 { font-size: 1.5rem; font-weight: 700; color: #fff; font-style: italic; margin-bottom: 0.75rem; }
-.ta-table-card p { font-size: 0.85rem; color: rgba(255,255,255,0.5); line-height: 1.6; margin-bottom: 1rem; }
+.ta-table-card p { font-size: 0.85rem; color: rgba(255,255,255,0.65); line-height: 1.6; margin-bottom: 1rem; }
 .ta-table-card__right { text-align: center; }
 @media (max-width: 960px) { .ta-tickets__grid { grid-template-columns: 1fr; max-width: 420px; margin-inline: auto; } }
 @media (max-width: 768px) { .ta-table-card { grid-template-columns: 1fr; text-align: center; } .ta-table-card__right { margin-top: 1rem; } }
