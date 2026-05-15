@@ -1070,18 +1070,6 @@
  <input class="gate-input" type="text" id="gate-postcode" name="postcode" placeholder="GU1 1AA" autocomplete="postal-code">
  </div>
  <div class="gate-field full">
- <label class="gate-label" for="gate-source">How did you hear about us?</label>
- <select class="gate-input" id="gate-source" name="source">
- <option value="" disabled selected>Select an option</option>
- <option value="Email">Email</option>
- <option value="Website">Website</option>
- <option value="Social Media">Social Media</option>
- <option value="Word of Mouth">Word of Mouth</option>
- <option value="Conference">Conference</option>
- <option value="Other">Other</option>
- </select>
- </div>
- <div class="gate-field full">
  <div class="gate-error" id="gate-error" role="alert"></div>
  <button type="submit" class="gate-submit" id="gate-submit">
  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
@@ -1811,8 +1799,7 @@
  COMPANY: data.agency,
  PHONE: data.phone || '',
  POSTCODE: data.postcode || '',
- SOURCE: 'Toolkit Download',
- TOOLKIT_SOURCE: data.source || ''
+ SOURCE: 'Toolkit Download'
  },
  listIds: [],
  updateEnabled: true
@@ -1830,7 +1817,6 @@
  '<tr><td><strong>Agency:</strong></td><td>' + escapeHtml(data.agency) + '</td></tr>',
  '<tr><td><strong>Phone:</strong></td><td>' + escapeHtml(data.phone || '') + '</td></tr>',
  '<tr><td><strong>Postcode:</strong></td><td>' + escapeHtml(data.postcode || '') + '</td></tr>',
- '<tr><td><strong>Source:</strong></td><td>' + escapeHtml(data.source || '') + '</td></tr>',
  '</table>'
  ].join('');
 
@@ -1930,7 +1916,6 @@
  var agency = document.getElementById('gate-agency').value.trim();
  var phone = document.getElementById('gate-phone').value.trim();
  var postcode = document.getElementById('gate-postcode').value.trim();
- var source = document.getElementById('gate-source').value;
 
  // Basic validation
  if (!firstName) { showGateError('Please enter your first name.'); return; }
