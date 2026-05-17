@@ -1062,8 +1062,8 @@
  <input class="gate-input" type="text" id="gate-agency" name="agencyName" placeholder="Smith &amp; Partners Estate Agents" required autocomplete="organization">
  </div>
  <div class="gate-field">
- <label class="gate-label" for="gate-phone">Phone <span class="req">*</span></label>
- <input class="gate-input" type="tel" id="gate-phone" name="phone" placeholder="07700 900 123" required autocomplete="tel">
+ <label class="gate-label" for="gate-phone">UK Mobile <span class="req">*</span></label>
+ <input class="gate-input" type="tel" id="gate-phone" name="phone" placeholder="07700 900 123" required autocomplete="tel-national" inputmode="tel" pattern="^(\+?44|0)7\d{9}$">
  </div>
  <div class="gate-field">
  <label class="gate-label" for="gate-postcode">Postcode</label>
@@ -1921,7 +1921,13 @@
  if (!firstName) { showGateError('Please enter your first name.'); return; }
  if (!email || !/.+@.+\..+/.test(email)) { showGateError('Please enter a valid email address.'); return; }
  if (!agency) { showGateError('Please enter your agency name.'); return; }
- if (!phone) { showGateError('Please enter your phone number.'); return; }
+ // Mandatory UK mobile (hard rule across all Trusted Agent / Kerfuffle forms)
+ var phoneNormalized = phone.replace(/[\s()-]/g, '');
+ if (!/^(\+?44|0)7\d{9}$/.test(phoneNormalized)) {
+ showGateError('Please enter a valid UK mobile number (e.g. 07700 900 123).');
+ return;
+ }
+ phone = phoneNormalized;
 
  // Disable submit while processing
  gateSubmit.disabled = true;
