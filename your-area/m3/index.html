@@ -17,8 +17,10 @@
   .wrap { max-width:980px; margin:0 auto; padding:0 24px; }
   
   /* Hero */
-  .hero { background:var(--navy); color:#fff; padding:64px 0 56px; }
-  .hero .badge { display:inline-block; padding:4px 14px; border:1px solid var(--gold); color:var(--gold); border-radius:999px; font-size:12px; letter-spacing:0.12em; text-transform:uppercase; font-weight:600; margin-bottom:16px; }
+  .hero { background:var(--navy); color:#fff; padding:48px 0 56px; }
+  .hero-brand { display:flex; align-items:center; gap:14px; margin-bottom:18px; }
+  .hero-logo { height:48px; width:auto; display:block; }
+  .hero .badge { display:inline-block; padding:4px 14px; border:1px solid var(--gold); color:var(--gold); border-radius:999px; font-size:12px; letter-spacing:0.12em; text-transform:uppercase; font-weight:600; }
   .hero h1 { margin:0 0 8px; font-size:48px; letter-spacing:-0.02em; line-height:1.05; font-weight:700; }
   .hero h1 .pc { color:var(--gold); }
   .hero p.subtitle { margin:0 0 32px; font-size:18px; color:#cbd0db; max-width:600px; }
@@ -78,7 +80,10 @@
 
 <section class="hero">
   <div class="wrap">
-    <span class="badge">Trusted Agent · UK Estate Agent Stats</span>
+    <div class="hero-brand">
+      <img src="https://thetrustedagent.co.uk/ta-logo-header-2026.png" alt="Trusted Agent" class="hero-logo">
+      <span class="badge">UK Estate Agent Stats</span>
+    </div>
     <h1>Estate Agents in <span class="pc">M3</span></h1>
     <p class="subtitle">M3 — how the 37 estate agents in this area compare on Google reviews, star ratings, and customer engagement.</p>
     <div class="stats-grid">
@@ -94,12 +99,12 @@
       <div class="stat">
         <div class="stat-label">Avg Reviews</div>
         <div class="stat-value">201</div>
-        <div class="stat-sub">+93.0 vs UK</div>
+        <div class="stat-sub">+93 vs UK</div>
       </div>
       <div class="stat">
         <div class="stat-label">Avg Reply Rate</div>
         <div class="stat-value">39.4%</div>
-        <div class="stat-sub">-13.0 vs UK</div>
+        <div class="stat-sub">-13 vs UK</div>
       </div>
     </div>
   </div>
@@ -126,7 +131,7 @@
           <tr><td>Average reply rate</td>
               <td style="text-align:right"><b>39.4%</b></td>
               <td style="text-align:right">52.4%</td>
-              <td style="text-align:right"><span class="worse">-13.0%</span></td></tr>
+              <td style="text-align:right"><span class="worse">-13%</span></td></tr>
         </tbody>
       </table>
     </div>
