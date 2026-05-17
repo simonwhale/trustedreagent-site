@@ -56,6 +56,9 @@
   
   /* CTA */
   .cta-card { background:linear-gradient(135deg, var(--navy), #2d3a5a); color:#fff; padding:48px 32px; border-radius:16px; text-align:center; margin:48px 0; }
+  .cta-card.cta-missing { background:linear-gradient(135deg, #2a1f4a, #3d2e6b); margin-top:32px; }
+  .cta-card.cta-missing h3 { color:#fff; }
+  .cta-card.cta-missing p { color:#d0c8e4; }
   .cta-card h3 { font-size:28px; margin:0 0 12px; font-weight:700; }
   .cta-card p { font-size:17px; color:#cbd0db; max-width:500px; margin:0 auto 28px; }
   .cta-form { display:flex; gap:8px; max-width:480px; margin:0 auto; flex-wrap:wrap; }
@@ -200,6 +203,18 @@
       </ul>
     </div>
 
+    <div class="cta-card cta-missing">
+      <h3>Is your office missing?</h3>
+      <p>Don't see your office above? Tell us — we'll add you to the database, calculate your reputation score, and email you the report.</p>
+      <form class="cta-form" id="missing-form">
+        <input type="text" placeholder="Office name" name="office_name" required>
+        <input type="email" placeholder="Your office email" name="email" required>
+        <input type="tel" placeholder="Mobile (UK)" name="mobile" required pattern="^(\+?44|0)7\d{9}$">
+        <button type="submit">Add my office</button>
+      </form>
+      <div class="cta-msg" id="missing-msg"></div>
+    </div>
+
   </div>
 </section>
 
@@ -211,6 +226,23 @@
 </footer>
 
 <script>
+  // Helper for both CTAs
+  async function postLead(endpoint, payload, msgEl, formEl) {
+    try {
+      const r = await fetch(endpoint, {
+        method:'POST', headers:{'content-type':'application/json'},
+        body: JSON.stringify(payload)
+      });
+      const j = await r.json().catch(()=>({ok:true}));
+      msgEl.textContent = j.message || "Thanks — we'll be in touch shortly.";
+      msgEl.className = 'cta-msg show';
+      formEl.reset();
+    } catch(err) {
+      msgEl.textContent = "Couldn't send. Please try again or email trustedagent@kerfuffle.com.";
+      msgEl.className = 'cta-msg show';
+    }
+  }
+
   document.getElementById('register-form').addEventListener('submit', async (e) => {
     e.preventDefault();
     const email = e.target.email.value;
@@ -221,21 +253,33 @@
     if (!mobileRe.test(mobile.replace(/[\s()-]/g,''))) {
       msg.textContent = 'Please enter a valid UK mobile.'; msg.className = 'cta-msg show'; return;
     }
-    // Submit to /api/area-watch — endpoint to build later
-    try {
-      const r = await fetch('https://trusted-agent-hub-J7Lmug0KTO6Naibe2IDV8w.computer.perplexity.ai/api/area-watch', {
-        method:'POST', headers:{'content-type':'application/json'},
-        body: JSON.stringify({ email, mobile, outcode: 'SE16', source: 'outcode-landing-SE16' })
-      });
-      const j = await r.json().catch(()=>({ok:true}));
-      msg.textContent = j.message || "Thanks — we'll be in touch shortly.";
-      msg.className = 'cta-msg show';
-      e.target.reset();
-    } catch(err) {
-      msg.textContent = "Couldn't send. Please try again or email trustedagent@kerfuffle.com.";
-      msg.className = 'cta-msg show';
-    }
+    await postLead(
+      'https://trusted-agent-hub-J7Lmug0KTO6Naibe2IDV8w.computer.perplexity.ai/api/area-watch',
+      { email, mobile, outcode: 'SE16', source: 'outcode-landing-SE16-claim' },
+      msg, e.target
+    );
   });
+
+  // Missing office form
+  const missingForm = document.getElementById('missing-form');
+  if (missingForm) {
+    missingForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const officeName = e.target.office_name.value;
+      const email = e.target.email.value;
+      const mobile = e.target.mobile.value;
+      const msg = document.getElementById('missing-msg');
+      const mobileRe = /^(\+?44|0)7\d{9}$/;
+      if (!mobileRe.test(mobile.replace(/[\s()-]/g,''))) {
+        msg.textContent = 'Please enter a valid UK mobile.'; msg.className = 'cta-msg show'; return;
+      }
+      await postLead(
+        'https://trusted-agent-hub-J7Lmug0KTO6Naibe2IDV8w.computer.perplexity.ai/api/area-watch',
+        { email, mobile, office_name: officeName, outcode: 'SE16', source: 'outcode-landing-SE16-missing' },
+        msg, e.target
+      );
+    });
+  }
 </script>
 
 </body></html>
