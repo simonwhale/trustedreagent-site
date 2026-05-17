@@ -889,9 +889,10 @@
     btn.disabled = true;
     btn.textContent = 'Sending…';
 
-    // Fire-and-(near)forget. We always reveal the report on success OR on network failure,
-    // because the report is genuinely free and we'd rather lose a lead than gate a real reader behind a transient outage.
-    var endpoint = 'https://formsubmit.co/ajax/trustedagent@kerfuffle.com';
+    // Submit to the Trusted Agent Hub (Render). On a clean 200 we land the contact in Brevo list 97 + DB.
+    // On a 400 we surface the field error to the user (e.g. invalid mobile).
+    // On network failure we still reveal the report — the report is free and we'd rather lose a lead than gate a real reader.
+    var endpoint = 'https://trusted-agent-hub.onrender.com/api/ebook/reputation-state-of-the-nation';
 
     var revealed = false;
     function reveal() {
@@ -917,6 +918,15 @@
     // Belt-and-braces: 6s timeout to reveal anyway
     var timer = setTimeout(reveal, 6000);
 
+    // Add UTM + referrer to the payload so the Hub can store source attribution
+    try {
+      var qs = new URLSearchParams(window.location.search);
+      data.utm_source   = qs.get('utm_source')   || '';
+      data.utm_medium   = qs.get('utm_medium')   || '';
+      data.utm_campaign = qs.get('utm_campaign') || '';
+      data.referrer     = document.referrer || '';
+    } catch (_) { /* no-op */ }
+
     try {
       var resp = await fetch(endpoint, {
         method: 'POST',
@@ -924,8 +934,23 @@
         body: JSON.stringify(data)
       });
       clearTimeout(timer);
-      // FormSubmit returns JSON on success; treat any non-network response as success
-      reveal();
+
+      if (resp.ok) {
+        reveal();
+      } else if (resp.status === 400) {
+        // Server-side field validation failed — keep the form visible and show the message.
+        try {
+          var errJson = await resp.json();
+          showError(errJson && errJson.message ? errJson.message : 'Please check your details and try again.');
+        } catch (_) {
+          showError('Please check your details and try again.');
+        }
+        btn.disabled = false;
+        btn.textContent = 'Get the full report';
+      } else {
+        // 5xx or anything else — still reveal so a real reader is never blocked
+        reveal();
+      }
     } catch (err) {
       clearTimeout(timer);
       // Network blocked — still let them in; the email may not have landed but their interest is real
