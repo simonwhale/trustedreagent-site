@@ -1166,7 +1166,7 @@ section { margin-bottom: 32px; }
         <div class="tier-swatch" style="background:var(--navy-light);"></div>
         <div class="tier-info">
           <div class="tier-name">Contenders</div>
-          <div class="tier-sub">Reputation Score &ge; 50 — close to qualifying</div>
+          <div class="tier-sub">Reputation Score &ge; 50 — above industry average</div>
         </div>
         <div>
           <div class="tier-count">47</div>
@@ -1198,8 +1198,7 @@ section { margin-bottom: 32px; }
       <div>
         <h3>Visualisation</h3>
         <div class="map-layer-list" id="layer-list">
-          <button class="layer-btn active" data-layer="tier"><span class="dot" style="background:var(--gold)"></span>Tier &amp; Winner pins</button>
-          <button class="layer-btn" data-layer="winners"><span class="dot" style="background:#0d9488"></span>Winner saturation (heatmap)</button>
+          <button class="layer-btn active" data-layer="locations"><span class="dot" style="background:var(--gold)"></span>Office locations</button>
           <button class="layer-btn" data-layer="reply"><span class="dot" style="background:#22c55e"></span>Reply rate (red → green)</button>
           <button class="layer-btn" data-layer="volume"><span class="dot" style="background:#dfc07a"></span>Review volume (circle size)</button>
           <button class="layer-btn" data-layer="stars"><span class="dot" style="background:#dc2626"></span>Star rating (red → gold)</button>
@@ -1210,9 +1209,7 @@ section { margin-bottom: 32px; }
         <div class="map-tier-legend">
           <div class="row"><div class="swatch" style="background:#C9A96E"></div>Platinum</div>
           <div class="row"><div class="swatch" style="background:#8c6f2f"></div>Gold</div>
-          <div class="row"><div class="swatch" style="background:#0d9488"></div>Winner</div>
-          <div class="row"><div class="swatch" style="background:#3b82f6"></div>Contender</div>
-          <div class="row"><div class="swatch" style="background:#9ca3af"></div>Foundation</div>
+          <div class="row"><div class="swatch" style="background:#C9A35C"></div>EweMove office</div>
         </div>
       </div>
       <div style="margin-top:auto;font-size:11px;color:rgba(255,255,255,0.45);line-height:1.5;">
@@ -1299,16 +1296,15 @@ section { margin-bottom: 32px; }
             <th>Office Name</th>
             <th>Postcode</th>
             <th>Score</th>
-            <th>Tier</th>
             <th style="text-align:right;">Reviews</th>
             <th style="text-align:right;">Reply Rate</th>
             <th style="text-align:center;">Trend</th>
           </tr>
         </thead>
         <tbody>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">1</td>
-      <td class="name-cell">EweMove Leighton Buzzard<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Leighton Buzzard</td>
       <td>LU7 1DA</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1316,7 +1312,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">98</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">439</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -1331,14 +1326,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">98</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">185</td>
       <td class="num-cell">83%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">3</td>
-      <td class="name-cell">Mildenhall<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">Mildenhall</td>
       <td>IP28 7EF</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1346,14 +1340,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">97</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">88</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">4</td>
-      <td class="name-cell">EweMove Hinckley<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Hinckley</td>
       <td>BD19 4TE</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1361,14 +1354,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">97</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">93</td>
       <td class="num-cell">89%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">5</td>
-      <td class="name-cell">EweMove Harrogate &amp; Knaresborough<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Harrogate &amp; Knaresborough</td>
       <td>HG2</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1376,7 +1368,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">95</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">110</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -1391,14 +1382,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">95</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">133</td>
       <td class="num-cell">89%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">7</td>
-      <td class="name-cell">EweMove Sheffield South West<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Sheffield South West</td>
       <td>S2 4HL</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1406,14 +1396,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">93</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">166</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">8</td>
-      <td class="name-cell">EweMove North Devon<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove North Devon</td>
       <td>EX32 8LS</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1421,14 +1410,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">93</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">304</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">9</td>
-      <td class="name-cell">EweMove Cambridge West<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Cambridge West</td>
       <td>CB23</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1436,14 +1424,13 @@ section { margin-bottom: 32px; }
           <span class="score-num">93</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">146</td>
       <td class="num-cell">97%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">10</td>
-      <td class="name-cell">EweMove Yeovil<span class="winner-badge">Winner</span></td>
+      <td class="name-cell">EweMove Yeovil</td>
       <td>BA20 1HE</td>
       <td class="score-cell">
         <div class="score-bar-wrap">
@@ -1451,7 +1438,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">93</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">174</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -1466,12 +1452,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">93</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">81</td>
       <td class="num-cell">78%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">12</td>
       <td class="name-cell">Newmarket &amp; Soham</td>
       <td>CB8</td>
@@ -1481,12 +1466,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">92</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">64</td>
       <td class="num-cell">97%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">13</td>
       <td class="name-cell">EweMove Stafford</td>
       <td>ST17 0UN</td>
@@ -1496,12 +1480,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">92</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">189</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">14</td>
       <td class="name-cell">EweMove Goole &amp; Selby</td>
       <td>YO8 8LZ</td>
@@ -1511,12 +1494,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">92</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">102</td>
       <td class="num-cell">90%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">15</td>
       <td class="name-cell">EweMove Beverley</td>
       <td>HU17 0PR</td>
@@ -1526,12 +1508,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">92</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">93</td>
       <td class="num-cell">77%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">16</td>
       <td class="name-cell">EweMove Cleckheaton</td>
       <td>HX3 7WG</td>
@@ -1541,12 +1522,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">92</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">71</td>
       <td class="num-cell">90%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">17</td>
       <td class="name-cell">EweMove Wymondham</td>
       <td>NR18 9RS</td>
@@ -1556,12 +1536,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">91</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">80</td>
       <td class="num-cell">89%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">18</td>
       <td class="name-cell">EweMove Bexleyheath</td>
       <td>DA7 5HD</td>
@@ -1571,12 +1550,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">90</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">297</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">19</td>
       <td class="name-cell">EweMove Consett &amp; Lanchester</td>
       <td>DH8</td>
@@ -1586,12 +1564,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">89</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">34</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">20</td>
       <td class="name-cell">EweMove Ebbsfleet Valley</td>
       <td>DA10</td>
@@ -1601,12 +1578,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">89</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">42</td>
       <td class="num-cell">98%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">21</td>
       <td class="name-cell">EweMove Ashby de la Zouch</td>
       <td>LE65</td>
@@ -1616,12 +1592,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">89</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">42</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">22</td>
       <td class="name-cell">EweMove Otley &amp; Guiseley</td>
       <td>LS21</td>
@@ -1631,12 +1606,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">118</td>
       <td class="num-cell">98%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">23</td>
       <td class="name-cell">EweMove Estate &amp; Lettings Agents in Tadley</td>
       <td>RG7 8RA</td>
@@ -1646,12 +1620,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">144</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">24</td>
       <td class="name-cell">EweMove Wigston &amp; Blaby</td>
       <td>LE18</td>
@@ -1661,12 +1634,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">71</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">25</td>
       <td class="name-cell">EweMove Stratford &amp; Forest Gate</td>
       <td>E15 1XH</td>
@@ -1676,12 +1648,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">157</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">26</td>
       <td class="name-cell">EweMove Barton-Under-Needwood</td>
       <td>DE13</td>
@@ -1691,12 +1662,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">138</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">27</td>
       <td class="name-cell">EweMove Spalding</td>
       <td>PE6 8FD</td>
@@ -1706,12 +1676,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">108</td>
       <td class="num-cell">89%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">28</td>
       <td class="name-cell">EweMove Benfleet &amp; Hadleigh</td>
       <td>SS7</td>
@@ -1721,12 +1690,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">88</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">39</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">29</td>
       <td class="name-cell">EweMove Basingstoke</td>
       <td>RG24 8AG</td>
@@ -1736,12 +1704,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">86</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">666</td>
       <td class="num-cell">97%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">30</td>
       <td class="name-cell">EweMove Wapping &amp; Bow</td>
       <td>E1W 3BA</td>
@@ -1751,12 +1718,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">86</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">56</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">31</td>
       <td class="name-cell">EweMove Abbey Wood &amp; Belvedere</td>
       <td>DA7</td>
@@ -1766,12 +1732,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">295</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">32</td>
       <td class="name-cell">Sale</td>
       <td>M33 3HQ</td>
@@ -1781,12 +1746,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">37</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">33</td>
       <td class="name-cell">EweMove Welling</td>
       <td>DA7 5HD</td>
@@ -1796,12 +1760,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">306</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">34</td>
       <td class="name-cell">EweMove Dartford &amp; Greenhithe</td>
       <td>DA7 5HD</td>
@@ -1811,12 +1774,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">306</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">35</td>
       <td class="name-cell">EweMove York</td>
       <td>YO26 6RW</td>
@@ -1826,12 +1788,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">292</td>
       <td class="num-cell">90%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">36</td>
       <td class="name-cell">Kenilworth</td>
       <td>CV8 1HH</td>
@@ -1841,12 +1802,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">26</td>
       <td class="num-cell">81%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">37</td>
       <td class="name-cell">EweMove Bramley &amp; Maltby</td>
       <td>s66</td>
@@ -1856,12 +1816,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">30</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">38</td>
       <td class="name-cell">EweMove Leamington Spa North &amp; Knowle</td>
       <td>CV32</td>
@@ -1871,12 +1830,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">39</td>
       <td class="name-cell">EweMove Stamford</td>
       <td>PE6 8FD</td>
@@ -1886,12 +1844,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">42</td>
       <td class="num-cell">76%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">40</td>
       <td class="name-cell">EweMove Orpington &amp; Chelsfield</td>
       <td>BR6 0SE</td>
@@ -1901,7 +1858,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">22</td>
       <td class="num-cell">77%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -1916,7 +1872,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">20</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -1931,12 +1886,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">85</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">28</td>
       <td class="num-cell">79%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">43</td>
       <td class="name-cell">EweMove St Helens</td>
       <td>WA10</td>
@@ -1946,12 +1900,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">167</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">44</td>
       <td class="name-cell">EweMove Folkestone &amp; Hawkinge</td>
       <td>CT18</td>
@@ -1961,12 +1914,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">147</td>
       <td class="num-cell">98%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">45</td>
       <td class="name-cell">EweMove Hebden Bridge</td>
       <td>HX7</td>
@@ -1976,12 +1928,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">191</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">46</td>
       <td class="name-cell">EweMove Taunton</td>
       <td>TA1</td>
@@ -1991,12 +1942,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">183</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">47</td>
       <td class="name-cell">EweMove Cheadle Hulme &amp; Wilmslow</td>
       <td>SK8</td>
@@ -2006,12 +1956,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">40</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">48</td>
       <td class="name-cell">EweMove Strood &amp; Rochester</td>
       <td>ME4</td>
@@ -2021,12 +1970,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">155</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">49</td>
       <td class="name-cell">EweMove Southend</td>
       <td>SS1 2SG</td>
@@ -2036,12 +1984,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">45</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">50</td>
       <td class="name-cell">EweMove Leicester North</td>
       <td>LE5</td>
@@ -2051,12 +1998,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">200</td>
       <td class="num-cell">99%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">51</td>
       <td class="name-cell">EweMove Morley &amp; Rothwell</td>
       <td>BD4</td>
@@ -2066,12 +2012,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">113</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">52</td>
       <td class="name-cell">EweMove Hyde &amp; Dukinfield</td>
       <td>SK14</td>
@@ -2081,7 +2026,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">157</td>
       <td class="num-cell">91%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2096,12 +2040,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">84</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">172</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">54</td>
       <td class="name-cell">EweMove Welwyn Garden City</td>
       <td>AL7</td>
@@ -2111,12 +2054,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">83</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">145</td>
       <td class="num-cell">65%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">55</td>
       <td class="name-cell">EweMove Exmouth</td>
       <td>EX8 1QJ</td>
@@ -2126,12 +2068,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">86</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">56</td>
       <td class="name-cell">EweMove Whitchurch &amp; Nantwich</td>
       <td>CW5</td>
@@ -2141,12 +2082,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">39</td>
       <td class="num-cell">72%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">57</td>
       <td class="name-cell">EweMove Bridgwater</td>
       <td>TA2</td>
@@ -2156,12 +2096,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">57</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">58</td>
       <td class="name-cell">EweMove Brighouse</td>
       <td>HD6</td>
@@ -2171,12 +2110,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">86</td>
       <td class="num-cell">83%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">59</td>
       <td class="name-cell">EweMove North Leeds</td>
       <td>LS17</td>
@@ -2186,12 +2124,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">96</td>
       <td class="num-cell">97%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">60</td>
       <td class="name-cell">EweMove Cheam &amp; Sutton</td>
       <td>SM1</td>
@@ -2201,12 +2138,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">64</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">61</td>
       <td class="name-cell">EweMove Colne Valley, Lindley &amp; Barkisland</td>
       <td>HD3</td>
@@ -2216,12 +2152,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">57</td>
       <td class="num-cell">88%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">62</td>
       <td class="name-cell">EweMove Grantham &amp; Sleaford</td>
       <td>NG33</td>
@@ -2231,12 +2166,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">107</td>
       <td class="num-cell">89%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">63</td>
       <td class="name-cell">EweMove Luton East</td>
       <td>LU2</td>
@@ -2246,7 +2180,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">96</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2261,12 +2194,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">82</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">60</td>
       <td class="num-cell">53%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">65</td>
       <td class="name-cell">EweMove Pocklington</td>
       <td>YO26 6RW</td>
@@ -2276,12 +2208,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">81</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">279</td>
       <td class="num-cell">92%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">66</td>
       <td class="name-cell">EweMove Hook</td>
       <td>RG24 8AG</td>
@@ -2291,7 +2222,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">81</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">662</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2306,7 +2236,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">81</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">58</td>
       <td class="num-cell">86%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2321,7 +2250,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">81</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">57</td>
       <td class="num-cell">84%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2336,12 +2264,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">81</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">22</td>
       <td class="num-cell">32%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">70</td>
       <td class="name-cell">EweMove Warwick &amp; Leamington Spa</td>
       <td>CV34</td>
@@ -2351,12 +2278,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">80</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">42</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">71</td>
       <td class="name-cell">EweMove Dronfield &amp; Barlborough</td>
       <td>S18</td>
@@ -2366,7 +2292,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">80</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">50</td>
       <td class="num-cell">96%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2381,7 +2306,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">80</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">39</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
@@ -2396,12 +2320,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">80</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">170</td>
       <td class="num-cell">18%</td>
       <td class="trend-cell"><span class="trend-up">↑</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">74</td>
       <td class="name-cell">EweMove Cirencester</td>
       <td>GL7 </td>
@@ -2411,12 +2334,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">157</td>
       <td class="num-cell">80%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">75</td>
       <td class="name-cell">EweMove Swindon</td>
       <td>GL7 5UA</td>
@@ -2426,12 +2348,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">194</td>
       <td class="num-cell">98%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">76</td>
       <td class="name-cell">Norwich North East</td>
       <td>NR6 6TU</td>
@@ -2441,12 +2362,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">21</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">77</td>
       <td class="name-cell">EweMove Worcester</td>
       <td>WR1 1EE</td>
@@ -2456,12 +2376,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">30</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">78</td>
       <td class="name-cell">EweMove Anston</td>
       <td>S25 2QH</td>
@@ -2471,7 +2390,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">45</td>
       <td class="num-cell">84%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2486,12 +2404,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">79</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">38</td>
       <td class="num-cell">79%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">80</td>
       <td class="name-cell">EweMove Cannock</td>
       <td>WS12</td>
@@ -2501,12 +2418,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">32</td>
       <td class="num-cell">88%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">81</td>
       <td class="name-cell">EweMove Tetbury &amp; Malmesbury</td>
       <td>GL7 5UA</td>
@@ -2516,12 +2432,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">56</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">82</td>
       <td class="name-cell">EweMove Northampton North</td>
       <td>NN6</td>
@@ -2531,12 +2446,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">81</td>
       <td class="num-cell">69%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">83</td>
       <td class="name-cell">EweMove Guildford</td>
       <td>GU4</td>
@@ -2546,7 +2460,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">34</td>
       <td class="num-cell">65%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2561,7 +2474,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">61</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2576,7 +2488,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">61</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2591,12 +2502,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">78</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">205</td>
       <td class="num-cell">17%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">87</td>
       <td class="name-cell">EweMove Horsforth Adel &amp; Chapel Allerton</td>
       <td>LS17</td>
@@ -2606,7 +2516,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">77</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">69</td>
       <td class="num-cell">94%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2621,7 +2530,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">77</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">32</td>
       <td class="num-cell">62%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2636,12 +2544,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">77</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">44</td>
       <td class="num-cell">59%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">90</td>
       <td class="name-cell">EweMove Sidcup</td>
       <td>DA15</td>
@@ -2651,7 +2558,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">76</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">284</td>
       <td class="num-cell">98%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2666,12 +2572,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">76</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">46</td>
       <td class="num-cell">2%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">92</td>
       <td class="name-cell">EweMove Todmorden &amp; Littleborough</td>
       <td>OL14</td>
@@ -2681,12 +2586,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">22</td>
       <td class="num-cell">82%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">93</td>
       <td class="name-cell">EweMove Washington &amp; Houghton le Spring</td>
       <td>NE38</td>
@@ -2696,7 +2600,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">14</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2711,7 +2614,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">24</td>
       <td class="num-cell">62%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2726,7 +2628,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">58</td>
       <td class="num-cell">22%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2741,7 +2642,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">27</td>
       <td class="num-cell">85%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2756,7 +2656,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">25</td>
       <td class="num-cell">60%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2771,12 +2670,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">75</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">102</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">99</td>
       <td class="name-cell">EweMove Hornchurch North<span class="dq-badge">Few Reviews</span></td>
       <td>RM11</td>
@@ -2786,7 +2684,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">74</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">5</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2801,12 +2698,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">73</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">53%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">101</td>
       <td class="name-cell">EweMove Wakefield</td>
       <td>HD3</td>
@@ -2816,12 +2712,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">44</td>
       <td class="num-cell">93%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">102</td>
       <td class="name-cell">EweMove Pontefract</td>
       <td>HD3</td>
@@ -2831,12 +2726,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">34</td>
       <td class="num-cell">97%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">103</td>
       <td class="name-cell">EweMove Coggeshall &amp; Braintree South</td>
       <td>CO6</td>
@@ -2846,12 +2740,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">25</td>
       <td class="num-cell">88%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">104</td>
       <td class="name-cell">EweMove Formby, Crosby &amp; Hightown</td>
       <td>L37</td>
@@ -2861,12 +2754,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">105</td>
       <td class="name-cell">EweMove Telford West</td>
       <td>TF1 1AF</td>
@@ -2876,12 +2768,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">11</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">106</td>
       <td class="name-cell">North Huddersfield &amp; Mirfield</td>
       <td>HD2 1LX</td>
@@ -2891,12 +2782,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">107</td>
       <td class="name-cell">EweMove Solihull</td>
       <td>SL1</td>
@@ -2906,7 +2796,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">19</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2921,7 +2810,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">71</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">20</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2936,12 +2824,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">70</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">10</td>
       <td class="num-cell">60%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">110</td>
       <td class="name-cell">EweMove Slough</td>
       <td>SL1</td>
@@ -2951,7 +2838,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">13</td>
       <td class="num-cell">77%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2966,7 +2852,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">12</td>
       <td class="num-cell">33%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2981,7 +2866,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">19</td>
       <td class="num-cell">16%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -2996,7 +2880,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">53%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3011,7 +2894,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">20%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3026,7 +2908,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">47%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3041,7 +2922,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">25</td>
       <td class="num-cell">12%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3056,7 +2936,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">69</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">10</td>
       <td class="num-cell">30%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3071,12 +2950,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">67</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">12</td>
       <td class="num-cell">25%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">119</td>
       <td class="name-cell">EweMove Chandlers Ford &amp; Eastleigh</td>
       <td>SO53</td>
@@ -3086,12 +2964,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">66</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">20</td>
       <td class="num-cell">95%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">120</td>
       <td class="name-cell">EweMove Nuthall &amp; Eastwood<span class="dq-badge">Few Reviews</span></td>
       <td>NG16</td>
@@ -3101,12 +2978,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">65</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">3</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">121</td>
       <td class="name-cell">EweMove Willerby<span class="dq-badge">Few Reviews</span></td>
       <td>HU15</td>
@@ -3116,12 +2992,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">65</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">2</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">122</td>
       <td class="name-cell">EweMove Chester West<span class="dq-badge">Few Reviews</span></td>
       <td>CH1</td>
@@ -3131,12 +3006,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">65</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">3</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">123</td>
       <td class="name-cell">EweMove Farnborough<span class="dq-badge">Few Reviews</span></td>
       <td>RD22</td>
@@ -3146,7 +3020,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">64</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">8</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3161,12 +3034,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">64</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">17</td>
       <td class="num-cell">53%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">125</td>
       <td class="name-cell">EweMove Astley &amp; Worsley<span class="dq-badge">Few Reviews</span></td>
       <td>M29 7EH</td>
@@ -3176,7 +3048,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">62</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">8</td>
       <td class="num-cell">75%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3191,12 +3062,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">62</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">18</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">127</td>
       <td class="name-cell">EweMove West Bridgford &amp; Ruddington<span class="dq-badge">Few Reviews</span></td>
       <td>NG11</td>
@@ -3206,7 +3076,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">60</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">4</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3221,7 +3090,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">58</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">8</td>
       <td class="num-cell">75%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3236,7 +3104,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">58</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">14</td>
       <td class="num-cell">21%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3251,12 +3118,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">56</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">7</td>
       <td class="num-cell">29%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">131</td>
       <td class="name-cell">EweMove Melton Mowbray</td>
       <td>NG13</td>
@@ -3266,12 +3132,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">53</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">10</td>
       <td class="num-cell">80%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">132</td>
       <td class="name-cell">EweMove East Leeds<span class="dq-badge">Few Reviews</span></td>
       <td>LS7</td>
@@ -3281,7 +3146,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">53</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">8</td>
       <td class="num-cell">75%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3296,7 +3160,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">53</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3311,7 +3174,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">52</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">15</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3326,7 +3188,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">52</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3341,7 +3202,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">52</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3356,7 +3216,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">52</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3371,7 +3230,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">50</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3386,7 +3244,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">50</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-contender">Contender</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3401,7 +3258,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">22</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3416,7 +3272,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">20</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3431,7 +3286,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3446,7 +3300,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3461,7 +3314,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3476,7 +3328,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3491,7 +3342,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3506,7 +3356,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3521,7 +3370,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3536,7 +3384,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3551,7 +3398,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">48</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3566,12 +3412,11 @@ section { margin-bottom: 32px; }
           <span class="score-num">46</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">21</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
     </tr>
-<tr class="winner-row">
+<tr class="">
       <td class="rank-cell">152</td>
       <td class="name-cell">EweMove North Fylde<span class="dq-badge">Few Reviews</span></td>
       <td>FY5</td>
@@ -3581,7 +3426,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">45</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-winner">Winner</span></td>
       <td class="num-cell">1</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3596,7 +3440,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">44</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">20</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3611,7 +3454,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">41</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">2</td>
       <td class="num-cell">100%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3626,7 +3468,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">41</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">5</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-flat">→</span></td>
@@ -3641,7 +3482,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3656,7 +3496,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3671,7 +3510,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3686,7 +3524,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3701,7 +3538,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3716,7 +3552,6 @@ section { margin-bottom: 32px; }
           <span class="score-num">0</span>
         </div>
       </td>
-      <td><span class="tier-pill tier-foundation">Foundation</span></td>
       <td class="num-cell">0</td>
       <td class="num-cell">0%</td>
       <td class="trend-cell"><span class="trend-down">↓</span></td>
@@ -3856,108 +3691,7 @@ section { margin-bottom: 32px; }
   </div>
 </section>
 
-<!-- 6. CLIMBERS & AT-RISK -->
-<section>
-  <div class="section-title">Climbers &amp; At-Risk</div>
-  <div class="two-col">
-    <div class="card">
-      <div class="card-header">
-        <div class="card-icon icon-green">🚀</div>
-        <div>
-          <div class="card-title">Climbers</div>
-          <div class="card-subtitle">Highest-scoring non-Winners — close to crossing the threshold</div>
-        </div>
-      </div>
-      <table class="mini-table">
-        <thead>
-          <tr>
-            <th>Office</th>
-            <th>Postcode</th>
-            <th style="text-align:right;">Score</th>
-            <th style="text-align:right;">Reply%</th>
-          </tr>
-        </thead>
-        <tbody>
-<tr>
-      <td class="name-cell">Winchester</td>
-      <td>SO23 0LD</td>
-      <td class="num-cell"><strong>98</strong></td>
-      <td class="num-cell">83%</td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Salisbury</td>
-      <td>SP1 3TS</td>
-      <td class="num-cell"><strong>95</strong></td>
-      <td class="num-cell">89%</td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Dorking &amp; Leatherhead</td>
-      <td>RH5</td>
-      <td class="num-cell"><strong>93</strong></td>
-      <td class="num-cell">78%</td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Peterborough West</td>
-      <td>PE3 6JH</td>
-      <td class="num-cell"><strong>85</strong></td>
-      <td class="num-cell">100%</td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Swindon South</td>
-      <td>SN5 7EX</td>
-      <td class="num-cell"><strong>85</strong></td>
-      <td class="num-cell">79%</td>
-    </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="card">
-      <div class="card-header">
-        <div class="card-icon icon-red">⚠️</div>
-        <div>
-          <div class="card-title">At-Risk Winners</div>
-          <div class="card-subtitle">Winners with data-quality flags — investigate before 26 June</div>
-        </div>
-      </div>
-      <table class="mini-table">
-        <thead>
-          <tr>
-            <th>Office</th>
-            <th style="text-align:right;">Score</th>
-            <th>Flag</th>
-          </tr>
-        </thead>
-        <tbody>
-<tr>
-      <td class="name-cell">EweMove North Fylde</td>
-      <td class="num-cell">45</td>
-      <td><span class="dq-inline">Few reviews</span></td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove East Leeds</td>
-      <td class="num-cell">53</td>
-      <td><span class="dq-inline">Few reviews</span></td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove West Bridgford &amp; Ruddington</td>
-      <td class="num-cell">60</td>
-      <td><span class="dq-inline">Few reviews</span></td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Astley &amp; Worsley</td>
-      <td class="num-cell">62</td>
-      <td><span class="dq-inline">Few reviews</span></td>
-    </tr>
-<tr>
-      <td class="name-cell">EweMove Farnborough</td>
-      <td class="num-cell">64</td>
-      <td><span class="dq-inline">Few reviews</span></td>
-    </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
+
 
 <!-- 7. ACTION PLAYBOOK -->
 <section>
@@ -3966,7 +3700,7 @@ section { margin-bottom: 32px; }
     <div class="playbook-card">
       <div class="playbook-number">1</div>
       <div class="playbook-title">Push reviews at these offices</div>
-      <div class="playbook-sub">Top 5 non-Winners by score — one more review push could cross the line</div>
+      <div class="playbook-sub">Top 5 offices on the cusp — one more review push could shift them up the league table</div>
       <ul class="office-list">
 <li><span class="office-name">Winchester</span> <span class="office-stat">Score 98</span></li>
 <li><span class="office-name">EweMove Salisbury</span> <span class="office-stat">Score 95</span></li>
@@ -3993,7 +3727,7 @@ section { margin-bottom: 32px; }
     <div class="playbook-card">
       <div class="playbook-number">3</div>
       <div class="playbook-title">Data quality check</div>
-      <div class="playbook-sub">9 Winners have data-quality flags — verify before the 26 June window closes</div>
+      <div class="playbook-sub">9 offices have data-quality flags — verify before the 26 June window closes</div>
       <ul class="office-list">
 <li><span class="office-name">EweMove North Fylde</span> <span class="office-stat">Score 45</span></li>
 <li><span class="office-name">EweMove East Leeds</span> <span class="office-stat">Score 53</span></li>
@@ -4118,16 +3852,16 @@ section { margin-bottom: 32px; }
       var reply = (o.va && o.va.replyRate != null) ? o.va.replyRate : o.replyRate;
       return '<div class="pop-name">'+o.name+'</div>'+
         '<div class="pop-row"><span>Score</span><b>'+(o.score != null ? o.score.toFixed(1) : '—')+'</b></div>'+
-        '<div class="pop-row"><span>Tier</span><b>'+(o.tier || '—')+'</b></div>'+
+        (o.tier || '—')+'</b></div>'+
         '<div class="pop-row"><span>Star rating</span><b>'+stars+'</b></div>'+
         '<div class="pop-row"><span>Reviews</span><b>'+fmt(Math.round(reviews))+'</b></div>'+
         '<div class="pop-row"><span>Reply rate</span><b>'+(reply != null ? Math.round(reply)+'%' : '—')+'</b></div>';
     }
 
-    // 1) Tier pins
+    // 1) Office locations — neutral pins (tier disclosure forbidden pre-7 July)
     offices.forEach(function(o){
-      var color = TIER_COLOR[o.tier] || '#9ca3af';
-      var size = o.isWinner ? 8 : 6;
+      var color = '#C9A35C'; // gold for every office, no tier reveal
+      var size = 7;
       var m = L.circleMarker([o.lat, o.lng], {
         radius: size,
         fillColor: color,
@@ -4200,11 +3934,10 @@ section { margin-bottom: 32px; }
 
     function setLayer(name){
       if (activeLayer && map.hasLayer(activeLayer)) map.removeLayer(activeLayer);
-      if (name === 'tier')    activeLayer = tierLayer;
+      if (name === 'locations')    activeLayer = tierLayer;
       else if (name === 'reply')   activeLayer = replyLayer;
       else if (name === 'volume')  activeLayer = volLayer;
       else if (name === 'stars')   activeLayer = starLayer;
-      else if (name === 'winners') activeLayer = buildHeatLayer() || tierLayer;
       if (activeLayer) activeLayer.addTo(map);
     }
 
