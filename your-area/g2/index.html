@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Estate Agent Stats for G2 — Trusted Agent</title>
+<meta name="description" content="See how estate agents in G2 (G2) compare on Google reviews, star ratings and reply rates. Average ratings, top performers, and where your office ranks.">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="/favicon.ico">
+<style>
+  :root {
+    --navy:#1A2238; --gold:#C9A35C; --gold-dim:#dfc07a; --cream:#faf8f3;
+    --ink:#1a1a2e; --muted:#666; --green:#10a34a; --red:#dc2626;
+    --bg:#f5f5f7; --card:#ffffff;
+  }
+  * { box-sizing:border-box; }
+  body { font-family: -apple-system, system-ui, "Segoe UI", Roboto, sans-serif; margin:0; background:var(--bg); color:var(--ink); -webkit-font-smoothing:antialiased; line-height:1.55; }
+  .wrap { max-width:980px; margin:0 auto; padding:0 24px; }
+  
+  /* Hero */
+  .hero { background:var(--navy); color:#fff; padding:64px 0 56px; }
+  .hero .badge { display:inline-block; padding:4px 14px; border:1px solid var(--gold); color:var(--gold); border-radius:999px; font-size:12px; letter-spacing:0.12em; text-transform:uppercase; font-weight:600; margin-bottom:16px; }
+  .hero h1 { margin:0 0 8px; font-size:48px; letter-spacing:-0.02em; line-height:1.05; font-weight:700; }
+  .hero h1 .pc { color:var(--gold); }
+  .hero p.subtitle { margin:0 0 32px; font-size:18px; color:#cbd0db; max-width:600px; }
+  
+  .stats-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; }
+  .stat { background:rgba(255,255,255,0.04); padding:16px; border-radius:8px; border-left:3px solid var(--gold); }
+  .stat-label { font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:#94a0b8; margin-bottom:4px; }
+  .stat-value { font-size:32px; font-weight:700; color:#fff; letter-spacing:-0.02em; }
+  .stat-sub { font-size:13px; color:var(--gold); margin-top:2px; }
+  @media (max-width:720px) {
+    .hero h1 { font-size:32px; } .stats-grid { grid-template-columns:repeat(2,1fr); }
+  }
+  
+  /* Sections */
+  section.body { padding:56px 0; }
+  h2 { font-size:28px; margin:0 0 24px; font-weight:700; letter-spacing:-0.01em; }
+  .card { background:var(--card); border-radius:12px; padding:24px; box-shadow:0 1px 3px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.06); margin-bottom:24px; }
+  
+  /* Comparison table */
+  table.compare { width:100%; border-collapse:collapse; }
+  table.compare th { text-align:left; font-size:12px; letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); border-bottom:1px solid #eee; padding:12px 8px; font-weight:600; }
+  table.compare td { padding:14px 8px; border-bottom:1px solid #f1f1f4; font-size:15px; }
+  table.compare tr:last-child td { border-bottom:none; }
+  .better { color:var(--green); font-weight:600; }
+  .worse { color:var(--red); font-weight:600; }
+  
+  /* Top 5 list */
+  .ranklist { list-style:none; padding:0; margin:0; }
+  .ranklist li { display:grid; grid-template-columns:36px 1fr auto; gap:14px; align-items:center; padding:14px 0; border-bottom:1px solid #f1f1f4; }
+  .ranklist li:last-child { border-bottom:none; }
+  .rank-num { font-size:22px; font-weight:700; color:var(--gold); text-align:center; }
+  .agent-name { font-weight:600; font-size:16px; color:var(--ink); }
+  .agent-meta { font-size:13px; color:var(--muted); margin-top:2px; }
+  .rep-pill { display:inline-block; padding:4px 10px; background:var(--cream); border:1px solid var(--gold-dim); border-radius:6px; font-size:13px; font-weight:600; color:#8b6914; white-space:nowrap; }
+  
+  /* CTA */
+  .cta-card { background:linear-gradient(135deg, var(--navy), #2d3a5a); color:#fff; padding:48px 32px; border-radius:16px; text-align:center; margin:48px 0; }
+  .cta-card h3 { font-size:28px; margin:0 0 12px; font-weight:700; }
+  .cta-card p { font-size:17px; color:#cbd0db; max-width:500px; margin:0 auto 28px; }
+  .cta-form { display:flex; gap:8px; max-width:480px; margin:0 auto; flex-wrap:wrap; }
+  .cta-form input { flex:1; min-width:200px; padding:14px 16px; border:0; border-radius:8px; font-size:15px; font-family:inherit; }
+  .cta-form button { background:var(--gold); color:var(--navy); border:0; padding:14px 24px; font-size:15px; font-weight:700; border-radius:8px; cursor:pointer; font-family:inherit; }
+  .cta-form button:hover { background:var(--gold-dim); }
+  .cta-msg { margin-top:16px; font-size:14px; color:var(--gold); display:none; }
+  .cta-msg.show { display:block; }
+  
+  /* Footer */
+  footer { background:var(--navy); color:#94a0b8; padding:32px 0; font-size:13px; text-align:center; }
+  footer a { color:var(--gold); text-decoration:none; }
+  footer a:hover { text-decoration:underline; }
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="badge">Trusted Agent · UK Estate Agent Stats</span>
+    <h1>Estate Agents in <span class="pc">G2</span></h1>
+    <p class="subtitle">G2 — how the 35 estate agents in this area compare on Google reviews, star ratings, and customer engagement.</p>
+    <div class="stats-grid">
+      <div class="stat">
+        <div class="stat-label">Offices</div>
+        <div class="stat-value">35</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Avg Rating</div>
+        <div class="stat-value">4.17★</div>
+        <div class="stat-sub">Same as UK avg</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Avg Reviews</div>
+        <div class="stat-value">53</div>
+        <div class="stat-sub">-55.0 vs UK</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Avg Reply Rate</div>
+        <div class="stat-value">44.0%</div>
+        <div class="stat-sub">-8.4 vs UK</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="body">
+  <div class="wrap">
+
+    <h2>How G2 compares to the UK average</h2>
+    <div class="card">
+      <table class="compare">
+        <thead>
+          <tr><th>Metric</th><th style="text-align:right">G2</th><th style="text-align:right">UK Average</th><th style="text-align:right">Difference</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Average Google star rating</td>
+              <td style="text-align:right"><b>4.17★</b></td>
+              <td style="text-align:right">4.43★</td>
+              <td style="text-align:right"><span class="worse">-0.3★</span></td></tr>
+          <tr><td>Average Google reviews per office</td>
+              <td style="text-align:right"><b>53</b></td>
+              <td style="text-align:right">108</td>
+              <td style="text-align:right"><span class="worse">-55</span></td></tr>
+          <tr><td>Average reply rate</td>
+              <td style="text-align:right"><b>44.0%</b></td>
+              <td style="text-align:right">52.4%</td>
+              <td style="text-align:right"><span class="worse">-8.4%</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Top performers in G2</h2>
+    <div class="card">
+      <ol class="ranklist">
+        
+        <li>
+          <div class="rank-num">1</div>
+          <div>
+            <div class="agent-name">DM Hall</div>
+            <div class="agent-meta">3.714285★ · 7 reviews · 29% reply rate</div>
+          </div>
+          <span class="rep-pill">Score 76</span>
+        </li>
+
+        <li>
+          <div class="rank-num">2</div>
+          <div>
+            <div class="agent-name">Knight Frank - Glasgow Sales</div>
+            <div class="agent-meta">4.0★ · 2 reviews · 0% reply rate</div>
+          </div>
+          <span class="rep-pill">Score 76</span>
+        </li>
+
+        <li>
+          <div class="rank-num">3</div>
+          <div>
+            <div class="agent-name">Gallus Sales and Lettings</div>
+            <div class="agent-meta">4.938461★ · 130 reviews · 87% reply rate</div>
+          </div>
+          <span class="rep-pill">Score 75</span>
+        </li>
+
+        <li>
+          <div class="rank-num">4</div>
+          <div>
+            <div class="agent-name">Robb Residential - Glasgow</div>
+            <div class="agent-meta">4.617328★ · 277 reviews · 54% reply rate</div>
+          </div>
+          <span class="rep-pill">Score 75</span>
+        </li>
+
+        <li>
+          <div class="rank-num">5</div>
+          <div>
+            <div class="agent-name">Arc Property Sales and Lettings Limited</div>
+            <div class="agent-meta">4.83★ · 100 reviews · 81% reply rate</div>
+          </div>
+          <span class="rep-pill">Score 73</span>
+        </li>
+      </ol>
+    </div>
+
+    <div class="cta-card">
+      <h3>Is your office on this list?</h3>
+      <p>Claim your office page free — see your full reputation score, what's lifting you, and what's holding you back. We email you a personalised report.</p>
+      <form class="cta-form" id="register-form">
+        <input type="email" placeholder="Your office email" name="email" required>
+        <input type="tel" placeholder="Mobile (UK)" name="mobile" required pattern="^(\+?44|0)7\d{9}$">
+        <button type="submit">Get my stats</button>
+      </form>
+      <div class="cta-msg" id="cta-msg"></div>
+    </div>
+
+    <h2>Why this matters</h2>
+    <div class="card">
+      <p>Our research across <strong>20,061 UK estate agent offices</strong> shows that brands with stronger reviews don't just look better — they sell more, faster, and lose fewer listings to withdrawal.</p>
+      <ul style="margin:16px 0 0; padding-left:20px; line-height:1.85;">
+        <li><strong>The 22-point gap:</strong> Low-rated agents (under 3★) lose 66% of listings to withdrawal. Top-rated agents (4.7–4.9★) lose just 44%.</li>
+        <li><strong>The 6× multiplier:</strong> Offices with 4.7–4.9★ ratings handle 6× more transactions per office per year than offices below 3★.</li>
+        <li><strong>Reply rate matters:</strong> The 47% of UK agents replying to fewer than half their reviews are leaving business on the table.</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Trusted Agent · The UK's most rigorous estate agent rating · 
+    <a href="/">Home</a> · <a href="/awards/">Awards 2026</a> · <a href="mailto:trustedagent@kerfuffle.com">Contact</a>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('register-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = e.target.email.value;
+    const mobile = e.target.mobile.value;
+    const msg = document.getElementById('cta-msg');
+    // Validate UK mobile
+    const mobileRe = /^(\+?44|0)7\d{9}$/;
+    if (!mobileRe.test(mobile.replace(/[\s()-]/g,''))) {
+      msg.textContent = 'Please enter a valid UK mobile.'; msg.className = 'cta-msg show'; return;
+    }
+    // Submit to /api/area-watch — endpoint to build later
+    try {
+      const r = await fetch('https://trusted-agent-hub-J7Lmug0KTO6Naibe2IDV8w.computer.perplexity.ai/api/area-watch', {
+        method:'POST', headers:{'content-type':'application/json'},
+        body: JSON.stringify({ email, mobile, outcode: 'G2', source: 'outcode-landing-G2' })
+      });
+      const j = await r.json().catch(()=>({ok:true}));
+      msg.textContent = j.message || "Thanks — we'll be in touch shortly.";
+      msg.className = 'cta-msg show';
+      e.target.reset();
+    } catch(err) {
+      msg.textContent = "Couldn't send. Please try again or email trustedagent@kerfuffle.com.";
+      msg.className = 'cta-msg show';
+    }
+  });
+</script>
+
+</body></html>
