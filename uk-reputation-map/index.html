@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The UK Reputation Map — Estate Agent Ratings by Postcode Area</title>
+<meta name="description" content="An interactive map of UK estate agent Google ratings, by postcode area. See how your area compares — and where the best and worst-rated agents in the country are.">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="The UK Reputation Map — Estate Agent Ratings by Postcode Area">
+<meta property="og:description" content="An interactive map of how UK estate agents are rated, by postcode area. From Reputation State of the Nation 2026.">
+<meta property="og:site_name" content="Trusted Agent">
+
+<!-- Snitcher -->
+<script>
+!function(e){"use strict";var t=e&&e.namespace;if(t&&e.profileId&&e.cdn){var i=window[t];if(i&&Array.isArray(i)||(i=window[t]=[]),!i.initialized&&!i._loaded)if(i._loaded)console&&console.warn("[Radar] Duplicate initialization attempted");else{i._loaded=!0;["track","page","identify","group","alias","ready","debug","on","off","once","trackClick","trackSubmit","trackLink","trackForm","pageview","screen","reset","register","setAnonymousId","addSourceMiddleware","addIntegrationMiddleware","addDestinationMiddleware","giveCookieConsent"].forEach((function(e){var a;i[e]=(a=e,function(){var e=window[t];if(e.initialized)return e[a].apply(e,arguments);var i=[].slice.call(arguments);return i.unshift(a),e.push(i),e})})),-1===e.apiEndpoint.indexOf("http")&&(e.apiEndpoint="https://"+e.apiEndpoint),i.bootstrap=function(){var t,i=document.createElement("script");i.async=!0,i.type="text/javascript",i.id="__radar__",i.setAttribute("data-settings",JSON.stringify(e)),i.src=[-1!==(t=e.cdn).indexOf("http")?"":"https://",t,"/releases/latest/radar.min.js"].join("");var a=document.scripts[0];a.parentNode.insertBefore(i,a)},i.bootstrap()}}else"undefined"!=typeof console&&console.error("[Radar] Configuration incomplete")}({
+  "apiEndpoint":"radar.snitcher.com","cdn":"cdn.snitcher.com","namespace":"Snitcher","profileId":"sOYa6Wlpyd"
+});
+</script>
+
+<style>
+:root{
+  --navy:#1A2238;
+  --gold:#C9A35C;
+  --gold-light:#dfc07a;
+  --cream:#faf8f3;
+  --ink:#1a1a2e;
+  --muted:#666;
+  --bg:#f5f5f7;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  font-family: -apple-system, system-ui, "Segoe UI", Roboto, sans-serif;
+  background:var(--bg); color:var(--ink); -webkit-font-smoothing:antialiased;
+  line-height:1.55;
+}
+.wrap { max-width:1160px; margin:0 auto; padding:0 24px; }
+.hero { background:var(--navy); color:#fff; padding:48px 0 40px; }
+.hero .badge { display:inline-block; padding:4px 14px; border:1px solid var(--gold); color:var(--gold); border-radius:999px; font-size:12px; letter-spacing:0.12em; text-transform:uppercase; font-weight:600; margin-bottom:14px; }
+.hero h1 { font-size:42px; letter-spacing:-0.02em; line-height:1.05; font-weight:700; margin-bottom:10px; }
+.hero p { font-size:17px; color:#cbd0db; max-width:640px; }
+
+section.body { padding:48px 0 64px; }
+.layout { display:grid; grid-template-columns: 1fr 320px; gap:32px; }
+@media (max-width:900px){
+  .layout{ grid-template-columns: 1fr; }
+}
+.map-card { background:#fff; border-radius:12px; padding:18px; box-shadow:0 1px 3px rgba(0,0,0,0.06); border:1px solid rgba(0,0,0,0.06); }
+.map-toolbar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+.metric-btn { padding:8px 14px; border:1px solid #e5e7eb; background:#fff; border-radius:6px; font-size:13px; cursor:pointer; font-weight:600; color:var(--ink); }
+.metric-btn.active { background:var(--navy); color:#fff; border-color:var(--navy); }
+.metric-btn:hover:not(.active) { background:#f3f4f6; }
+
+#map { width:100%; height:640px; background:#eef0f3; border-radius:8px; }
+#map svg { width:100%; height:100%; display:block; }
+.area-path { stroke:#fff; stroke-width:0.5; cursor:pointer; transition:opacity 0.15s; }
+.area-path:hover { opacity:0.7; stroke:var(--navy); stroke-width:1.5; }
+.tooltip {
+  position:fixed; z-index:100; background:var(--navy); color:#fff; padding:10px 14px;
+  border-radius:6px; font-size:13px; pointer-events:none; opacity:0; transition:opacity 0.15s;
+  box-shadow:0 4px 14px rgba(0,0,0,0.2); min-width:180px;
+}
+.tooltip.show { opacity:1; }
+.tooltip .area-name { font-weight:700; color:var(--gold); font-size:15px; margin-bottom:4px; }
+.tooltip .row { display:flex; justify-content:space-between; gap:12px; padding:2px 0; }
+.tooltip .row span:last-child { font-weight:600; }
+
+.legend-card { background:#fff; border-radius:12px; padding:20px; box-shadow:0 1px 3px rgba(0,0,0,0.06); border:1px solid rgba(0,0,0,0.06); height:fit-content; position:sticky; top:20px; }
+.legend-card h3 { font-size:16px; margin-bottom:14px; }
+.legend-bar { display:flex; height:24px; border-radius:4px; overflow:hidden; margin:8px 0; }
+.legend-bar div { flex:1; }
+.legend-scale { display:flex; justify-content:space-between; font-size:11px; color:var(--muted); margin-bottom:18px; }
+.legend-section { margin-top:18px; padding-top:18px; border-top:1px solid #f1f1f4; }
+.legend-section h4 { font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--muted); margin-bottom:10px; font-weight:600; }
+.legend-section ol { list-style:none; padding:0; counter-reset:item; }
+.legend-section li { counter-increment:item; padding:6px 0; font-size:13px; display:flex; align-items:center; gap:8px; border-bottom:1px solid #f1f1f4; }
+.legend-section li:before { content:counter(item)"."; color:var(--gold); font-weight:700; min-width:18px; }
+.legend-section .pc { font-weight:700; }
+.legend-section .stat { margin-left:auto; color:var(--muted); font-size:12px; }
+
+.insights { margin-top:48px; padding:32px; background:#fff; border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.06); border:1px solid rgba(0,0,0,0.06); }
+.insights h2 { font-size:24px; margin-bottom:14px; }
+.insights p { color:#444; margin:10px 0; }
+.cta { text-align:center; margin:48px 0 0; }
+.cta a { display:inline-block; background:var(--navy); color:#fff; padding:16px 32px; border-radius:8px; font-weight:700; text-decoration:none; font-size:16px; }
+.cta a:hover { background:#2d3a5a; }
+
+footer { background:var(--navy); color:#94a0b8; padding:32px 0; font-size:13px; text-align:center; margin-top:64px; }
+footer a { color:var(--gold); text-decoration:none; }
+</style>
+</head>
+
+<body>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="badge">Reputation State of the Nation · 2026</span>
+    <h1>The UK Reputation Map</h1>
+    <p>An interactive map of how UK estate agents are rated, by postcode area. Click any area to see the local averages — or pick a different metric to see who's leading and who's lagging.</p>
+  </div>
+</section>
+
+<section class="body">
+  <div class="wrap">
+    <div class="layout">
+
+      <div class="map-card">
+        <div class="map-toolbar">
+          <button class="metric-btn active" data-metric="avg_score">Star rating</button>
+          <button class="metric-btn" data-metric="avg_reply_rate">Reply rate</button>
+          <button class="metric-btn" data-metric="avg_reviews">Avg reviews/office</button>
+          <button class="metric-btn" data-metric="office_count">Office density</button>
+        </div>
+        <div id="map"></div>
+      </div>
+
+      <aside class="legend-card">
+        <h3 id="legend-title">Average Google star rating</h3>
+        <div class="legend-scale">
+          <span id="legend-low">Low</span>
+          <span id="legend-high">High</span>
+        </div>
+        <div class="legend-bar" id="legend-bar"></div>
+
+        <div class="legend-section">
+          <h4>Top 5 by selected metric</h4>
+          <ol id="top5"></ol>
+        </div>
+        <div class="legend-section">
+          <h4>Bottom 5</h4>
+          <ol id="bot5"></ol>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="insights">
+      <h2>What this tells you</h2>
+      <p>Star rating averages across postcode areas vary surprisingly little — most cluster between 4.2★ and 4.6★. But the spread on <strong>reply rate</strong> is much wider: top areas reply to 70% of reviews, the bottom 15% never reply.</p>
+      <p>The <strong>South-East corridor</strong> (Guildford, Reigate, Sutton, Bath) leads on both star rating and reply rate. The <strong>large metros</strong> (Manchester, Liverpool, Birmingham, Edinburgh) sit at the bottom — high volume but lower per-office reputation. The pattern is consistent: market-leading agents tend to be in commuter belts, not city centres.</p>
+      <p>The fullest analysis is in <a href="/reputation-state-of-the-nation/">Reputation State of the Nation 2026</a>.</p>
+    </div>
+
+    <div class="cta">
+      <a href="/reputation-state-of-the-nation/">Get the full report →</a>
+    </div>
+
+  </div>
+</section>
+
+<div class="tooltip" id="tooltip"></div>
+
+<footer>
+  <div class="wrap">
+    Trusted Agent · UK Estate Agent Reputation Rating ·
+    <a href="/">Home</a> · <a href="/your-area/">Stats by Area</a> · <a href="/reputation-state-of-the-nation/">The Report</a> · <a href="mailto:trustedagent@kerfuffle.com">Contact</a>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script>
+// Stats embedded
+const AREA_STATS = {"AB": {"avg_reply_rate": 41.0, "avg_reviews": 63.0, "avg_score": 4.15, "office_count": 60}, "AL": {"avg_reply_rate": 55.8, "avg_reviews": 132.0, "avg_score": 4.54, "office_count": 99}, "B": {"avg_reply_rate": 52.4, "avg_reviews": 116.0, "avg_score": 4.25, "office_count": 531}, "BA": {"avg_reply_rate": 48.2, "avg_reviews": 144.0, "avg_score": 4.62, "office_count": 101}, "BB": {"avg_reply_rate": 44.6, "avg_reviews": 90.0, "avg_score": 4.37, "office_count": 121}, "BD": {"avg_reply_rate": 51.4, "avg_reviews": 98.0, "avg_score": 4.37, "office_count": 124}, "BH": {"avg_reply_rate": 49.6, "avg_reviews": 98.0, "avg_score": 4.52, "office_count": 240}, "BL": {"avg_reply_rate": 52.0, "avg_reviews": 124.0, "avg_score": 4.51, "office_count": 98}, "BN": {"avg_reply_rate": 52.3, "avg_reviews": 98.0, "avg_score": 4.49, "office_count": 382}, "BR": {"avg_reply_rate": 53.0, "avg_reviews": 119.0, "avg_score": 4.51, "office_count": 138}, "BS": {"avg_reply_rate": 51.9, "avg_reviews": 161.0, "avg_score": 4.56, "office_count": 216}, "BT": {"avg_reply_rate": 42.0, "avg_reviews": 56.0, "avg_score": 4.36, "office_count": 501}, "CA": {"avg_reply_rate": 50.6, "avg_reviews": 71.0, "avg_score": 4.39, "office_count": 68}, "CB": {"avg_reply_rate": 53.9, "avg_reviews": 110.0, "avg_score": 4.34, "office_count": 162}, "CF": {"avg_reply_rate": 45.4, "avg_reviews": 108.0, "avg_score": 4.31, "office_count": 269}, "CH": {"avg_reply_rate": 52.4, "avg_reviews": 84.0, "avg_score": 4.42, "office_count": 178}, "CM": {"avg_reply_rate": 53.4, "avg_reviews": 108.0, "avg_score": 4.52, "office_count": 274}, "CO": {"avg_reply_rate": 50.8, "avg_reviews": 106.0, "avg_score": 4.54, "office_count": 186}, "CR": {"avg_reply_rate": 52.2, "avg_reviews": 122.0, "avg_score": 4.46, "office_count": 132}, "CT": {"avg_reply_rate": 54.0, "avg_reviews": 93.0, "avg_score": 4.33, "office_count": 191}, "CV": {"avg_reply_rate": 53.4, "avg_reviews": 92.0, "avg_score": 4.26, "office_count": 304}, "CW": {"avg_reply_rate": 52.6, "avg_reviews": 111.0, "avg_score": 4.47, "office_count": 110}, "DA": {"avg_reply_rate": 59.9, "avg_reviews": 135.0, "avg_score": 4.49, "office_count": 154}, "DD": {"avg_reply_rate": 40.1, "avg_reviews": 52.0, "avg_score": 4.14, "office_count": 45}, "DE": {"avg_reply_rate": 50.1, "avg_reviews": 88.0, "avg_score": 4.29, "office_count": 206}, "DG": {"avg_reply_rate": 44.8, "avg_reviews": 34.0, "avg_score": 4.33, "office_count": 23}, "DH": {"avg_reply_rate": 59.2, "avg_reviews": 85.0, "avg_score": 4.26, "office_count": 86}, "DL": {"avg_reply_rate": 50.8, "avg_reviews": 65.0, "avg_score": 4.32, "office_count": 88}, "DN": {"avg_reply_rate": 54.2, "avg_reviews": 89.0, "avg_score": 4.3, "office_count": 198}, "DT": {"avg_reply_rate": 55.4, "avg_reviews": 72.0, "avg_score": 4.45, "office_count": 79}, "DY": {"avg_reply_rate": 50.2, "avg_reviews": 96.0, "avg_score": 4.29, "office_count": 83}, "E": {"avg_reply_rate": 51.9, "avg_reviews": 139.0, "avg_score": 4.3, "office_count": 506}, "EC": {"avg_reply_rate": 47.2, "avg_reviews": 96.0, "avg_score": 4.31, "office_count": 139}, "EH": {"avg_reply_rate": 49.2, "avg_reviews": 80.0, "avg_score": 4.25, "office_count": 278}, "EN": {"avg_reply_rate": 43.2, "avg_reviews": 92.0, "avg_score": 4.37, "office_count": 139}, "EX": {"avg_reply_rate": 48.3, "avg_reviews": 73.0, "avg_score": 4.48, "office_count": 220}, "FK": {"avg_reply_rate": 44.0, "avg_reviews": 66.0, "avg_score": 4.38, "office_count": 62}, "FY": {"avg_reply_rate": 43.4, "avg_reviews": 109.0, "avg_score": 4.23, "office_count": 64}, "G": {"avg_reply_rate": 51.8, "avg_reviews": 69.0, "avg_score": 4.3, "office_count": 305}, "GL": {"avg_reply_rate": 52.9, "avg_reviews": 88.0, "avg_score": 4.57, "office_count": 208}, "GU": {"avg_reply_rate": 64.1, "avg_reviews": 134.0, "avg_score": 4.64, "office_count": 240}, "HA": {"avg_reply_rate": 46.0, "avg_reviews": 152.0, "avg_score": 4.33, "office_count": 159}, "HD": {"avg_reply_rate": 52.8, "avg_reviews": 118.0, "avg_score": 4.37, "office_count": 51}, "HG": {"avg_reply_rate": 60.2, "avg_reviews": 72.0, "avg_score": 4.6, "office_count": 54}, "HP": {"avg_reply_rate": 54.1, "avg_reviews": 132.0, "avg_score": 4.58, "office_count": 138}, "HR": {"avg_reply_rate": 39.8, "avg_reviews": 70.0, "avg_score": 4.43, "office_count": 40}, "HU": {"avg_reply_rate": 50.2, "avg_reviews": 90.0, "avg_score": 4.42, "office_count": 59}, "HX": {"avg_reply_rate": 50.1, "avg_reviews": 118.0, "avg_score": 4.25, "office_count": 25}, "IG": {"avg_reply_rate": 54.3, "avg_reviews": 100.0, "avg_score": 4.3, "office_count": 103}, "IP": {"avg_reply_rate": 59.7, "avg_reviews": 112.0, "avg_score": 4.51, "office_count": 155}, "IV": {"avg_reply_rate": 43.0, "avg_reviews": 45.0, "avg_score": 4.3, "office_count": 49}, "KA": {"avg_reply_rate": 59.6, "avg_reviews": 50.0, "avg_score": 4.37, "office_count": 59}, "KT": {"avg_reply_rate": 57.6, "avg_reviews": 134.0, "avg_score": 4.61, "office_count": 219}, "KW": {"avg_reply_rate": 69.4, "avg_reviews": 22.0, "avg_score": 4.71, "office_count": 6}, "KY": {"avg_reply_rate": 55.2, "avg_reviews": 62.0, "avg_score": 4.28, "office_count": 55}, "L": {"avg_reply_rate": 54.4, "avg_reviews": 121.0, "avg_score": 4.1, "office_count": 151}, "LA": {"avg_reply_rate": 60.2, "avg_reviews": 112.0, "avg_score": 4.56, "office_count": 63}, "LD": {"avg_reply_rate": 45.2, "avg_reviews": 42.0, "avg_score": 4.41, "office_count": 12}, "LE": {"avg_reply_rate": 54.1, "avg_reviews": 125.0, "avg_score": 4.48, "office_count": 243}, "LL": {"avg_reply_rate": 52.6, "avg_reviews": 56.0, "avg_score": 4.3, "office_count": 89}, "LN": {"avg_reply_rate": 52.2, "avg_reviews": 118.0, "avg_score": 4.34, "office_count": 52}, "LS": {"avg_reply_rate": 51.1, "avg_reviews": 117.0, "avg_score": 4.4, "office_count": 196}, "LU": {"avg_reply_rate": 58.4, "avg_reviews": 176.0, "avg_score": 4.41, "office_count": 68}, "M": {"avg_reply_rate": 47.7, "avg_reviews": 159.0, "avg_score": 4.13, "office_count": 268}, "ME": {"avg_reply_rate": 58.7, "avg_reviews": 124.0, "avg_score": 4.49, "office_count": 154}, "MK": {"avg_reply_rate": 50.9, "avg_reviews": 128.0, "avg_score": 4.41, "office_count": 162}, "ML": {"avg_reply_rate": 52.4, "avg_reviews": 70.0, "avg_score": 4.29, "office_count": 62}, "N": {"avg_reply_rate": 43.1, "avg_reviews": 143.0, "avg_score": 4.38, "office_count": 346}, "NE": {"avg_reply_rate": 52.7, "avg_reviews": 96.0, "avg_score": 4.36, "office_count": 217}, "NG": {"avg_reply_rate": 51.1, "avg_reviews": 159.0, "avg_score": 4.38, "office_count": 250}, "NN": {"avg_reply_rate": 58.8, "avg_reviews": 112.0, "avg_score": 4.46, "office_count": 176}, "NP": {"avg_reply_rate": 48.1, "avg_reviews": 120.0, "avg_score": 4.43, "office_count": 65}, "NR": {"avg_reply_rate": 56.3, "avg_reviews": 126.0, "avg_score": 4.55, "office_count": 185}, "NW": {"avg_reply_rate": 47.5, "avg_reviews": 125.0, "avg_score": 4.5, "office_count": 264}, "OL": {"avg_reply_rate": 48.8, "avg_reviews": 165.0, "avg_score": 4.6, "office_count": 64}, "OX": {"avg_reply_rate": 58.2, "avg_reviews": 126.0, "avg_score": 4.51, "office_count": 219}, "PA": {"avg_reply_rate": 46.5, "avg_reviews": 54.0, "avg_score": 4.35, "office_count": 52}, "PE": {"avg_reply_rate": 56.0, "avg_reviews": 112.0, "avg_score": 4.51, "office_count": 224}, "PH": {"avg_reply_rate": 30.0, "avg_reviews": 29.0, "avg_score": 4.21, "office_count": 26}, "PL": {"avg_reply_rate": 50.3, "avg_reviews": 94.0, "avg_score": 4.6, "office_count": 137}, "PO": {"avg_reply_rate": 61.7, "avg_reviews": 95.0, "avg_score": 4.56, "office_count": 186}, "PR": {"avg_reply_rate": 58.9, "avg_reviews": 140.0, "avg_score": 4.42, "office_count": 77}, "RG": {"avg_reply_rate": 58.8, "avg_reviews": 167.0, "avg_score": 4.58, "office_count": 238}, "RH": {"avg_reply_rate": 63.2, "avg_reviews": 133.0, "avg_score": 4.64, "office_count": 153}, "RM": {"avg_reply_rate": 54.8, "avg_reviews": 160.0, "avg_score": 4.49, "office_count": 126}, "S": {"avg_reply_rate": 54.3, "avg_reviews": 104.0, "avg_score": 4.29, "office_count": 319}, "SA": {"avg_reply_rate": 58.6, "avg_reviews": 72.0, "avg_score": 4.42, "office_count": 143}, "SE": {"avg_reply_rate": 50.8, "avg_reviews": 153.0, "avg_score": 4.49, "office_count": 427}, "SG": {"avg_reply_rate": 58.7, "avg_reviews": 81.0, "avg_score": 4.46, "office_count": 173}, "SK": {"avg_reply_rate": 45.3, "avg_reviews": 87.0, "avg_score": 4.35, "office_count": 195}, "SL": {"avg_reply_rate": 54.6, "avg_reviews": 97.0, "avg_score": 4.42, "office_count": 166}, "SM": {"avg_reply_rate": 60.3, "avg_reviews": 180.0, "avg_score": 4.69, "office_count": 70}, "SN": {"avg_reply_rate": 52.1, "avg_reviews": 98.0, "avg_score": 4.51, "office_count": 133}, "SO": {"avg_reply_rate": 61.4, "avg_reviews": 102.0, "avg_score": 4.4, "office_count": 215}, "SP": {"avg_reply_rate": 50.2, "avg_reviews": 85.0, "avg_score": 4.47, "office_count": 72}, "SR": {"avg_reply_rate": 50.1, "avg_reviews": 71.0, "avg_score": 4.4, "office_count": 43}, "SS": {"avg_reply_rate": 59.1, "avg_reviews": 118.0, "avg_score": 4.54, "office_count": 147}, "ST": {"avg_reply_rate": 55.4, "avg_reviews": 109.0, "avg_score": 4.39, "office_count": 146}, "SW": {"avg_reply_rate": 50.4, "avg_reviews": 137.0, "avg_score": 4.54, "office_count": 710}, "SY": {"avg_reply_rate": 38.7, "avg_reviews": 50.0, "avg_score": 4.34, "office_count": 113}, "TA": {"avg_reply_rate": 54.0, "avg_reviews": 81.0, "avg_score": 4.53, "office_count": 123}, "TD": {"avg_reply_rate": 55.1, "avg_reviews": 24.0, "avg_score": 4.4, "office_count": 33}, "TF": {"avg_reply_rate": 45.0, "avg_reviews": 70.0, "avg_score": 4.41, "office_count": 64}, "TN": {"avg_reply_rate": 61.7, "avg_reviews": 85.0, "avg_score": 4.56, "office_count": 281}, "TQ": {"avg_reply_rate": 56.0, "avg_reviews": 79.0, "avg_score": 4.56, "office_count": 122}, "TR": {"avg_reply_rate": 49.7, "avg_reviews": 84.0, "avg_score": 4.62, "office_count": 105}, "TS": {"avg_reply_rate": 41.8, "avg_reviews": 75.0, "avg_score": 4.33, "office_count": 131}, "TW": {"avg_reply_rate": 55.2, "avg_reviews": 156.0, "avg_score": 4.46, "office_count": 202}, "UB": {"avg_reply_rate": 50.2, "avg_reviews": 151.0, "avg_score": 4.43, "office_count": 111}, "W": {"avg_reply_rate": 47.6, "avg_reviews": 109.0, "avg_score": 4.41, "office_count": 647}, "WA": {"avg_reply_rate": 49.3, "avg_reviews": 99.0, "avg_score": 4.42, "office_count": 156}, "WC": {"avg_reply_rate": 42.2, "avg_reviews": 79.0, "avg_score": 4.37, "office_count": 70}, "WD": {"avg_reply_rate": 47.8, "avg_reviews": 99.0, "avg_score": 4.48, "office_count": 92}, "WF": {"avg_reply_rate": 45.3, "avg_reviews": 87.0, "avg_score": 4.21, "office_count": 90}, "WN": {"avg_reply_rate": 43.4, "avg_reviews": 91.0, "avg_score": 4.22, "office_count": 55}, "WR": {"avg_reply_rate": 54.5, "avg_reviews": 91.0, "avg_score": 4.48, "office_count": 99}, "WS": {"avg_reply_rate": 52.1, "avg_reviews": 90.0, "avg_score": 4.38, "office_count": 86}, "WV": {"avg_reply_rate": 45.0, "avg_reviews": 127.0, "avg_score": 4.39, "office_count": 59}, "YO": {"avg_reply_rate": 55.1, "avg_reviews": 79.0, "avg_score": 4.37, "office_count": 180}};
+
+// Area name lookup (postcode area to human name)
+const AREA_NAMES = {
+  AB:"Aberdeen", AL:"St Albans", B:"Birmingham", BA:"Bath", BB:"Blackburn", BD:"Bradford", BH:"Bournemouth",
+  BL:"Bolton", BN:"Brighton", BR:"Bromley", BS:"Bristol", BT:"Belfast", CA:"Carlisle", CB:"Cambridge",
+  CF:"Cardiff", CH:"Chester", CM:"Chelmsford", CO:"Colchester", CR:"Croydon", CT:"Canterbury", CV:"Coventry",
+  CW:"Crewe", DA:"Dartford", DD:"Dundee", DE:"Derby", DG:"Dumfries", DH:"Durham", DL:"Darlington",
+  DN:"Doncaster", DT:"Dorchester", DY:"Dudley", E:"East London", EC:"East-Central London", EH:"Edinburgh",
+  EN:"Enfield", EX:"Exeter", FK:"Falkirk", FY:"Blackpool", G:"Glasgow", GL:"Gloucester", GU:"Guildford",
+  GY:"Guernsey", HA:"Harrow", HD:"Huddersfield", HG:"Harrogate", HP:"Hemel Hempstead", HR:"Hereford",
+  HS:"Outer Hebrides", HU:"Hull", HX:"Halifax", IG:"Ilford", IM:"Isle of Man", IP:"Ipswich", IV:"Inverness",
+  JE:"Jersey", KA:"Kilmarnock", KT:"Kingston", KW:"Kirkwall", KY:"Kirkcaldy", L:"Liverpool", LA:"Lancaster",
+  LD:"Llandrindod", LE:"Leicester", LL:"Llandudno", LN:"Lincoln", LS:"Leeds", LU:"Luton", M:"Manchester",
+  ME:"Medway", MK:"Milton Keynes", ML:"Motherwell", N:"North London", NE:"Newcastle", NG:"Nottingham",
+  NN:"Northampton", NP:"Newport", NR:"Norwich", NW:"North-West London", OL:"Oldham", OX:"Oxford",
+  PA:"Paisley", PE:"Peterborough", PH:"Perth", PL:"Plymouth", PO:"Portsmouth", PR:"Preston", RG:"Reading",
+  RH:"Reigate", RM:"Romford", S:"Sheffield", SA:"Swansea", SE:"South-East London", SG:"Stevenage",
+  SK:"Stockport", SL:"Slough", SM:"Sutton", SN:"Swindon", SO:"Southampton", SP:"Salisbury", SR:"Sunderland",
+  SS:"Southend", ST:"Stoke-on-Trent", SW:"South-West London", SY:"Shrewsbury", TA:"Taunton", TD:"Galashiels",
+  TF:"Telford", TN:"Tunbridge Wells", TQ:"Torquay", TR:"Truro", TS:"Teesside", TW:"Twickenham", UB:"Uxbridge",
+  W:"West London", WA:"Warrington", WC:"West-Central London", WD:"Watford", WF:"Wakefield", WN:"Wigan",
+  WR:"Worcester", WS:"Walsall", WV:"Wolverhampton", YO:"York", ZE:"Lerwick"
+};
+
+// Colour scales — gold gradient for "good metrics", pink/red gradient for "bad" or neutral
+const COLOR_SCALES = {
+  avg_score:     { lo:'#f1d6c5', hi:'#C9A35C', neutral:'#e8eaef' }, // pale gold to gold
+  avg_reply_rate:{ lo:'#fde2e2', hi:'#10a34a', neutral:'#e8eaef' }, // pale red to green
+  avg_reviews:   { lo:'#eef2ff', hi:'#3b82f6', neutral:'#e8eaef' }, // pale to blue
+  office_count:  { lo:'#f4f4f5', hi:'#1A2238', neutral:'#e8eaef' }, // pale grey to navy
+};
+
+const METRIC_LABELS = {
+  avg_score:     'Average Google star rating',
+  avg_reply_rate:'Average reply rate',
+  avg_reviews:   'Average reviews per office',
+  office_count:  'Number of offices',
+};
+const METRIC_FORMAT = {
+  avg_score:      v => v.toFixed(2) + '★',
+  avg_reply_rate: v => v.toFixed(1) + '%',
+  avg_reviews:    v => Math.round(v).toString(),
+  office_count:   v => v.toString(),
+};
+
+let currentMetric = 'avg_score';
+let topoData = null;
+
+async function init() {
+  const resp = await fetch('/uk-reputation-map/uk-postcode-areas.topojson');
+  topoData = await resp.json();
+  drawMap();
+}
+
+function getColor(metric, value, min, max) {
+  if (value == null) return COLOR_SCALES[metric].neutral;
+  const t = (value - min) / (max - min || 1);
+  const lo = d3.color(COLOR_SCALES[metric].lo);
+  const hi = d3.color(COLOR_SCALES[metric].hi);
+  return d3.interpolateRgb(lo, hi)(t);
+}
+
+function drawMap() {
+  const container = document.getElementById('map');
+  container.innerHTML = '';
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+
+  const svg = d3.select('#map').append('svg').attr('viewBox', `0 0 ${width} ${height}`);
+
+  // Project topology
+  const geo = topojson.feature(topoData, topoData.objects['uk-postcode-area']);
+  const projection = d3.geoMercator().fitSize([width, height], geo);
+  const path = d3.geoPath().projection(projection);
+
+  // Compute domain
+  const values = geo.features.map(f => AREA_STATS[f.id]?.[currentMetric]).filter(v => v != null);
+  const min = d3.min(values), max = d3.max(values);
+
+  // Draw paths
+  svg.selectAll('path')
+    .data(geo.features)
+    .enter().append('path')
+    .attr('class','area-path')
+    .attr('d', path)
+    .attr('fill', d => getColor(currentMetric, AREA_STATS[d.id]?.[currentMetric], min, max))
+    .on('mousemove', function(event, d) { showTooltip(event, d); })
+    .on('mouseleave', hideTooltip);
+
+  // Update legend
+  document.getElementById('legend-title').textContent = METRIC_LABELS[currentMetric];
+  document.getElementById('legend-low').textContent = METRIC_FORMAT[currentMetric](min);
+  document.getElementById('legend-high').textContent = METRIC_FORMAT[currentMetric](max);
+  const bar = document.getElementById('legend-bar');
+  bar.innerHTML = '';
+  for (let i = 0; i < 20; i++) {
+    const t = i / 19;
+    const c = d3.interpolateRgb(COLOR_SCALES[currentMetric].lo, COLOR_SCALES[currentMetric].hi)(t);
+    const div = document.createElement('div');
+    div.style.background = c;
+    bar.appendChild(div);
+  }
+
+  // Top/bottom 5
+  const sorted = Object.entries(AREA_STATS)
+    .filter(([k,v]) => v[currentMetric] != null)
+    .sort((a,b) => b[1][currentMetric] - a[1][currentMetric]);
+  const top5 = sorted.slice(0,5);
+  const bot5 = sorted.slice(-5).reverse();
+  renderRanking('top5', top5);
+  renderRanking('bot5', bot5);
+}
+
+function renderRanking(elId, rows) {
+  const ol = document.getElementById(elId);
+  ol.innerHTML = '';
+  rows.forEach(([area, stats]) => {
+    const li = document.createElement('li');
+    li.innerHTML = `<span class="pc">${area}</span> <span>${AREA_NAMES[area] || area}</span>` +
+                   `<span class="stat">${METRIC_FORMAT[currentMetric](stats[currentMetric])}</span>`;
+    ol.appendChild(li);
+  });
+}
+
+function showTooltip(event, d) {
+  const tt = document.getElementById('tooltip');
+  const s = AREA_STATS[d.id];
+  const name = AREA_NAMES[d.id] || d.id;
+  let html = `<div class="area-name">${d.id} · ${name}</div>`;
+  if (s) {
+    html += `<div class="row"><span>Star rating</span><span>${s.avg_score?.toFixed(2) ?? '—'}★</span></div>`;
+    html += `<div class="row"><span>Avg reviews</span><span>${s.avg_reviews ?? '—'}</span></div>`;
+    html += `<div class="row"><span>Reply rate</span><span>${s.avg_reply_rate?.toFixed(0) ?? '—'}%</span></div>`;
+    html += `<div class="row"><span>Offices</span><span>${s.office_count}</span></div>`;
+  } else {
+    html += `<div class="row"><span>—</span></div>`;
+  }
+  tt.innerHTML = html;
+  tt.style.left = (event.clientX + 14) + 'px';
+  tt.style.top  = (event.clientY + 14) + 'px';
+  tt.classList.add('show');
+}
+function hideTooltip() {
+  document.getElementById('tooltip').classList.remove('show');
+}
+
+document.querySelectorAll('.metric-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.metric-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentMetric = btn.dataset.metric;
+    drawMap();
+  });
+});
+
+window.addEventListener('resize', () => { if (topoData) drawMap(); });
+init();
+</script>
+
+</body></html>
