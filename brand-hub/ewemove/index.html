@@ -1224,6 +1224,172 @@ section { margin-bottom: 32px; }
   .calc-milestones { grid-template-columns: 1fr; }
 }
 
+/* ======================================================
+   HEAD-OFFICE OPS PANEL (RAG + Last Login + Gamification)
+====================================================== */
+.ops-summary {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.ops-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+@media (max-width: 760px) {
+  .ops-summary-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.ops-stat {
+  background: #f7f8fc;
+  border-radius: var(--radius-sm);
+  padding: 16px;
+  border-left: 3px solid #c8cdd5;
+}
+.ops-stat-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.1;
+}
+.ops-stat-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-top: 6px;
+}
+.ops-rag-red    { border-left-color: #dc2626; background: #fef2f2; }
+.ops-rag-red    .ops-stat-value { color: #dc2626; }
+.ops-rag-amber  { border-left-color: #d97706; background: #fffbeb; }
+.ops-rag-amber  .ops-stat-value { color: #b45309; }
+.ops-rag-green  { border-left-color: #16a34a; background: #f0fdf4; }
+.ops-rag-green  .ops-stat-value { color: #15803d; }
+.ops-summary-note {
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+}
+.ops-two-col { margin-bottom: 20px; }
+.ops-card-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  font-weight: 700;
+  color: var(--navy);
+  font-size: 14px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.ops-emoji { margin-right: 6px; font-size: 16px; }
+.ops-card-sub {
+  font-weight: 500;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+.ops-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.ops-table thead th {
+  background: #f7f8fc;
+  padding: 10px 14px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+.ops-table tbody tr { border-bottom: 1px solid #f0f1f5; }
+.ops-table tbody tr:last-child { border-bottom: none; }
+.ops-table tbody tr:hover { background: #f7f8fc; }
+.ops-table tbody td {
+  padding: 12px 14px;
+  color: var(--navy);
+  vertical-align: middle;
+}
+.ops-table .num-cell {
+  text-align: right;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.ops-rag-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.ops-rag-dot.RED   { background: #dc2626; }
+.ops-rag-dot.AMBER { background: #d97706; }
+.ops-rag-dot.GREEN { background: #16a34a; }
+.ops-flag-pill {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 100px;
+  margin: 1px 4px 1px 0;
+  white-space: nowrap;
+}
+.ops-flag-pill.RED   { background: #fee2e2; color: #991b1b; }
+.ops-flag-pill.AMBER { background: #fef3c7; color: #92400e; }
+.ops-full-table { padding: 0; }
+.ops-table-wrap {
+  max-height: 540px;
+  overflow-y: auto;
+}
+.ops-table.ops-full thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.ops-filters {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.ops-filter {
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.ops-filter:hover { color: var(--navy); }
+.ops-filter.is-active { background: var(--navy); color: #fff; border-color: var(--navy); }
+.ops-filter-red.is-active   { background: #dc2626; border-color: #dc2626; }
+.ops-filter-amber.is-active { background: #d97706; border-color: #d97706; }
+.ops-filter-green.is-active { background: #16a34a; border-color: #16a34a; }
+.ops-search {
+  font-family: inherit;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  min-width: 180px;
+}
+.ops-search:focus { outline: 2px solid var(--va-cyan); outline-offset: -1px; }
+.ops-mute { color: var(--text-light); font-weight: 500; }
+.ops-empty { padding: 20px; text-align: center; color: var(--text-muted); font-size: 13px; }
 </style>
 </head>
 <body>
@@ -3868,6 +4034,82 @@ section { margin-bottom: 32px; }
   </div>
 </section>
 
+<!-- ======================================================
+     6. HEAD-OFFICE OPS PANEL (RAG + Last Login + Gamification)
+====================================================== -->
+<section id="ops">
+  <div class="section-title">Head-Office Ops</div>
+  <div class="ops-summary card">
+    <div class="ops-summary-grid">
+      <div class="ops-stat ops-rag-red">
+        <div class="ops-stat-value" id="opsRed">0</div>
+        <div class="ops-stat-label">Offices needing attention</div>
+      </div>
+      <div class="ops-stat ops-rag-amber">
+        <div class="ops-stat-value" id="opsAmber">0</div>
+        <div class="ops-stat-label">Offices to watch</div>
+      </div>
+      <div class="ops-stat ops-rag-green">
+        <div class="ops-stat-value" id="opsGreen">0</div>
+        <div class="ops-stat-label">Offices performing well</div>
+      </div>
+      <div class="ops-stat">
+        <div class="ops-stat-value" id="opsNeverLogged">0</div>
+        <div class="ops-stat-label">Never logged in</div>
+      </div>
+    </div>
+    <div class="ops-summary-note" id="opsUpdated">—</div>
+  </div>
+
+  <div class="two-col ops-two-col">
+    <div class="card">
+      <div class="ops-card-title">
+        <span class="ops-emoji">🏆</span> Champions <span class="ops-card-sub">· most reviews this month</span>
+      </div>
+      <table class="ops-table" id="opsChampions">
+        <thead><tr><th>Office</th><th class="num-cell">Reviews 30d</th><th class="num-cell">Reply rate</th><th class="num-cell">Rep score</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="card">
+      <div class="ops-card-title">
+        <span class="ops-emoji">🚨</span> Needs head-office help <span class="ops-card-sub">· RED flags first</span>
+      </div>
+      <table class="ops-table" id="opsAtRisk">
+        <thead><tr><th>Office</th><th>Flags</th><th class="num-cell">Last login</th><th class="num-cell">Last review</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card ops-full-table">
+    <div class="ops-card-title">
+      <span>Full office RAG status</span>
+      <div class="ops-filters">
+        <button data-rag="ALL" class="ops-filter is-active">All</button>
+        <button data-rag="RED" class="ops-filter ops-filter-red">Red</button>
+        <button data-rag="AMBER" class="ops-filter ops-filter-amber">Amber</button>
+        <button data-rag="GREEN" class="ops-filter ops-filter-green">Green</button>
+        <input type="search" id="opsSearch" placeholder="Search office…" class="ops-search">
+      </div>
+    </div>
+    <div class="ops-table-wrap">
+      <table class="ops-table ops-full">
+        <thead><tr>
+          <th>Status</th><th>Office</th><th>Postcode</th>
+          <th class="num-cell">Rep score</th>
+          <th class="num-cell">Reviews 30d</th>
+          <th class="num-cell">Reply rate 90d</th>
+          <th class="num-cell">Last login</th>
+          <th class="num-cell">Last review</th>
+          <th>Flags</th>
+        </tr></thead>
+        <tbody id="opsFullTbody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
 
 
 <!-- 7. ACTION PLAYBOOK -->
@@ -3949,6 +4191,156 @@ section { margin-bottom: 32px; }
 <!-- ====================================================== -->
 <!--  V2 SCRIPT — MAP / PLATFORMS / CALCULATOR               -->
 <!-- ====================================================== -->
+<script>
+// ======================================================
+// HEAD-OFFICE OPS PANEL
+// ======================================================
+(function(){
+  'use strict';
+
+  function ago(iso) {
+    if (!iso) return null;
+    var d = new Date(iso);
+    if (isNaN(d)) return null;
+    var ms = Date.now() - d.getTime();
+    var days = Math.floor(ms / 86400000);
+    if (days < 0) return 'today';
+    if (days === 0) return 'today';
+    if (days === 1) return '1d ago';
+    if (days < 30) return days + 'd ago';
+    if (days < 365) return Math.floor(days / 30) + 'mo ago';
+    return Math.floor(days / 365) + 'y ago';
+  }
+
+  function pill(flag) {
+    return '<span class="ops-flag-pill ' + flag[0] + '" title="' + flag[2] + '">' + flag[2] + '</span>';
+  }
+
+  function pct(n) { return n == null ? '—' : n.toFixed(0) + '%'; }
+  function num(n) { return n == null ? '—' : String(n); }
+  function mute(s) { return '<span class="ops-mute">' + s + '</span>'; }
+
+  function render(data) {
+    var offices = data.offices || [];
+
+    // Summary tiles
+    var red = offices.filter(function(o){ return o.overall_rag === 'RED'; }).length;
+    var amber = offices.filter(function(o){ return o.overall_rag === 'AMBER'; }).length;
+    var green = offices.filter(function(o){ return o.overall_rag === 'GREEN'; }).length;
+    var neverLogged = offices.filter(function(o){ return o.days_since_login == null; }).length;
+    document.getElementById('opsRed').textContent = red;
+    document.getElementById('opsAmber').textContent = amber;
+    document.getElementById('opsGreen').textContent = green;
+    document.getElementById('opsNeverLogged').textContent = neverLogged;
+    var updatedFmt = '—';
+    if (data.updated) {
+      try {
+        var ud = new Date(data.updated);
+        if (!isNaN(ud)) updatedFmt = ud.toLocaleString('en-GB', {day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'});
+      } catch(e) {}
+    }
+    document.getElementById('opsUpdated').textContent = 'Data refreshed ' + updatedFmt + ' · ' + offices.length + ' offices in network';
+
+    // Champions: top 5 by reviews_30d (then reply_rate, then rep_score)
+    var champs = offices.slice().sort(function(a,b){
+      return (b.reviews_30d||0) - (a.reviews_30d||0)
+          || (b.reply_rate_90d||0) - (a.reply_rate_90d||0)
+          || (b.reputation_score||0) - (a.reputation_score||0);
+    }).slice(0, 5);
+    document.querySelector('#opsChampions tbody').innerHTML = champs.map(function(o){
+      return '<tr>'
+        + '<td>' + o.branch + '</td>'
+        + '<td class="num-cell">' + (o.reviews_30d||0) + '</td>'
+        + '<td class="num-cell">' + pct(o.reply_rate_90d) + '</td>'
+        + '<td class="num-cell">' + num(o.reputation_score) + '</td>'
+        + '</tr>';
+    }).join('');
+
+    // At-risk: RED first, ordered by worst signal (no recent review + no login)
+    var atrisk = offices.filter(function(o){ return o.overall_rag === 'RED'; }).sort(function(a,b){
+      // Worst = never logged in + no reviews + low rep
+      var aScore = (a.days_since_login == null ? 1000 : a.days_since_login)
+                 + (a.days_since_review == null ? 1000 : a.days_since_review)
+                 - (a.reputation_score || 0);
+      var bScore = (b.days_since_login == null ? 1000 : b.days_since_login)
+                 + (b.days_since_review == null ? 1000 : b.days_since_review)
+                 - (b.reputation_score || 0);
+      return bScore - aScore;
+    }).slice(0, 5);
+    document.querySelector('#opsAtRisk tbody').innerHTML = atrisk.map(function(o){
+      var flagsHtml = (o.flags || []).map(pill).join('');
+      return '<tr>'
+        + '<td>' + o.branch + '</td>'
+        + '<td>' + flagsHtml + '</td>'
+        + '<td class="num-cell">' + (o.last_login_iso ? ago(o.last_login_iso) : mute('never')) + '</td>'
+        + '<td class="num-cell">' + (o.last_review_at ? ago(o.last_review_at) : mute('none')) + '</td>'
+        + '</tr>';
+    }).join('');
+
+    // Full table
+    var fullTbody = document.getElementById('opsFullTbody');
+    var filterRag = 'ALL';
+    var search = '';
+
+    function renderFull() {
+      var q = search.toLowerCase();
+      var filtered = offices.filter(function(o){
+        if (filterRag !== 'ALL' && o.overall_rag !== filterRag) return false;
+        if (q && o.branch.toLowerCase().indexOf(q) === -1) return false;
+        return true;
+      });
+      // Sort: RED → AMBER → GREEN, then by reputation desc
+      var ragOrder = { RED: 0, AMBER: 1, GREEN: 2 };
+      filtered.sort(function(a,b){
+        return (ragOrder[a.overall_rag] - ragOrder[b.overall_rag])
+            || ((b.reputation_score||0) - (a.reputation_score||0));
+      });
+      if (!filtered.length) {
+        fullTbody.innerHTML = '<tr><td colspan="9" class="ops-empty">No offices match the current filter.</td></tr>';
+        return;
+      }
+      fullTbody.innerHTML = filtered.map(function(o){
+        var flagsHtml = (o.flags || []).slice(0, 3).map(pill).join('');
+        return '<tr>'
+          + '<td><span class="ops-rag-dot ' + o.overall_rag + '"></span>' + o.overall_rag + '</td>'
+          + '<td>' + o.branch + '</td>'
+          + '<td>' + (o.postcode || '—') + '</td>'
+          + '<td class="num-cell">' + num(o.reputation_score) + '</td>'
+          + '<td class="num-cell">' + (o.reviews_30d || 0) + '</td>'
+          + '<td class="num-cell">' + pct(o.reply_rate_90d) + '</td>'
+          + '<td class="num-cell">' + (o.last_login_iso ? ago(o.last_login_iso) : mute('never')) + '</td>'
+          + '<td class="num-cell">' + (o.last_review_at ? ago(o.last_review_at) : mute('none')) + '</td>'
+          + '<td>' + flagsHtml + '</td>'
+          + '</tr>';
+      }).join('');
+    }
+    renderFull();
+
+    document.querySelectorAll('.ops-filter').forEach(function(btn){
+      btn.addEventListener('click', function(){
+        document.querySelectorAll('.ops-filter').forEach(function(b){ b.classList.remove('is-active'); });
+        btn.classList.add('is-active');
+        filterRag = btn.dataset.rag;
+        renderFull();
+      });
+    });
+    document.getElementById('opsSearch').addEventListener('input', function(e){
+      search = e.target.value;
+      renderFull();
+    });
+  }
+
+  fetch('gamification.json', { cache: 'no-cache' })
+    .then(function(r){ return r.json(); })
+    .then(render)
+    .catch(function(err){
+      console.error('ops panel load failed', err);
+      var empty = document.querySelector('#opsFullTbody');
+      if (empty) empty.innerHTML = '<tr><td colspan="9" class="ops-empty">Could not load office data.</td></tr>';
+    });
+})();
+</script>
+
 <script>
 (function(){
   'use strict';
