@@ -524,15 +524,29 @@ section { margin-bottom: 32px; }
 .sat-bar-wrap {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+  width: 100%;
   min-width: 160px;
 }
 
 .sat-bar {
+  flex: 1 1 auto;
   height: 8px;
+  background: #e8eaf2;
+  border-radius: 100px;
+  position: relative;
+  overflow: hidden;
+  min-width: 0;
+}
+
+.sat-bar::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: var(--fill, 0%);
+  max-width: 100%;
   background: linear-gradient(90deg, var(--navy-light), var(--gold));
   border-radius: 100px;
-  flex-shrink: 0;
 }
 
 .sat-pct {
@@ -541,6 +555,9 @@ section { margin-bottom: 32px; }
   font-weight: 600;
   color: var(--navy);
   white-space: nowrap;
+  flex: 0 0 auto;
+  min-width: 36px;
+  text-align: right;
 }
 
 /* ======================================================
@@ -3582,7 +3599,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">2</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:100%"></div>
+          <div class="sat-bar" style="--fill:100%"></div>
           <span class="sat-pct">100%</span>
         </div>
       </td>
@@ -3593,7 +3610,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">22</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:67%"></div>
+          <div class="sat-bar" style="--fill:67%"></div>
           <span class="sat-pct">67%</span>
         </div>
       </td>
@@ -3604,7 +3621,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">21</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:62%"></div>
+          <div class="sat-bar" style="--fill:62%"></div>
           <span class="sat-pct">62%</span>
         </div>
       </td>
@@ -3615,7 +3632,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">8</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:62%"></div>
+          <div class="sat-bar" style="--fill:62%"></div>
           <span class="sat-pct">62%</span>
         </div>
       </td>
@@ -3626,7 +3643,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">16</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:57%"></div>
+          <div class="sat-bar" style="--fill:57%"></div>
           <span class="sat-pct">57%</span>
         </div>
       </td>
@@ -3637,7 +3654,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">10</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:53%"></div>
+          <div class="sat-bar" style="--fill:53%"></div>
           <span class="sat-pct">53%</span>
         </div>
       </td>
@@ -3648,7 +3665,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">11</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:50%"></div>
+          <div class="sat-bar" style="--fill:50%"></div>
           <span class="sat-pct">50%</span>
         </div>
       </td>
@@ -3659,7 +3676,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">2</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:33%"></div>
+          <div class="sat-bar" style="--fill:33%"></div>
           <span class="sat-pct">33%</span>
         </div>
       </td>
@@ -3670,7 +3687,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">0</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:0%"></div>
+          <div class="sat-bar" style="--fill:0%"></div>
           <span class="sat-pct">0%</span>
         </div>
       </td>
@@ -3681,7 +3698,7 @@ section { margin-bottom: 32px; }
       <td class="num-cell">0</td>
       <td>
         <div class="sat-bar-wrap">
-          <div class="sat-bar" style="width:0%"></div>
+          <div class="sat-bar" style="--fill:0%"></div>
           <span class="sat-pct">0%</span>
         </div>
       </td>
