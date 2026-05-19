@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EweMove Brand Hub — Trusted Agent 2025/26</title>
+<title>EweMove · View Agents Hub</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -11,6 +11,128 @@
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script defer src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
 <style>
+/* ======================================================
+   VIEW AGENTS MASTER HEADER
+====================================================== */
+.va-header {
+  background: #ffffff;
+  border-bottom: 1px solid var(--va-border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 1px 0 rgba(16,15,12,0.02);
+}
+.va-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 14px 24px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.va-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--va-ink);
+}
+.va-brand-logo {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+.va-brand-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--va-cyan);
+  background: rgba(14,168,194,0.10);
+  padding: 4px 8px;
+  border-radius: 6px;
+  line-height: 1;
+}
+.va-nav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.va-nav-link {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--va-muted);
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.va-nav-link:hover {
+  background: rgba(14,168,194,0.08);
+  color: var(--va-ink);
+}
+.va-nav-link.is-active {
+  color: var(--va-ink);
+  background: rgba(14,168,194,0.10);
+}
+.va-nav-link.va-nav-cta {
+  background: var(--va-cyan);
+  color: #ffffff;
+  margin-left: 8px;
+}
+.va-nav-link.va-nav-cta:hover {
+  background: var(--va-cyan-dark);
+  color: #ffffff;
+}
+.va-subheader {
+  background: #f5f7f9;
+  border-bottom: 1px solid var(--va-border);
+}
+.va-subheader-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 10px 24px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.va-crumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+.va-crumbs a {
+  color: var(--va-muted);
+  text-decoration: none;
+}
+.va-crumbs a:hover { color: var(--va-cyan); }
+.va-crumb-sep { color: #c8cdd5; }
+.va-crumb-current {
+  color: var(--va-ink);
+  font-weight: 700;
+}
+.va-context {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--va-muted);
+  letter-spacing: 0.04em;
+}
+@media (max-width: 760px) {
+  .va-header-inner { flex-direction: column; align-items: flex-start; gap: 10px; padding: 12px 16px; }
+  .va-nav { flex-wrap: wrap; gap: 2px; width: 100%; }
+  .va-nav-link { padding: 6px 10px; font-size: 12px; }
+  .va-subheader-inner { padding: 8px 16px; flex-direction: column; align-items: flex-start; gap: 6px; }
+}
+
 /* ======================================================
    RESET & BASE
 ====================================================== */
@@ -34,6 +156,13 @@ body {
   --gold: #c9a35c;
   --gold-light: #dfc07a;
   --gold-dim: rgba(201,163,92,0.15);
+  /* View Agents brand */
+  --va-cyan: #0ea8c2;
+  --va-cyan-dark: #0a8fa6;
+  --va-ink: #100f0c;
+  --va-bg: #ffffff;
+  --va-border: #e6e8ee;
+  --va-muted: #5b6573;
   --white: #ffffff;
   --bg: #f0f1f5;
   --card-bg: #ffffff;
@@ -1100,7 +1229,38 @@ section { margin-bottom: 32px; }
 <body>
 
 <!-- ======================================================
-     HERO
+     VIEW AGENTS MASTER HEADER
+====================================================== -->
+<header class="va-header">
+  <div class="va-header-inner container">
+    <a class="va-brand" href="https://www.viewagents.com/" aria-label="View Agents">
+      <img src="../assets/va-logo.svg" alt="View Agents" class="va-brand-logo">
+      <span class="va-brand-tag">Hub</span>
+    </a>
+    <nav class="va-nav" aria-label="Hub sections">
+      <a href="#performance" class="va-nav-link is-active">Performance</a>
+      <a href="#tiers" class="va-nav-link">Tiers</a>
+      <a href="#regional" class="va-nav-link">Regional</a>
+      <a href="#offices" class="va-nav-link">Offices</a>
+      <a href="https://www.viewagents.com/login" class="va-nav-link va-nav-cta">Client Login</a>
+    </nav>
+  </div>
+  <div class="va-subheader">
+    <div class="va-subheader-inner container">
+      <div class="va-crumbs">
+        <a href="/">View Agents Hub</a>
+        <span class="va-crumb-sep">›</span>
+        <a href="/brand-hub/">Brand Hubs</a>
+        <span class="va-crumb-sep">›</span>
+        <span class="va-crumb-current">EweMove</span>
+      </div>
+      <div class="va-context">2025/26 audit cycle</div>
+    </div>
+  </div>
+</header>
+
+<!-- ======================================================
+     HERO (Trusted Agent Brand Hub section)
 ====================================================== -->
 <div class="hero">
   <div class="hero-inner container">
