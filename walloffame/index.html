@@ -143,11 +143,10 @@
     box-shadow:0 0 0 3px rgba(233,30,140,.85);
   }
 
-  /* Overlay masking the baked-in '13 agents...' line in wall.png.
-     Sits BELOW the LL Estates card (which ends at ~y=88%) and covers
-     the text line at y=85-95.75%. Starting at 89% means a thin sliver
-     of the headline may remain visible behind the LL Estates card,
-     which is fine because LL Estates obscures it. */
+  /* Overlay masking the baked-in agent-count line at the bottom of
+     wall.png. Sits BELOW the LL Estates card (which ends at ~y=88%)
+     and covers the text strip at y=85-95.75%. Starting at 89% means
+     any sliver above is already obscured by the LL Estates card. */
   .wall-mask{
     position:absolute;
     left:0; top:89%; width:100%; height:8.5%;
@@ -310,7 +309,7 @@
        <span class="pill">CHECK IF I'M A WINNER &nearr;</span>
     </a>
 
-    <!-- Mask over baked-in '13 agents already showing the badge on their site' -->
+    <!-- Mask over baked-in agent-count line in wall.png -->
     <div class="wall-mask" aria-hidden="true"></div>
   </div>
 
