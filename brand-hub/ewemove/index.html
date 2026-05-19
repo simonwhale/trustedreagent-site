@@ -1225,6 +1225,89 @@ section { margin-bottom: 32px; }
 }
 
 /* ======================================================
+   CHAMPION OF THE MONTH
+====================================================== */
+.champion-card {
+  background: linear-gradient(135deg, #1e3a6e 0%, #0A1E3D 50%, #c9a35c 200%);
+  border-radius: var(--radius);
+  padding: 22px 28px;
+  margin-bottom: 20px;
+  color: #fff;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 24px;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(10,30,61,0.18);
+  position: relative;
+  overflow: hidden;
+}
+.champion-card::after {
+  content: "";
+  position: absolute;
+  top: -40%;
+  right: -10%;
+  width: 240px;
+  height: 240px;
+  background: radial-gradient(circle, rgba(201,163,92,0.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+.champion-medal {
+  font-size: 56px;
+  line-height: 1;
+  filter: drop-shadow(0 4px 10px rgba(201,163,92,0.4));
+}
+.champion-eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+.champion-name {
+  font-size: 28px;
+  font-weight: 800;
+  margin-top: 4px;
+  line-height: 1.1;
+}
+.champion-stats {
+  font-size: 13px;
+  color: rgba(255,255,255,0.75);
+  margin-top: 8px;
+}
+.champion-trophy-stats {
+  display: flex;
+  gap: 24px;
+  z-index: 1;
+}
+.champion-trophy-stat {
+  text-align: center;
+}
+.champion-trophy-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+}
+.champion-trophy-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.7);
+  margin-top: 4px;
+}
+@media (max-width: 760px) {
+  .champion-card { grid-template-columns: 1fr; text-align: center; }
+  .champion-trophy-stats { justify-content: center; }
+}
+
+/* Trend arrows */
+.ops-trend-up   { color: #16a34a; font-weight: 700; }
+.ops-trend-down { color: #dc2626; font-weight: 700; }
+.ops-trend-flat { color: var(--text-muted); }
+
+/* ======================================================
    HEAD-OFFICE OPS PANEL (RAG + Last Login + Gamification)
 ====================================================== */
 .ops-summary {
@@ -4039,6 +4122,31 @@ section { margin-bottom: 32px; }
 ====================================================== -->
 <section id="ops">
   <div class="section-title">Head-Office Ops</div>
+
+  <!-- CHAMPION OF THE MONTH -->
+  <div class="champion-card" id="championCard" style="display:none">
+    <div class="champion-medal">🥇</div>
+    <div class="champion-body">
+      <div class="champion-eyebrow">Champion of the month</div>
+      <div class="champion-name" id="championName">—</div>
+      <div class="champion-stats" id="championStats">—</div>
+    </div>
+    <div class="champion-trophy-stats">
+      <div class="champion-trophy-stat">
+        <div class="champion-trophy-num" id="championReviews">0</div>
+        <div class="champion-trophy-label">Reviews 30d</div>
+      </div>
+      <div class="champion-trophy-stat">
+        <div class="champion-trophy-num" id="championReplyRate">0%</div>
+        <div class="champion-trophy-label">Reply rate</div>
+      </div>
+      <div class="champion-trophy-stat">
+        <div class="champion-trophy-num" id="championRep">0</div>
+        <div class="champion-trophy-label">Rep score</div>
+      </div>
+    </div>
+  </div>
+
   <div class="ops-summary card">
     <div class="ops-summary-grid">
       <div class="ops-stat ops-rag-red">
@@ -4242,11 +4350,24 @@ section { margin-bottom: 32px; }
     document.getElementById('opsUpdated').textContent = 'Data refreshed ' + updatedFmt + ' · ' + offices.length + ' offices in network';
 
     // Champions: top 5 by reviews_30d (then reply_rate, then rep_score)
-    var champs = offices.slice().sort(function(a,b){
+    var allRanked = offices.slice().sort(function(a,b){
       return (b.reviews_30d||0) - (a.reviews_30d||0)
           || (b.reply_rate_90d||0) - (a.reply_rate_90d||0)
           || (b.reputation_score||0) - (a.reputation_score||0);
-    }).slice(0, 5);
+    });
+    var champs = allRanked.slice(0, 5);
+
+    // Champion of the month = #1 ranked
+    if (champs.length && (champs[0].reviews_30d||0) > 0) {
+      var ch = champs[0];
+      document.getElementById('championCard').style.display = 'grid';
+      document.getElementById('championName').textContent = ch.branch;
+      document.getElementById('championStats').textContent =
+        ch.postcode + ' · ' + (ch.total_reviews||0) + ' total reviews · ' + (ch.rating != null ? ch.rating.toFixed(2)+'★' : 'no rating');
+      document.getElementById('championReviews').textContent = ch.reviews_30d || 0;
+      document.getElementById('championReplyRate').textContent = pct(ch.reply_rate_90d);
+      document.getElementById('championRep').textContent = ch.reputation_score != null ? ch.reputation_score : '—';
+    }
     document.querySelector('#opsChampions tbody').innerHTML = champs.map(function(o){
       return '<tr>'
         + '<td>' + o.branch + '</td>'

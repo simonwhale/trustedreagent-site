@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-19T14:55:00",
+ "updated": "2026-05-19T14:51:22.620189Z",
  "offices": [
   {
    "office_id": 245253,
@@ -16,7 +16,7 @@
    "last_review_at": "2026-05-18T10:27:41.723000",
    "days_since_review": 1,
    "total_reviews": 314,
-   "reviews_30d": 16,
+   "reviews_30d": 15,
    "reviews_90d": 19,
    "replies_90d": 17,
    "reply_rate_90d": 89.47368421052632,
@@ -4229,12 +4229,12 @@
    "days_since_login": 4,
    "last_user": "MikeBailey",
    "last_email": "mike.bailey@ewemove.com",
-   "last_review_at": "2026-05-06T16:56:44.320000",
-   "days_since_review": 12,
-   "total_reviews": 192,
-   "reviews_30d": 3,
-   "reviews_90d": 12,
-   "replies_90d": 12,
+   "last_review_at": "2026-05-12T14:00:55.480000",
+   "days_since_review": 7,
+   "total_reviews": 211,
+   "reviews_30d": 6,
+   "reviews_90d": 31,
+   "replies_90d": 31,
    "reply_rate_90d": 100.0,
    "flags": [],
    "overall_rag": "GREEN"
@@ -5333,12 +5333,12 @@
    "days_since_login": 183,
    "last_user": "PaulGammage",
    "last_email": "paul.gammage@ewemove.com",
-   "last_review_at": "2026-05-15T01:40:17.467000",
+   "last_review_at": "2026-05-15T14:04:45.260000",
    "days_since_review": 4,
    "total_reviews": 182,
    "reviews_30d": 4,
-   "reviews_90d": 9,
-   "replies_90d": 9,
+   "reviews_90d": 11,
+   "replies_90d": 11,
    "reply_rate_90d": 100.0,
    "flags": [
     [
@@ -5377,5 +5377,6 @@
    ],
    "overall_rag": "AMBER"
   }
- ]
+ ],
+ "brand": "EweMove"
 }
