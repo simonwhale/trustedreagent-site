@@ -493,11 +493,21 @@ section { margin-bottom: 32px; }
   z-index: 10;
 }
 
+.leaderboard-table thead th {
+  cursor: pointer;
+  user-select: none;
+}
+.leaderboard-table thead th:hover {
+  background: rgba(255,255,255,0.04);
+}
 .leaderboard-table thead th:after {
   content: ' ⇅';
   color: rgba(255,255,255,0.3);
   font-size: 9px;
+  margin-left: 4px;
 }
+.leaderboard-table thead th.sort-asc:after  { content: ' ↑'; color: var(--gold); font-size: 11px; }
+.leaderboard-table thead th.sort-desc:after { content: ' ↓'; color: var(--gold); font-size: 11px; }
 
 .leaderboard-table tbody tr {
   border-bottom: 1px solid var(--border);
@@ -1349,6 +1359,28 @@ section { margin-bottom: 32px; }
 .ops-rag-amber  .ops-stat-value { color: #b45309; }
 .ops-rag-green  { border-left-color: #16a34a; background: #f0fdf4; }
 .ops-rag-green  .ops-stat-value { color: #15803d; }
+/* Clickable tiles — buttons reset, hover state, active filter state */
+button.ops-stat {
+  border: none;
+  border-left: 3px solid #c8cdd5;
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+  cursor: pointer;
+  transition: transform 0.12s, box-shadow 0.12s, filter 0.12s;
+}
+button.ops-stat:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(10,30,61,0.08);
+  filter: brightness(0.98);
+}
+button.ops-stat[aria-pressed="true"] {
+  box-shadow: 0 0 0 2px var(--navy) inset, 0 4px 14px rgba(10,30,61,0.12);
+  filter: brightness(1.02);
+}
+button.ops-stat.ops-rag-red[aria-pressed="true"]   { box-shadow: 0 0 0 2px #dc2626 inset, 0 4px 14px rgba(220,38,38,0.18); }
+button.ops-stat.ops-rag-amber[aria-pressed="true"] { box-shadow: 0 0 0 2px #d97706 inset, 0 4px 14px rgba(217,119,6,0.18); }
+button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a34a inset, 0 4px 14px rgba(22,163,74,0.18); }
 .ops-summary-note {
   margin-top: 14px;
   font-size: 12px;
@@ -1436,7 +1468,21 @@ section { margin-bottom: 32px; }
   position: sticky;
   top: 0;
   z-index: 2;
+  cursor: pointer;
+  user-select: none;
 }
+.ops-table.ops-full thead th[data-sort-key]:hover {
+  background: #ecedf4;
+  color: var(--navy);
+}
+.ops-table.ops-full thead th[data-sort-key]:after {
+  content: ' ⇅';
+  color: rgba(91,101,115,0.45);
+  font-size: 9px;
+  margin-left: 4px;
+}
+.ops-table.ops-full thead th.sort-asc:after  { content: ' ↑'; color: var(--navy); font-weight: 700; }
+.ops-table.ops-full thead th.sort-desc:after { content: ' ↓'; color: var(--navy); font-weight: 700; }
 .ops-filters {
   display: flex;
   gap: 6px;
@@ -1714,16 +1760,16 @@ section { margin-bottom: 32px; }
   <div class="section-title">Office Leaderboard &mdash; All 161 Offices</div>
   <div class="card" style="padding:0;overflow:hidden;">
     <div class="table-scroll">
-      <table class="leaderboard-table">
+      <table class="leaderboard-table" id="leaderboardTable">
         <thead>
           <tr>
-            <th style="text-align:center;">Rank</th>
-            <th>Office Name</th>
-            <th>Postcode</th>
-            <th>Score</th>
-            <th style="text-align:right;">Reviews</th>
-            <th style="text-align:right;">Reply Rate</th>
-            <th style="text-align:center;">Trend</th>
+            <th style="text-align:center;" data-sort="rank" data-type="num">Rank</th>
+            <th data-sort="name" data-type="str">Office Name</th>
+            <th data-sort="postcode" data-type="str">Postcode</th>
+            <th data-sort="score" data-type="num">Score</th>
+            <th style="text-align:right;" data-sort="reviews" data-type="num">Reviews</th>
+            <th style="text-align:right;" data-sort="reply" data-type="num">Reply Rate</th>
+            <th style="text-align:center;" data-sort="trend" data-type="trend">Trend</th>
           </tr>
         </thead>
         <tbody>
@@ -4148,22 +4194,22 @@ section { margin-bottom: 32px; }
 
   <div class="ops-summary card">
     <div class="ops-summary-grid">
-      <div class="ops-stat ops-rag-red">
+      <button type="button" class="ops-stat ops-rag-red"    data-filter="rag:RED"   aria-pressed="false" title="Click to filter the table below">
         <div class="ops-stat-value" id="opsRed">0</div>
         <div class="ops-stat-label">Offices needing attention</div>
-      </div>
-      <div class="ops-stat ops-rag-amber">
+      </button>
+      <button type="button" class="ops-stat ops-rag-amber"  data-filter="rag:AMBER" aria-pressed="false" title="Click to filter the table below">
         <div class="ops-stat-value" id="opsAmber">0</div>
         <div class="ops-stat-label">Offices to watch</div>
-      </div>
-      <div class="ops-stat ops-rag-green">
+      </button>
+      <button type="button" class="ops-stat ops-rag-green"  data-filter="rag:GREEN" aria-pressed="false" title="Click to filter the table below">
         <div class="ops-stat-value" id="opsGreen">0</div>
         <div class="ops-stat-label">Offices performing well</div>
-      </div>
-      <div class="ops-stat">
+      </button>
+      <button type="button" class="ops-stat"                data-filter="never"      aria-pressed="false" title="Click to filter the table below">
         <div class="ops-stat-value" id="opsNeverLogged">0</div>
         <div class="ops-stat-label">Never logged in</div>
-      </div>
+      </button>
     </div>
     <div class="ops-summary-note" id="opsUpdated">—</div>
   </div>
@@ -4201,15 +4247,17 @@ section { margin-bottom: 32px; }
       </div>
     </div>
     <div class="ops-table-wrap">
-      <table class="ops-table ops-full">
+      <table class="ops-table ops-full" id="opsFullTable">
         <thead><tr>
-          <th>Status</th><th>Office</th><th>Postcode</th>
-          <th class="num-cell">Rep score</th>
-          <th class="num-cell">Reviews 30d</th>
-          <th class="num-cell">Reply rate 90d</th>
-          <th class="num-cell">Last login</th>
-          <th class="num-cell">Last review</th>
-          <th>Flags</th>
+          <th data-sort-key="rag"           data-default-dir="asc"  data-type="rag">Status</th>
+          <th data-sort-key="branch"        data-default-dir="asc"  data-type="str">Office</th>
+          <th data-sort-key="postcode"      data-default-dir="asc"  data-type="str">Postcode</th>
+          <th class="num-cell" data-sort-key="reputation_score" data-default-dir="desc" data-type="num">Rep score</th>
+          <th class="num-cell" data-sort-key="reviews_30d"      data-default-dir="desc" data-type="num">Reviews 30d</th>
+          <th class="num-cell" data-sort-key="reply_rate_90d"   data-default-dir="desc" data-type="num">Reply rate 90d</th>
+          <th class="num-cell" data-sort-key="days_since_login" data-default-dir="desc" data-type="num">Last login</th>
+          <th class="num-cell" data-sort-key="days_since_review" data-default-dir="desc" data-type="num">Last review</th>
+          <th data-sort-key="flag_count"    data-default-dir="desc" data-type="num">Flags</th>
         </tr></thead>
         <tbody id="opsFullTbody"></tbody>
       </table>
@@ -4298,6 +4346,62 @@ section { margin-bottom: 32px; }
 <!-- ====================================================== -->
 <!--  V2 SCRIPT — MAP / PLATFORMS / CALCULATOR               -->
 <!-- ====================================================== -->
+<script>
+// ======================================================
+// LEADERBOARD TABLE SORTING
+// ======================================================
+(function(){
+  'use strict';
+  var tbl = document.getElementById('leaderboardTable');
+  if (!tbl) return;
+  var headers = tbl.querySelectorAll('thead th[data-sort]');
+  var tbody = tbl.querySelector('tbody');
+
+  function getCellValue(tr, idx, type) {
+    var cell = tr.children[idx];
+    if (!cell) return null;
+    var raw = cell.textContent.trim();
+    if (type === 'num') {
+      // Pull first numeric token
+      var m = raw.match(/-?\d+(\.\d+)?/);
+      return m ? parseFloat(m[0]) : -Infinity;
+    }
+    if (type === 'trend') {
+      // ↑ wins over ↓ over → / blank
+      if (raw.indexOf('↑') >= 0) return 2;
+      if (raw.indexOf('↓') >= 0) return 0;
+      return 1;
+    }
+    return raw.toLowerCase();
+  }
+
+  headers.forEach(function(th, idx) {
+    th.addEventListener('click', function() {
+      var type = th.dataset.type || 'str';
+      var current = th.classList.contains('sort-asc') ? 'asc' : (th.classList.contains('sort-desc') ? 'desc' : null);
+      // Default: numeric/trend sort descending first (highest first), strings ascending
+      var next = current === 'asc' ? 'desc' : (current === 'desc' ? 'asc' : (type === 'str' ? 'asc' : 'desc'));
+      headers.forEach(function(h){ h.classList.remove('sort-asc','sort-desc'); });
+      th.classList.add('sort-' + next);
+
+      var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+      rows.sort(function(a, b) {
+        var av = getCellValue(a, idx, type);
+        var bv = getCellValue(b, idx, type);
+        if (av === bv) return 0;
+        var cmp = av > bv ? 1 : -1;
+        return next === 'asc' ? cmp : -cmp;
+      });
+      // Re-append in sorted order
+      rows.forEach(function(r){ tbody.appendChild(r); });
+    });
+  });
+
+  // Default visual indicator: rank ascending (matches the initial server-side order)
+  if (headers[0]) headers[0].classList.add('sort-asc');
+})();
+</script>
+
 <script>
 // ======================================================
 // HEAD-OFFICE OPS PANEL
@@ -4436,18 +4540,149 @@ section { margin-bottom: 32px; }
     }
     renderFull();
 
+    var neverLoggedFilter = false;
+
+    function syncFilterUI() {
+      document.querySelectorAll('.ops-filter').forEach(function(b){
+        b.classList.toggle('is-active', b.dataset.rag === filterRag);
+      });
+      document.querySelectorAll('button.ops-stat').forEach(function(b){
+        var f = b.dataset.filter || '';
+        var on = false;
+        if (f.indexOf('rag:') === 0) on = (filterRag === f.slice(4));
+        else if (f === 'never') on = neverLoggedFilter;
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+    }
+
+    // Sort state — default: RED first then reputation desc
+    var sortKey = 'rag';
+    var sortDir = 'asc';
+
+    function compareBy(key, dir, type) {
+      var sign = dir === 'desc' ? -1 : 1;
+      var ragOrder = { RED: 0, AMBER: 1, GREEN: 2 };
+      return function(a, b) {
+        var av, bv;
+        if (key === 'rag') { av = ragOrder[a.overall_rag]; bv = ragOrder[b.overall_rag]; }
+        else if (key === 'flag_count') { av = (a.flags || []).length; bv = (b.flags || []).length; }
+        else { av = a[key]; bv = b[key]; }
+        // Null/undefined go to the bottom regardless of direction
+        var aNull = av == null || av === '';
+        var bNull = bv == null || bv === '';
+        if (aNull && bNull) return 0;
+        if (aNull) return 1;
+        if (bNull) return -1;
+        if (type === 'str') { av = String(av).toLowerCase(); bv = String(bv).toLowerCase(); }
+        if (av === bv) {
+          // Secondary tie-break by reputation desc
+          return (b.reputation_score || 0) - (a.reputation_score || 0);
+        }
+        return av < bv ? -1 * sign : 1 * sign;
+      };
+    }
+
+    function applyAll() {
+      // Combine the existing filterRag/search with the never-logged-in filter
+      var q = search.toLowerCase();
+      var filtered = offices.filter(function(o){
+        if (filterRag !== 'ALL' && o.overall_rag !== filterRag) return false;
+        if (neverLoggedFilter && o.days_since_login != null) return false;
+        if (q && o.branch.toLowerCase().indexOf(q) === -1) return false;
+        return true;
+      });
+      // Resolve sort type from header dataset
+      var th = document.querySelector('#opsFullTable thead th[data-sort-key="' + sortKey + '"]');
+      var sortType = th ? (th.dataset.type || 'str') : 'str';
+      filtered.sort(compareBy(sortKey, sortDir, sortType));
+      if (!filtered.length) {
+        fullTbody.innerHTML = '<tr><td colspan="9" class="ops-empty">No offices match the current filter.</td></tr>';
+        return;
+      }
+      fullTbody.innerHTML = filtered.map(function(o){
+        var flagsHtml = (o.flags || []).slice(0, 3).map(pill).join('');
+        return '<tr>'
+          + '<td><span class="ops-rag-dot ' + o.overall_rag + '"></span>' + o.overall_rag + '</td>'
+          + '<td>' + o.branch + '</td>'
+          + '<td>' + (o.postcode || '—') + '</td>'
+          + '<td class="num-cell">' + num(o.reputation_score) + '</td>'
+          + '<td class="num-cell">' + (o.reviews_30d || 0) + '</td>'
+          + '<td class="num-cell">' + pct(o.reply_rate_90d) + '</td>'
+          + '<td class="num-cell">' + (o.last_login_iso ? ago(o.last_login_iso) : mute('never')) + '</td>'
+          + '<td class="num-cell">' + (o.last_review_at ? ago(o.last_review_at) : mute('none')) + '</td>'
+          + '<td>' + flagsHtml + '</td>'
+          + '</tr>';
+      }).join('');
+    }
+    // Override the original renderFull with applyAll so existing handlers still work
+    renderFull = applyAll;
+    renderFull();
+
+    // Filter pill buttons (All/Red/Amber/Green)
     document.querySelectorAll('.ops-filter').forEach(function(btn){
       btn.addEventListener('click', function(){
-        document.querySelectorAll('.ops-filter').forEach(function(b){ b.classList.remove('is-active'); });
-        btn.classList.add('is-active');
         filterRag = btn.dataset.rag;
+        // Switching the rag filter clears the never-logged combined filter
+        if (filterRag !== 'ALL') neverLoggedFilter = false;
+        syncFilterUI();
         renderFull();
+        scrollToTable();
       });
     });
+
+    // Clickable summary tiles
+    document.querySelectorAll('button.ops-stat').forEach(function(btn){
+      btn.addEventListener('click', function(){
+        var f = btn.dataset.filter || '';
+        if (f.indexOf('rag:') === 0) {
+          var rag = f.slice(4);
+          // Toggle: clicking the same tile twice clears
+          if (filterRag === rag) { filterRag = 'ALL'; } else { filterRag = rag; neverLoggedFilter = false; }
+        } else if (f === 'never') {
+          neverLoggedFilter = !neverLoggedFilter;
+          if (neverLoggedFilter) filterRag = 'ALL';
+        }
+        syncFilterUI();
+        renderFull();
+        scrollToTable();
+      });
+    });
+
+    function scrollToTable() {
+      var tbl = document.querySelector('.ops-full-table');
+      if (tbl && tbl.scrollIntoView) tbl.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+
     document.getElementById('opsSearch').addEventListener('input', function(e){
       search = e.target.value;
       renderFull();
     });
+
+    // === Full RAG table header sorting ===
+    function syncSortIndicators() {
+      document.querySelectorAll('#opsFullTable thead th').forEach(function(h){
+        h.classList.remove('sort-asc','sort-desc');
+        if (h.dataset.sortKey === sortKey) h.classList.add('sort-' + sortDir);
+      });
+    }
+    document.querySelectorAll('#opsFullTable thead th[data-sort-key]').forEach(function(th){
+      th.addEventListener('click', function(){
+        var key = th.dataset.sortKey;
+        var defaultDir = th.dataset.defaultDir || 'asc';
+        if (sortKey === key) {
+          sortDir = (sortDir === 'asc') ? 'desc' : 'asc';
+        } else {
+          sortKey = key;
+          sortDir = defaultDir;
+        }
+        syncSortIndicators();
+        renderFull();
+      });
+    });
+    syncSortIndicators();
+
+    // Initial UI sync
+    syncFilterUI();
   }
 
   fetch('gamification.json', { cache: 'no-cache' })
