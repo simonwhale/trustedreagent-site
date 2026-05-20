@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brand Hubs · View Agents Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy: #0a1d3a; --navy-2: #142a52; --gold: #c9a35c;
+  --text: #0a1d3a; --text-light: #7088a4; --border: #eaecef; --bg: #f7f8fc;
+}
+* { box-sizing: border-box; }
+body { font-family: Inter, sans-serif; background: var(--bg); margin: 0; color: var(--text); }
+.va-topbar { background: #fff; border-bottom: 1px solid var(--border); padding: 12px 24px; display: flex; align-items: center; gap: 16px; }
+.va-logo { font-weight: 800; font-size: 18px; color: var(--navy); display: flex; align-items: center; gap: 8px; }
+.va-logo-mark { width: 36px; height: 36px; background: linear-gradient(135deg, #1abc9c, #16a085); border-radius: 8px; display: inline-block; }
+.va-logo-pill { background: #e6f7f5; color: #16a085; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 700; letter-spacing: 1px; margin-left: 6px; }
+.va-breadcrumb { padding: 12px 24px; font-size: 13px; color: var(--text-light); border-bottom: 1px solid var(--border); background: #fff; }
+.va-breadcrumb a { color: var(--text-light); text-decoration: none; }
+.va-crumb-sep { padding: 0 6px; color: #c0c8d4; }
+.va-crumb-current { color: var(--navy); font-weight: 600; }
+
+.hero { background: var(--navy); color: #fff; padding: 56px 32px; }
+.hero-inner { max-width: 1300px; margin: 0 auto; }
+.hero-pill { display: inline-block; padding: 6px 14px; background: rgba(201,163,92,0.15); color: var(--gold); border-radius: 24px; font-size: 11px; font-weight: 700; letter-spacing: 2px; }
+.hero h1 { font-size: 56px; font-weight: 900; margin: 12px 0 8px; letter-spacing: -1.5px; }
+.hero p { font-size: 17px; color: rgba(255,255,255,0.75); max-width: 720px; line-height: 1.55; }
+
+.container { max-width: 1300px; margin: 0 auto; padding: 40px 32px; }
+.section-title { font-size: 11px; font-weight: 700; letter-spacing: 1.6px; color: var(--text-light); text-transform: uppercase; margin-bottom: 16px; }
+
+.league-table { background: #fff; border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+.league-table table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.league-table th { background: var(--navy); color: #fff; padding: 14px 12px; text-align: left; font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }
+.league-table th.num { text-align: right; }
+.league-table tbody tr { border-bottom: 1px solid var(--border); transition: background 0.15s; }
+.league-table tbody tr:hover { background: #f7f8fc; }
+.league-table tbody tr:last-child { border-bottom: 0; }
+.league-table td { padding: 14px 12px; color: var(--text); }
+.league-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.brand-cell { font-weight: 700; }
+.brand-cell a { color: var(--navy); text-decoration: none; }
+.brand-cell a:hover { color: var(--gold); }
+.rank-cell { color: var(--text-light); font-weight: 600; font-size: 12px; }
+.dim { color: var(--text-light); }
+.rag-cell { display: flex; align-items: center; gap: 4px; justify-content: flex-end; font-variant-numeric: tabular-nums; }
+.rag-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.rag-green { background: #10b981; } .rag-amber { background: #f59e0b; } .rag-red { background: #ef4444; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 16px; margin-top: 32px; }
+.card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 20px; transition: all 0.15s; }
+.card:hover { border-color: var(--gold); transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.04); }
+.card-brand { font-size: 22px; font-weight: 800; color: var(--navy); margin: 0; }
+.card-brand a { color: inherit; text-decoration: none; }
+.card-meta { font-size: 12px; color: var(--text-light); margin-top: 4px; }
+.card-stats { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
+.card-stat-val { font-size: 22px; font-weight: 700; color: var(--navy); font-variant-numeric: tabular-nums; }
+.card-stat-label { font-size: 10px; font-weight: 700; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.8px; }
+.card-platforms { display: flex; gap: 4px; margin-top: 12px; height: 6px; border-radius: 3px; overflow: hidden; background: var(--border); }
+.card-platforms span { display: block; height: 100%; }
+.card-platforms-legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; font-size: 10px; color: var(--text-light); }
+.card-platforms-legend .key { display: inline-flex; align-items: center; gap: 4px; }
+.card-platforms-legend .swatch { width: 8px; height: 8px; border-radius: 2px; display: inline-block; }
+.card-rag { display: flex; gap: 6px; margin-top: 10px; font-size: 11px; }
+.card-rag .pill { padding: 2px 8px; border-radius: 10px; font-weight: 600; }
+.card-rag .pill-green { background: #d1fae5; color: #047857; }
+.card-rag .pill-amber { background: #fef3c7; color: #92400e; }
+.card-rag .pill-red { background: #fee2e2; color: #b91c1c; }
+.cta { display: inline-flex; align-items: center; gap: 6px; margin-top: 12px; padding: 6px 12px; background: var(--navy); color: #fff; border-radius: 6px; font-size: 12px; font-weight: 600; text-decoration: none; }
+.cta:hover { background: var(--gold); }
+
+.footer { text-align: center; padding: 32px; color: var(--text-light); font-size: 12px; }
+.footer a { color: var(--text-light); }
+
+.view-toggle { display: flex; gap: 4px; margin-bottom: 16px; padding: 4px; background: var(--border); border-radius: 8px; width: fit-content; }
+.view-toggle button { padding: 6px 14px; border-radius: 6px; border: 0; background: transparent; cursor: pointer; font-weight: 600; font-size: 12px; color: var(--text); }
+.view-toggle button.active { background: #fff; box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
+</style>
+</head>
+<body>
+
+<header class="va-topbar">
+  <div class="va-logo">
+    <span class="va-logo-mark"></span>View Agents<span class="va-logo-pill">HUB</span>
+  </div>
+</header>
+
+<div class="va-breadcrumb">
+  <a href="/">View Agents Hub</a>
+  <span class="va-crumb-sep">›</span>
+  <span class="va-crumb-current">Brand Hubs</span>
+</div>
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="hero-pill">BRAND COMPARISON</span>
+    <h1>How the UK's biggest brands compare</h1>
+    <p>Live reputation, review volume, and platform-level performance across the major estate-agent groups in our network. Click any brand to drill into its dedicated hub.</p>
+  </div>
+</section>
+
+<div class="container">
+  <div class="view-toggle">
+    <button data-view="cards" class="active">Cards</button>
+    <button data-view="table">League table</button>
+  </div>
+
+  <div id="view-cards">
+    <div class="cards" id="brand-cards"></div>
+  </div>
+
+  <div id="view-table" style="display:none;">
+    <div class="section-title">League table — ranked by total reviews across all platforms</div>
+    <div class="league-table">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Brand</th>
+            <th class="num">Offices</th>
+            <th class="num">Avg Rep Score</th>
+            <th class="num">Reply Rate (90d)</th>
+            <th class="num">Total Reviews</th>
+            <th class="num">Google</th>
+            <th class="num">Trustpilot</th>
+            <th class="num">Health (G/A/R)</th>
+          </tr>
+        </thead>
+        <tbody id="league-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div style="margin-top:24px;font-size:11px;color:var(--text-light);">
+    Sources: View Agents review feeds (deduplicated on RefId) + Google Places API + Trustpilot.com direct (brand-level totals).
+    <span id="updated"></span>
+  </div>
+</div>
+
+<div class="footer">
+  Trusted Agent · Brand Hub · <a href="/">Back to View Agents Hub</a>
+</div>
+
+<script>
+const PLATFORMS = [
+  { key:'google_reviews', name:'Google', color:'#4285F4' },
+  { key:'trustpilot_reviews', name:'Trustpilot', color:'#00B67A' },
+  { key:'facebook_reviews', name:'Facebook', color:'#1877F2' },
+  { key:'feefo_reviews', name:'Feefo', color:'#7B68EE' },
+  { key:'allagents_reviews', name:'AllAgents', color:'#FF6B35' },
+  { key:'yell_reviews', name:'Yell', color:'#FFCC00' },
+];
+
+function fmt(n){ return (n||0).toLocaleString('en-GB'); }
+function esc(s){ return String(s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+fetch('brand-league.json', { cache: 'no-cache' })
+  .then(r => r.json())
+  .then(data => {
+    const board = data.leaderboard || [];
+    renderCards(board);
+    renderTable(board);
+    const ts = new Date(data.updated_at);
+    document.getElementById('updated').textContent = 'Updated ' + ts.toLocaleString('en-GB', {dateStyle:'medium', timeStyle:'short'});
+  });
+
+function renderCards(board) {
+  const root = document.getElementById('brand-cards');
+  root.innerHTML = board.map(b => {
+    const total = b.total_reviews || 0;
+    const platSegs = PLATFORMS.map(p => {
+      const v = b[p.key] || 0;
+      const pct = total ? (v / total * 100) : 0;
+      return pct > 0 ? `<span style="background:${p.color};width:${pct}%;" title="${p.name}: ${fmt(v)}"></span>` : '';
+    }).join('');
+    const platLegend = PLATFORMS.filter(p => (b[p.key]||0) > 0).map(p => {
+      const v = b[p.key] || 0;
+      return `<span class="key"><span class="swatch" style="background:${p.color};"></span>${p.name} ${fmt(v)}</span>`;
+    }).join('');
+    return `
+      <div class="card">
+        <h3 class="card-brand"><a href="${b.hub_url}">${esc(b.brand)}</a></h3>
+        <div class="card-meta">${fmt(b.offices)} offices · avg reputation ${b.avg_rep_score || '—'} · reply rate ${b.avg_reply_rate || 0}%</div>
+        <div class="card-stats">
+          <div><div class="card-stat-val">${fmt(total)}</div><div class="card-stat-label">Total reviews</div></div>
+          <div><div class="card-stat-val">${fmt(b.google_reviews)}</div><div class="card-stat-label">Google</div></div>
+          <div><div class="card-stat-val">${fmt(b.trustpilot_reviews)}</div><div class="card-stat-label">Trustpilot</div></div>
+        </div>
+        <div class="card-platforms">${platSegs}</div>
+        <div class="card-platforms-legend">${platLegend}</div>
+        <div class="card-rag">
+          <span class="pill pill-green">${b.rag_green} green</span>
+          <span class="pill pill-amber">${b.rag_amber} amber</span>
+          <span class="pill pill-red">${b.rag_red} red</span>
+        </div>
+        <a class="cta" href="${b.hub_url}">Open hub →</a>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderTable(board) {
+  const tbody = document.getElementById('league-tbody');
+  tbody.innerHTML = board.map(b => `
+    <tr>
+      <td class="rank-cell">${b.rank_total_reviews}</td>
+      <td class="brand-cell"><a href="${b.hub_url}">${esc(b.brand)}</a></td>
+      <td class="num">${fmt(b.offices)}</td>
+      <td class="num">${b.avg_rep_score || '—'}</td>
+      <td class="num">${b.avg_reply_rate || 0}%</td>
+      <td class="num"><b>${fmt(b.total_reviews)}</b></td>
+      <td class="num">${fmt(b.google_reviews)}</td>
+      <td class="num">${fmt(b.trustpilot_reviews)}</td>
+      <td class="num"><div class="rag-cell">
+        <span class="rag-dot rag-green"></span>${b.rag_green}
+        <span class="rag-dot rag-amber"></span>${b.rag_amber}
+        <span class="rag-dot rag-red"></span>${b.rag_red}
+      </div></td>
+    </tr>
+  `).join('');
+}
+
+document.querySelectorAll('.view-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const v = btn.dataset.view;
+    document.getElementById('view-cards').style.display = v === 'cards' ? 'block' : 'none';
+    document.getElementById('view-table').style.display = v === 'table' ? 'block' : 'none';
+  });
+});
+</script>
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.692753+00:00",
+  "updated": "2026-05-20T20:11:38.714815+00:00",
   "brand": "Connells Group",
   "offices": [
     {
@@ -27,7 +27,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -91,7 +91,7 @@
       "reply_rate_90d": 88.88888888888889,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -106,7 +106,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ4YHiQefj2UcR8Xpwj75hli0",
         "rating": 4.4,
@@ -169,7 +169,7 @@
       "reply_rate_90d": 81.81818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -179,7 +179,7 @@
           "No review for 39d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJP5TKz87H2EcRl9XQiyfFW0s",
         "rating": 4.5,
@@ -242,7 +242,7 @@
       "reply_rate_90d": 33.33333333333333,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -325,7 +325,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -335,7 +335,7 @@
           "No review for 34d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJYwBQlfcE2UcRRYxeRW6WyY4",
         "rating": 4.2,
@@ -398,7 +398,7 @@
       "reply_rate_90d": 81.81818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -408,7 +408,7 @@
           "No review for 43d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ9fIjff3S2UcRPedQ-DKl21M",
         "rating": 4.8,
@@ -463,7 +463,7 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -473,7 +473,7 @@
           "No review for 50d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ2XfqC-xX10cRzmMskIq-OAU",
         "rating": 4.9,
@@ -527,7 +527,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -537,7 +537,7 @@
           "No review for 57d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJP-10DDrF2UcRmL1KKsJqZiM",
         "rating": 4.8,
@@ -591,7 +591,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -601,7 +601,7 @@
           "No review for 50d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJFSVHfj322UcR6WFgBGcK3Is",
         "rating": 4.9,
@@ -655,7 +655,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -665,7 +665,7 @@
           "No review for 38d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -714,7 +714,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -724,7 +724,7 @@
           "No review for 43d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJo8hPDURM2EcR2YYeqG7omPg",
         "rating": 4.6,
@@ -779,8 +779,8 @@
       "reply_rate_90d": 88.88888888888889,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 1687d ago"
         ],
         [
@@ -789,7 +789,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJDcQ3iplw2EcRPvNZejEdqMs",
         "rating": 4.6,
@@ -852,7 +852,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -862,7 +862,7 @@
           "No review for 50d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJK3zM0YpD10cRVayfHQ2VRs4",
         "rating": 4.6,
@@ -916,7 +916,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -980,7 +980,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -990,7 +990,7 @@
           "No review for 43d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJFeuZVAsT2EcRbb_2zRvJCZo",
         "rating": 4.6,
@@ -1044,7 +1044,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1054,7 +1054,7 @@
           "No review for 95d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJab1YVap510cRQcLKVHB2-Mg",
         "rating": 4.9,
@@ -1108,7 +1108,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1118,7 +1118,7 @@
           "No review for 2072d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -1167,7 +1167,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1231,7 +1231,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1241,7 +1241,7 @@
           "No review for 57d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJhwTWSueT10cRx2akR5TG8GI",
         "rating": 4.6,
@@ -1295,7 +1295,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1305,7 +1305,7 @@
           "No review for 40d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJPzCi3Cyg2UcRUWn0vJ7gAH0",
         "rating": 4.5,
@@ -1359,7 +1359,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1369,7 +1369,7 @@
           "No review for 43d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJPT3kO2pH2EcRiL1rBO4Fksc",
         "rating": 4.6,
@@ -1423,7 +1423,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1487,7 +1487,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1502,7 +1502,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ4YHiQefj2UcR8Xpwj75hli0",
         "rating": 4.4,
@@ -1556,7 +1556,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1571,7 +1571,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ4YHiQefj2UcR8Xpwj75hli0",
         "rating": 4.4,
@@ -1626,7 +1626,7 @@
       "reply_rate_90d": 66.66666666666666,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1641,7 +1641,7 @@
           "Reply rate 67% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ57vLNTWl2UcRim6qeoPVyGo",
         "rating": 4.8,
@@ -1703,7 +1703,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1718,7 +1718,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -1767,7 +1767,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1777,7 +1777,7 @@
           "No review for 2144d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -1826,7 +1826,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1836,7 +1836,7 @@
           "No review for 57d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJbZ0ofdfr2EcRCKSId2S-xm4",
         "rating": 4.6,
@@ -1890,7 +1890,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1905,7 +1905,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -1954,7 +1954,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -1964,7 +1964,7 @@
           "No review for 40d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -2014,7 +2014,7 @@
       "reply_rate_90d": 92.3076923076923,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2024,7 +2024,7 @@
           "No review for 35d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJIQdxJXDb2EcRBOwGxsEHZJs",
         "rating": 4.6,
@@ -2078,7 +2078,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2088,7 +2088,7 @@
           "No review for 95d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJtwCtxibZ2EcRqRQa7sR9O0I",
         "rating": 4.9,
@@ -2142,7 +2142,7 @@
       "reply_rate_90d": 85.71428571428571,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2152,7 +2152,7 @@
           "No review for 37d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJLXSPC4sn2UcRNZ1FJCu8XZc",
         "rating": 4.7,
@@ -2206,7 +2206,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2216,7 +2216,7 @@
           "No review for 50d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -2273,7 +2273,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2283,7 +2283,7 @@
           "No review for 2244d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -2332,7 +2332,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2347,7 +2347,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -2396,7 +2396,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2406,7 +2406,7 @@
           "No review for 39d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ57vLNTWl2UcRim6qeoPVyGo",
         "rating": 4.8,
@@ -2460,7 +2460,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2524,7 +2524,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2534,7 +2534,7 @@
           "No review for 40d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -2584,7 +2584,7 @@
       "reply_rate_90d": 71.42857142857143,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2599,7 +2599,7 @@
           "Reply rate 71% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJdT05rLsY2EcRyb16s7QMQ1Q",
         "rating": 4.8,
@@ -2662,7 +2662,7 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2672,7 +2672,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJFeuZVAsT2EcRbb_2zRvJCZo",
         "rating": 4.6,
@@ -2743,7 +2743,7 @@
       "reply_rate_90d": 91.66666666666666,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2753,7 +2753,7 @@
           "No review for 37d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJB4MPHC2L10cRDuNMLk_5Z-c",
         "rating": 4.2,
@@ -2815,7 +2815,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -2880,7 +2880,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15347,7 +15347,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15427,7 +15427,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15437,7 +15437,7 @@
           "No review for 39d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJlXsKnElRdkgRkbEKQp_iRb4",
         "rating": 4.5,
@@ -15491,7 +15491,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15506,7 +15506,7 @@
           "Rep score 62"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJnYq7QMurd0gRkCbnSgvIQg0",
         "rating": 4.5,
@@ -15569,7 +15569,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15584,7 +15584,7 @@
           "Reply rate 50% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJRfQQ8JwBd0gRmi24UAQCmTA",
         "rating": 4.8,
@@ -15646,7 +15646,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15656,7 +15656,7 @@
           "No review for 157d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -15714,7 +15714,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15796,7 +15796,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15811,7 +15811,7 @@
           "Rep score 68"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJz4NMpDdTdkgRrKgtdVrCaqc",
         "rating": 4.4,
@@ -15866,7 +15866,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15943,7 +15943,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -15958,7 +15958,7 @@
           "Rep score 65"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Yell": {
@@ -16015,7 +16015,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16084,7 +16084,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16099,7 +16099,7 @@
           "Rep score 65"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Facebook": {
@@ -16156,7 +16156,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16233,7 +16233,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16297,7 +16297,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16361,7 +16361,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16376,7 +16376,7 @@
           "Rep score 57"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Yell": {
@@ -16442,7 +16442,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16452,7 +16452,7 @@
           "No review for 34d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJyS-0qllBdkgRDoUDuYHKywA",
         "rating": 4.7,
@@ -16515,7 +16515,7 @@
       "reply_rate_90d": 92.3076923076923,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16525,7 +16525,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ6ylriwf3dkgRkj4K6kt4-zk",
         "rating": 4.8,
@@ -16587,7 +16587,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16597,7 +16597,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJr2-hwdtbdkgRlgWTekZ9ZMw",
         "rating": 4.8,
@@ -16660,7 +16660,7 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16670,7 +16670,7 @@
           "No review for 40d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJmRoERQtddkgRFJIF6V3qqvU",
         "rating": 4.8,
@@ -16740,7 +16740,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16750,7 +16750,7 @@
           "No review for 64d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJXcRVIlFDdkgR99ahifFUeCw",
         "rating": 4.9,
@@ -16812,7 +16812,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16876,7 +16876,7 @@
       "reply_rate_90d": 85.71428571428571,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16886,7 +16886,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -16935,7 +16935,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -16999,7 +16999,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -17063,8 +17063,8 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 831d ago"
         ],
         [
@@ -17073,7 +17073,7 @@
           "No review for 154d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Facebook": {
@@ -46662,7 +46662,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -46728,7 +46728,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -46805,7 +46805,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -46882,7 +46882,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -46902,7 +46902,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Trustpilot": {
@@ -46959,7 +46959,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47023,7 +47023,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47038,7 +47038,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -47095,7 +47095,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47110,7 +47110,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Trustpilot": {
@@ -47167,7 +47167,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47182,7 +47182,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Trustpilot": {
@@ -47239,7 +47239,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47316,7 +47316,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47331,7 +47331,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -47388,7 +47388,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47408,7 +47408,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -47465,7 +47465,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47480,7 +47480,7 @@
           "Rep score 58"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -47537,7 +47537,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47601,7 +47601,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47616,7 +47616,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -47673,7 +47673,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47737,7 +47737,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47806,7 +47806,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47875,7 +47875,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -47952,7 +47952,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48024,7 +48024,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48096,7 +48096,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48160,7 +48160,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48232,7 +48232,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48247,7 +48247,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Trustpilot": {
@@ -48296,7 +48296,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48360,8 +48360,8 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 2011d ago"
         ],
         [
@@ -48370,7 +48370,7 @@
           "No review for 44d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -48428,12 +48428,12 @@
       "reply_rate_90d": 92.0,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 2011d ago"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -48490,12 +48490,12 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 2011d ago"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -48544,12 +48544,12 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 2011d ago"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Google": {
@@ -48598,7 +48598,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48608,7 +48608,7 @@
           "No review for 40d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Facebook": {
@@ -48665,7 +48665,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48680,7 +48680,7 @@
           "Rep score 53"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": null,
       "platforms": {
         "Trustpilot": {
@@ -48737,7 +48737,7 @@
       "reply_rate_90d": 85.71428571428571,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48752,7 +48752,7 @@
           "Rep score 60"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJLbRLqm4oe0gRN8NtrfBUffo",
         "rating": 4.9,
@@ -48815,7 +48815,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48830,7 +48830,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJxZB71Aone0gRoTkMGQ31ILQ",
         "rating": 4.4,
@@ -48893,7 +48893,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -48903,7 +48903,7 @@
           "No review for 63d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJI-hk86jYekgRs4vnrhovXz4",
         "rating": 4.5,
@@ -48973,7 +48973,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -49059,7 +49059,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -49069,7 +49069,7 @@
           "No review for 65d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJC_T0W4ome0gRpn15pS5S2Xw",
         "rating": 4.6,
@@ -49123,7 +49123,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -49138,7 +49138,7 @@
           "Rep score 68"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJndIp6jffekgReKUA2gqOB8I",
         "rating": 4.7,
@@ -49193,7 +49193,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -49208,7 +49208,7 @@
           "Rep score 65"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ-5BTG5LeekgRN56SaG7r21k",
         "rating": 4.5,
@@ -49271,7 +49271,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -49286,7 +49286,7 @@
           "Rep score 63"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJywmKnDcge0gR0x6O9vVyqZU",
         "rating": 4.1,
@@ -59268,7 +59268,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59278,7 +59278,7 @@
           "No review for 37d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJFSzQ8CM_dkgRH33DoBAIdPc",
         "rating": 4.7,
@@ -59332,7 +59332,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59342,7 +59342,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJfcvVYCQ7dkgRp5tDcIZP_bg",
         "rating": 4.7,
@@ -59396,7 +59396,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59406,7 +59406,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJp5Boam3ke0gRwon-FqxZYrE",
         "rating": 4.4,
@@ -59460,7 +59460,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59470,7 +59470,7 @@
           "No review for 267d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ82hrUQsT2EcRxSga44vCzhY",
         "rating": 4.4,
@@ -59524,7 +59524,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59534,7 +59534,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ2ZJglRvleEgRuOHXAOgNAb8",
         "rating": 4.6,
@@ -59596,7 +59596,7 @@
       "reply_rate_90d": 91.66666666666666,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59606,7 +59606,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJnZEgxwq-eEgRY0hUpbk5dk8",
         "rating": 4.5,
@@ -59668,7 +59668,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59678,7 +59678,7 @@
           "No review for 124d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJPfKqwzWQ2UcRXC_7rWuLmMA",
         "rating": 4.8,
@@ -59732,7 +59732,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59742,7 +59742,7 @@
           "No review for 38d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJmysW4UFH2EcR9WEZicEtfqs",
         "rating": 4.7,
@@ -59796,7 +59796,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59806,7 +59806,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ_1iaVURM2EcR8DLU1jbneGE",
         "rating": 4.8,
@@ -59860,7 +59860,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59870,7 +59870,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJX7BdNaxceUgR9a5KKyP-ET0",
         "rating": 4.7,
@@ -59924,7 +59924,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59934,7 +59934,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJMxsny0lZeUgRinuI1hQFnnk",
         "rating": 4.4,
@@ -59988,7 +59988,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -59998,7 +59998,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJnTsRRXlbeUgRSjKgshp7qu0",
         "rating": 4.5,
@@ -60052,7 +60052,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60062,7 +60062,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJGXR9HIDBeUgRmUlhD2TYwec",
         "rating": 4.6,
@@ -60116,7 +60116,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60126,7 +60126,7 @@
           "No review for 36d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ4eaJRX0xdkgRdP3XywTe6PQ",
         "rating": 4.9,
@@ -60180,7 +60180,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60190,7 +60190,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJKzwhflac2EcR9FG9YYZwKNM",
         "rating": 4.8,
@@ -60244,7 +60244,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60254,7 +60254,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJpZ_zOmvVd0gR3Nep_weQFb4",
         "rating": 4.7,
@@ -60317,7 +60317,7 @@
       "reply_rate_90d": 18.181818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60396,7 +60396,7 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60406,7 +60406,7 @@
           "No review for 37d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ89dJ2-fj2UcRWpHOv7bztyI",
         "rating": 4.3,
@@ -60468,7 +60468,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60551,7 +60551,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60621,7 +60621,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60631,7 +60631,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ6f5vwdR6eUgR86hILDAKpf8",
         "rating": 4.1,
@@ -60687,7 +60687,7 @@
       "reply_rate_90d": 31.25,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60765,7 +60765,7 @@
       "reply_rate_90d": 18.181818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60834,7 +60834,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60916,7 +60916,7 @@
       "reply_rate_90d": 55.00000000000001,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -60999,7 +60999,7 @@
       "reply_rate_90d": 35.714285714285715,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61076,7 +61076,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61159,7 +61159,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61242,7 +61242,7 @@
       "reply_rate_90d": 37.5,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61319,7 +61319,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61401,7 +61401,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61484,7 +61484,7 @@
       "reply_rate_90d": 73.52941176470588,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61499,7 +61499,7 @@
           "Reply rate 74% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJeQxmG-NpeUgRXnyfKM5ySp0",
         "rating": 4.4,
@@ -61562,7 +61562,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61572,7 +61572,7 @@
           "No review for 36d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJc4KAgtfr2EcRlVJ7ySldAis",
         "rating": 4.6,
@@ -61635,7 +61635,7 @@
       "reply_rate_90d": 93.33333333333333,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61713,7 +61713,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61791,7 +61791,7 @@
       "reply_rate_90d": 52.63157894736842,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61806,7 +61806,7 @@
           "Reply rate 53% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJa5UnEwNt2UcRKI2JwJ97yOU",
         "rating": 4.8,
@@ -61868,7 +61868,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61951,7 +61951,7 @@
       "reply_rate_90d": 81.63265306122449,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -61961,7 +61961,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ_XyXavgE2UcRXkaX9mkgQu4",
         "rating": 4.7,
@@ -62032,7 +62032,7 @@
       "reply_rate_90d": 37.5,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62115,7 +62115,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62193,7 +62193,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62208,7 +62208,7 @@
           "Reply rate 50% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJK-1nbbOdeUgREpeM3NEp4lQ",
         "rating": 4.4,
@@ -62263,7 +62263,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62273,7 +62273,7 @@
           "No review for 65d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJZxJr6RugeUgRRNzVsOqo3w8",
         "rating": 4.8,
@@ -62329,7 +62329,7 @@
       "reply_rate_90d": 70.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62344,7 +62344,7 @@
           "Reply rate 70% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJOeBpDJPA2UcRNhBbOvHOrME",
         "rating": 4.5,
@@ -62407,7 +62407,7 @@
       "reply_rate_90d": 84.7457627118644,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62417,7 +62417,7 @@
           "No review for 34d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJuexzENENeUgRJV-rw4Oa3Hs",
         "rating": 4.5,
@@ -62480,7 +62480,7 @@
       "reply_rate_90d": 52.63157894736842,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62495,7 +62495,7 @@
           "Reply rate 53% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJt4kCELsY2EcRmwhU3yVTE7Q",
         "rating": 4.7,
@@ -62558,7 +62558,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62636,7 +62636,7 @@
       "reply_rate_90d": 55.00000000000001,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62651,7 +62651,7 @@
           "Reply rate 55% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJbWL2OEkE2kcRdfHYIHJALA4",
         "rating": 4.2,
@@ -62714,7 +62714,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62799,7 +62799,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62877,7 +62877,7 @@
       "reply_rate_90d": 40.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62947,7 +62947,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -62962,7 +62962,7 @@
           "Rep score 66"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJP3TFcWX52EcR_kPx9mJqsGc",
         "rating": 4.4,
@@ -63025,7 +63025,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63107,7 +63107,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63117,7 +63117,7 @@
           "No review for 46d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJH_G26eBTeUgR9QnD4qdi_R8",
         "rating": 4.7,
@@ -63172,7 +63172,7 @@
       "reply_rate_90d": 67.85714285714286,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63187,7 +63187,7 @@
           "Reply rate 68% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJXTHCIrZ22UcR8nJNlHb6S7g",
         "rating": 4.9,
@@ -63250,7 +63250,7 @@
       "reply_rate_90d": 83.33333333333334,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63328,7 +63328,7 @@
       "reply_rate_90d": 40.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63405,7 +63405,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63488,7 +63488,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63565,7 +63565,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63635,7 +63635,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63645,7 +63645,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJNdu4xGfae0gRdA4UKQhwMYw",
         "rating": 4.9,
@@ -63699,7 +63699,7 @@
       "reply_rate_90d": 18.181818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63782,7 +63782,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63860,7 +63860,7 @@
       "reply_rate_90d": 97.5609756097561,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -63870,7 +63870,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJZWSXbXLce0gR5ZYysHqLaeM",
         "rating": 4.4,
@@ -63924,7 +63924,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64006,7 +64006,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64016,7 +64016,7 @@
           "No review for 48d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJH0KabLO62EcRQKgMLqZq05M",
         "rating": 4.6,
@@ -64070,7 +64070,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64080,7 +64080,7 @@
           "No review for 37d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJP7QDpwa32EcRisQ22I0Hbao",
         "rating": 4.6,
@@ -64134,7 +64134,7 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64149,7 +64149,7 @@
           "Rep score 65"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ7XX1jk-72EcRSRZQNG0qN6M",
         "rating": 4.1,
@@ -64204,7 +64204,7 @@
       "reply_rate_90d": 62.857142857142854,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64219,7 +64219,7 @@
           "Reply rate 63% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJm6RIFy2g2UcRnB_RSS5-xmw",
         "rating": 4.6,
@@ -64282,7 +64282,7 @@
       "reply_rate_90d": 28.57142857142857,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64364,7 +64364,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64374,7 +64374,7 @@
           "No review for 178d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJk_wmwgGfd0gRB4rZ7rnDpfo",
         "rating": 4.1,
@@ -64428,7 +64428,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64506,7 +64506,7 @@
       "reply_rate_90d": 43.75,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64576,7 +64576,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64586,7 +64586,7 @@
           "No review for 153d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJA-LKNx9hd0gRRItjKmf_hU4",
         "rating": 4.4,
@@ -64641,7 +64641,7 @@
       "reply_rate_90d": 68.96551724137932,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64656,7 +64656,7 @@
           "Reply rate 69% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ_93hHztbeEgRvZXXy-tFvbs",
         "rating": 4.4,
@@ -64718,7 +64718,7 @@
       "reply_rate_90d": 35.714285714285715,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64800,7 +64800,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64883,7 +64883,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -64961,7 +64961,7 @@
       "reply_rate_90d": 18.181818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65044,7 +65044,7 @@
       "reply_rate_90d": 40.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65121,7 +65121,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65204,7 +65204,7 @@
       "reply_rate_90d": 57.14285714285714,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65219,7 +65219,7 @@
           "Reply rate 57% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJx5Xnyr1zeUgR_dlRn-POeL0",
         "rating": 4.4,
@@ -65282,7 +65282,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65297,7 +65297,7 @@
           "Reply rate 50% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJn7E6Y8ZbeUgR318UHTE2o-A",
         "rating": 4.6,
@@ -65351,7 +65351,7 @@
       "reply_rate_90d": 43.75,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65434,7 +65434,7 @@
       "reply_rate_90d": 18.181818181818183,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65512,7 +65512,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65522,7 +65522,7 @@
           "No review for 46d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ--UsFX1a10cRZhVXoUBIJ6k",
         "rating": 4.7,
@@ -65585,7 +65585,7 @@
       "reply_rate_90d": 47.05882352941176,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65663,7 +65663,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65673,7 +65673,7 @@
           "No review for 60d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJiwAldLUOd0gRU2AmUOeKXsM",
         "rating": 4.5,
@@ -65735,7 +65735,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65818,7 +65818,7 @@
       "reply_rate_90d": 52.63157894736842,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65833,7 +65833,7 @@
           "Reply rate 53% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJe5wvcB1kd0gRvBKCrMc8GUs",
         "rating": 4.3,
@@ -65888,7 +65888,7 @@
       "reply_rate_90d": 64.28571428571429,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -65903,7 +65903,7 @@
           "Reply rate 64% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJi4eAyKrxd0gRzuunXLse8ss",
         "rating": 4.3,
@@ -65967,8 +65967,8 @@
       "reply_rate_90d": 80.0,
       "flags": [
         [
-          "RED",
-          "login_stale_90d",
+          "AMBER",
+          "login_stale_180d",
           "Last login 678d ago"
         ],
         [
@@ -65977,7 +65977,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJcUVpwDVqeUgRrvD_xYqjPWU",
         "rating": 4.5,
@@ -66040,7 +66040,7 @@
       "reply_rate_90d": 35.714285714285715,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66118,7 +66118,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66133,7 +66133,7 @@
           "Rep score 68"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJAfcIAgPkd0gRMy0vZ5_r2Cw",
         "rating": 4.4,
@@ -66196,7 +66196,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66211,7 +66211,7 @@
           "Rep score 56"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJ4adDS3S9d0gRNXBLRT0-Fqc",
         "rating": 4.0,
@@ -66265,7 +66265,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66348,7 +66348,7 @@
       "reply_rate_90d": 58.333333333333336,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66431,7 +66431,7 @@
       "reply_rate_90d": 44.44444444444444,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66508,7 +66508,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66523,7 +66523,7 @@
           "Rep score 67"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJs2nVV-t1d0gRdztq9fRhEdQ",
         "rating": 4.7,
@@ -66577,7 +66577,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66659,7 +66659,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66741,7 +66741,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66823,7 +66823,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66905,7 +66905,7 @@
       "reply_rate_90d": null,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66975,7 +66975,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -66985,7 +66985,7 @@
           "No review for 41d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJV12LCH4DeEgRSkDEGXtG27E",
         "rating": 4.5,
@@ -67047,7 +67047,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67124,7 +67124,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67207,7 +67207,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67284,7 +67284,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67367,7 +67367,7 @@
       "reply_rate_90d": 30.76923076923077,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67444,7 +67444,7 @@
       "reply_rate_90d": 10.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67527,7 +67527,7 @@
       "reply_rate_90d": 50.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67547,7 +67547,7 @@
           "Rep score 62"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJqbFECv5meUgRMH06VRIHcag",
         "rating": 3.9,
@@ -67602,7 +67602,7 @@
       "reply_rate_90d": 10.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67680,7 +67680,7 @@
       "reply_rate_90d": 47.05882352941176,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67758,7 +67758,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67768,7 +67768,7 @@
           "No review for 53d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJz85Kqb_DeUgRcl_l4jNFNnM",
         "rating": 4.7,
@@ -67831,7 +67831,7 @@
       "reply_rate_90d": 10.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67909,7 +67909,7 @@
       "reply_rate_90d": 66.66666666666666,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -67924,7 +67924,7 @@
           "Reply rate 67% (90d)"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJp7pCEjjAeEgRo5or-r8oov0",
         "rating": 4.6,
@@ -67986,7 +67986,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68069,7 +68069,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68147,7 +68147,7 @@
       "reply_rate_90d": 97.22222222222221,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68157,7 +68157,7 @@
           "No review for 33d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJLwmaaVeheUgRbRvGsXoXld8",
         "rating": 4.7,
@@ -68220,7 +68220,7 @@
       "reply_rate_90d": 43.75,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68302,7 +68302,7 @@
       "reply_rate_90d": 0.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68385,7 +68385,7 @@
       "reply_rate_90d": 25.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68463,7 +68463,7 @@
       "reply_rate_90d": 100.0,
       "flags": [
         [
-          "RED",
+          "AMBER",
           "never_logged_in",
           "Never logged in"
         ],
@@ -68473,7 +68473,7 @@
           "No review for 46d"
         ]
       ],
-      "overall_rag": "RED",
+      "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJmZLW66UxeUgRyM9WbxQfoYY",
         "rating": 4.7,
@@ -68520,8 +68520,9 @@
         "avg_rating": 4.548873334838564
       },
       "Trustpilot": {
-        "total_reviews": 1381,
-        "avg_rating": 2.6453315666032977
+        "total_reviews": 1726,
+        "avg_rating": 2.5,
+        "source": "Trustpilot.com direct"
       },
       "FeeFo": {
         "total_reviews": 22,
@@ -68536,8 +68537,8 @@
         "avg_rating": 3.035
       }
     },
-    "grand_total_reviews": 32331,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 32676,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -68546,7 +68547,7 @@
       "with_presence": 1013
     },
     "trustpilot": {
-      "reviews": 1381,
+      "reviews": 1726,
       "replies": 0,
       "with_presence": 702
     },

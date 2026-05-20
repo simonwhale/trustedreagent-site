@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.790176+00:00",
+  "updated": "2026-05-20T20:11:38.809295+00:00",
   "brand": "Spicerhaart",
   "offices": [
     {
@@ -10841,8 +10841,9 @@
         "avg_rating": 4.771909327423396
       },
       "Trustpilot": {
-        "total_reviews": 83,
-        "avg_rating": 4.0006556302245535
+        "total_reviews": 8500,
+        "avg_rating": 3.9,
+        "source": "Trustpilot.com direct"
       },
       "Facebook": {
         "total_reviews": 540,
@@ -10853,8 +10854,8 @@
         "avg_rating": 3.3125
       }
     },
-    "grand_total_reviews": 8365,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 16782,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -10863,7 +10864,7 @@
       "with_presence": 173
     },
     "trustpilot": {
-      "reviews": 83,
+      "reviews": 8500,
       "replies": 0,
       "with_presence": 7
     },

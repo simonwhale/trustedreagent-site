@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.648922+00:00",
+  "updated": "2026-05-20T20:11:38.669415+00:00",
   "brand": "LRG",
   "offices": [
     {
@@ -3837,7 +3837,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-15T20:11:09.017000",
-      "days_since_review": 34,
+      "days_since_review": 35,
       "total_reviews": 624,
       "reviews_30d": 0,
       "reviews_90d": 14,
@@ -19874,8 +19874,9 @@
         "avg_rating": 4.589891683078322
       },
       "Trustpilot": {
-        "total_reviews": 1084,
-        "avg_rating": 4.32527855291021
+        "total_reviews": 6021,
+        "avg_rating": 4.2,
+        "source": "Trustpilot.com direct"
       },
       "Facebook": {
         "total_reviews": 57,
@@ -19886,8 +19887,8 @@
         "avg_rating": 2.8758169934640523
       }
     },
-    "grand_total_reviews": 16706,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 21643,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -19896,7 +19897,7 @@
       "with_presence": 309
     },
     "trustpilot": {
-      "reviews": 1084,
+      "reviews": 6021,
       "replies": 0,
       "with_presence": 125
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.814976+00:00",
+  "updated": "2026-05-20T20:11:38.836822+00:00",
   "brand": "NEA (Northern Estate Agencies)",
   "offices": [
     {
@@ -1974,16 +1974,17 @@
         "avg_rating": 4.847556161630661
       },
       "Trustpilot": {
-        "total_reviews": 400,
-        "avg_rating": 4.758504417602117
+        "total_reviews": 4127,
+        "avg_rating": 4.8,
+        "source": "Trustpilot.com direct"
       },
       "Yell": {
         "total_reviews": 1,
         "avg_rating": 4.333333333333333
       }
     },
-    "grand_total_reviews": 4052,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 7779,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -1992,7 +1993,7 @@
       "with_presence": 34
     },
     "trustpilot": {
-      "reviews": 400,
+      "reviews": 4127,
       "replies": 0,
       "with_presence": 12
     },

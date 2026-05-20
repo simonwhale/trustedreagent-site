@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.765229+00:00",
+  "updated": "2026-05-20T20:11:38.784747+00:00",
   "brand": "LSL",
   "offices": [
     {
@@ -9387,7 +9387,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-09-03T20:10:29.343000",
-      "days_since_review": 258,
+      "days_since_review": 259,
       "total_reviews": 32,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -9397,7 +9397,7 @@
         [
           "AMBER",
           "no_review_90d",
-          "No review for 258d"
+          "No review for 259d"
         ],
         [
           "AMBER",
@@ -22598,8 +22598,9 @@
         "avg_rating": 4.668943766280198
       },
       "Trustpilot": {
-        "total_reviews": 372,
-        "avg_rating": 3.614969524339193
+        "total_reviews": 10328,
+        "avg_rating": 4.4,
+        "source": "Trustpilot.com direct"
       },
       "Facebook": {
         "total_reviews": 397,
@@ -22610,8 +22611,8 @@
         "avg_rating": 4.091891891891892
       }
     },
-    "grand_total_reviews": 13780,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 23736,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -22620,7 +22621,7 @@
       "with_presence": 344
     },
     "trustpilot": {
-      "reviews": 372,
+      "reviews": 10328,
       "replies": 0,
       "with_presence": 91
     },

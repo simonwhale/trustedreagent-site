@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T20:08:18.802938+00:00",
+  "updated": "2026-05-20T20:11:38.823690+00:00",
   "brand": "Dexters Group",
   "offices": [
     {
@@ -7697,8 +7697,9 @@
         "avg_rating": 4.836852595395592
       },
       "Trustpilot": {
-        "total_reviews": 260,
-        "avg_rating": 4.220638222312415
+        "total_reviews": 4201,
+        "avg_rating": 4.4,
+        "source": "Trustpilot.com direct"
       },
       "Facebook": {
         "total_reviews": 16,
@@ -7709,8 +7710,8 @@
         "avg_rating": 2.8333333333333335
       }
     },
-    "grand_total_reviews": 7120,
-    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
+    "grand_total_reviews": 11061,
+    "source": "VA review feeds (deduped) + Trustpilot.com direct + Google Places API"
   },
   "platformFootprint": {
     "google": {
@@ -7719,7 +7720,7 @@
       "with_presence": 120
     },
     "trustpilot": {
-      "reviews": 260,
+      "reviews": 4201,
       "replies": 0,
       "with_presence": 95
     },
