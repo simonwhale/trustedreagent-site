@@ -2797,7 +2797,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
   // Boot — fetch data.json (sits next to index.html)
   // =========================================================
   function boot(){
-    fetch('data.json', { cache: 'no-cache' })
+    fetch('gamification.json', { cache: 'no-cache' })
       .then(function(r){ return r.json(); })
       .then(init)
       .catch(function(err){
