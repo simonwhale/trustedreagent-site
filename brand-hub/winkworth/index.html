@@ -5072,6 +5072,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 
 
 
+
 <!-- BRAND-AGNOSTIC RENDER INJECTED -->
 <script>
 // ======================================================
@@ -5176,7 +5177,8 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       var withScore = offices.filter(function(o){ return num(o.reputation_score) > 0; });
       var avgScore = withScore.length ? Math.round(withScore.reduce(function(s,o){ return s+num(o.reputation_score); },0) / withScore.length) : 0;
       var withReply = offices.filter(function(o){ return o.reply_rate_90d != null; });
-      var avgReply = withReply.length ? Math.round(withReply.reduce(function(s,o){ return s+num(o.reply_rate_90d); },0) / withReply.length * 100) : 0;
+      // reply_rate_90d in the JSON is already a percentage 0–100, not a fraction
+      var avgReply = withReply.length ? Math.round(withReply.reduce(function(s,o){ return s+num(o.reply_rate_90d); },0) / withReply.length) : 0;
       var redCount = offices.filter(function(o){ return o.overall_rag === 'RED'; }).length;
 
       var c1 = cards[0];
@@ -5223,19 +5225,20 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
         fills[1].style.width = pctA + '%'; fills[1].style.background = '#f59e0b';
         fills[2].style.width = pctR + '%'; fills[2].style.background = '#ef4444';
       }
-      var rows = tiersSection ? tiersSection.querySelectorAll('.tier-row') : [];
+      var rows = tiersSection ? tiersSection.querySelectorAll('.tier-item') : [];
       var labels = [
-        {name: 'Green', desc: 'Healthy reply rate, recent reviews, strong reputation', count: green, pct: pctG},
-        {name: 'Amber', desc: 'Some warning flags — slipping reply rate or stale reviews', count: amber, pct: pctA},
-        {name: 'Red',   desc: 'Multiple warning flags — needs attention', count: red, pct: pctR},
+        {name: 'Green',  desc: 'Healthy reply rate, recent reviews, strong reputation', count: green, pct: pctG, color: '#10b981'},
+        {name: 'Amber',  desc: 'Some warning flags — slipping reply rate or stale reviews', count: amber, pct: pctA, color: '#f59e0b'},
+        {name: 'Red',    desc: 'Multiple warning flags — needs attention', count: red, pct: pctR, color: '#ef4444'},
       ];
       rows.forEach(function(row, idx){
         if (idx >= labels.length) return;
         var info = labels[idx];
         var nameEl = row.querySelector('.tier-name'); if (nameEl) nameEl.textContent = info.name;
-        var descEl = row.querySelector('.tier-desc'); if (descEl) descEl.textContent = info.desc;
+        var descEl = row.querySelector('.tier-sub') || row.querySelector('.tier-desc'); if (descEl) descEl.textContent = info.desc;
         var countEl = row.querySelector('.tier-count'); if (countEl) countEl.textContent = fmt(info.count);
         var pctEl = row.querySelector('.tier-pct'); if (pctEl) pctEl.textContent = info.pct + '%';
+        var swatchEl = row.querySelector('.tier-swatch'); if (swatchEl) swatchEl.style.background = info.color;
       });
       // Update section title
       var st = tiersSection ? tiersSection.querySelector('.section-title') : null;
@@ -5374,17 +5377,18 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">Score '+num(o.reputation_score)+'</span></li>';
     }).join('') || '<li><span class="office-name">No data</span></li>';
 
-    // Worst reply rates
-    var low = offices.slice().filter(function(o){ return o.reply_rate != null && o.reply_rate !== ''; })
-      .sort(function(a,b){ return num(a.reply_rate)-num(b.reply_rate); }).slice(0,8);
+    // Worst reply rates — prefer reply_rate_90d (percent 0–100); fall back to reply_rate (fraction 0–1)
+    function getReplyRatePct(o){ return o.reply_rate_90d != null ? num(o.reply_rate_90d) : (num(o.reply_rate)*100); }
+    var low = offices.slice().filter(function(o){ return o.reply_rate_90d != null || (o.reply_rate != null && o.reply_rate !== ''); })
+      .sort(function(a,b){ return getReplyRatePct(a) - getReplyRatePct(b); }).slice(0,8);
     if (cards.length >= 2) {
       var c2List = cards[1].querySelector('.office-list');
       if (c2List) c2List.innerHTML = low.map(function(o){
-        var pct = Math.round(num(o.reply_rate)*100*10)/10;
+        var pct = Math.round(getReplyRatePct(o) * 10) / 10;
         return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">'+pct+'%</span></li>';
       }).join('') || '<li><span class="office-name">No data</span></li>';
       var sub = cards[1].querySelector('.playbook-sub');
-      if (sub) sub.textContent = offices.filter(function(o){ return o.reply_rate != null && o.reply_rate < 0.5; }).length + ' offices reply to fewer than 50% of reviews — bottom of the list below';
+      if (sub) sub.textContent = offices.filter(function(o){ return (o.reply_rate_90d != null || o.reply_rate != null) && getReplyRatePct(o) < 50; }).length + ' offices reply to fewer than 50% of reviews — bottom of the list below';
     }
 
     // Flagged offices
