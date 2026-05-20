@@ -1,0 +1,4053 @@
+{
+  "updated": "2026-05-20T08:56:16.042579+00:00",
+  "brand": "Dexters",
+  "offices": [
+    {
+      "office_id": 246155,
+      "va_ids": [
+        246155
+      ],
+      "branch": "Dexters (E8)",
+      "sub_brand": "Dexters",
+      "postcode": "E8 4QJ",
+      "reputation_score": 72,
+      "rating": 4.43,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-01T23:53:43.280000",
+      "days_since_review": 48,
+      "total_reviews": 2524,
+      "reviews_30d": 0,
+      "reviews_90d": 22,
+      "replies_90d": 11,
+      "reply_rate_90d": 50.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 48d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 50% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJkVmXf8IcdkgRuyJPwdVkBzA",
+        "rating": 4.9,
+        "user_rating_count": 865,
+        "formatted_address": "10 Broadway Market, London E8 4QJ",
+        "google_maps_url": "https://maps.google.com/?cid=3460845707891516091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 7714,
+      "va_ids": [
+        7714
+      ],
+      "branch": "Dexters (KT1)",
+      "sub_brand": "Dexters",
+      "postcode": "KT1 1TX",
+      "reputation_score": 76,
+      "rating": 4.86,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-17T15:05:51.530000",
+      "days_since_review": 2,
+      "total_reviews": 1249,
+      "reviews_30d": 18,
+      "reviews_90d": 152,
+      "replies_90d": 142,
+      "reply_rate_90d": 93.42105263157895,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ29oCIusLdkgRQ27Fazwsqf0",
+        "rating": 4.9,
+        "user_rating_count": 2732,
+        "formatted_address": "4 Wood St, Kingston upon Thames KT1 1TG",
+        "google_maps_url": "https://maps.google.com/?cid=18278189200677629507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 249658,
+      "va_ids": [
+        249658
+      ],
+      "branch": "Dexters (SE13)",
+      "sub_brand": "Dexters",
+      "postcode": "SE13 7UZ",
+      "reputation_score": 76,
+      "rating": 4.86,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T19:26:53.643000",
+      "days_since_review": 34,
+      "total_reviews": 344,
+      "reviews_30d": 0,
+      "reviews_90d": 6,
+      "replies_90d": 4,
+      "reply_rate_90d": 66.66666666666666,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 67% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJldMZzmsCdkgRL0ViBxI8GKI",
+        "rating": 4.9,
+        "user_rating_count": 364,
+        "formatted_address": "228 Algernon Rd, London SE13 7AG",
+        "google_maps_url": "https://maps.google.com/?cid=11680151681716340015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 249659,
+      "va_ids": [
+        249659
+      ],
+      "branch": "Dexters (SE15)",
+      "sub_brand": "Dexters",
+      "postcode": "SE15 3HB",
+      "reputation_score": 76,
+      "rating": 4.9,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T20:27:13.100000",
+      "days_since_review": 34,
+      "total_reviews": 427,
+      "reviews_30d": 0,
+      "reviews_90d": 58,
+      "replies_90d": 49,
+      "reply_rate_90d": 84.48275862068965,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJOdoNbq8DdkgRR3Qb87JtHEU",
+        "rating": 4.9,
+        "user_rating_count": 586,
+        "formatted_address": "145a Evelina Rd, London SE15 3HB",
+        "google_maps_url": "https://maps.google.com/?cid=4979975903315194951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 15254,
+      "va_ids": [
+        15254
+      ],
+      "branch": "Dexters (SW11)",
+      "sub_brand": "Dexters",
+      "postcode": "SW11 5QJ",
+      "reputation_score": 41,
+      "rating": 4.07,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2021-02-13T00:00:00",
+      "days_since_review": 1922,
+      "total_reviews": 14,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 1922d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 41"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJHzKN_qIFdkgRmHTEyZmhqqc",
+        "rating": 4.9,
+        "user_rating_count": 532,
+        "formatted_address": "174a Lavender Hill, London SW11 5TG",
+        "google_maps_url": "https://maps.google.com/?cid=12081646632261940376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 249683,
+      "va_ids": [
+        249683
+      ],
+      "branch": "Dexters (SW11)",
+      "sub_brand": "Dexters",
+      "postcode": "SW11 5TG",
+      "reputation_score": 76,
+      "rating": 4.92,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T07:34:01.183000",
+      "days_since_review": 41,
+      "total_reviews": 490,
+      "reviews_30d": 0,
+      "reviews_90d": 14,
+      "replies_90d": 14,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 41d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJHzKN_qIFdkgRmHTEyZmhqqc",
+        "rating": 4.9,
+        "user_rating_count": 532,
+        "formatted_address": "174a Lavender Hill, London SW11 5TG",
+        "google_maps_url": "https://maps.google.com/?cid=12081646632261940376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 15312,
+      "va_ids": [
+        15312
+      ],
+      "branch": "Dexters (SW13)",
+      "sub_brand": "Dexters",
+      "postcode": "SW13 9LD",
+      "reputation_score": 73,
+      "rating": 4.99,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2019-03-04T00:00:00",
+      "days_since_review": 2634,
+      "total_reviews": 67,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 2634d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null
+    },
+    {
+      "office_id": 19362,
+      "va_ids": [
+        19362
+      ],
+      "branch": "Dexters (SW4)",
+      "sub_brand": "Dexters",
+      "postcode": "SW4 9DP",
+      "reputation_score": 76,
+      "rating": 4.8,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T19:45:54.273000",
+      "days_since_review": 39,
+      "total_reviews": 380,
+      "reviews_30d": 0,
+      "reviews_90d": 6,
+      "replies_90d": 4,
+      "reply_rate_90d": 66.66666666666666,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 67% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ-deQ2LUFdkgRwpqFEezM_Os",
+        "rating": 4.8,
+        "user_rating_count": 377,
+        "formatted_address": "9 Cavendish Parade, London SW4 9DP",
+        "google_maps_url": "https://maps.google.com/?cid=17004691607322467010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 15737,
+      "va_ids": [
+        15737
+      ],
+      "branch": "Dexters (SW6)",
+      "sub_brand": "Dexters",
+      "postcode": "SW6 1EX",
+      "reputation_score": 76,
+      "rating": 4.81,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T17:22:23.803000",
+      "days_since_review": 35,
+      "total_reviews": 661,
+      "reviews_30d": 0,
+      "reviews_90d": 11,
+      "replies_90d": 9,
+      "reply_rate_90d": 81.81818181818183,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ2ZARXpsPdkgRhK8KgwI37fY",
+        "rating": 4.8,
+        "user_rating_count": 664,
+        "formatted_address": "567-569 Fulham Rd., London SW6 1ES",
+        "google_maps_url": "https://maps.google.com/?cid=17792938186738675588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 249668,
+      "va_ids": [
+        249668
+      ],
+      "branch": "Dexters (TW8)",
+      "sub_brand": "Dexters",
+      "postcode": "TW8 8LB",
+      "reputation_score": 76,
+      "rating": 4.78,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T07:30:57.760000",
+      "days_since_review": 48,
+      "total_reviews": 264,
+      "reviews_30d": 0,
+      "reviews_90d": 26,
+      "replies_90d": 26,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 48d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJk00apLUNdkgRnGhelaDZ-fU",
+        "rating": 4.8,
+        "user_rating_count": 278,
+        "formatted_address": "194 High St, Brentford TW8 8LB",
+        "google_maps_url": "https://maps.google.com/?cid=17724437092217284764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 249687,
+      "va_ids": [
+        249687
+      ],
+      "branch": "Dexters (W11)",
+      "sub_brand": "Dexters",
+      "postcode": "W11 3LB",
+      "reputation_score": 76,
+      "rating": 4.74,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-11T07:35:09.927000",
+      "days_since_review": 39,
+      "total_reviews": 453,
+      "reviews_30d": 0,
+      "reviews_90d": 5,
+      "replies_90d": 5,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJbYKESvsPdkgRFTT9R0ZpqwA",
+        "rating": 4.8,
+        "user_rating_count": 755,
+        "formatted_address": "121 Notting Hill Gate, London W11 3LB",
+        "google_maps_url": "https://maps.google.com/?cid=48247971593925653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 249672,
+      "va_ids": [
+        249672
+      ],
+      "branch": "Dexters (W1T)",
+      "sub_brand": "Dexters",
+      "postcode": "W1T 4NG",
+      "reputation_score": 76,
+      "rating": 4.87,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-13T07:31:44.670000",
+      "days_since_review": 37,
+      "total_reviews": 582,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 27,
+      "reply_rate_90d": 90.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 37d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJKQMoxysbdkgRxLg-DQVOZmc",
+        "rating": 4.9,
+        "user_rating_count": 1013,
+        "formatted_address": "66 Goodge St, London W1T 4NG",
+        "google_maps_url": "https://maps.google.com/?cid=7450728417135081668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 17278,
+      "va_ids": [
+        17278
+      ],
+      "branch": "Dexters (W3)",
+      "sub_brand": "Dexters",
+      "postcode": "W3 6QZ",
+      "reputation_score": 76,
+      "rating": 4.82,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-12T19:12:47.503000",
+      "days_since_review": 37,
+      "total_reviews": 1017,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 25,
+      "reply_rate_90d": 83.33333333333334,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 37d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJr2tZ0AQOdkgRgVP79yl_xco",
+        "rating": 4.9,
+        "user_rating_count": 1314,
+        "formatted_address": "171 High St, London W3 6QZ",
+        "google_maps_url": "https://maps.google.com/?cid=14611224384304272257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 249673,
+      "va_ids": [
+        249673
+      ],
+      "branch": "Dexters (W3)",
+      "sub_brand": "Dexters",
+      "postcode": "W3 6LP",
+      "reputation_score": 76,
+      "rating": 4.82,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T14:31:53.383000",
+      "days_since_review": 34,
+      "total_reviews": 474,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 32,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJr2tZ0AQOdkgRgVP79yl_xco",
+        "rating": 4.9,
+        "user_rating_count": 1314,
+        "formatted_address": "171 High St, London W3 6QZ",
+        "google_maps_url": "https://maps.google.com/?cid=14611224384304272257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255959,
+      "va_ids": [
+        249681,
+        255959
+      ],
+      "branch": "Dexters Blackheath",
+      "sub_brand": "Dexters",
+      "postcode": "SE3 7SX",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T21:49:46.927000",
+      "days_since_review": 47,
+      "total_reviews": 2451,
+      "reviews_30d": 0,
+      "reviews_90d": 48,
+      "replies_90d": 29,
+      "reply_rate_90d": 60.416666666666664,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 60% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJkxvQQDSo2EcRi7Z612CKOQM",
+        "rating": 4.9,
+        "user_rating_count": 474,
+        "formatted_address": "1 Stratheden Rd, London SE3 7SX",
+        "google_maps_url": "https://maps.google.com/?cid=232369004322928267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.05,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255896,
+      "va_ids": [
+        249662,
+        255896
+      ],
+      "branch": "Dexters Brockley",
+      "sub_brand": "Dexters",
+      "postcode": "SE4 2AG",
+      "reputation_score": 76,
+      "rating": 4.27,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T07:28:06.860000",
+      "days_since_review": 35,
+      "total_reviews": 2492,
+      "reviews_30d": 0,
+      "reviews_90d": 14,
+      "replies_90d": 10,
+      "reply_rate_90d": 71.42857142857143,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 71% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJhzyPvUgCdkgRlsN5JUSqxEQ",
+        "rating": 4.9,
+        "user_rating_count": 267,
+        "formatted_address": "369 Brockley Rd, London SE4 2AG",
+        "google_maps_url": "https://maps.google.com/?cid=4955272699677623190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255897,
+      "va_ids": [
+        249655,
+        255897
+      ],
+      "branch": "Dexters Canary Wharf",
+      "sub_brand": "Dexters",
+      "postcode": "E14 8JH",
+      "reputation_score": 76,
+      "rating": 4.36,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T20:43:27.863000",
+      "days_since_review": 33,
+      "total_reviews": 2392,
+      "reviews_30d": 0,
+      "reviews_90d": 70,
+      "replies_90d": 49,
+      "reply_rate_90d": 70.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 70% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJT1G656gCdkgRo9T49r_oDhI",
+        "rating": 4.8,
+        "user_rating_count": 1330,
+        "formatted_address": "39 Westferry Rd, London E14 8JH",
+        "google_maps_url": "https://maps.google.com/?cid=1301233253536552099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255898,
+      "va_ids": [
+        249685,
+        255898
+      ],
+      "branch": "Dexters Chelsea",
+      "sub_brand": "Dexters",
+      "postcode": "SW3 3DH",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T21:43:34.083000",
+      "days_since_review": 34,
+      "total_reviews": 2646,
+      "reviews_30d": 0,
+      "reviews_90d": 48,
+      "replies_90d": 25,
+      "reply_rate_90d": 52.083333333333336,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 52% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJuf0VrxUFdkgRDLpctuBiz6c",
+        "rating": 4.9,
+        "user_rating_count": 629,
+        "formatted_address": "45 Sloane Ave, London SW3 3DH",
+        "google_maps_url": "https://maps.google.com/?cid=12091992241784797708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255899,
+      "va_ids": [
+        249682,
+        255899
+      ],
+      "branch": "Dexters Chelsea Harbour",
+      "sub_brand": "Dexters",
+      "postcode": "SW10 0XF",
+      "reputation_score": 75,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T21:43:40.260000",
+      "days_since_review": 40,
+      "total_reviews": 2159,
+      "reviews_30d": 0,
+      "reviews_90d": 18,
+      "replies_90d": 16,
+      "reply_rate_90d": 88.88888888888889,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJlfkxz34FdkgR5xrIwAuBLkU",
+        "rating": 4.9,
+        "user_rating_count": 194,
+        "formatted_address": "Design Centre East, 5 Chelsea Harbour Dr, London SW10 0XF",
+        "google_maps_url": "https://maps.google.com/?cid=4985063725024680679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255900,
+      "va_ids": [
+        17327,
+        255900
+      ],
+      "branch": "Dexters Chiswick",
+      "sub_brand": "Dexters",
+      "postcode": "W4 5TF",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T19:14:29.247000",
+      "days_since_review": 40,
+      "total_reviews": 2963,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 18,
+      "reply_rate_90d": 45.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 45% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJi-JWoWwOdkgRUAAjF2RBaiU",
+        "rating": 4.8,
+        "user_rating_count": 905,
+        "formatted_address": "388 Chiswick High Rd., Chiswick, London W4 5TF",
+        "google_maps_url": "https://maps.google.com/?cid=2696039225075368016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255901,
+      "va_ids": [
+        246152,
+        255901
+      ],
+      "branch": "Dexters City",
+      "sub_brand": "Dexters",
+      "postcode": "E1 7HW",
+      "reputation_score": 72,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-11T23:53:16.877000",
+      "days_since_review": 38,
+      "total_reviews": 4639,
+      "reviews_30d": 0,
+      "reviews_90d": 66,
+      "replies_90d": 60,
+      "reply_rate_90d": 90.9090909090909,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 38d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJf8CjorMcdkgRhjFcxdyN1qY",
+        "rating": 4.8,
+        "user_rating_count": 900,
+        "formatted_address": "5a Sandy's Row, London E1 7HW",
+        "google_maps_url": "https://maps.google.com/?cid=12021952234655592838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255902,
+      "va_ids": [
+        15717,
+        255902
+      ],
+      "branch": "Dexters Clapham",
+      "sub_brand": "Dexters",
+      "postcode": "SW4 9NG",
+      "reputation_score": 76,
+      "rating": 4.36,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T15:43:57.820000",
+      "days_since_review": 33,
+      "total_reviews": 2869,
+      "reviews_30d": 0,
+      "reviews_90d": 26,
+      "replies_90d": 21,
+      "reply_rate_90d": 80.76923076923077,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJJbYd2koEdkgRov3oSmRfG3A",
+        "rating": 4.9,
+        "user_rating_count": 679,
+        "formatted_address": "28 Abbeville Rd, London SW4 9NG",
+        "google_maps_url": "https://maps.google.com/?cid=8078155240977268130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255903,
+      "va_ids": [
+        15707,
+        255903
+      ],
+      "branch": "Dexters Clapham High Street",
+      "sub_brand": "Dexters",
+      "postcode": "SW4 7TG",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T14:44:04.297000",
+      "days_since_review": 33,
+      "total_reviews": 2934,
+      "reviews_30d": 0,
+      "reviews_90d": 66,
+      "replies_90d": 38,
+      "reply_rate_90d": 57.57575757575758,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 58% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJUQVGxlEEdkgR0Vm1ekWDeng",
+        "rating": 4.8,
+        "user_rating_count": 927,
+        "formatted_address": "55 Clapham High St, London SW4 7TG",
+        "google_maps_url": "https://maps.google.com/?cid=8681395566144739793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255904,
+      "va_ids": [
+        255904
+      ],
+      "branch": "Dexters Clerkenwell",
+      "sub_brand": "Dexters",
+      "postcode": "EC1M 5NW",
+      "reputation_score": 72,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T21:44:09.457000",
+      "days_since_review": 34,
+      "total_reviews": 2355,
+      "reviews_30d": 0,
+      "reviews_90d": 16,
+      "replies_90d": 9,
+      "reply_rate_90d": 56.25,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 56% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ30ENxVEbdkgRtSfz7fCRp5c",
+        "rating": 4.9,
+        "user_rating_count": 983,
+        "formatted_address": "Millennium Heights, 1 Britton St, London EC1M 5NW",
+        "google_maps_url": "https://maps.google.com/?cid=10927863484808112053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255905,
+      "va_ids": [
+        255905
+      ],
+      "branch": "Dexters Dartmouth Park",
+      "sub_brand": "Dexters",
+      "postcode": "NW5 1DE",
+      "reputation_score": 72,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-26T21:44:14.763000",
+      "days_since_review": 54,
+      "total_reviews": 2000,
+      "reviews_30d": 0,
+      "reviews_90d": 24,
+      "replies_90d": 5,
+      "reply_rate_90d": 20.833333333333336,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 54d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 21% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJgzHhbFUadkgRlllyUxFK3P0",
+        "rating": 4.9,
+        "user_rating_count": 445,
+        "formatted_address": "64 Chetwynd Road Dartmouth Park Estate Agents, London NW5 1DE",
+        "google_maps_url": "https://maps.google.com/?cid=18292577224747014550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 249692,
+      "va_ids": [
+        7943,
+        249652,
+        249692,
+        255944,
+        255964
+      ],
+      "branch": "Dexters Development and Investment",
+      "sub_brand": "Dexters",
+      "postcode": "KT6 4QU",
+      "reputation_score": 76,
+      "rating": 4.93,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T18:51:14.257000",
+      "days_since_review": 33,
+      "total_reviews": 6512,
+      "reviews_30d": 0,
+      "reviews_90d": 86,
+      "replies_90d": 57,
+      "reply_rate_90d": 66.27906976744185,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 66% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJR5kj_8kLdkgRHU83mv8xpZo",
+        "rating": 4.9,
+        "user_rating_count": 1914,
+        "formatted_address": "2 Claremont Rd, Surbiton KT6 4QU",
+        "google_maps_url": "https://maps.google.com/?cid=11143367826871897885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255906,
+      "va_ids": [
+        17350,
+        255906
+      ],
+      "branch": "Dexters Ealing",
+      "sub_brand": "Dexters",
+      "postcode": "W5 2NU",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T13:44:20.670000",
+      "days_since_review": 33,
+      "total_reviews": 3066,
+      "reviews_30d": 0,
+      "reviews_90d": 70,
+      "replies_90d": 41,
+      "reply_rate_90d": 58.57142857142858,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 59% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ3-zpdgoSdkgRsBQ8cOwKCLk",
+        "rating": 4.8,
+        "user_rating_count": 1227,
+        "formatted_address": "2, New Ealing Broadway, London W5 2NU",
+        "google_maps_url": "https://maps.google.com/?cid=13332918707441898672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255907,
+      "va_ids": [
+        19363,
+        255907
+      ],
+      "branch": "Dexters Earls Court",
+      "sub_brand": "Dexters",
+      "postcode": "SW5 0QT",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T18:49:22.360000",
+      "days_since_review": 35,
+      "total_reviews": 2667,
+      "reviews_30d": 0,
+      "reviews_90d": 16,
+      "replies_90d": 15,
+      "reply_rate_90d": 93.75,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJVTq8RIsPdkgRljivPzwPKrQ",
+        "rating": 4.9,
+        "user_rating_count": 455,
+        "formatted_address": "3 Hogarth Rd, London SW5 0QT",
+        "google_maps_url": "https://maps.google.com/?cid=12982205627289778326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255908,
+      "va_ids": [
+        249661,
+        255908
+      ],
+      "branch": "Dexters East Dulwich",
+      "sub_brand": "Dexters",
+      "postcode": "SE22 8DR",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T07:27:46.567000",
+      "days_since_review": 35,
+      "total_reviews": 2184,
+      "reviews_30d": 0,
+      "reviews_90d": 8,
+      "replies_90d": 8,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJjxmOcMcDdkgRMiXC8DYOclM",
+        "rating": 5.0,
+        "user_rating_count": 409,
+        "formatted_address": "98 Grove Vale, London SE22 8DR",
+        "google_maps_url": "https://maps.google.com/?cid=6012884081623311666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255909,
+      "va_ids": [
+        255909
+      ],
+      "branch": "Dexters Finchley",
+      "sub_brand": "Dexters",
+      "postcode": "N3 2PA",
+      "reputation_score": 72,
+      "rating": 4.37,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T21:44:36.297000",
+      "days_since_review": 40,
+      "total_reviews": 2134,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 21,
+      "reply_rate_90d": 52.5,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 52% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJH4uBHVYXdkgRg3t4jBJYrjo",
+        "rating": 4.9,
+        "user_rating_count": 613,
+        "formatted_address": "126 Ballards Ln, Church End, London N3 2PA",
+        "google_maps_url": "https://maps.google.com/?cid=4228413936836836227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 241247,
+      "va_ids": [
+        241247
+      ],
+      "branch": "Dexters Finsbury Park",
+      "sub_brand": "Dexters",
+      "postcode": "N4 3PX",
+      "reputation_score": 72,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-13T20:20:25.670000",
+      "days_since_review": 36,
+      "total_reviews": 2503,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 28,
+      "reply_rate_90d": 93.33333333333333,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 36d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJw0mzypAbdkgRBj4Mdtc6DGo",
+        "rating": 4.9,
+        "user_rating_count": 340,
+        "formatted_address": "87 Stroud Green Rd, Finsbury Park, London N4 3PX",
+        "google_maps_url": "https://maps.google.com/?cid=7641547364813782534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255910,
+      "va_ids": [
+        249686,
+        255910
+      ],
+      "branch": "Dexters Fulham",
+      "sub_brand": "Dexters",
+      "postcode": "SW6 1ES",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T07:35:03.477000",
+      "days_since_review": 35,
+      "total_reviews": 2747,
+      "reviews_30d": 0,
+      "reviews_90d": 28,
+      "replies_90d": 19,
+      "reply_rate_90d": 67.85714285714286,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 68% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ2ZARXpsPdkgRhK8KgwI37fY",
+        "rating": 4.8,
+        "user_rating_count": 664,
+        "formatted_address": "567-569 Fulham Rd., London SW6 1ES",
+        "google_maps_url": "https://maps.google.com/?cid=17792938186738675588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255960,
+      "va_ids": [
+        249656,
+        255960
+      ],
+      "branch": "Dexters Greenwich",
+      "sub_brand": "Dexters",
+      "postcode": "SE10 8NF",
+      "reputation_score": 75,
+      "rating": 4.3,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T07:26:20.223000",
+      "days_since_review": 36,
+      "total_reviews": 2225,
+      "reviews_30d": 0,
+      "reviews_90d": 42,
+      "replies_90d": 35,
+      "reply_rate_90d": 83.33333333333334,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 36d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJxZrEyieo2EcRFKRaE8itwro",
+        "rating": 4.6,
+        "user_rating_count": 212,
+        "formatted_address": "275 Greenwich High Rd, London SE10 8NF",
+        "google_maps_url": "https://maps.google.com/?cid=13457509711366235156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255911,
+      "va_ids": [
+        246154,
+        255911
+      ],
+      "branch": "Dexters Hackney Central",
+      "sub_brand": "Dexters",
+      "postcode": "E8 1HY",
+      "reputation_score": 72,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T11:53:34.613000",
+      "days_since_review": 34,
+      "total_reviews": 4038,
+      "reviews_30d": 0,
+      "reviews_90d": 20,
+      "replies_90d": 18,
+      "reply_rate_90d": 90.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJeQ38k3IddkgRrbVpSwcUEEQ",
+        "rating": 4.8,
+        "user_rating_count": 162,
+        "formatted_address": "331 Mare St, London E8 1HY",
+        "google_maps_url": "https://maps.google.com/?cid=4904442015769015725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255912,
+      "va_ids": [
+        19366,
+        255912
+      ],
+      "branch": "Dexters Hammersmith",
+      "sub_brand": "Dexters",
+      "postcode": "W6 0QU",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T19:46:42.747000",
+      "days_since_review": 40,
+      "total_reviews": 2886,
+      "reviews_30d": 0,
+      "reviews_90d": 43,
+      "replies_90d": 17,
+      "reply_rate_90d": 39.53488372093023,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 40% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ_erqbbUPdkgRjvjUjlgGgEw",
+        "rating": 4.9,
+        "user_rating_count": 651,
+        "formatted_address": "164 King St, London W6 0QU",
+        "google_maps_url": "https://maps.google.com/?cid=5512412921324697742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255913,
+      "va_ids": [
+        255913
+      ],
+      "branch": "Dexters Hampstead",
+      "sub_brand": "Dexters",
+      "postcode": "NW3 1DL",
+      "reputation_score": 72,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T20:44:59.240000",
+      "days_since_review": 33,
+      "total_reviews": 2134,
+      "reviews_30d": 0,
+      "reviews_90d": 33,
+      "replies_90d": 13,
+      "reply_rate_90d": 39.39393939393939,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 39% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJcfmIK3gQdkgRRJXUvE0Ae7U",
+        "rating": 4.9,
+        "user_rating_count": 541,
+        "formatted_address": "56 Heath St, London NW3 1DL",
+        "google_maps_url": "https://maps.google.com/?cid=13077046276880897348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255914,
+      "va_ids": [
+        16699,
+        255914
+      ],
+      "branch": "Dexters Hampton",
+      "sub_brand": "Dexters",
+      "postcode": "TW12 2BD",
+      "reputation_score": 76,
+      "rating": 4.37,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T16:45:04.850000",
+      "days_since_review": 33,
+      "total_reviews": 3651,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 32,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJgdNxKk8LdkgRDSwDaf1aGqo",
+        "rating": 4.9,
+        "user_rating_count": 1671,
+        "formatted_address": "93 Station Rd, Hampton TW12 2BD",
+        "google_maps_url": "https://maps.google.com/?cid=12257209380277267469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255961,
+      "va_ids": [
+        249677,
+        255961
+      ],
+      "branch": "Dexters Hendon Estate Agents",
+      "sub_brand": "Dexters",
+      "postcode": "NW4 3AS",
+      "reputation_score": 76,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T07:32:45.150000",
+      "days_since_review": 41,
+      "total_reviews": 2401,
+      "reviews_30d": 0,
+      "reviews_90d": 43,
+      "replies_90d": 19,
+      "reply_rate_90d": 44.18604651162791,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 41d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 44% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJd8IugNwQdkgRm71vOvNFooc",
+        "rating": 4.8,
+        "user_rating_count": 555,
+        "formatted_address": "18 Central Circus, London NW4 3AS",
+        "google_maps_url": "https://maps.google.com/?cid=9773451052307168667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255915,
+      "va_ids": [
+        249675,
+        255915
+      ],
+      "branch": "Dexters Highgate",
+      "sub_brand": "Dexters",
+      "postcode": "N6 5JT",
+      "reputation_score": 76,
+      "rating": 4.38,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-12T07:32:26.123000",
+      "days_since_review": 38,
+      "total_reviews": 2859,
+      "reviews_30d": 0,
+      "reviews_90d": 63,
+      "replies_90d": 41,
+      "reply_rate_90d": 65.07936507936508,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 38d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 65% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJlbpxg04adkgRs5Xej213FG0",
+        "rating": 4.9,
+        "user_rating_count": 1036,
+        "formatted_address": "35 Highgate High St, London N6 5JT",
+        "google_maps_url": "https://maps.google.com/?cid=7860038562117227955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255916,
+      "va_ids": [
+        249680,
+        255916
+      ],
+      "branch": "Dexters Honor Oak",
+      "sub_brand": "Dexters",
+      "postcode": "SE23 1EA",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T07:33:20.727000",
+      "days_since_review": 35,
+      "total_reviews": 2368,
+      "reviews_30d": 0,
+      "reviews_90d": 29,
+      "replies_90d": 7,
+      "reply_rate_90d": 24.137931034482758,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 24% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJKf5NwAADdkgRqm_idGMveoo",
+        "rating": 4.7,
+        "user_rating_count": 398,
+        "formatted_address": "61 Honor Oak Park, London SE23 1EA",
+        "google_maps_url": "https://maps.google.com/?cid=9978340028602019754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255917,
+      "va_ids": [
+        249690,
+        255917
+      ],
+      "branch": "Dexters Hyde Park & Bayswater",
+      "sub_brand": "Dexters",
+      "postcode": "W2 3RA",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T18:45:20.120000",
+      "days_since_review": 33,
+      "total_reviews": 2745,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 30,
+      "reply_rate_90d": 75.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 75% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJNzeKRU0FdkgR9ddd1cmnww8",
+        "rating": 4.8,
+        "user_rating_count": 945,
+        "formatted_address": "4 Spring St, Tyburnia, London W2 3RA",
+        "google_maps_url": "https://maps.google.com/?cid=1135936016337459189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255918,
+      "va_ids": [
+        16826,
+        255918
+      ],
+      "branch": "Dexters Isleworth",
+      "sub_brand": "Dexters",
+      "postcode": "TW7 4EP",
+      "reputation_score": 76,
+      "rating": 4.3,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T21:45:25.753000",
+      "days_since_review": 40,
+      "total_reviews": 3782,
+      "reviews_30d": 0,
+      "reviews_90d": 70,
+      "replies_90d": 45,
+      "reply_rate_90d": 64.28571428571429,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 64% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJzeEsdfYMdkgRW-UbdQQyjOw",
+        "rating": 4.9,
+        "user_rating_count": 1551,
+        "formatted_address": "568 London Rd, Isleworth TW7 4EP",
+        "google_maps_url": "https://maps.google.com/?cid=17045053684416505179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255919,
+      "va_ids": [
+        255919
+      ],
+      "branch": "Dexters Islington",
+      "sub_brand": "Dexters",
+      "postcode": "N1 0NU",
+      "reputation_score": 72,
+      "rating": 4.27,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T09:45:32.270000",
+      "days_since_review": 33,
+      "total_reviews": 2331,
+      "reviews_30d": 0,
+      "reviews_90d": 37,
+      "replies_90d": 11,
+      "reply_rate_90d": 29.72972972972973,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 30% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJZQeLZ2cbdkgR8UJU_lfnaSc",
+        "rating": 4.8,
+        "user_rating_count": 757,
+        "formatted_address": "76 Upper St, London N1 0NU",
+        "google_maps_url": "https://maps.google.com/?cid=2840055405148914417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255920,
+      "va_ids": [
+        249679,
+        255920
+      ],
+      "branch": "Dexters Kennington",
+      "sub_brand": "Dexters",
+      "postcode": "SE11 4QE",
+      "reputation_score": 76,
+      "rating": 4.37,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T18:50:04.213000",
+      "days_since_review": 34,
+      "total_reviews": 2268,
+      "reviews_30d": 0,
+      "reviews_90d": 48,
+      "replies_90d": 40,
+      "reply_rate_90d": 83.33333333333334,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJsR9xWZEEdkgRtsSxyHQmF6M",
+        "rating": 4.9,
+        "user_rating_count": 502,
+        "formatted_address": "181 Kennington Ln, London SE11 4EZ",
+        "google_maps_url": "https://maps.google.com/?cid=11751904035671753910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255921,
+      "va_ids": [
+        249676,
+        255921
+      ],
+      "branch": "Dexters Kensal Rise & Queen's Park",
+      "sub_brand": "Dexters",
+      "postcode": "NW10 3JJ",
+      "reputation_score": 76,
+      "rating": 4.38,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-11T07:32:33.473000",
+      "days_since_review": 39,
+      "total_reviews": 2892,
+      "reviews_30d": 0,
+      "reviews_90d": 50,
+      "replies_90d": 50,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJq6ppNDkQdkgREf86CHc32TI",
+        "rating": 4.9,
+        "user_rating_count": 1233,
+        "formatted_address": "62 Chamberlayne Rd, London NW10 3JJ",
+        "google_maps_url": "https://maps.google.com/?cid=3664020756221329169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255922,
+      "va_ids": [
+        249674,
+        255922
+      ],
+      "branch": "Dexters Kensington",
+      "sub_brand": "Dexters",
+      "postcode": "W8 7DU",
+      "reputation_score": 75,
+      "rating": 4.3,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T19:45:49.367000",
+      "days_since_review": 33,
+      "total_reviews": 2026,
+      "reviews_30d": 0,
+      "reviews_90d": 5,
+      "replies_90d": 4,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJQaMuOvEPdkgR5kkZe_mol08",
+        "rating": 4.9,
+        "user_rating_count": 184,
+        "formatted_address": "1 Campden Hill Rd, London W8 7DU",
+        "google_maps_url": "https://maps.google.com/?cid=5735238439945193958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255923,
+      "va_ids": [
+        255923
+      ],
+      "branch": "Dexters Kentish Town & Camden",
+      "sub_brand": "Dexters",
+      "postcode": "NW5 2AA",
+      "reputation_score": 72,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T15:45:55.717000",
+      "days_since_review": 33,
+      "total_reviews": 1951,
+      "reviews_30d": 0,
+      "reviews_90d": 29,
+      "replies_90d": 6,
+      "reply_rate_90d": 20.689655172413794,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 21% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJoUzPKXYbdkgR1YZcm_f5opY",
+        "rating": 4.9,
+        "user_rating_count": 680,
+        "formatted_address": "274 Kentish Town Rd, London NW5 2JT",
+        "google_maps_url": "https://maps.google.com/?cid=10854512893775087317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255924,
+      "va_ids": [
+        249669,
+        255924
+      ],
+      "branch": "Dexters Kew",
+      "sub_brand": "Dexters",
+      "postcode": "TW9 3DT",
+      "reputation_score": 76,
+      "rating": 4.3,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-12T07:31:08.660000",
+      "days_since_review": 38,
+      "total_reviews": 2898,
+      "reviews_30d": 0,
+      "reviews_90d": 7,
+      "replies_90d": 6,
+      "reply_rate_90d": 85.71428571428571,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 38d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJyWfWXdcNdkgR_ihpOI6B6NY",
+        "rating": 4.9,
+        "user_rating_count": 660,
+        "formatted_address": "2 Mortlake Terrace, Richmond TW9 3DT",
+        "google_maps_url": "https://maps.google.com/?cid=15485769766545205502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255925,
+      "va_ids": [
+        255925
+      ],
+      "branch": "Dexters Kingston",
+      "sub_brand": "Dexters",
+      "postcode": "KT1 1TG",
+      "reputation_score": 72,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T07:46:06.900000",
+      "days_since_review": 34,
+      "total_reviews": 2337,
+      "reviews_30d": 0,
+      "reviews_90d": 20,
+      "replies_90d": 10,
+      "reply_rate_90d": 50.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 50% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ29oCIusLdkgRQ27Fazwsqf0",
+        "rating": 4.9,
+        "user_rating_count": 2732,
+        "formatted_address": "4 Wood St, Kingston upon Thames KT1 1TG",
+        "google_maps_url": "https://maps.google.com/?cid=18278189200677629507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255962,
+      "va_ids": [
+        249657,
+        255962
+      ],
+      "branch": "Dexters Lee",
+      "sub_brand": "Dexters",
+      "postcode": "SE12 8RW",
+      "reputation_score": 76,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T21:50:04.500000",
+      "days_since_review": 40,
+      "total_reviews": 2554,
+      "reviews_30d": 0,
+      "reviews_90d": 14,
+      "replies_90d": 14,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJCbYLIo-p2EcRNwrduRKH0b8",
+        "rating": 4.7,
+        "user_rating_count": 405,
+        "formatted_address": "430-432 Lee High Rd, London SE12 8RW",
+        "google_maps_url": "https://maps.google.com/?cid=13821977245874194999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255926,
+      "va_ids": [
+        255926
+      ],
+      "branch": "Dexters Lewisham",
+      "sub_brand": "Dexters",
+      "postcode": "SE13 7PZ",
+      "reputation_score": 72,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T21:46:12.500000",
+      "days_since_review": 34,
+      "total_reviews": 2193,
+      "reviews_30d": 0,
+      "reviews_90d": 26,
+      "replies_90d": 5,
+      "reply_rate_90d": 19.230769230769234,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 19% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJldMZzmsCdkgRL0ViBxI8GKI",
+        "rating": 4.9,
+        "user_rating_count": 364,
+        "formatted_address": "228 Algernon Rd, London SE13 7AG",
+        "google_maps_url": "https://maps.google.com/?cid=11680151681716340015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255927,
+      "va_ids": [
+        249653,
+        255927
+      ],
+      "branch": "Dexters London Bridge",
+      "sub_brand": "Dexters",
+      "postcode": "SE1 1XL",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T14:46:19.020000",
+      "days_since_review": 33,
+      "total_reviews": 2730,
+      "reviews_30d": 0,
+      "reviews_90d": 74,
+      "replies_90d": 28,
+      "reply_rate_90d": 37.83783783783784,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 38% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJZwdkKVgDdkgR1uNeI0Jb3ps",
+        "rating": 4.9,
+        "user_rating_count": 1309,
+        "formatted_address": "54 Borough High St, London Brg, London SE1 1XL",
+        "google_maps_url": "https://maps.google.com/?cid=11231514860327986134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255928,
+      "va_ids": [
+        249691,
+        255928
+      ],
+      "branch": "Dexters Maida Vale",
+      "sub_brand": "Dexters",
+      "postcode": "W9 1JS",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T18:46:25.647000",
+      "days_since_review": 33,
+      "total_reviews": 2972,
+      "reviews_30d": 0,
+      "reviews_90d": 70,
+      "replies_90d": 60,
+      "reply_rate_90d": 85.71428571428571,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ20M2tggQdkgROFgtBVbiBWQ",
+        "rating": 4.9,
+        "user_rating_count": 1467,
+        "formatted_address": "298 Elgin Ave., London W9 1JS",
+        "google_maps_url": "https://maps.google.com/?cid=7207415637758269496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255929,
+      "va_ids": [
+        249671,
+        255929
+      ],
+      "branch": "Dexters Marylebone",
+      "sub_brand": "Dexters",
+      "postcode": "W1G 8NJ",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-03T18:50:19.487000",
+      "days_since_review": 46,
+      "total_reviews": 2556,
+      "reviews_30d": 0,
+      "reviews_90d": 24,
+      "replies_90d": 20,
+      "reply_rate_90d": 83.33333333333334,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 46d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJbz1YKNIadkgRmj4f0pgOqyE",
+        "rating": 4.9,
+        "user_rating_count": 556,
+        "formatted_address": "55 Weymouth St, London W1G 8NJ",
+        "google_maps_url": "https://maps.google.com/?cid=2426048873792224922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255931,
+      "va_ids": [
+        255931
+      ],
+      "branch": "Dexters Muswell Hill",
+      "sub_brand": "Dexters",
+      "postcode": "N10 1DJ",
+      "reputation_score": 72,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T09:46:42.200000",
+      "days_since_review": 33,
+      "total_reviews": 1992,
+      "reviews_30d": 0,
+      "reviews_90d": 20,
+      "replies_90d": 17,
+      "reply_rate_90d": 85.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJMX-T6SwadkgR50gKcEaOD30",
+        "rating": 4.8,
+        "user_rating_count": 835,
+        "formatted_address": "418 Muswell Hill Broadway, Muswell Hill, London N10 1DJ",
+        "google_maps_url": "https://maps.google.com/?cid=9011577812570228967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255963,
+      "va_ids": [
+        255963
+      ],
+      "branch": "Dexters New Cross",
+      "sub_brand": "Dexters",
+      "postcode": "SE14 5PL",
+      "reputation_score": 72,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-17T16:51:31.150000",
+      "days_since_review": 32,
+      "total_reviews": 2059,
+      "reviews_30d": 0,
+      "reviews_90d": 36,
+      "replies_90d": 28,
+      "reply_rate_90d": 77.77777777777779,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 32d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 78% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ-Qw3dvcCdkgRl-ilOWrgc7w",
+        "rating": 4.8,
+        "user_rating_count": 720,
+        "formatted_address": "256 New Cross Rd, London SE14 5PL",
+        "google_maps_url": "https://maps.google.com/?cid=13579444048290506903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255932,
+      "va_ids": [
+        249689,
+        255930,
+        255932
+      ],
+      "branch": "Dexters New Homes North",
+      "sub_brand": "Dexters",
+      "postcode": "W1K 3JL",
+      "reputation_score": 75,
+      "rating": 4.29,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-20T22:55:11",
+      "days_since_review": 60,
+      "total_reviews": 3912,
+      "reviews_30d": 0,
+      "reviews_90d": 48,
+      "replies_90d": 5,
+      "reply_rate_90d": 10.416666666666668,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 60d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 10% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJDeUp8CsFdkgRKGRIKsTxJiA",
+        "rating": 4.8,
+        "user_rating_count": 149,
+        "formatted_address": "66 Grosvenor St, London W1K 3JL",
+        "google_maps_url": "https://maps.google.com/?cid=2316804883153970216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255933,
+      "va_ids": [
+        249665,
+        255933,
+        255958
+      ],
+      "branch": "Dexters New Homes South",
+      "sub_brand": "Dexters",
+      "postcode": "SW19 1RF",
+      "reputation_score": 76,
+      "rating": 4.3,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-11T07:28:41.057000",
+      "days_since_review": 39,
+      "total_reviews": 4738,
+      "reviews_30d": 0,
+      "reviews_90d": 27,
+      "replies_90d": 25,
+      "reply_rate_90d": 92.5925925925926,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJAUKGALoIdkgRAojJAO04PWc",
+        "rating": 4.8,
+        "user_rating_count": 1034,
+        "formatted_address": "12 The Broadway, London SW19 1RF",
+        "google_maps_url": "https://maps.google.com/?cid=7439164750057539586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255934,
+      "va_ids": [
+        249663,
+        255934
+      ],
+      "branch": "Dexters Northcote Road",
+      "sub_brand": "Dexters",
+      "postcode": "SW11 1QY",
+      "reputation_score": 76,
+      "rating": 4.36,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T07:28:19.720000",
+      "days_since_review": 40,
+      "total_reviews": 2347,
+      "reviews_30d": 0,
+      "reviews_90d": 46,
+      "replies_90d": 27,
+      "reply_rate_90d": 58.69565217391305,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 59% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJOVkcTsEFdkgRmOnahloDV3k",
+        "rating": 5.0,
+        "user_rating_count": 720,
+        "formatted_address": "93-95 St John's Rd, London SW11 1QY",
+        "google_maps_url": "https://maps.google.com/?cid=8743460888907540888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255935,
+      "va_ids": [
+        249688,
+        255935
+      ],
+      "branch": "Dexters Northfields",
+      "sub_brand": "Dexters",
+      "postcode": "W13 9SB",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T07:35:25.757000",
+      "days_since_review": 35,
+      "total_reviews": 2849,
+      "reviews_30d": 0,
+      "reviews_90d": 38,
+      "replies_90d": 32,
+      "reply_rate_90d": 84.21052631578947,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJETUta6ENdkgRjyAAbPnCoEA",
+        "rating": 4.9,
+        "user_rating_count": 707,
+        "formatted_address": "140 Northfield Ave, London W13 9SB",
+        "google_maps_url": "https://maps.google.com/?cid=4656936391215685775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255965,
+      "va_ids": [
+        249660,
+        255965
+      ],
+      "branch": "Dexters Peckham Rye",
+      "sub_brand": "Dexters",
+      "postcode": "SE22 0JA",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T07:27:30.303000",
+      "days_since_review": 41,
+      "total_reviews": 2171,
+      "reviews_30d": 0,
+      "reviews_90d": 25,
+      "replies_90d": 6,
+      "reply_rate_90d": 24.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 41d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 24% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJG0GhQLwDdkgRNMwtLvJhb7o",
+        "rating": 4.9,
+        "user_rating_count": 369,
+        "formatted_address": "2 Barry Rd, London SE22 0JA",
+        "google_maps_url": "https://maps.google.com/?cid=13434063906254212148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255936,
+      "va_ids": [
+        255936
+      ],
+      "branch": "Dexters Pimlico",
+      "sub_brand": "Dexters",
+      "postcode": "SW1V 2LP",
+      "reputation_score": 72,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-16T21:47:37.413000",
+      "days_since_review": 64,
+      "total_reviews": 1991,
+      "reviews_30d": 0,
+      "reviews_90d": 13,
+      "replies_90d": 8,
+      "reply_rate_90d": 61.53846153846154,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 64d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 62% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJMdaGf94EdkgRizn6x95udNM",
+        "rating": 4.9,
+        "user_rating_count": 358,
+        "formatted_address": "50 Churton St, Pimlico, London SW1V 2LP",
+        "google_maps_url": "https://maps.google.com/?cid=15236925342418090379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255937,
+      "va_ids": [
+        15344,
+        255937
+      ],
+      "branch": "Dexters Putney",
+      "sub_brand": "Dexters",
+      "postcode": "SW15 1RS",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T21:47:43.323000",
+      "days_since_review": 39,
+      "total_reviews": 2780,
+      "reviews_30d": 0,
+      "reviews_90d": 23,
+      "replies_90d": 16,
+      "reply_rate_90d": 69.56521739130434,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 70% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ_1Xm9REPdkgRzudyxDUykNY",
+        "rating": 4.8,
+        "user_rating_count": 857,
+        "formatted_address": "176 Putney High St, London SW15 1RS",
+        "google_maps_url": "https://maps.google.com/?cid=15460912727273433038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255938,
+      "va_ids": [
+        255938
+      ],
+      "branch": "Dexters Richmond",
+      "sub_brand": "Dexters",
+      "postcode": "TW9 1AD",
+      "reputation_score": 76,
+      "rating": 4.6,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T10:47:48.950000",
+      "days_since_review": 33,
+      "total_reviews": 371,
+      "reviews_30d": 0,
+      "reviews_90d": 25,
+      "replies_90d": 17,
+      "reply_rate_90d": 68.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 68% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJz4sJ9i8MdkgRw7wukKrZHXo",
+        "rating": 4.8,
+        "user_rating_count": 961,
+        "formatted_address": "1 Sheen Rd, Richmond TW9 1AD",
+        "google_maps_url": "https://maps.google.com/?cid=8799428573538467011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255939,
+      "va_ids": [
+        17018,
+        255939
+      ],
+      "branch": "Dexters Shepherds Bush",
+      "sub_brand": "Dexters",
+      "postcode": "W12 8PS",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-13T21:47:55.160000",
+      "days_since_review": 36,
+      "total_reviews": 2971,
+      "reviews_30d": 0,
+      "reviews_90d": 34,
+      "replies_90d": 25,
+      "reply_rate_90d": 73.52941176470588,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 36d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 74% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJNXrVXcUPdkgReH0Ck-7CBaQ",
+        "rating": 4.8,
+        "user_rating_count": 958,
+        "formatted_address": "53 Shepherd's Bush Grn, London W12 8PS",
+        "google_maps_url": "https://maps.google.com/?cid=11819067127028153720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255940,
+      "va_ids": [
+        246156,
+        255940
+      ],
+      "branch": "Dexters Shoreditch",
+      "sub_brand": "Dexters",
+      "postcode": "EC2A 3EP",
+      "reputation_score": 72,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T18:50:56.847000",
+      "days_since_review": 34,
+      "total_reviews": 4579,
+      "reviews_30d": 0,
+      "reviews_90d": 42,
+      "replies_90d": 21,
+      "reply_rate_90d": 50.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 50% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJh2pypLocdkgRJ_fneYD19VM",
+        "rating": 4.8,
+        "user_rating_count": 845,
+        "formatted_address": "44 Great Eastern St, London EC2A 3EP",
+        "google_maps_url": "https://maps.google.com/?cid=6050011606591993639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255941,
+      "va_ids": [
+        249667,
+        255941
+      ],
+      "branch": "Dexters South Kensington",
+      "sub_brand": "Dexters",
+      "postcode": "SW7 4NR",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T21:48:05.547000",
+      "days_since_review": 35,
+      "total_reviews": 2628,
+      "reviews_30d": 0,
+      "reviews_90d": 17,
+      "replies_90d": 15,
+      "reply_rate_90d": 88.23529411764706,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJLQuAK2EFdkgRspWmpR-m34s",
+        "rating": 4.8,
+        "user_rating_count": 615,
+        "formatted_address": "144 Old Brompton Rd, South Kensington, London SW7 4NR",
+        "google_maps_url": "https://maps.google.com/?cid=10078957145931814322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255942,
+      "va_ids": [
+        16658,
+        255942
+      ],
+      "branch": "Dexters St Margarets",
+      "sub_brand": "Dexters",
+      "postcode": "TW1 1LR",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T19:03:28.207000",
+      "days_since_review": 43,
+      "total_reviews": 2844,
+      "reviews_30d": 0,
+      "reviews_90d": 47,
+      "replies_90d": 28,
+      "reply_rate_90d": 59.57446808510638,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 60% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJvQR4V1kMdkgRwP3cjw2_fS4",
+        "rating": 4.9,
+        "user_rating_count": 992,
+        "formatted_address": "1 Chertsey Rd, St Margarets, Twickenham TW1 1LR",
+        "google_maps_url": "https://maps.google.com/?cid=3350043762802621888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255943,
+      "va_ids": [
+        19361,
+        255943
+      ],
+      "branch": "Dexters Streatham",
+      "sub_brand": "Dexters",
+      "postcode": "SW2 4UG",
+      "reputation_score": 76,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T19:45:45.303000",
+      "days_since_review": 39,
+      "total_reviews": 3095,
+      "reviews_30d": 0,
+      "reviews_90d": 25,
+      "replies_90d": 23,
+      "reply_rate_90d": 92.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJN5RFqSUEdkgRpZucKsGtN7M",
+        "rating": 4.9,
+        "user_rating_count": 941,
+        "formatted_address": "105 Streatham Hill, London SW2 4UG",
+        "google_maps_url": "https://maps.google.com/?cid=12913981501663386533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 259323,
+      "va_ids": [
+        16725,
+        259323
+      ],
+      "branch": "Dexters Sunbury",
+      "sub_brand": "Dexters",
+      "postcode": "TW16 6AF",
+      "reputation_score": 76,
+      "rating": 4.23,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-30T19:04:50.117000",
+      "days_since_review": 50,
+      "total_reviews": 2674,
+      "reviews_30d": 0,
+      "reviews_90d": 46,
+      "replies_90d": 20,
+      "reply_rate_90d": 43.47826086956522,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 50d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 43% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJH40sRex0dkgRaGQKk3lQbkE",
+        "rating": 4.9,
+        "user_rating_count": 694,
+        "formatted_address": "22 Thames St, Lower, Sunbury-on-Thames TW16 6AF",
+        "google_maps_url": "https://maps.google.com/?cid=4714794342991684712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255945,
+      "va_ids": [
+        16686,
+        249654,
+        255945
+      ],
+      "branch": "Dexters Teddington",
+      "sub_brand": "Dexters",
+      "postcode": "TW11 8HA",
+      "reputation_score": 76,
+      "rating": 4.76,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T21:48:26.980000",
+      "days_since_review": 34,
+      "total_reviews": 2219,
+      "reviews_30d": 0,
+      "reviews_90d": 82,
+      "replies_90d": 61,
+      "reply_rate_90d": 74.39024390243902,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 74% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJA7j3BH8LdkgRU78_LxNgtnM",
+        "rating": null,
+        "user_rating_count": 0,
+        "formatted_address": "Dexters Estate Agents, 61 High St, Teddington TW11 8HA",
+        "google_maps_url": "https://maps.google.com/?cid=8337957395636404051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.05
+      }
+    },
+    {
+      "office_id": 255946,
+      "va_ids": [
+        249664,
+        255946
+      ],
+      "branch": "Dexters Tooting",
+      "sub_brand": "Dexters",
+      "postcode": "SW17 0RG",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T21:48:33.020000",
+      "days_since_review": 34,
+      "total_reviews": 2594,
+      "reviews_30d": 0,
+      "reviews_90d": 60,
+      "replies_90d": 27,
+      "reply_rate_90d": 45.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 45% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ6duf9yUHdkgRVNGJAwIQrLQ",
+        "rating": 5.0,
+        "user_rating_count": 695,
+        "formatted_address": "48 Tooting High St, London SW17 0RG",
+        "google_maps_url": "https://maps.google.com/?cid=13018798223656603988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255947,
+      "va_ids": [
+        249678,
+        255947
+      ],
+      "branch": "Dexters Tower Bridge",
+      "sub_brand": "Dexters",
+      "postcode": "SE1 2LY",
+      "reputation_score": 76,
+      "rating": 4.38,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T06:48:39.010000",
+      "days_since_review": 34,
+      "total_reviews": 2699,
+      "reviews_30d": 0,
+      "reviews_90d": 56,
+      "replies_90d": 35,
+      "reply_rate_90d": 62.5,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 62% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJCaLUG0YDdkgRtl8-yhWSN_A",
+        "rating": 4.9,
+        "user_rating_count": 1093,
+        "formatted_address": "50 Shad Thames Tower Bridge, London SE1 2LY",
+        "google_maps_url": "https://maps.google.com/?cid=17309464315106844598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255948,
+      "va_ids": [
+        16674,
+        255948
+      ],
+      "branch": "Dexters Twickenham",
+      "sub_brand": "Dexters",
+      "postcode": "TW1 4BW",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T09:48:45.613000",
+      "days_since_review": 33,
+      "total_reviews": 3565,
+      "reviews_30d": 0,
+      "reviews_90d": 43,
+      "replies_90d": 20,
+      "reply_rate_90d": 46.51162790697674,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 47% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJH5XJTokMdkgRyD4TfN7V2nc",
+        "rating": 4.9,
+        "user_rating_count": 1495,
+        "formatted_address": "84 Heath Rd, Twickenham TW1 4BW",
+        "google_maps_url": "https://maps.google.com/?cid=8636450386977439432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255949,
+      "va_ids": [
+        13679,
+        255949
+      ],
+      "branch": "Dexters Vauxhall",
+      "sub_brand": "Dexters",
+      "postcode": "SE11 5QY",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-20T17:26:41.907000",
+      "days_since_review": 29,
+      "total_reviews": 2665,
+      "reviews_30d": 1,
+      "reviews_90d": 50,
+      "replies_90d": 40,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJsR9xWZEEdkgRtsSxyHQmF6M",
+        "rating": 4.9,
+        "user_rating_count": 502,
+        "formatted_address": "181 Kennington Ln, London SE11 4EZ",
+        "google_maps_url": "https://maps.google.com/?cid=11751904035671753910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    },
+    {
+      "office_id": 255950,
+      "va_ids": [
+        246153,
+        255950
+      ],
+      "branch": "Dexters Wapping",
+      "sub_brand": "Dexters",
+      "postcode": "E1W 3NX",
+      "reputation_score": 72,
+      "rating": 4.33,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T23:53:25.730000",
+      "days_since_review": 39,
+      "total_reviews": 4556,
+      "reviews_30d": 0,
+      "reviews_90d": 63,
+      "replies_90d": 44,
+      "reply_rate_90d": 69.84126984126983,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 70% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJAQCQiC8DdkgR4ZPgKXKudxg",
+        "rating": 4.8,
+        "user_rating_count": 682,
+        "formatted_address": "123 Wapping High St, London E1W 3NX",
+        "google_maps_url": "https://maps.google.com/?cid=1763069584490927073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255951,
+      "va_ids": [
+        19365,
+        255951
+      ],
+      "branch": "Dexters West Ealing",
+      "sub_brand": "Dexters",
+      "postcode": "W13 0SU",
+      "reputation_score": 76,
+      "rating": 4.26,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2025-12-22T20:29:09",
+      "days_since_review": 148,
+      "total_reviews": 1940,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 148d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJM_syatcNdkgRMiZzpvjDwO4",
+        "rating": null,
+        "user_rating_count": 0,
+        "formatted_address": "42 Broadway, London W13 0SU",
+        "google_maps_url": "https://maps.google.com/?cid=17203966049267164722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255952,
+      "va_ids": [
+        255952
+      ],
+      "branch": "Dexters West Hampstead",
+      "sub_brand": "Dexters",
+      "postcode": "NW6 1LT",
+      "reputation_score": 72,
+      "rating": 4.31,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T21:49:03.597000",
+      "days_since_review": 47,
+      "total_reviews": 2061,
+      "reviews_30d": 0,
+      "reviews_90d": 39,
+      "replies_90d": 14,
+      "reply_rate_90d": 35.8974358974359,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 36% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJy9z_2X4QdkgRG9WmBWN1KxM",
+        "rating": 4.8,
+        "user_rating_count": 552,
+        "formatted_address": "349 W End Ln, London NW6 1LT",
+        "google_maps_url": "https://maps.google.com/?cid=1381326778876220699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255953,
+      "va_ids": [
+        255953
+      ],
+      "branch": "Dexters West Hampstead (South)",
+      "sub_brand": "Dexters",
+      "postcode": "NW6 2LS",
+      "reputation_score": 72,
+      "rating": 4.36,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T06:49:10.083000",
+      "days_since_review": 34,
+      "total_reviews": 2160,
+      "reviews_30d": 0,
+      "reviews_90d": 46,
+      "replies_90d": 19,
+      "reply_rate_90d": 41.30434782608695,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 41% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJcfmIK3gQdkgRjV1uGafBICo",
+        "rating": 5.0,
+        "user_rating_count": 1554,
+        "formatted_address": "106 W End Ln, London NW6 2LS",
+        "google_maps_url": "https://maps.google.com/?cid=3035639072278076813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255954,
+      "va_ids": [
+        17059,
+        255954
+      ],
+      "branch": "Dexters West Kensington",
+      "sub_brand": "Dexters",
+      "postcode": "W14 9NL",
+      "reputation_score": 76,
+      "rating": 4.32,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-22T13:45:09.087000",
+      "days_since_review": 27,
+      "total_reviews": 2767,
+      "reviews_30d": 1,
+      "reviews_90d": 77,
+      "replies_90d": 52,
+      "reply_rate_90d": 67.53246753246754,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 68% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ93hicpQPdkgRtcQJFAuWSHg",
+        "rating": 4.7,
+        "user_rating_count": 623,
+        "formatted_address": "179-181 North End Rd, London W14 9NL",
+        "google_maps_url": "https://maps.google.com/?cid=8667342457199510709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255955,
+      "va_ids": [
+        249670,
+        255955
+      ],
+      "branch": "Dexters Westbourne Grove",
+      "sub_brand": "Dexters",
+      "postcode": "W11 2RR",
+      "reputation_score": 76,
+      "rating": 4.34,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-26T21:49:21.843000",
+      "days_since_review": 54,
+      "total_reviews": 2479,
+      "reviews_30d": 0,
+      "reviews_90d": 21,
+      "replies_90d": 16,
+      "reply_rate_90d": 76.19047619047619,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 54d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 76% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJzxQUeQIQdkgRxmwn8LA7KNA",
+        "rating": 4.9,
+        "user_rating_count": 409,
+        "formatted_address": "120 Westbourne Grove, London W11 2RR",
+        "google_maps_url": "https://maps.google.com/?cid=14999304190086835398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      }
+    },
+    {
+      "office_id": 255956,
+      "va_ids": [
+        249684,
+        255956
+      ],
+      "branch": "Dexters Westminster",
+      "sub_brand": "Dexters",
+      "postcode": "SW1V 2ER",
+      "reputation_score": 76,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-20T22:55:11",
+      "days_since_review": 60,
+      "total_reviews": 2519,
+      "reviews_30d": 0,
+      "reviews_90d": 35,
+      "replies_90d": 16,
+      "reply_rate_90d": 45.714285714285715,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 60d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 46% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJL1V3teEEdkgRIQz8Ru6pX8w",
+        "rating": 4.9,
+        "user_rating_count": 439,
+        "formatted_address": "Pimlico Estate Agents, 42 Denbigh St, Pimlico, London SW1V 2ER",
+        "google_maps_url": "https://maps.google.com/?cid=14726676147383045153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      }
+    },
+    {
+      "office_id": 255957,
+      "va_ids": [
+        255957
+      ],
+      "branch": "Dexters Wetherell",
+      "sub_brand": "Dexters",
+      "postcode": "W1K 2TH",
+      "reputation_score": 72,
+      "rating": 4.35,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T21:49:34.373000",
+      "days_since_review": 40,
+      "total_reviews": 1970,
+      "reviews_30d": 0,
+      "reviews_90d": 8,
+      "replies_90d": 8,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJDeUp8CsFdkgRKGRIKsTxJiA",
+        "rating": 4.8,
+        "user_rating_count": 149,
+        "formatted_address": "66 Grosvenor St, London W1K 3JL",
+        "google_maps_url": "https://maps.google.com/?cid=2316804883153970216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75,
+        "multi_va_attribution_count": 2
+      }
+    }
+  ],
+  "google_summary": {
+    "matched_offices": 82,
+    "total_offices": 83,
+    "match_rate_pct": 98.8,
+    "total_reviews": 63200,
+    "avg_rating": 4.86,
+    "avg_reviews_per_matched_office": 771.0,
+    "multi_va_attribution_warnings": 20,
+    "source": "Google Places API \u2014 harvested 2026-05-20"
+  }
+}

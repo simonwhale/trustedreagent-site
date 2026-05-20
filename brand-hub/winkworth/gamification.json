@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T08:52:12.147875Z",
+  "updated": "2026-05-20T08:56:15.952649+00:00",
   "brand": "Winkworth",
   "offices": [
     {
@@ -77,9 +77,9 @@
       "days_since_review": 65,
       "total_reviews": 849,
       "reviews_30d": 0,
-      "reviews_90d": 3,
-      "replies_90d": 2,
-      "reply_rate_90d": 66.66666666666666,
+      "reviews_90d": 2,
+      "replies_90d": 1,
+      "reply_rate_90d": 50.0,
       "flags": [
         [
           "RED",
@@ -94,7 +94,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 67% (90d)"
+          "Reply rate 50% (90d)"
         ],
         [
           "AMBER",
@@ -576,9 +576,9 @@
       "days_since_review": 64,
       "total_reviews": 903,
       "reviews_30d": 0,
-      "reviews_90d": 4,
-      "replies_90d": 1,
-      "reply_rate_90d": 25.0,
+      "reviews_90d": 3,
+      "replies_90d": 0,
+      "reply_rate_90d": 0.0,
       "flags": [
         [
           "RED",
@@ -593,7 +593,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 25% (90d)"
+          "Reply rate 0% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -899,9 +899,9 @@
       "days_since_review": 27,
       "total_reviews": 1289,
       "reviews_30d": 1,
-      "reviews_90d": 20,
-      "replies_90d": 10,
-      "reply_rate_90d": 50.0,
+      "reviews_90d": 19,
+      "replies_90d": 9,
+      "reply_rate_90d": 47.368421052631575,
       "flags": [
         [
           "RED",
@@ -909,9 +909,9 @@
           "Never logged in"
         ],
         [
-          "AMBER",
-          "reply_rate_med",
-          "Reply rate 50% (90d)"
+          "RED",
+          "reply_rate_low",
+          "Reply rate 47% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -1036,9 +1036,9 @@
       "days_since_review": 60,
       "total_reviews": 893,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -1053,7 +1053,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ],
         [
           "AMBER",
@@ -1092,9 +1092,9 @@
       "days_since_review": 60,
       "total_reviews": 802,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -1109,7 +1109,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ],
         [
           "AMBER",
@@ -1360,9 +1360,9 @@
       "days_since_review": 47,
       "total_reviews": 1133,
       "reviews_30d": 0,
-      "reviews_90d": 4,
-      "replies_90d": 1,
-      "reply_rate_90d": 25.0,
+      "reviews_90d": 3,
+      "replies_90d": 0,
+      "reply_rate_90d": 0.0,
       "flags": [
         [
           "RED",
@@ -1377,7 +1377,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 25% (90d)"
+          "Reply rate 0% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -1412,9 +1412,9 @@
       "days_since_review": 64,
       "total_reviews": 1139,
       "reviews_30d": 0,
-      "reviews_90d": 15,
-      "replies_90d": 13,
-      "reply_rate_90d": 86.66666666666667,
+      "reviews_90d": 14,
+      "replies_90d": 12,
+      "reply_rate_90d": 85.71428571428571,
       "flags": [
         [
           "RED",
@@ -1559,9 +1559,9 @@
       "days_since_review": 60,
       "total_reviews": 801,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -1576,7 +1576,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ],
         [
           "AMBER",
@@ -1711,9 +1711,9 @@
       "days_since_review": 39,
       "total_reviews": 1361,
       "reviews_30d": 0,
-      "reviews_90d": 30,
-      "replies_90d": 14,
-      "reply_rate_90d": 46.666666666666664,
+      "reviews_90d": 29,
+      "replies_90d": 13,
+      "reply_rate_90d": 44.827586206896555,
       "flags": [
         [
           "RED",
@@ -1728,7 +1728,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 47% (90d)"
+          "Reply rate 45% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -1915,12 +1915,12 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-07T08:45:14.703000",
-      "days_since_review": 42,
+      "days_since_review": 43,
       "total_reviews": 1235,
       "reviews_30d": 0,
-      "reviews_90d": 28,
-      "replies_90d": 15,
-      "reply_rate_90d": 53.57142857142857,
+      "reviews_90d": 27,
+      "replies_90d": 14,
+      "reply_rate_90d": 51.85185185185185,
       "flags": [
         [
           "RED",
@@ -1930,12 +1930,12 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 42d"
+          "No review for 43d"
         ],
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 54% (90d)"
+          "Reply rate 52% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2024,9 +2024,9 @@
       "days_since_review": 33,
       "total_reviews": 906,
       "reviews_30d": 0,
-      "reviews_90d": 16,
-      "replies_90d": 13,
-      "reply_rate_90d": 81.25,
+      "reviews_90d": 15,
+      "replies_90d": 12,
+      "reply_rate_90d": 80.0,
       "flags": [
         [
           "RED",
@@ -2125,9 +2125,9 @@
       "days_since_review": 47,
       "total_reviews": 1289,
       "reviews_30d": 0,
-      "reviews_90d": 21,
-      "replies_90d": 15,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 20,
+      "replies_90d": 14,
+      "reply_rate_90d": 70.0,
       "flags": [
         [
           "RED",
@@ -2142,7 +2142,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 70% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2176,9 +2176,9 @@
       "days_since_review": 35,
       "total_reviews": 1228,
       "reviews_30d": 0,
-      "reviews_90d": 30,
-      "replies_90d": 28,
-      "reply_rate_90d": 93.33333333333333,
+      "reviews_90d": 29,
+      "replies_90d": 27,
+      "reply_rate_90d": 93.10344827586206,
       "flags": [
         [
           "RED",
@@ -2223,9 +2223,9 @@
       "days_since_review": 60,
       "total_reviews": 1089,
       "reviews_30d": 0,
-      "reviews_90d": 16,
-      "replies_90d": 10,
-      "reply_rate_90d": 62.5,
+      "reviews_90d": 15,
+      "replies_90d": 9,
+      "reply_rate_90d": 60.0,
       "flags": [
         [
           "RED",
@@ -2240,7 +2240,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 62% (90d)"
+          "Reply rate 60% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2273,9 +2273,9 @@
       "days_since_review": 39,
       "total_reviews": 1045,
       "reviews_30d": 0,
-      "reviews_90d": 18,
-      "replies_90d": 11,
-      "reply_rate_90d": 61.111111111111114,
+      "reviews_90d": 17,
+      "replies_90d": 10,
+      "reply_rate_90d": 58.82352941176471,
       "flags": [
         [
           "RED",
@@ -2290,7 +2290,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 61% (90d)"
+          "Reply rate 59% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2425,9 +2425,9 @@
       "days_since_review": 35,
       "total_reviews": 1003,
       "reviews_30d": 0,
-      "reviews_90d": 38,
-      "replies_90d": 14,
-      "reply_rate_90d": 36.84210526315789,
+      "reviews_90d": 37,
+      "replies_90d": 13,
+      "reply_rate_90d": 35.13513513513514,
       "flags": [
         [
           "RED",
@@ -2442,7 +2442,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 37% (90d)"
+          "Reply rate 35% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2476,9 +2476,9 @@
       "days_since_review": 34,
       "total_reviews": 1162,
       "reviews_30d": 0,
-      "reviews_90d": 54,
-      "replies_90d": 48,
-      "reply_rate_90d": 88.88888888888889,
+      "reviews_90d": 53,
+      "replies_90d": 47,
+      "reply_rate_90d": 88.67924528301887,
       "flags": [
         [
           "RED",
@@ -2673,9 +2673,9 @@
       "days_since_review": 47,
       "total_reviews": 1278,
       "reviews_30d": 0,
-      "reviews_90d": 20,
-      "replies_90d": 18,
-      "reply_rate_90d": 90.0,
+      "reviews_90d": 19,
+      "replies_90d": 17,
+      "reply_rate_90d": 89.47368421052632,
       "flags": [
         [
           "RED",
@@ -2769,9 +2769,9 @@
       "days_since_review": 54,
       "total_reviews": 968,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 12,
-      "reply_rate_90d": 85.71428571428571,
+      "reviews_90d": 13,
+      "replies_90d": 11,
+      "reply_rate_90d": 84.61538461538461,
       "flags": [
         [
           "RED",
@@ -2871,9 +2871,9 @@
       "days_since_review": 38,
       "total_reviews": 1615,
       "reviews_30d": 0,
-      "reviews_90d": 59,
-      "replies_90d": 31,
-      "reply_rate_90d": 52.54237288135594,
+      "reviews_90d": 58,
+      "replies_90d": 30,
+      "reply_rate_90d": 51.724137931034484,
       "flags": [
         [
           "RED",
@@ -2888,7 +2888,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 53% (90d)"
+          "Reply rate 52% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -2922,9 +2922,9 @@
       "days_since_review": 60,
       "total_reviews": 870,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -2939,7 +2939,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ],
         [
           "AMBER",
@@ -2978,9 +2978,9 @@
       "days_since_review": 40,
       "total_reviews": 969,
       "reviews_30d": 0,
-      "reviews_90d": 16,
-      "replies_90d": 12,
-      "reply_rate_90d": 75.0,
+      "reviews_90d": 15,
+      "replies_90d": 11,
+      "reply_rate_90d": 73.33333333333333,
       "flags": [
         [
           "RED",
@@ -2995,7 +2995,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 75% (90d)"
+          "Reply rate 73% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -3120,9 +3120,9 @@
       "days_since_review": 39,
       "total_reviews": 491,
       "reviews_30d": 0,
-      "reviews_90d": 29,
-      "replies_90d": 18,
-      "reply_rate_90d": 62.06896551724138,
+      "reviews_90d": 28,
+      "replies_90d": 17,
+      "reply_rate_90d": 60.71428571428571,
       "flags": [
         [
           "RED",
@@ -3137,7 +3137,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 62% (90d)"
+          "Reply rate 61% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -3167,7 +3167,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-06-28T08:16:32.467000",
-      "days_since_review": 325,
+      "days_since_review": 326,
       "total_reviews": 1,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -3182,7 +3182,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 325d"
+          "No review for 326d"
         ],
         [
           "RED",
@@ -3314,9 +3314,9 @@
       "days_since_review": 39,
       "total_reviews": 1191,
       "reviews_30d": 0,
-      "reviews_90d": 37,
-      "replies_90d": 13,
-      "reply_rate_90d": 35.13513513513514,
+      "reviews_90d": 36,
+      "replies_90d": 12,
+      "reply_rate_90d": 33.33333333333333,
       "flags": [
         [
           "RED",
@@ -3331,7 +3331,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 35% (90d)"
+          "Reply rate 33% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -3467,9 +3467,9 @@
       "days_since_review": 33,
       "total_reviews": 1044,
       "reviews_30d": 0,
-      "reviews_90d": 38,
-      "replies_90d": 34,
-      "reply_rate_90d": 89.47368421052632,
+      "reviews_90d": 37,
+      "replies_90d": 33,
+      "reply_rate_90d": 89.1891891891892,
       "flags": [
         [
           "RED",
@@ -3512,9 +3512,9 @@
       "days_since_review": 67,
       "total_reviews": 860,
       "reviews_30d": 0,
-      "reviews_90d": 13,
-      "replies_90d": 11,
-      "reply_rate_90d": 84.61538461538461,
+      "reviews_90d": 12,
+      "replies_90d": 10,
+      "reply_rate_90d": 83.33333333333334,
       "flags": [
         [
           "RED",
@@ -3700,9 +3700,9 @@
       "days_since_review": 46,
       "total_reviews": 1098,
       "reviews_30d": 0,
-      "reviews_90d": 23,
-      "replies_90d": 21,
-      "reply_rate_90d": 91.30434782608695,
+      "reviews_90d": 22,
+      "replies_90d": 20,
+      "reply_rate_90d": 90.9090909090909,
       "flags": [
         [
           "RED",
@@ -3902,9 +3902,9 @@
       "days_since_review": 7,
       "total_reviews": 1833,
       "reviews_30d": 11,
-      "reviews_90d": 36,
-      "replies_90d": 13,
-      "reply_rate_90d": 36.11111111111111,
+      "reviews_90d": 35,
+      "replies_90d": 12,
+      "reply_rate_90d": 34.285714285714285,
       "flags": [
         [
           "RED",
@@ -3914,7 +3914,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 36% (90d)"
+          "Reply rate 34% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4044,9 +4044,9 @@
       "days_since_review": 60,
       "total_reviews": 1342,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -4061,7 +4061,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4286,9 +4286,9 @@
       "days_since_review": 40,
       "total_reviews": 1127,
       "reviews_30d": 0,
-      "reviews_90d": 23,
-      "replies_90d": 17,
-      "reply_rate_90d": 73.91304347826086,
+      "reviews_90d": 22,
+      "replies_90d": 16,
+      "reply_rate_90d": 72.72727272727273,
       "flags": [
         [
           "RED",
@@ -4303,7 +4303,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 74% (90d)"
+          "Reply rate 73% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4338,9 +4338,9 @@
       "days_since_review": 47,
       "total_reviews": 1045,
       "reviews_30d": 0,
-      "reviews_90d": 12,
-      "replies_90d": 11,
-      "reply_rate_90d": 91.66666666666666,
+      "reviews_90d": 11,
+      "replies_90d": 10,
+      "reply_rate_90d": 90.9090909090909,
       "flags": [
         [
           "RED",
@@ -4432,12 +4432,12 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T08:45:54.047000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 1013,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 2,
-      "reply_rate_90d": 14.285714285714285,
+      "reviews_90d": 13,
+      "replies_90d": 1,
+      "reply_rate_90d": 7.6923076923076925,
       "flags": [
         [
           "RED",
@@ -4447,12 +4447,12 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ],
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 14% (90d)"
+          "Reply rate 8% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4640,9 +4640,9 @@
       "days_since_review": 40,
       "total_reviews": 1025,
       "reviews_30d": 0,
-      "reviews_90d": 22,
-      "replies_90d": 12,
-      "reply_rate_90d": 54.54545454545454,
+      "reviews_90d": 21,
+      "replies_90d": 11,
+      "reply_rate_90d": 52.38095238095239,
       "flags": [
         [
           "RED",
@@ -4657,7 +4657,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 55% (90d)"
+          "Reply rate 52% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4691,9 +4691,9 @@
       "days_since_review": 54,
       "total_reviews": 907,
       "reviews_30d": 0,
-      "reviews_90d": 18,
-      "replies_90d": 14,
-      "reply_rate_90d": 77.77777777777779,
+      "reviews_90d": 17,
+      "replies_90d": 13,
+      "reply_rate_90d": 76.47058823529412,
       "flags": [
         [
           "RED",
@@ -4708,7 +4708,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 78% (90d)"
+          "Reply rate 76% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -4887,9 +4887,9 @@
       "days_since_review": 67,
       "total_reviews": 941,
       "reviews_30d": 0,
-      "reviews_90d": 12,
-      "replies_90d": 10,
-      "reply_rate_90d": 83.33333333333334,
+      "reviews_90d": 11,
+      "replies_90d": 9,
+      "reply_rate_90d": 81.81818181818183,
       "flags": [
         [
           "RED",
@@ -4971,9 +4971,9 @@
       "days_since_review": 67,
       "total_reviews": 876,
       "reviews_30d": 0,
-      "reviews_90d": 12,
-      "replies_90d": 10,
-      "reply_rate_90d": 83.33333333333334,
+      "reviews_90d": 11,
+      "replies_90d": 9,
+      "reply_rate_90d": 81.81818181818183,
       "flags": [
         [
           "RED",
@@ -5022,9 +5022,9 @@
       "days_since_review": 57,
       "total_reviews": 1063,
       "reviews_30d": 0,
-      "reviews_90d": 14,
-      "replies_90d": 10,
-      "reply_rate_90d": 71.42857142857143,
+      "reviews_90d": 13,
+      "replies_90d": 9,
+      "reply_rate_90d": 69.23076923076923,
       "flags": [
         [
           "RED",
@@ -5039,7 +5039,7 @@
         [
           "AMBER",
           "reply_rate_med",
-          "Reply rate 71% (90d)"
+          "Reply rate 69% (90d)"
         ]
       ],
       "overall_rag": "RED",

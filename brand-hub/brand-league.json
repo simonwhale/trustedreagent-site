@@ -1,11 +1,11 @@
 {
   "source": "Google Places API (places.googleapis.com searchText)",
-  "updated_at": "2026-05-20T08:51:22.444038Z",
-  "method": "Auto-accept matched offices only \u2014 brand_root + postcode + place_type (confidence \u2265 0.75)",
+  "updated_at": "2026-05-20T08:57:10.845939+00:00",
+  "method": "Auto-accept matched offices (confidence \u2265 0.75); brand-major real-resale offices only",
   "caveats": [
     "Match rate < 100% means some offices have no Google Business Profile or did not auto-match.",
-    "Unmatched offices contribute 0 to totals \u2014 see google-places-needs-review.csv for review.",
-    "Avg rating is mean of place-level rating, weighted equally per matched office (not weighted by review count)."
+    "Unmatched offices contribute 0 to totals \u2014 see google-places-needs-review.csv (772 rows triaged).",
+    "Avg rating weighted per office (not by review count)."
   ],
   "leaderboard": [
     {
@@ -18,6 +18,7 @@
       "avg_reviews_per_office": 184,
       "top_office_reviews": 1027,
       "pct_offices_4_5_plus": 74.7,
+      "hub_url": "/brand-hub/connells-group/",
       "rank_by_total_reviews": 1,
       "rank_by_avg_rating": 10
     },
@@ -31,47 +32,51 @@
       "avg_reviews_per_office": 321,
       "top_office_reviews": 1301,
       "pct_offices_4_5_plus": 80.1,
+      "hub_url": "/brand-hub/lrg/",
       "rank_by_total_reviews": 2,
       "rank_by_avg_rating": 9
     },
     {
-      "brand": "haart (Spicerhaart)",
-      "offices_total": 159,
-      "google_matched": 91,
-      "match_rate": 57.2,
-      "avg_rating": 4.8,
-      "total_reviews": 78977,
-      "avg_reviews_per_office": 878,
+      "brand": "Spicerhaart",
+      "offices_total": 182,
+      "google_matched": 107,
+      "match_rate": 58.8,
+      "avg_rating": 4.79,
+      "total_reviews": 88323,
+      "avg_reviews_per_office": 833,
       "top_office_reviews": 3470,
       "pct_offices_4_5_plus": 100.0,
+      "hub_url": "/brand-hub/spicerhaart/",
       "rank_by_total_reviews": 3,
-      "rank_by_avg_rating": 3
+      "rank_by_avg_rating": 4
     },
     {
-      "brand": "Your Move (LSL)",
-      "offices_total": 258,
-      "google_matched": 192,
-      "match_rate": 74.4,
+      "brand": "LSL",
+      "offices_total": 430,
+      "google_matched": 347,
+      "match_rate": 80.7,
       "avg_rating": 4.67,
-      "total_reviews": 37930,
-      "avg_reviews_per_office": 200,
+      "total_reviews": 74349,
+      "avg_reviews_per_office": 216,
       "top_office_reviews": 972,
-      "pct_offices_4_5_plus": 86.3,
+      "pct_offices_4_5_plus": 87.0,
+      "hub_url": "/brand-hub/lsl/",
       "rank_by_total_reviews": 4,
-      "rank_by_avg_rating": 5
+      "rank_by_avg_rating": 6
     },
     {
-      "brand": "Reeds Rains (LSL)",
-      "offices_total": 116,
-      "google_matched": 107,
-      "match_rate": 92.2,
-      "avg_rating": 4.67,
-      "total_reviews": 24564,
-      "avg_reviews_per_office": 230,
-      "top_office_reviews": 717,
-      "pct_offices_4_5_plus": 86.9,
+      "brand": "Dexters",
+      "offices_total": 89,
+      "google_matched": 88,
+      "match_rate": 98.9,
+      "avg_rating": 4.86,
+      "total_reviews": 67129,
+      "avg_reviews_per_office": 781,
+      "top_office_reviews": 2732,
+      "pct_offices_4_5_plus": 100.0,
+      "hub_url": "/brand-hub/dexters/",
       "rank_by_total_reviews": 5,
-      "rank_by_avg_rating": 6
+      "rank_by_avg_rating": 2
     },
     {
       "brand": "Belvoir",
@@ -83,6 +88,7 @@
       "avg_reviews_per_office": 168,
       "top_office_reviews": 794,
       "pct_offices_4_5_plus": 64.8,
+      "hub_url": null,
       "rank_by_total_reviews": 6,
       "rank_by_avg_rating": 12
     },
@@ -96,6 +102,7 @@
       "avg_reviews_per_office": 187,
       "top_office_reviews": 1096,
       "pct_offices_4_5_plus": 80.2,
+      "hub_url": null,
       "rank_by_total_reviews": 7,
       "rank_by_avg_rating": 7
     },
@@ -109,8 +116,9 @@
       "avg_reviews_per_office": 152,
       "top_office_reviews": 674,
       "pct_offices_4_5_plus": 91.0,
+      "hub_url": "/brand-hub/winkworth/",
       "rank_by_total_reviews": 8,
-      "rank_by_avg_rating": 4
+      "rank_by_avg_rating": 5
     },
     {
       "brand": "Bridgfords",
@@ -122,6 +130,7 @@
       "avg_reviews_per_office": 212,
       "top_office_reviews": 1112,
       "pct_offices_4_5_plus": 71.4,
+      "hub_url": null,
       "rank_by_total_reviews": 9,
       "rank_by_avg_rating": 11
     },
@@ -135,6 +144,7 @@
       "avg_reviews_per_office": 128,
       "top_office_reviews": 637,
       "pct_offices_4_5_plus": 98.2,
+      "hub_url": "/brand-hub/ewemove/",
       "rank_by_total_reviews": 10,
       "rank_by_avg_rating": 1
     },
@@ -148,6 +158,7 @@
       "avg_reviews_per_office": 205,
       "top_office_reviews": 428,
       "pct_offices_4_5_plus": 88.5,
+      "hub_url": null,
       "rank_by_total_reviews": 11,
       "rank_by_avg_rating": 8
     },
@@ -161,8 +172,9 @@
       "avg_reviews_per_office": 38,
       "top_office_reviews": 140,
       "pct_offices_4_5_plus": 90.9,
+      "hub_url": null,
       "rank_by_total_reviews": 12,
-      "rank_by_avg_rating": 2
+      "rank_by_avg_rating": 3
     }
   ]
 }
