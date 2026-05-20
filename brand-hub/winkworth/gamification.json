@@ -1,0 +1,4300 @@
+{
+ "updated": "2026-05-20T05:54:51.213848Z",
+ "brand": "Winkworth",
+ "offices": [
+  {
+   "office_id": 254321,
+   "va_ids": [
+    254321
+   ],
+   "branch": "Winkworth (BH22)",
+   "sub_brand": "Winkworth",
+   "postcode": "BH22 9AU",
+   "reputation_score": 46,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T18:40:30.050000",
+   "days_since_review": 64,
+   "total_reviews": 47,
+   "reviews_30d": 0,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 46"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 247680,
+   "va_ids": [
+    247680
+   ],
+   "branch": "Winkworth (BH23)",
+   "sub_brand": "Winkworth",
+   "postcode": "BH23 4BA",
+   "reputation_score": 62,
+   "rating": 3.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T03:00:56.797000",
+   "days_since_review": 65,
+   "total_reviews": 849,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 2,
+   "reply_rate_90d": 66.66666666666666,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 65d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 67% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254312,
+   "va_ids": [
+    254312
+   ],
+   "branch": "Winkworth (EX16)",
+   "sub_brand": "Winkworth",
+   "postcode": "EX16 6LN",
+   "reputation_score": 74,
+   "rating": 4.99,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-14T18:39:13.043000",
+   "days_since_review": 35,
+   "total_reviews": 219,
+   "reviews_30d": 0,
+   "reviews_90d": 10,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 35d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254323,
+   "va_ids": [
+    254323
+   ],
+   "branch": "Winkworth (EX17)",
+   "sub_brand": "Winkworth",
+   "postcode": "EX17 3LG",
+   "reputation_score": 48,
+   "rating": 4.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T18:40:47.513000",
+   "days_since_review": 40,
+   "total_reviews": 110,
+   "reviews_30d": 0,
+   "reviews_90d": 6,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 48"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254313,
+   "va_ids": [
+    254313
+   ],
+   "branch": "Winkworth (GU19)",
+   "sub_brand": "Winkworth",
+   "postcode": "GU19 5AF",
+   "reputation_score": 65,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-04-11T22:50:19.537000",
+   "days_since_review": 768,
+   "total_reviews": 11,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 768d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254317,
+   "va_ids": [
+    254317
+   ],
+   "branch": "Winkworth (IP18)",
+   "sub_brand": "Winkworth",
+   "postcode": "IP18 6DJ",
+   "reputation_score": 46,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-01-16T18:39:54.567000",
+   "days_since_review": 123,
+   "total_reviews": 48,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 123d"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 46"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254351,
+   "va_ids": [
+    254351
+   ],
+   "branch": "Winkworth (SL5)",
+   "sub_brand": "Winkworth",
+   "postcode": "SL5 0DH",
+   "reputation_score": 65,
+   "rating": 4.88,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-04-16T18:45:15.407000",
+   "days_since_review": 763,
+   "total_reviews": 48,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 763d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254326,
+   "va_ids": [
+    254326
+   ],
+   "branch": "Winkworth (SS9)",
+   "sub_brand": "Winkworth",
+   "postcode": "SS9 1BP",
+   "reputation_score": 74,
+   "rating": 4.78,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-26T18:41:17.373000",
+   "days_since_review": 54,
+   "total_reviews": 148,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 3,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 54d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254352,
+   "va_ids": [
+    254352
+   ],
+   "branch": "Winkworth (SW13)",
+   "sub_brand": "Winkworth",
+   "postcode": "SW13 9LB",
+   "reputation_score": 61,
+   "rating": 4.25,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-09-25T22:09:38.837000",
+   "days_since_review": 601,
+   "total_reviews": 16,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 601d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 61"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 16105,
+   "va_ids": [
+    16105
+   ],
+   "branch": "Winkworth (TN1)",
+   "sub_brand": "Winkworth",
+   "postcode": "TN1 1XX",
+   "reputation_score": 49,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2022-04-13T18:54:04.630000",
+   "days_since_review": 1497,
+   "total_reviews": 21,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 1497d"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 49"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254330,
+   "va_ids": [
+    254330
+   ],
+   "branch": "Winkworth (TQ6)",
+   "sub_brand": "Winkworth",
+   "postcode": "TQ6 9QE",
+   "reputation_score": 59,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-03-24T22:16:56.323000",
+   "days_since_review": 786,
+   "total_reviews": 8,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 786d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 59"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259319,
+   "va_ids": [
+    254320,
+    259319
+   ],
+   "branch": "Winkworth Banstead",
+   "sub_brand": "Winkworth",
+   "postcode": "SM7 2NN",
+   "reputation_score": 72,
+   "rating": 3.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T18:40:19.823000",
+   "days_since_review": 64,
+   "total_reviews": 903,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 1,
+   "reply_rate_90d": 25.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 25% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 5413,
+   "va_ids": [
+    5413,
+    254311
+   ],
+   "branch": "Winkworth Barnet",
+   "sub_brand": "Winkworth",
+   "postcode": "EN5 5UW",
+   "reputation_score": 74,
+   "rating": 4.74,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-15T16:42:13.873000",
+   "days_since_review": 34,
+   "total_reviews": 207,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 3,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 34d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 12766,
+   "va_ids": [
+    12766
+   ],
+   "branch": "Winkworth Basingstoke",
+   "sub_brand": "Winkworth",
+   "postcode": "RG21 7QE",
+   "reputation_score": 70,
+   "rating": 4.81,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-01-15T20:05:08.063000",
+   "days_since_review": 124,
+   "total_reviews": 86,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 124d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 660,
+   "va_ids": [
+    660
+   ],
+   "branch": "Winkworth Bath",
+   "sub_brand": "Winkworth",
+   "postcode": "BA1 2JQ",
+   "reputation_score": 79,
+   "rating": 4.82,
+   "nps": 100,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-17T16:10:48.137000",
+   "days_since_review": 32,
+   "total_reviews": 146,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 1,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 32d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 22195,
+   "va_ids": [
+    22195
+   ],
+   "branch": "Winkworth Beaconsfield",
+   "sub_brand": "Winkworth",
+   "postcode": "HP9 2JH",
+   "reputation_score": 78,
+   "rating": 4.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-13T20:44:58.317000",
+   "days_since_review": 95,
+   "total_reviews": 87,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 95d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1689,
+   "va_ids": [
+    1689
+   ],
+   "branch": "Winkworth Beckenham",
+   "sub_brand": "Winkworth",
+   "postcode": "BR3 1BX",
+   "reputation_score": 79,
+   "rating": 4.76,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-21T15:47:29.427000",
+   "days_since_review": 28,
+   "total_reviews": 183,
+   "reviews_30d": 2,
+   "reviews_90d": 29,
+   "replies_90d": 4,
+   "reply_rate_90d": 13.793103448275861,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 14% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 13907,
+   "va_ids": [
+    13907
+   ],
+   "branch": "Winkworth Blackheath",
+   "sub_brand": "Winkworth",
+   "postcode": "SE3 9LA",
+   "reputation_score": 74,
+   "rating": 4.69,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-20T19:23:02.803000",
+   "days_since_review": 29,
+   "total_reviews": 253,
+   "reviews_30d": 1,
+   "reviews_90d": 6,
+   "replies_90d": 2,
+   "reply_rate_90d": 33.33333333333333,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 33% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259091,
+   "va_ids": [
+    17747,
+    259091
+   ],
+   "branch": "Winkworth Borehamwood & Elstree",
+   "sub_brand": "Winkworth",
+   "postcode": "WD6 1DS",
+   "reputation_score": 81,
+   "rating": 4.06,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-23T00:19:44.250000",
+   "days_since_review": 27,
+   "total_reviews": 1289,
+   "reviews_30d": 1,
+   "reviews_90d": 20,
+   "replies_90d": 10,
+   "reply_rate_90d": 50.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 50% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 11791,
+   "va_ids": [
+    11791,
+    254314
+   ],
+   "branch": "Winkworth Bourne",
+   "sub_brand": "Winkworth",
+   "postcode": "PE10 9NE",
+   "reputation_score": 76,
+   "rating": 4.95,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T18:39:31.237000",
+   "days_since_review": 47,
+   "total_reviews": 176,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 3,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 4821,
+   "va_ids": [
+    4821
+   ],
+   "branch": "Winkworth Bow",
+   "sub_brand": "Winkworth",
+   "postcode": "E15 1NS",
+   "reputation_score": 45,
+   "rating": 3.14,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2025-04-30T21:14:09.853000",
+   "days_since_review": 384,
+   "total_reviews": 36,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 384d"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 45"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257352,
+   "va_ids": [
+    4971,
+    257352
+   ],
+   "branch": "Winkworth Bow",
+   "sub_brand": "Winkworth",
+   "postcode": "E3 5LX",
+   "reputation_score": 62,
+   "rating": 3.87,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 893,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257353,
+   "va_ids": [
+    257353
+   ],
+   "branch": "Winkworth Brentford",
+   "sub_brand": "Winkworth",
+   "postcode": "TW8 8LB",
+   "reputation_score": 62,
+   "rating": 3.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 802,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257407,
+   "va_ids": [
+    1574,
+    257407
+   ],
+   "branch": "Winkworth Brighton & Hove",
+   "sub_brand": "Winkworth",
+   "postcode": "BN3 2FN",
+   "reputation_score": 67,
+   "rating": 3.98,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-20T08:56:25.720000",
+   "days_since_review": 88,
+   "total_reviews": 993,
+   "reviews_30d": 0,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 88d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 67"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259630,
+   "va_ids": [
+    3422,
+    259630
+   ],
+   "branch": "Winkworth Canterbury",
+   "sub_brand": "Winkworth",
+   "postcode": "CT1 2QG",
+   "reputation_score": 62,
+   "rating": 3.91,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-15T09:56:56.377000",
+   "days_since_review": 65,
+   "total_reviews": 852,
+   "reviews_30d": 0,
+   "reviews_90d": 5,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 65d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 14456,
+   "va_ids": [
+    14456
+   ],
+   "branch": "Winkworth Cheam",
+   "sub_brand": "Winkworth",
+   "postcode": "SM3 8SD",
+   "reputation_score": 68,
+   "rating": 4.74,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-30T18:24:17.487000",
+   "days_since_review": 50,
+   "total_reviews": 119,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 50d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 68"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 237496,
+   "va_ids": [
+    237496
+   ],
+   "branch": "Winkworth Cheltenham",
+   "sub_brand": "Winkworth",
+   "postcode": "GL50 1PJ",
+   "reputation_score": 68,
+   "rating": 4.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-13T22:41:48.353000",
+   "days_since_review": 95,
+   "total_reviews": 77,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 95d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 68"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256572,
+   "va_ids": [
+    254357,
+    256572
+   ],
+   "branch": "Winkworth Chiswick",
+   "sub_brand": "Winkworth",
+   "postcode": "W4 4PU",
+   "reputation_score": 72,
+   "rating": 4.03,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T23:01:08.727000",
+   "days_since_review": 47,
+   "total_reviews": 1133,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 1,
+   "reply_rate_90d": 25.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 25% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256573,
+   "va_ids": [
+    5065,
+    244211,
+    256573
+   ],
+   "branch": "Winkworth Clerkenwell & City",
+   "sub_brand": "Winkworth",
+   "postcode": "EC1R 4QP",
+   "reputation_score": 72,
+   "rating": 4.01,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T23:01:17.657000",
+   "days_since_review": 64,
+   "total_reviews": 1139,
+   "reviews_30d": 0,
+   "reviews_90d": 15,
+   "replies_90d": 13,
+   "reply_rate_90d": 86.66666666666667,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256574,
+   "va_ids": [
+    254340,
+    256574
+   ],
+   "branch": "Winkworth Crouch End",
+   "sub_brand": "Winkworth",
+   "postcode": "N8 9DE",
+   "reputation_score": 62,
+   "rating": 3.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T18:43:25.267000",
+   "days_since_review": 47,
+   "total_reviews": 838,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 4,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 13776,
+   "va_ids": [
+    13776
+   ],
+   "branch": "Winkworth Crystal Palace",
+   "sub_brand": "Winkworth",
+   "postcode": "SE19 1TS",
+   "reputation_score": 79,
+   "rating": 4.89,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-25T17:07:33.520000",
+   "days_since_review": 55,
+   "total_reviews": 150,
+   "reviews_30d": 0,
+   "reviews_90d": 6,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 55d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256575,
+   "va_ids": [
+    256575
+   ],
+   "branch": "Winkworth Crystal Palace",
+   "sub_brand": "Winkworth",
+   "postcode": "W1K 6TT",
+   "reputation_score": 62,
+   "rating": 3.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 801,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 14527,
+   "va_ids": [
+    14527
+   ],
+   "branch": "Winkworth Devizes",
+   "sub_brand": "Winkworth",
+   "postcode": "SN10 1HT",
+   "reputation_score": 70,
+   "rating": 4.95,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-03-30T12:00:45.430000",
+   "days_since_review": 780,
+   "total_reviews": 20,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 780d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256576,
+   "va_ids": [
+    254350,
+    256576
+   ],
+   "branch": "Winkworth Dulwich",
+   "sub_brand": "Winkworth",
+   "postcode": "SE22 8HU",
+   "reputation_score": 75,
+   "rating": 4.04,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-14T23:01:38.777000",
+   "days_since_review": 35,
+   "total_reviews": 1217,
+   "reviews_30d": 0,
+   "reviews_90d": 10,
+   "replies_90d": 2,
+   "reply_rate_90d": 20.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 35d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 20% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256577,
+   "va_ids": [
+    254334,
+    256577
+   ],
+   "branch": "Winkworth Ealing & Acton",
+   "sub_brand": "Winkworth",
+   "postcode": "W5 3NU",
+   "reputation_score": 73,
+   "rating": 4.1,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T23:01:46.077000",
+   "days_since_review": 39,
+   "total_reviews": 1361,
+   "reviews_30d": 0,
+   "reviews_90d": 30,
+   "replies_90d": 14,
+   "reply_rate_90d": 46.666666666666664,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 47% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 5472,
+   "va_ids": [
+    5472
+   ],
+   "branch": "Winkworth Exeter",
+   "sub_brand": "Winkworth",
+   "postcode": "EX1 1JG",
+   "reputation_score": 82,
+   "rating": 4.74,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T16:21:05.900000",
+   "days_since_review": 39,
+   "total_reviews": 560,
+   "reviews_30d": 0,
+   "reviews_90d": 15,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 6566,
+   "va_ids": [
+    6566
+   ],
+   "branch": "Winkworth Farnham",
+   "sub_brand": "Winkworth",
+   "postcode": "GU9 7EN",
+   "reputation_score": 82,
+   "rating": 4.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T16:33:41.770000",
+   "days_since_review": 40,
+   "total_reviews": 295,
+   "reviews_30d": 0,
+   "reviews_90d": 11,
+   "replies_90d": 3,
+   "reply_rate_90d": 27.27272727272727,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 27% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256578,
+   "va_ids": [
+    254337,
+    256578
+   ],
+   "branch": "Winkworth Finchley",
+   "sub_brand": "Winkworth",
+   "postcode": "N3 2LJ",
+   "reputation_score": 62,
+   "rating": 3.89,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T23:01:56.593000",
+   "days_since_review": 64,
+   "total_reviews": 881,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256579,
+   "va_ids": [
+    244213,
+    256579
+   ],
+   "branch": "Winkworth Forest Hill",
+   "sub_brand": "Winkworth",
+   "postcode": "SE23 3TW",
+   "reputation_score": 75,
+   "rating": 4.07,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-07T08:45:14.703000",
+   "days_since_review": 42,
+   "total_reviews": 1235,
+   "reviews_30d": 0,
+   "reviews_90d": 28,
+   "replies_90d": 15,
+   "reply_rate_90d": 53.57142857142857,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 42d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 54% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256612,
+   "va_ids": [
+    256612
+   ],
+   "branch": "Winkworth Fulham & Barons Court",
+   "sub_brand": "Winkworth",
+   "postcode": "W6 9PA",
+   "reputation_score": 62,
+   "rating": 3.97,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T23:07:37.080000",
+   "days_since_review": 64,
+   "total_reviews": 199,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 3,
+   "reply_rate_90d": 75.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 75% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256580,
+   "va_ids": [
+    256580
+   ],
+   "branch": "Winkworth Golders Green",
+   "sub_brand": "Winkworth",
+   "postcode": "NW11 8RR",
+   "reputation_score": 64,
+   "rating": 3.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-16T17:02:21.247000",
+   "days_since_review": 33,
+   "total_reviews": 906,
+   "reviews_30d": 0,
+   "reviews_90d": 16,
+   "replies_90d": 13,
+   "reply_rate_90d": 81.25,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 33d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 64"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 10508,
+   "va_ids": [
+    10508
+   ],
+   "branch": "Winkworth Grantham",
+   "sub_brand": "Winkworth",
+   "postcode": "NG31 6QZ",
+   "reputation_score": 64,
+   "rating": 3.84,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-10-10T00:47:09.403000",
+   "days_since_review": 587,
+   "total_reviews": 89,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 587d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 64"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256581,
+   "va_ids": [
+    254346,
+    256581
+   ],
+   "branch": "Winkworth Greenwich",
+   "sub_brand": "Winkworth",
+   "postcode": "SE10 8NB",
+   "reputation_score": 75,
+   "rating": 4.1,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T23:02:29.787000",
+   "days_since_review": 47,
+   "total_reviews": 1289,
+   "reviews_30d": 0,
+   "reviews_90d": 21,
+   "replies_90d": 15,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256582,
+   "va_ids": [
+    4999,
+    256582
+   ],
+   "branch": "Winkworth Hackney",
+   "sub_brand": "Winkworth",
+   "postcode": "E5 0NS",
+   "reputation_score": 75,
+   "rating": 4.08,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-14T23:02:36.603000",
+   "days_since_review": 35,
+   "total_reviews": 1228,
+   "reviews_30d": 0,
+   "reviews_90d": 30,
+   "replies_90d": 28,
+   "reply_rate_90d": 93.33333333333333,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 35d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257354,
+   "va_ids": [
+    254358,
+    257354
+   ],
+   "branch": "Winkworth Hammersmith",
+   "sub_brand": "Winkworth",
+   "postcode": "W6 7LP",
+   "reputation_score": 72,
+   "rating": 4.02,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 1089,
+   "reviews_30d": 0,
+   "reviews_90d": 16,
+   "replies_90d": 10,
+   "reply_rate_90d": 62.5,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 62% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256583,
+   "va_ids": [
+    256583
+   ],
+   "branch": "Winkworth Harringay",
+   "sub_brand": "Winkworth",
+   "postcode": "N4 1JX",
+   "reputation_score": 72,
+   "rating": 4.04,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T23:02:47.757000",
+   "days_since_review": 39,
+   "total_reviews": 1045,
+   "reviews_30d": 0,
+   "reviews_90d": 18,
+   "replies_90d": 11,
+   "reply_rate_90d": 61.111111111111114,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 61% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 6612,
+   "va_ids": [
+    6612
+   ],
+   "branch": "Winkworth Harrow",
+   "sub_brand": "Winkworth",
+   "postcode": "HA1 2TW",
+   "reputation_score": 70,
+   "rating": 4.68,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-06T16:35:23.803000",
+   "days_since_review": 43,
+   "total_reviews": 304,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 43d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256584,
+   "va_ids": [
+    254341,
+    256584
+   ],
+   "branch": "Winkworth Hendon",
+   "sub_brand": "Winkworth",
+   "postcode": "NW4 2EA",
+   "reputation_score": 72,
+   "rating": 3.95,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T23:02:56.397000",
+   "days_since_review": 47,
+   "total_reviews": 971,
+   "reviews_30d": 0,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256585,
+   "va_ids": [
+    254324,
+    256585
+   ],
+   "branch": "Winkworth Herne Hill",
+   "sub_brand": "Winkworth",
+   "postcode": "SE24 0JT",
+   "reputation_score": 72,
+   "rating": 3.95,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-14T23:03:07.910000",
+   "days_since_review": 35,
+   "total_reviews": 1003,
+   "reviews_30d": 0,
+   "reviews_90d": 38,
+   "replies_90d": 14,
+   "reply_rate_90d": 36.84210526315789,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 35d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 37% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256586,
+   "va_ids": [
+    254338,
+    256586
+   ],
+   "branch": "Winkworth Highbury",
+   "sub_brand": "Winkworth",
+   "postcode": "N5 2XE",
+   "reputation_score": 75,
+   "rating": 4.06,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-15T23:03:16.243000",
+   "days_since_review": 34,
+   "total_reviews": 1162,
+   "reviews_30d": 0,
+   "reviews_90d": 54,
+   "replies_90d": 48,
+   "reply_rate_90d": 88.88888888888889,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 34d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1126,
+   "va_ids": [
+    1126
+   ],
+   "branch": "Winkworth Highcliffe",
+   "sub_brand": "Winkworth",
+   "postcode": "BH23 5EB",
+   "reputation_score": 79,
+   "rating": 4.93,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-17T16:13:25.217000",
+   "days_since_review": 32,
+   "total_reviews": 135,
+   "reviews_30d": 0,
+   "reviews_90d": 6,
+   "replies_90d": 1,
+   "reply_rate_90d": 16.666666666666664,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 32d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 17% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256587,
+   "va_ids": [
+    254339,
+    256587
+   ],
+   "branch": "Winkworth Highgate",
+   "sub_brand": "Winkworth",
+   "postcode": "N6 5JG",
+   "reputation_score": 67,
+   "rating": 3.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T23:03:27.883000",
+   "days_since_review": 39,
+   "total_reviews": 884,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 67"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257355,
+   "va_ids": [
+    257355
+   ],
+   "branch": "Winkworth Islington",
+   "sub_brand": "Winkworth",
+   "postcode": "N1 0NY",
+   "reputation_score": 73,
+   "rating": 4.05,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-01-14T17:05:03",
+   "days_since_review": 125,
+   "total_reviews": 1015,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 125d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256588,
+   "va_ids": [
+    254347,
+    256588
+   ],
+   "branch": "Winkworth Kennington",
+   "sub_brand": "Winkworth",
+   "postcode": "SE11 4QE",
+   "reputation_score": 75,
+   "rating": 4.08,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T23:03:38.810000",
+   "days_since_review": 47,
+   "total_reviews": 1278,
+   "reviews_30d": 0,
+   "reviews_90d": 20,
+   "replies_90d": 18,
+   "reply_rate_90d": 90.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256589,
+   "va_ids": [
+    256589
+   ],
+   "branch": "Winkworth Kensal Rise & Queen's Park",
+   "sub_brand": "Winkworth",
+   "postcode": "NW10 3NR",
+   "reputation_score": 72,
+   "rating": 4.12,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-26T23:03:48.440000",
+   "days_since_review": 54,
+   "total_reviews": 1068,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 54d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256590,
+   "va_ids": [
+    254359,
+    256590
+   ],
+   "branch": "Winkworth Kensington",
+   "sub_brand": "Winkworth",
+   "postcode": "W8 4BH",
+   "reputation_score": 65,
+   "rating": 3.97,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-26T23:03:58.033000",
+   "days_since_review": 54,
+   "total_reviews": 968,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 12,
+   "reply_rate_90d": 85.71428571428571,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 54d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256591,
+   "va_ids": [
+    254342,
+    256591
+   ],
+   "branch": "Winkworth Kentish Town",
+   "sub_brand": "Winkworth",
+   "postcode": "NW5 2TH",
+   "reputation_score": 65,
+   "rating": 3.94,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-17T17:58:33.567000",
+   "days_since_review": 91,
+   "total_reviews": 1040,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 91d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256592,
+   "va_ids": [
+    254345,
+    256592
+   ],
+   "branch": "Winkworth Kingsbury",
+   "sub_brand": "Winkworth",
+   "postcode": "NW9 9ED",
+   "reputation_score": 76,
+   "rating": 4.19,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-11T23:04:14.227000",
+   "days_since_review": 38,
+   "total_reviews": 1615,
+   "reviews_30d": 0,
+   "reviews_90d": 59,
+   "replies_90d": 31,
+   "reply_rate_90d": 52.54237288135594,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 38d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 53% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256593,
+   "va_ids": [
+    254356,
+    256593
+   ],
+   "branch": "Winkworth Knightsbridge & Chelsea",
+   "sub_brand": "Winkworth",
+   "postcode": "SW3 2DY",
+   "reputation_score": 65,
+   "rating": 3.93,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 870,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256594,
+   "va_ids": [
+    254335,
+    256594
+   ],
+   "branch": "Winkworth Maida Vale",
+   "sub_brand": "Winkworth",
+   "postcode": "W9 1RU",
+   "reputation_score": 72,
+   "rating": 3.99,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T23:04:38.760000",
+   "days_since_review": 40,
+   "total_reviews": 969,
+   "reviews_30d": 0,
+   "reviews_90d": 16,
+   "replies_90d": 12,
+   "reply_rate_90d": 75.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 75% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 11982,
+   "va_ids": [
+    11982
+   ],
+   "branch": "Winkworth Market Deeping",
+   "sub_brand": "Winkworth",
+   "postcode": "PE6 8ED",
+   "reputation_score": 79,
+   "rating": 4.91,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-13T17:43:08.907000",
+   "days_since_review": 95,
+   "total_reviews": 150,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 95d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259333,
+   "va_ids": [
+    254325,
+    259333
+   ],
+   "branch": "Winkworth Milford-on-Sea",
+   "sub_brand": "Winkworth",
+   "postcode": "SO41 0QH",
+   "reputation_score": 71,
+   "rating": 3.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2025-12-16T18:41:10.070000",
+   "days_since_review": 154,
+   "total_reviews": 46,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 154d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256595,
+   "va_ids": [
+    254348,
+    256595
+   ],
+   "branch": "Winkworth New Cross",
+   "sub_brand": "Winkworth",
+   "postcode": "SE14 5DG",
+   "reputation_score": 73,
+   "rating": 4.33,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T23:04:52.100000",
+   "days_since_review": 39,
+   "total_reviews": 491,
+   "reviews_30d": 0,
+   "reviews_90d": 29,
+   "replies_90d": 18,
+   "reply_rate_90d": 62.06896551724138,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 62% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254360,
+   "va_ids": [
+    254360
+   ],
+   "branch": "Winkworth New Homes",
+   "sub_brand": "Winkworth",
+   "postcode": "SW1Y 4QU",
+   "reputation_score": 32,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2025-06-28T08:16:32.467000",
+   "days_since_review": 325,
+   "total_reviews": 1,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 325d"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 32"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 10468,
+   "va_ids": [
+    10468
+   ],
+   "branch": "Winkworth Newark",
+   "sub_brand": "Winkworth",
+   "postcode": "NG24 1EE",
+   "reputation_score": 68,
+   "rating": 4.53,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2023-03-31T18:59:15.900000",
+   "days_since_review": 1145,
+   "total_reviews": 38,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 1145d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 68"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 12705,
+   "va_ids": [
+    12705
+   ],
+   "branch": "Winkworth Newbury",
+   "sub_brand": "Winkworth",
+   "postcode": "RG14 1DT",
+   "reputation_score": 77,
+   "rating": 4.77,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-22T19:11:01.530000",
+   "days_since_review": 58,
+   "total_reviews": 204,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 58d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256596,
+   "va_ids": [
+    254331,
+    256596
+   ],
+   "branch": "Winkworth North Kensington",
+   "sub_brand": "Winkworth",
+   "postcode": "W10 6HJ",
+   "reputation_score": 75,
+   "rating": 4.06,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-10T18:41:59.500000",
+   "days_since_review": 39,
+   "total_reviews": 1191,
+   "reviews_30d": 0,
+   "reviews_90d": 37,
+   "replies_90d": 13,
+   "reply_rate_90d": 35.13513513513514,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 39d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 35% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 10586,
+   "va_ids": [
+    10586
+   ],
+   "branch": "Winkworth Northampton",
+   "sub_brand": "Winkworth",
+   "postcode": "NN1 1DF",
+   "reputation_score": 74,
+   "rating": 4.62,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-12T17:23:21.027000",
+   "days_since_review": 37,
+   "total_reviews": 131,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 37d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 258494,
+   "va_ids": [
+    258494
+   ],
+   "branch": "Winkworth Northampton",
+   "sub_brand": "Winkworth",
+   "postcode": "NN1 4EF",
+   "reputation_score": 72,
+   "rating": 4.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-12T22:11:11.343000",
+   "days_since_review": 37,
+   "total_reviews": 905,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 37d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256597,
+   "va_ids": [
+    254332,
+    256597
+   ],
+   "branch": "Winkworth Notting Hill",
+   "sub_brand": "Winkworth",
+   "postcode": "W11 2RH",
+   "reputation_score": 73,
+   "rating": 4.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-16T18:05:10.113000",
+   "days_since_review": 33,
+   "total_reviews": 1044,
+   "reviews_30d": 0,
+   "reviews_90d": 38,
+   "replies_90d": 34,
+   "reply_rate_90d": 89.47368421052632,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 33d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256598,
+   "va_ids": [
+    256598
+   ],
+   "branch": "Winkworth Paddington & Bayswater",
+   "sub_brand": "Winkworth",
+   "postcode": "W2 3ET",
+   "reputation_score": 62,
+   "rating": 3.95,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-13T11:58:00",
+   "days_since_review": 67,
+   "total_reviews": 860,
+   "reviews_30d": 0,
+   "reviews_90d": 13,
+   "replies_90d": 11,
+   "reply_rate_90d": 84.61538461538461,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 67d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 62"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 9769,
+   "va_ids": [
+    9769
+   ],
+   "branch": "Winkworth Palmers Green",
+   "sub_brand": "Winkworth",
+   "postcode": "N13 4JG",
+   "reputation_score": 80,
+   "rating": 4.87,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-23T17:13:05.987000",
+   "days_since_review": 57,
+   "total_reviews": 260,
+   "reviews_30d": 0,
+   "reviews_90d": 5,
+   "replies_90d": 5,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 57d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256599,
+   "va_ids": [
+    254328,
+    256599
+   ],
+   "branch": "Winkworth Parsons Green",
+   "sub_brand": "Winkworth",
+   "postcode": "SW6 4ST",
+   "reputation_score": 72,
+   "rating": 4.07,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T23:05:28.967000",
+   "days_since_review": 40,
+   "total_reviews": 1205,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259347,
+   "va_ids": [
+    6487,
+    254316,
+    259347
+   ],
+   "branch": "Winkworth Petersfield",
+   "sub_brand": "Winkworth",
+   "postcode": "GU32 3JL",
+   "reputation_score": 78,
+   "rating": 3.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-16T18:39:46.130000",
+   "days_since_review": 92,
+   "total_reviews": 995,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 92d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 257356,
+   "va_ids": [
+    254327,
+    257356
+   ],
+   "branch": "Winkworth Pimlico",
+   "sub_brand": "Winkworth",
+   "postcode": "SW1V 1RB",
+   "reputation_score": 75,
+   "rating": 4.01,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-03T20:11:59.207000",
+   "days_since_review": 46,
+   "total_reviews": 1098,
+   "reviews_30d": 0,
+   "reviews_90d": 23,
+   "replies_90d": 21,
+   "reply_rate_90d": 91.30434782608695,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 46d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1044,
+   "va_ids": [
+    1044
+   ],
+   "branch": "Winkworth Poole",
+   "sub_brand": "Winkworth",
+   "postcode": "BH14 9LY",
+   "reputation_score": 53,
+   "rating": 4.9,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-20T09:22:32.970000",
+   "days_since_review": 88,
+   "total_reviews": 63,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 88d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 53"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 22199,
+   "va_ids": [
+    22199
+   ],
+   "branch": "Winkworth Properties",
+   "sub_brand": "Winkworth",
+   "postcode": "BS5 8AQ",
+   "reputation_score": 38,
+   "rating": 3.63,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2025-05-09T09:51:46.647000",
+   "days_since_review": 375,
+   "total_reviews": 19,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 375d"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 38"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256600,
+   "va_ids": [
+    254353,
+    256600
+   ],
+   "branch": "Winkworth Putney",
+   "sub_brand": "Winkworth",
+   "postcode": "SW15 2SH",
+   "reputation_score": 70,
+   "rating": 3.99,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-15T23:05:37.657000",
+   "days_since_review": 34,
+   "total_reviews": 978,
+   "reviews_30d": 0,
+   "reviews_90d": 6,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 34d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 258372,
+   "va_ids": [
+    22198,
+    258372
+   ],
+   "branch": "Winkworth Reading",
+   "sub_brand": "Winkworth",
+   "postcode": "RG1 1QB",
+   "reputation_score": 82,
+   "rating": 4.09,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-05-12T12:41:21.363000",
+   "days_since_review": 7,
+   "total_reviews": 1833,
+   "reviews_30d": 11,
+   "reviews_90d": 36,
+   "replies_90d": 13,
+   "reply_rate_90d": 36.11111111111111,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 36% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 14835,
+   "va_ids": [
+    14835
+   ],
+   "branch": "Winkworth Romsey",
+   "sub_brand": "Winkworth",
+   "postcode": "SO51 8NA",
+   "reputation_score": 75,
+   "rating": 4.19,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-13T18:28:39.050000",
+   "days_since_review": 67,
+   "total_reviews": 84,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 1,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 67d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 254361,
+   "va_ids": [
+    254361
+   ],
+   "branch": "Winkworth Salisbury and Marlborough",
+   "sub_brand": "Winkworth",
+   "postcode": "SN8 1HD",
+   "reputation_score": 67,
+   "rating": 4.72,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-16T18:47:08.953000",
+   "days_since_review": 92,
+   "total_reviews": 36,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 92d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 67"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256601,
+   "va_ids": [
+    254333,
+    256601
+   ],
+   "branch": "Winkworth Shepherd's Bush",
+   "sub_brand": "Winkworth",
+   "postcode": "W12 8NL",
+   "reputation_score": 76,
+   "rating": 4.04,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-20T16:52:34",
+   "days_since_review": 60,
+   "total_reviews": 1342,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 60d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256602,
+   "va_ids": [
+    4634,
+    254322,
+    256602
+   ],
+   "branch": "Winkworth Shoreditch",
+   "sub_brand": "Winkworth",
+   "postcode": "E1 6SA",
+   "reputation_score": 76,
+   "rating": 4.12,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-13T23:05:53.583000",
+   "days_since_review": 36,
+   "total_reviews": 1445,
+   "reviews_30d": 0,
+   "reviews_90d": 32,
+   "replies_90d": 27,
+   "reply_rate_90d": 84.375,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 36d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 10511,
+   "va_ids": [
+    10511,
+    254319
+   ],
+   "branch": "Winkworth Sleaford",
+   "sub_brand": "Winkworth",
+   "postcode": "NG34 7BH",
+   "reputation_score": 81,
+   "rating": 4.63,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T18:40:10.147000",
+   "days_since_review": 40,
+   "total_reviews": 368,
+   "reviews_30d": 0,
+   "reviews_90d": 8,
+   "replies_90d": 8,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256603,
+   "va_ids": [
+    254329,
+    256603
+   ],
+   "branch": "Winkworth South Kensington",
+   "sub_brand": "Winkworth",
+   "postcode": "SW7 4TE",
+   "reputation_score": 70,
+   "rating": 3.96,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T23:06:03.697000",
+   "days_since_review": 64,
+   "total_reviews": 944,
+   "reviews_30d": 0,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1183,
+   "va_ids": [
+    1183
+   ],
+   "branch": "Winkworth Southbourne",
+   "sub_brand": "Winkworth",
+   "postcode": "BH6 3QT",
+   "reputation_score": 78,
+   "rating": 4.56,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2025-09-20T09:23:16.973000",
+   "days_since_review": 241,
+   "total_reviews": 131,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 241d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256604,
+   "va_ids": [
+    15483,
+    256604
+   ],
+   "branch": "Winkworth Southfields",
+   "sub_brand": "Winkworth",
+   "postcode": "SW18 5RJ",
+   "reputation_score": 75,
+   "rating": 4.03,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T23:06:16.447000",
+   "days_since_review": 40,
+   "total_reviews": 1127,
+   "reviews_30d": 0,
+   "reviews_90d": 23,
+   "replies_90d": 17,
+   "reply_rate_90d": 73.91304347826086,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 74% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256605,
+   "va_ids": [
+    254344,
+    256605
+   ],
+   "branch": "Winkworth St Johns Wood",
+   "sub_brand": "Winkworth",
+   "postcode": "NW8 6PL",
+   "reputation_score": 73,
+   "rating": 4.02,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-02T23:06:31.390000",
+   "days_since_review": 47,
+   "total_reviews": 1045,
+   "reviews_30d": 0,
+   "reviews_90d": 12,
+   "replies_90d": 11,
+   "reply_rate_90d": 91.66666666666666,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 15368,
+   "va_ids": [
+    15368
+   ],
+   "branch": "Winkworth Streatham",
+   "sub_brand": "Winkworth",
+   "postcode": "SW16 1DB",
+   "reputation_score": 80,
+   "rating": 4.7,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-17T19:34:30.560000",
+   "days_since_review": 32,
+   "total_reviews": 165,
+   "reviews_30d": 0,
+   "reviews_90d": 27,
+   "replies_90d": 10,
+   "reply_rate_90d": 37.03703703703704,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 32d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 37% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256606,
+   "va_ids": [
+    254355,
+    256606
+   ],
+   "branch": "Winkworth Streatham",
+   "sub_brand": "Winkworth",
+   "postcode": "SW2 4RD",
+   "reputation_score": 72,
+   "rating": 3.98,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-16T08:45:54.047000",
+   "days_since_review": 33,
+   "total_reviews": 1013,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 2,
+   "reply_rate_90d": 14.285714285714285,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 33d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 14% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256607,
+   "va_ids": [
+    256607
+   ],
+   "branch": "Winkworth Surbiton",
+   "sub_brand": "Winkworth",
+   "postcode": "KT6 5PQ",
+   "reputation_score": 72,
+   "rating": 4.81,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-26T23:06:48.117000",
+   "days_since_review": 54,
+   "total_reviews": 230,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 54d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256608,
+   "va_ids": [
+    254349,
+    256608
+   ],
+   "branch": "Winkworth Surrey Quays",
+   "sub_brand": "Winkworth",
+   "postcode": "SE16 7LL",
+   "reputation_score": 45,
+   "rating": 4.2,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-15T18:44:57.043000",
+   "days_since_review": 34,
+   "total_reviews": 85,
+   "reviews_30d": 0,
+   "reviews_90d": 22,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 34d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 45"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256609,
+   "va_ids": [
+    15423,
+    256609
+   ],
+   "branch": "Winkworth Tooting",
+   "sub_brand": "Winkworth",
+   "postcode": "SW17 7TS",
+   "reputation_score": 79,
+   "rating": 4.03,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-16T23:07:07.190000",
+   "days_since_review": 64,
+   "total_reviews": 1147,
+   "reviews_30d": 0,
+   "reviews_90d": 18,
+   "replies_90d": 18,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 64d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256610,
+   "va_ids": [
+    254336,
+    256610
+   ],
+   "branch": "Winkworth West End",
+   "sub_brand": "Winkworth",
+   "postcode": "WC1A 1BS",
+   "reputation_score": 71,
+   "rating": 3.98,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-09T23:07:15.417000",
+   "days_since_review": 40,
+   "total_reviews": 1025,
+   "reviews_30d": 0,
+   "reviews_90d": 22,
+   "replies_90d": 12,
+   "reply_rate_90d": 54.54545454545454,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 40d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 55% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 256611,
+   "va_ids": [
+    254343,
+    256611
+   ],
+   "branch": "Winkworth West Hampstead",
+   "sub_brand": "Winkworth",
+   "postcode": "NW6 1SD",
+   "reputation_score": 71,
+   "rating": 3.96,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-26T23:07:29.017000",
+   "days_since_review": 54,
+   "total_reviews": 907,
+   "reviews_30d": 0,
+   "reviews_90d": 18,
+   "replies_90d": 14,
+   "reply_rate_90d": 77.77777777777779,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 54d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 78% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 13871,
+   "va_ids": [
+    13871
+   ],
+   "branch": "Winkworth West Norwood",
+   "sub_brand": "Winkworth",
+   "postcode": "SE27 0HY",
+   "reputation_score": 52,
+   "rating": 4.58,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-02-20T21:19:41.493000",
+   "days_since_review": 88,
+   "total_reviews": 43,
+   "reviews_30d": 0,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 88d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 52"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1170,
+   "va_ids": [
+    1170
+   ],
+   "branch": "Winkworth Westbourne",
+   "sub_brand": "Winkworth",
+   "postcode": "BH4 9BB",
+   "reputation_score": 82,
+   "rating": 4.89,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-18T15:44:39.373000",
+   "days_since_review": 31,
+   "total_reviews": 545,
+   "reviews_30d": 0,
+   "reviews_90d": 8,
+   "replies_90d": 1,
+   "reply_rate_90d": 12.5,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 31d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 12% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 7772,
+   "va_ids": [
+    7772
+   ],
+   "branch": "Winkworth Weybridge",
+   "sub_brand": "Winkworth",
+   "postcode": "KT13 9UQ",
+   "reputation_score": 83,
+   "rating": 4.73,
+   "nps": 0,
+   "last_login_raw": "17.03.2026 11:19:56",
+   "last_login_iso": "2026-03-17T11:19:56",
+   "days_since_login": 63,
+   "last_user": "MajorMahil",
+   "last_email": "majormahil@winkworth.co.uk",
+   "last_review_at": "2026-05-01T13:06:46.713000",
+   "days_since_review": 18,
+   "total_reviews": 86,
+   "reviews_30d": 2,
+   "reviews_90d": 12,
+   "replies_90d": 12,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "AMBER",
+     "login_stale_30d",
+     "Last login 63d ago"
+    ]
+   ],
+   "overall_rag": "AMBER"
+  },
+  {
+   "office_id": 257357,
+   "va_ids": [
+    254354,
+    257357
+   ],
+   "branch": "Winkworth Wimbledon",
+   "sub_brand": "Winkworth",
+   "postcode": "SW19 7PA",
+   "reputation_score": 72,
+   "rating": 3.96,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-13T11:58:00",
+   "days_since_review": 67,
+   "total_reviews": 941,
+   "reviews_30d": 0,
+   "reviews_90d": 12,
+   "replies_90d": 10,
+   "reply_rate_90d": 83.33333333333334,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 67d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 14714,
+   "va_ids": [
+    14714
+   ],
+   "branch": "Winkworth Winchester",
+   "sub_brand": "Winkworth",
+   "postcode": "SO23 9DT",
+   "reputation_score": 80,
+   "rating": 4.86,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-08T18:28:00.780000",
+   "days_since_review": 41,
+   "total_reviews": 180,
+   "reviews_30d": 0,
+   "reviews_90d": 6,
+   "replies_90d": 5,
+   "reply_rate_90d": 83.33333333333334,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 41d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 258965,
+   "va_ids": [
+    254315,
+    258965
+   ],
+   "branch": "Winkworth Wokingham",
+   "sub_brand": "Winkworth",
+   "postcode": "RG40 1AY",
+   "reputation_score": 65,
+   "rating": 3.92,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-13T11:58:00",
+   "days_since_review": 67,
+   "total_reviews": 876,
+   "reviews_30d": 0,
+   "reviews_90d": 12,
+   "replies_90d": 10,
+   "reply_rate_90d": 83.33333333333334,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 67d"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 65"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 259233,
+   "va_ids": [
+    7923,
+    259233
+   ],
+   "branch": "Winkworth Worcester Park",
+   "sub_brand": "Winkworth",
+   "postcode": "KT4 8EG",
+   "reputation_score": 75,
+   "rating": 3.96,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-23T16:52:54.343000",
+   "days_since_review": 57,
+   "total_reviews": 1063,
+   "reviews_30d": 0,
+   "reviews_90d": 14,
+   "replies_90d": 10,
+   "reply_rate_90d": 71.42857142857143,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 57d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 71% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 1375,
+   "va_ids": [
+    1375
+   ],
+   "branch": "Winkworth Worthing",
+   "sub_brand": "Winkworth",
+   "postcode": "BN11 3DQ",
+   "reputation_score": 80,
+   "rating": 4.91,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2024-10-31T22:30:10.943000",
+   "days_since_review": 565,
+   "total_reviews": 185,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 565d"
+    ]
+   ],
+   "overall_rag": "RED"
+  }
+ ]
+}

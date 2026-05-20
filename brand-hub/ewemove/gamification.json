@@ -1,9 +1,14 @@
 {
- "updated": "2026-05-20T05:03:26.605150Z",
+ "updated": "2026-05-20T05:54:51.213848Z",
+ "brand": "EweMove",
  "offices": [
   {
    "office_id": 245253,
+   "va_ids": [
+    245253
+   ],
    "branch": "EweMove Abbey Wood & Belvedere",
+   "sub_brand": "EweMove",
    "postcode": "DA7",
    "reputation_score": 85,
    "rating": 4.94,
@@ -31,16 +36,20 @@
   },
   {
    "office_id": 244050,
+   "va_ids": [
+    244050
+   ],
    "branch": "EweMove Aberdeen",
+   "sub_brand": "EweMove",
    "postcode": "AB15",
    "reputation_score": 80,
    "rating": 4.79,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-02-20T17:12:25.780000",
    "days_since_review": 88,
    "total_reviews": 39,
@@ -64,16 +73,20 @@
   },
   {
    "office_id": 244052,
+   "va_ids": [
+    244052
+   ],
    "branch": "EweMove Alton & Bordon",
+   "sub_brand": "EweMove",
    "postcode": "GU35",
    "reputation_score": 77,
    "rating": 4.73,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-22T18:26:04.340000",
    "days_since_review": 27,
    "total_reviews": 33,
@@ -92,16 +105,20 @@
   },
   {
    "office_id": 244029,
+   "va_ids": [
+    244029
+   ],
    "branch": "EweMove Anston",
+   "sub_brand": "EweMove",
    "postcode": "S25 2QH",
    "reputation_score": 79,
    "rating": 4.91,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-11-20T00:40:11.637000",
    "days_since_review": 181,
    "total_reviews": 45,
@@ -125,7 +142,11 @@
   },
   {
    "office_id": 245280,
+   "va_ids": [
+    245280
+   ],
    "branch": "EweMove Ashby de la Zouch",
+   "sub_brand": "EweMove",
    "postcode": "LE65",
    "reputation_score": 89,
    "rating": 4.91,
@@ -153,7 +174,11 @@
   },
   {
    "office_id": 255637,
+   "va_ids": [
+    255637
+   ],
    "branch": "EweMove Astley & Worsley",
+   "sub_brand": "EweMove",
    "postcode": "M29 7EH",
    "reputation_score": 62,
    "rating": 4.98,
@@ -190,41 +215,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 261743,
-   "branch": "EweMove Barnard Castle & Richmond",
-   "postcode": "DL10",
-   "reputation_score": null,
-   "rating": null,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244056,
+   "va_ids": [
+    244056
+   ],
    "branch": "EweMove Barton-Under-Needwood",
+   "sub_brand": "EweMove",
    "postcode": "DE13",
    "reputation_score": 88,
    "rating": 4.94,
@@ -252,37 +248,47 @@
   },
   {
    "office_id": 244205,
+   "va_ids": [
+    244199,
+    244205
+   ],
    "branch": "EweMove Basingstoke",
+   "sub_brand": "EweMove",
    "postcode": "RG24 8AG",
    "reputation_score": 86,
    "rating": 4.99,
    "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-05-16T11:34:32.687000",
+   "last_login_raw": "19.06.2024 12:26:27",
+   "last_login_iso": "2024-06-19T12:26:27",
+   "days_since_login": 699,
+   "last_user": "sasasaasasa",
+   "last_email": "domenic@viewagents.com",
+   "last_review_at": "2026-05-16T11:40:33.557000",
    "days_since_review": 3,
-   "total_reviews": 686,
-   "reviews_30d": 11,
-   "reviews_90d": 24,
-   "replies_90d": 20,
+   "total_reviews": 1372,
+   "reviews_30d": 22,
+   "reviews_90d": 48,
+   "replies_90d": 40,
    "reply_rate_90d": 83.33333333333334,
    "flags": [
     [
      "RED",
-     "never_logged_in",
-     "Never logged in"
+     "login_stale_90d",
+     "Last login 699d ago"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244057,
+   "va_ids": [
+    244057,
+    244106
+   ],
    "branch": "EweMove Beckenham & Shortlands",
+   "sub_brand": "EweMove",
    "postcode": "BR2",
-   "reputation_score": 44,
+   "reputation_score": 48,
    "rating": 5.0,
    "nps": 0,
    "last_login_raw": "19.06.2024 12:26:27",
@@ -290,11 +296,11 @@
    "days_since_login": 699,
    "last_user": "sasasaasasa",
    "last_email": "domenic@viewagents.com",
-   "last_review_at": "2026-05-01T10:39:54.900000",
+   "last_review_at": "2026-05-01T10:45:44.940000",
    "days_since_review": 18,
-   "total_reviews": 21,
-   "reviews_30d": 1,
-   "reviews_90d": 1,
+   "total_reviews": 42,
+   "reviews_30d": 2,
+   "reviews_90d": 2,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
    "flags": [
@@ -311,47 +317,18 @@
     [
      "RED",
      "rep_score_low",
-     "Rep score 44"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244058,
-   "branch": "EweMove Beeston",
-   "postcode": "NG10",
-   "reputation_score": 82,
-   "rating": 4.82,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-05-04T20:35:35.617000",
-   "days_since_review": 15,
-   "total_reviews": 183,
-   "reviews_30d": 2,
-   "reviews_90d": 6,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "reply_rate_low",
-     "Reply rate 0% (90d)"
+     "Rep score 48"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244208,
+   "va_ids": [
+    244208
+   ],
    "branch": "EweMove Benfleet & Hadleigh",
+   "sub_brand": "EweMove",
    "postcode": "SS7",
    "reputation_score": 88,
    "rating": 4.95,
@@ -379,7 +356,11 @@
   },
   {
    "office_id": 244045,
+   "va_ids": [
+    244045
+   ],
    "branch": "EweMove Beverley",
+   "sub_brand": "EweMove",
    "postcode": "HU17 0PR",
    "reputation_score": 92,
    "rating": 4.78,
@@ -406,36 +387,12 @@
    "overall_rag": "AMBER"
   },
   {
-   "office_id": 244047,
-   "branch": "EweMove Bexleyheath",
-   "postcode": "DA7 5HD",
-   "reputation_score": 90,
-   "rating": 4.94,
-   "nps": 100,
-   "last_login_raw": "09.05.2025 11:15:29",
-   "last_login_iso": "2025-05-09T11:15:29",
-   "days_since_login": 375,
-   "last_user": "JamesHillier",
-   "last_email": "James.hillier@ewemove.com",
-   "last_review_at": "2026-05-18T10:10:01.347000",
-   "days_since_review": 1,
-   "total_reviews": 315,
-   "reviews_30d": 14,
-   "reviews_90d": 20,
-   "replies_90d": 19,
-   "reply_rate_90d": 95.0,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 375d ago"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 247713,
+   "va_ids": [
+    247713
+   ],
    "branch": "EweMove Blackheath & Charlton",
+   "sub_brand": "EweMove",
    "postcode": "SE3",
    "reputation_score": 71,
    "rating": 4.8,
@@ -473,7 +430,11 @@
   },
   {
    "office_id": 244063,
+   "va_ids": [
+    244063
+   ],
    "branch": "EweMove Boston",
+   "sub_brand": "EweMove",
    "postcode": "PE21",
    "reputation_score": 69,
    "rating": 4.85,
@@ -511,8 +472,12 @@
   },
   {
    "office_id": 255432,
+   "va_ids": [
+    255432
+   ],
    "branch": "EweMove Bramley & Maltby",
-   "postcode": "s66",
+   "sub_brand": "EweMove",
+   "postcode": "S66",
    "reputation_score": 89,
    "rating": 4.97,
    "nps": 100,
@@ -533,16 +498,20 @@
   },
   {
    "office_id": 244065,
+   "va_ids": [
+    244065
+   ],
    "branch": "EweMove Bridgwater",
+   "sub_brand": "EweMove",
    "postcode": "TA2",
    "reputation_score": 82,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-18T01:31:20.780000",
    "days_since_review": 2,
    "total_reviews": 62,
@@ -561,16 +530,20 @@
   },
   {
    "office_id": 244066,
+   "va_ids": [
+    244066
+   ],
    "branch": "EweMove Brighouse",
+   "sub_brand": "EweMove",
    "postcode": "HD6",
    "reputation_score": 82,
    "rating": 4.96,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-16T07:35:31.400000",
    "days_since_review": 3,
    "total_reviews": 92,
@@ -594,7 +567,11 @@
   },
   {
    "office_id": 244202,
+   "va_ids": [
+    244202
+   ],
    "branch": "EweMove Brighton & Hove",
+   "sub_brand": "EweMove",
    "postcode": "FY8 5FT",
    "reputation_score": 81,
    "rating": 4.83,
@@ -627,7 +604,11 @@
   },
   {
    "office_id": 244067,
+   "va_ids": [
+    244067
+   ],
    "branch": "EweMove Bromley East & Chislehurst",
+   "sub_brand": "EweMove",
    "postcode": "BR4",
    "reputation_score": 58,
    "rating": 5.0,
@@ -670,7 +651,11 @@
   },
   {
    "office_id": 261738,
+   "va_ids": [
+    261738
+   ],
    "branch": "EweMove Bury & Summerseat",
+   "sub_brand": "EweMove",
    "postcode": "BL8",
    "reputation_score": null,
    "rating": null,
@@ -703,7 +688,11 @@
   },
   {
    "office_id": 244070,
+   "va_ids": [
+    244070
+   ],
    "branch": "EweMove Cambridge West",
+   "sub_brand": "EweMove",
    "postcode": "CB23",
    "reputation_score": 93,
    "rating": 5.0,
@@ -725,16 +714,20 @@
   },
   {
    "office_id": 244071,
+   "va_ids": [
+    244071
+   ],
    "branch": "EweMove Cannock",
+   "sub_brand": "EweMove",
    "postcode": "WS12",
    "reputation_score": 78,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-03-16T10:44:12.547000",
    "days_since_review": 64,
    "total_reviews": 32,
@@ -758,7 +751,11 @@
   },
   {
    "office_id": 244075,
+   "va_ids": [
+    244075
+   ],
    "branch": "EweMove Castle Bromwich",
+   "sub_brand": "EweMove",
    "postcode": "B37",
    "reputation_score": 69,
    "rating": 5.0,
@@ -796,7 +793,11 @@
   },
   {
    "office_id": 244076,
+   "va_ids": [
+    244076
+   ],
    "branch": "EweMove Chandlers Ford & Eastleigh",
+   "sub_brand": "EweMove",
    "postcode": "SO53",
    "reputation_score": 68,
    "rating": 4.97,
@@ -834,7 +835,11 @@
   },
   {
    "office_id": 244078,
+   "va_ids": [
+    244078
+   ],
    "branch": "EweMove Cheadle Hulme & Wilmslow",
+   "sub_brand": "EweMove",
    "postcode": "SK8",
    "reputation_score": 84,
    "rating": 5.0,
@@ -862,7 +867,11 @@
   },
   {
    "office_id": 244079,
+   "va_ids": [
+    244079
+   ],
    "branch": "EweMove Cheam & Sutton",
+   "sub_brand": "EweMove",
    "postcode": "SM1",
    "reputation_score": 82,
    "rating": 5.0,
@@ -890,7 +899,11 @@
   },
   {
    "office_id": 244081,
+   "va_ids": [
+    244081
+   ],
    "branch": "EweMove Cheltenham",
+   "sub_brand": "EweMove",
    "postcode": "GL50 1HT",
    "reputation_score": 81,
    "rating": 4.41,
@@ -923,7 +936,11 @@
   },
   {
    "office_id": 244023,
+   "va_ids": [
+    244023
+   ],
    "branch": "EweMove Chester East",
+   "sub_brand": "EweMove",
    "postcode": "FY7 6EB",
    "reputation_score": 75,
    "rating": 4.96,
@@ -956,16 +973,20 @@
   },
   {
    "office_id": 261717,
+   "va_ids": [
+    261717
+   ],
    "branch": "EweMove Chester West",
+   "sub_brand": "EweMove",
    "postcode": "CH1",
    "reputation_score": 65,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-14T19:47:27.740000",
    "days_since_review": 35,
    "total_reviews": 4,
@@ -994,7 +1015,11 @@
   },
   {
    "office_id": 245276,
+   "va_ids": [
+    245276
+   ],
    "branch": "EweMove Chesterfield West",
+   "sub_brand": "EweMove",
    "postcode": "S42",
    "reputation_score": 53,
    "rating": 4.64,
@@ -1032,7 +1057,11 @@
   },
   {
    "office_id": 244082,
+   "va_ids": [
+    244082
+   ],
    "branch": "EweMove Childwall & Woolton",
+   "sub_brand": "EweMove",
    "postcode": "L16",
    "reputation_score": 78,
    "rating": 4.67,
@@ -1065,16 +1094,20 @@
   },
   {
    "office_id": 244083,
+   "va_ids": [
+    244083
+   ],
    "branch": "EweMove Chilterns",
+   "sub_brand": "EweMove",
    "postcode": "HP16",
    "reputation_score": 70,
    "rating": 4.7,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-01-15T20:56:29.983000",
    "days_since_review": 124,
    "total_reviews": 10,
@@ -1098,8 +1131,12 @@
   },
   {
    "office_id": 244016,
+   "va_ids": [
+    244016
+   ],
    "branch": "EweMove Cirencester",
-   "postcode": "GL7 ",
+   "sub_brand": "EweMove",
+   "postcode": "GL7",
    "reputation_score": 79,
    "rating": 4.92,
    "nps": 0,
@@ -1131,7 +1168,11 @@
   },
   {
    "office_id": 244044,
+   "va_ids": [
+    244044
+   ],
    "branch": "EweMove Cleckheaton",
+   "sub_brand": "EweMove",
    "postcode": "HX3 7WG",
    "reputation_score": 92,
    "rating": 4.81,
@@ -1164,7 +1205,11 @@
   },
   {
    "office_id": 245281,
+   "va_ids": [
+    245281
+   ],
    "branch": "EweMove Coggeshall & Braintree South",
+   "sub_brand": "EweMove",
    "postcode": "CO6",
    "reputation_score": 71,
    "rating": 5.0,
@@ -1186,23 +1231,29 @@
   },
   {
    "office_id": 244085,
+   "va_ids": [
+    244085,
+    244143,
+    244175
+   ],
    "branch": "EweMove Colne Valley, Lindley & Barkisland",
+   "sub_brand": "EweMove",
    "postcode": "HD3",
    "reputation_score": 82,
    "rating": 4.93,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-03-27T17:21:08.577000",
    "days_since_review": 53,
-   "total_reviews": 57,
+   "total_reviews": 136,
    "reviews_30d": 0,
-   "reviews_90d": 1,
+   "reviews_90d": 2,
    "replies_90d": 1,
-   "reply_rate_90d": 100.0,
+   "reply_rate_90d": 50.0,
    "flags": [
     [
      "RED",
@@ -1213,13 +1264,22 @@
      "AMBER",
      "no_review_30d",
      "No review for 53d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 50% (90d)"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 255641,
+   "va_ids": [
+    255641
+   ],
    "branch": "EweMove Consett & Lanchester",
+   "sub_brand": "EweMove",
    "postcode": "DH8",
    "reputation_score": 89,
    "rating": 5.0,
@@ -1247,16 +1307,20 @@
   },
   {
    "office_id": 255435,
+   "va_ids": [
+    255435
+   ],
    "branch": "EweMove Corby",
+   "sub_brand": "EweMove",
    "postcode": "LE16",
    "reputation_score": 48,
    "rating": 4.64,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": null,
    "days_since_review": null,
    "total_reviews": 0,
@@ -1285,7 +1349,11 @@
   },
   {
    "office_id": 244086,
+   "va_ids": [
+    244086
+   ],
    "branch": "EweMove Coulsdon",
+   "sub_brand": "EweMove",
    "postcode": "CR5",
    "reputation_score": 52,
    "rating": 5.0,
@@ -1323,9 +1391,15 @@
   },
   {
    "office_id": 244048,
+   "va_ids": [
+    244047,
+    244048,
+    244049
+   ],
    "branch": "EweMove Dartford & Greenhithe",
+   "sub_brand": "EweMove",
    "postcode": "DA7 5HD",
-   "reputation_score": 85,
+   "reputation_score": 90,
    "rating": 4.94,
    "nps": 0,
    "last_login_raw": "09.05.2025 11:15:29",
@@ -1333,13 +1407,13 @@
    "days_since_login": 375,
    "last_user": "JamesHillier",
    "last_email": "James.hillier@ewemove.com",
-   "last_review_at": "2026-05-18T10:13:12.367000",
+   "last_review_at": "2026-05-18T10:22:21.810000",
    "days_since_review": 1,
-   "total_reviews": 324,
-   "reviews_30d": 14,
-   "reviews_90d": 18,
-   "replies_90d": 17,
-   "reply_rate_90d": 94.44444444444444,
+   "total_reviews": 963,
+   "reviews_30d": 42,
+   "reviews_90d": 56,
+   "replies_90d": 53,
+   "reply_rate_90d": 94.64285714285714,
    "flags": [
     [
      "RED",
@@ -1351,7 +1425,11 @@
   },
   {
    "office_id": 261739,
+   "va_ids": [
+    261739
+   ],
    "branch": "EweMove Denholme & Thornton",
+   "sub_brand": "EweMove",
    "postcode": "BD13",
    "reputation_score": null,
    "rating": null,
@@ -1384,7 +1462,11 @@
   },
   {
    "office_id": 261676,
+   "va_ids": [
+    261676
+   ],
    "branch": "EweMove Doncaster East",
+   "sub_brand": "EweMove",
    "postcode": "DN11",
    "reputation_score": 48,
    "rating": 4.64,
@@ -1422,45 +1504,12 @@
   },
   {
    "office_id": 245277,
-   "branch": "EweMove Doncaster North",
-   "postcode": "DN6",
-   "reputation_score": 58,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "20.05.2024 01:25:35",
-   "last_login_iso": "2024-05-20T01:25:35",
-   "days_since_login": 730,
-   "last_user": "SandraLiddle",
-   "last_email": "sandra.liddle@ewemove.com",
-   "last_review_at": "2026-02-09T12:24:48.150000",
-   "days_since_review": 99,
-   "total_reviews": 8,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 730d ago"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 99d"
-    ],
-    [
-     "AMBER",
-     "rep_score_med",
-     "Rep score 58"
-    ]
+   "va_ids": [
+    245277,
+    261681
    ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 261681,
-   "branch": "EweMove Doncaster West",
+   "branch": "EweMove Doncaster North",
+   "sub_brand": "EweMove",
    "postcode": "DN6",
    "reputation_score": 73,
    "rating": 5.0,
@@ -1472,7 +1521,7 @@
    "last_email": "ryan.webster@ewemove.com",
    "last_review_at": "2026-05-15T20:05:33.547000",
    "days_since_review": 4,
-   "total_reviews": 16,
+   "total_reviews": 24,
    "reviews_30d": 1,
    "reviews_90d": 3,
    "replies_90d": 0,
@@ -1493,7 +1542,11 @@
   },
   {
    "office_id": 244088,
+   "va_ids": [
+    244088
+   ],
    "branch": "EweMove Dorking & Leatherhead",
+   "sub_brand": "EweMove",
    "postcode": "RH5",
    "reputation_score": 93,
    "rating": 4.8,
@@ -1531,7 +1584,11 @@
   },
   {
    "office_id": 244089,
+   "va_ids": [
+    244089
+   ],
    "branch": "EweMove Dronfield & Barlborough",
+   "sub_brand": "EweMove",
    "postcode": "S18",
    "reputation_score": 82,
    "rating": 5.0,
@@ -1559,16 +1616,20 @@
   },
   {
    "office_id": 260103,
+   "va_ids": [
+    260103
+   ],
    "branch": "EweMove East Leeds",
+   "sub_brand": "EweMove",
    "postcode": "LS7",
    "reputation_score": 53,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-05T22:55:01.553000",
    "days_since_review": 44,
    "total_reviews": 8,
@@ -1602,7 +1663,11 @@
   },
   {
    "office_id": 255431,
+   "va_ids": [
+    255431
+   ],
    "branch": "EweMove Ebbsfleet Valley",
+   "sub_brand": "EweMove",
    "postcode": "DA10",
    "reputation_score": 89,
    "rating": 5.0,
@@ -1640,7 +1705,11 @@
   },
   {
    "office_id": 244036,
+   "va_ids": [
+    244036
+   ],
    "branch": "EweMove Estate & Lettings Agents in Tadley",
+   "sub_brand": "EweMove",
    "postcode": "RG7 8RA",
    "reputation_score": 88,
    "rating": 5.0,
@@ -1662,16 +1731,20 @@
   },
   {
    "office_id": 244034,
+   "va_ids": [
+    244034
+   ],
    "branch": "EweMove Exmouth",
+   "sub_brand": "EweMove",
    "postcode": "EX8 1QJ",
    "reputation_score": 84,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-03-26T00:39:40.337000",
    "days_since_review": 55,
    "total_reviews": 112,
@@ -1695,16 +1768,20 @@
   },
   {
    "office_id": 244094,
+   "va_ids": [
+    244094
+   ],
    "branch": "EweMove Farnborough",
+   "sub_brand": "EweMove",
    "postcode": "RD22",
    "reputation_score": 64,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2024-03-07T02:05:39.273000",
    "days_since_review": 804,
    "total_reviews": 8,
@@ -1733,16 +1810,20 @@
   },
   {
    "office_id": 244095,
+   "va_ids": [
+    244095
+   ],
    "branch": "EweMove Folkestone & Hawkinge",
+   "sub_brand": "EweMove",
    "postcode": "CT18",
    "reputation_score": 84,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-08T14:39:21.097000",
    "days_since_review": 11,
    "total_reviews": 153,
@@ -1761,16 +1842,20 @@
   },
   {
    "office_id": 244096,
+   "va_ids": [
+    244096
+   ],
    "branch": "EweMove Formby, Crosby & Hightown",
+   "sub_brand": "EweMove",
    "postcode": "L37",
    "reputation_score": 71,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2023-03-08T02:05:05.650000",
    "days_since_review": 1169,
    "total_reviews": 15,
@@ -1794,7 +1879,11 @@
   },
   {
    "office_id": 261710,
+   "va_ids": [
+    261710
+   ],
    "branch": "EweMove Garforth & Kippax",
+   "sub_brand": "EweMove",
    "postcode": "LS15",
    "reputation_score": null,
    "rating": null,
@@ -1827,7 +1916,11 @@
   },
   {
    "office_id": 244207,
+   "va_ids": [
+    244207
+   ],
    "branch": "EweMove Goole & Selby",
+   "sub_brand": "EweMove",
    "postcode": "YO8 8LZ",
    "reputation_score": 92,
    "rating": 4.96,
@@ -1860,16 +1953,20 @@
   },
   {
    "office_id": 244158,
+   "va_ids": [
+    244158
+   ],
    "branch": "EweMove Grantham & Sleaford",
+   "sub_brand": "EweMove",
    "postcode": "NG33",
    "reputation_score": 82,
    "rating": 4.94,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-03-24T02:57:04.477000",
    "days_since_review": 57,
    "total_reviews": 107,
@@ -1898,16 +1995,20 @@
   },
   {
    "office_id": 244100,
+   "va_ids": [
+    244100
+   ],
    "branch": "EweMove Greenford",
+   "sub_brand": "EweMove",
    "postcode": "UB6",
    "reputation_score": 75,
    "rating": 4.84,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-07-24T03:23:12.603000",
    "days_since_review": 300,
    "total_reviews": 25,
@@ -1931,7 +2032,11 @@
   },
   {
    "office_id": 244101,
+   "va_ids": [
+    244101
+   ],
    "branch": "EweMove Guildford",
+   "sub_brand": "EweMove",
    "postcode": "GU4",
    "reputation_score": 78,
    "rating": 4.99,
@@ -1959,16 +2064,20 @@
   },
   {
    "office_id": 244102,
+   "va_ids": [
+    244102
+   ],
    "branch": "EweMove Halifax",
+   "sub_brand": "EweMove",
    "postcode": "HX1",
    "reputation_score": 75,
    "rating": 4.43,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-08T20:04:07.600000",
    "days_since_review": 11,
    "total_reviews": 46,
@@ -1992,7 +2101,11 @@
   },
   {
    "office_id": 244104,
+   "va_ids": [
+    244104
+   ],
    "branch": "EweMove Harrogate & Knaresborough",
+   "sub_brand": "EweMove",
    "postcode": "HG2",
    "reputation_score": 95,
    "rating": 4.95,
@@ -2024,88 +2137,21 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 261742,
-   "branch": "EweMove Haslemere & Liphook",
-   "postcode": "GU27",
-   "reputation_score": null,
-   "rating": null,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244106,
-   "branch": "EweMove Hayes & West Wickham",
-   "postcode": "BR2",
-   "reputation_score": 48,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-05-01T10:45:44.940000",
-   "days_since_review": 18,
-   "total_reviews": 21,
-   "reviews_30d": 1,
-   "reviews_90d": 1,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "reply_rate_low",
-     "Reply rate 0% (90d)"
-    ],
-    [
-     "RED",
-     "rep_score_low",
-     "Rep score 48"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244107,
+   "va_ids": [
+    244107
+   ],
    "branch": "EweMove Hebden Bridge",
+   "sub_brand": "EweMove",
    "postcode": "HX7",
    "reputation_score": 85,
    "rating": 4.99,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-19T05:57:05.890000",
    "days_since_review": 0,
    "total_reviews": 208,
@@ -2124,7 +2170,11 @@
   },
   {
    "office_id": 260180,
+   "va_ids": [
+    260180
+   ],
    "branch": "EweMove Hexham & Tyne Valley",
+   "sub_brand": "EweMove",
    "postcode": "NE46",
    "reputation_score": 51,
    "rating": 5.0,
@@ -2157,16 +2207,20 @@
   },
   {
    "office_id": 244110,
+   "va_ids": [
+    244110
+   ],
    "branch": "EweMove High Wycombe",
+   "sub_brand": "EweMove",
    "postcode": "HP13",
    "reputation_score": 69,
    "rating": 4.67,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2023-03-12T02:54:44.417000",
    "days_since_review": 1165,
    "total_reviews": 15,
@@ -2195,7 +2249,11 @@
   },
   {
    "office_id": 244195,
+   "va_ids": [
+    244195
+   ],
    "branch": "EweMove Hinckley",
+   "sub_brand": "EweMove",
    "postcode": "BD19 4TE",
    "reputation_score": 97,
    "rating": 4.96,
@@ -2227,36 +2285,12 @@
    "overall_rag": "AMBER"
   },
   {
-   "office_id": 244199,
-   "branch": "EweMove Hook",
-   "postcode": "RG24 8AG",
-   "reputation_score": 81,
-   "rating": 4.99,
-   "nps": 0,
-   "last_login_raw": "19.06.2024 12:26:27",
-   "last_login_iso": "2024-06-19T12:26:27",
-   "days_since_login": 699,
-   "last_user": "sasasaasasa",
-   "last_email": "domenic@viewagents.com",
-   "last_review_at": "2026-05-16T11:40:33.557000",
-   "days_since_review": 3,
-   "total_reviews": 686,
-   "reviews_30d": 11,
-   "reviews_90d": 24,
-   "replies_90d": 20,
-   "reply_rate_90d": 83.33333333333334,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 699d ago"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 261696,
+   "va_ids": [
+    261696
+   ],
    "branch": "EweMove Hornchurch North",
+   "sub_brand": "EweMove",
    "postcode": "RM11",
    "reputation_score": 74,
    "rating": 5.0,
@@ -2289,49 +2323,53 @@
   },
   {
    "office_id": 244112,
+   "va_ids": [
+    244112,
+    244134
+   ],
    "branch": "EweMove Horsforth Adel & Chapel Allerton",
+   "sub_brand": "EweMove",
    "postcode": "LS17",
-   "reputation_score": 77,
+   "reputation_score": 82,
    "rating": 4.89,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-04-16T15:40:40.827000",
-   "days_since_review": 33,
-   "total_reviews": 70,
-   "reviews_30d": 0,
-   "reviews_90d": 1,
-   "replies_90d": 1,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-05-15T09:44:21.990000",
+   "days_since_review": 4,
+   "total_reviews": 168,
+   "reviews_30d": 2,
+   "reviews_90d": 3,
+   "replies_90d": 3,
    "reply_rate_90d": 100.0,
    "flags": [
     [
      "RED",
      "never_logged_in",
      "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 33d"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244113,
+   "va_ids": [
+    244113
+   ],
    "branch": "EweMove Huntingdon & St Ives",
+   "sub_brand": "EweMove",
    "postcode": "PE29",
    "reputation_score": 65,
    "rating": 4.45,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-30T20:46:25",
    "days_since_review": 19,
    "total_reviews": 22,
@@ -2360,16 +2398,20 @@
   },
   {
    "office_id": 244114,
+   "va_ids": [
+    244114
+   ],
    "branch": "EweMove Hyde & Dukinfield",
+   "sub_brand": "EweMove",
    "postcode": "SK14",
    "reputation_score": 84,
    "rating": 4.87,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-19T13:57:34.387000",
    "days_since_review": 30,
    "total_reviews": 157,
@@ -2387,46 +2429,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 245273,
-   "branch": "Ewemove Kenilworth",
-   "postcode": "CV8 1HH",
-   "reputation_score": 85,
-   "rating": 5.0,
-   "nps": 100,
-   "last_login_raw": "20.11.2025 12:19:17",
-   "last_login_iso": "2025-11-20T12:19:17",
-   "days_since_login": 180,
-   "last_user": "MattClinton",
-   "last_email": "matt.clinton@ewemove.com",
-   "last_review_at": "2026-03-29T04:05:29.250000",
-   "days_since_review": 52,
-   "total_reviews": 26,
-   "reviews_30d": 0,
-   "reviews_90d": 4,
-   "replies_90d": 2,
-   "reply_rate_90d": 50.0,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 180d ago"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 52d"
-    ],
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 50% (90d)"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 261734,
+   "va_ids": [
+    261734
+   ],
    "branch": "EweMove Lancaster",
+   "sub_brand": "EweMove",
    "postcode": "LA1",
    "reputation_score": 50,
    "rating": 4.49,
@@ -2464,7 +2472,11 @@
   },
   {
    "office_id": 261745,
+   "va_ids": [
+    261745
+   ],
    "branch": "EweMove Langport & Crewkerne",
+   "sub_brand": "EweMove",
    "postcode": "TA10",
    "reputation_score": null,
    "rating": null,
@@ -2492,7 +2504,11 @@
   },
   {
    "office_id": 245275,
+   "va_ids": [
+    245275
+   ],
    "branch": "EweMove Leamington Spa North & Knowle",
+   "sub_brand": "EweMove",
    "postcode": "CV32",
    "reputation_score": 85,
    "rating": 5.0,
@@ -2514,16 +2530,20 @@
   },
   {
    "office_id": 244122,
+   "va_ids": [
+    244122
+   ],
    "branch": "EweMove Leicester North",
+   "sub_brand": "EweMove",
    "postcode": "LE5",
    "reputation_score": 85,
    "rating": 4.9,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-12T20:35:17.337000",
    "days_since_review": 7,
    "total_reviews": 208,
@@ -2542,7 +2562,11 @@
   },
   {
    "office_id": 244206,
+   "va_ids": [
+    244206
+   ],
    "branch": "EweMove Leighton Buzzard",
+   "sub_brand": "EweMove",
    "postcode": "LU7 1DA",
    "reputation_score": 98,
    "rating": 4.86,
@@ -2564,16 +2588,20 @@
   },
   {
    "office_id": 261697,
+   "va_ids": [
+    261697
+   ],
    "branch": "EweMove Llantrisant & Pontyclun ",
+   "sub_brand": "EweMove",
    "postcode": "CF72",
    "reputation_score": 52,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-12T18:35:34.283000",
    "days_since_review": 7,
    "total_reviews": 2,
@@ -2596,50 +2624,21 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 244123,
-   "branch": "EweMove Long Eaton",
-   "postcode": "NG10",
-   "reputation_score": 78,
-   "rating": 4.65,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-02-03T23:12:37.220000",
-   "days_since_review": 105,
-   "total_reviews": 221,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 105d"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244124,
+   "va_ids": [
+    244124
+   ],
    "branch": "EweMove Luton East",
+   "sub_brand": "EweMove",
    "postcode": "LU2",
    "reputation_score": 82,
    "rating": 4.85,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-16T03:41:43.110000",
    "days_since_review": 34,
    "total_reviews": 101,
@@ -2663,16 +2662,20 @@
   },
   {
    "office_id": 244125,
+   "va_ids": [
+    244125
+   ],
    "branch": "EweMove Lutterworth",
+   "sub_brand": "EweMove",
    "postcode": "LE17",
    "reputation_score": 75,
    "rating": 4.85,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2024-09-08T01:58:40.430000",
    "days_since_review": 619,
    "total_reviews": 27,
@@ -2695,50 +2698,21 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 261744,
-   "branch": "EweMove Maidenhead",
-   "postcode": "SL6",
-   "reputation_score": null,
-   "rating": null,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 260107,
+   "va_ids": [
+    260107
+   ],
    "branch": "EweMove Melton Mowbray",
+   "sub_brand": "EweMove",
    "postcode": "NG13",
    "reputation_score": 58,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-27T22:05:29.133000",
    "days_since_review": 22,
    "total_reviews": 11,
@@ -2767,7 +2741,11 @@
   },
   {
    "office_id": 244149,
+   "va_ids": [
+    244149
+   ],
    "branch": "EweMove Middlesbrough & Redcar",
+   "sub_brand": "EweMove",
    "postcode": "TS12",
    "reputation_score": 82,
    "rating": 4.88,
@@ -2804,36 +2782,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 245278,
-   "branch": "Ewemove Mildenhall",
-   "postcode": "IP28 7EF",
-   "reputation_score": 97,
-   "rating": 4.93,
-   "nps": 0,
-   "last_login_raw": "01.05.2026 10:06:53",
-   "last_login_iso": "2026-05-01T10:06:53",
-   "days_since_login": 18,
-   "last_user": "LeeDevenish",
-   "last_email": "lee.devenish@ewemove.com",
-   "last_review_at": "2026-04-30T19:44:52.463000",
-   "days_since_review": 19,
-   "total_reviews": 92,
-   "reviews_30d": 1,
-   "reviews_90d": 6,
-   "replies_90d": 4,
-   "reply_rate_90d": 66.66666666666666,
-   "flags": [
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 67% (90d)"
-    ]
-   ],
-   "overall_rag": "AMBER"
-  },
-  {
    "office_id": 244128,
+   "va_ids": [
+    244128
+   ],
    "branch": "EweMove Morley & Rothwell",
+   "sub_brand": "EweMove",
    "postcode": "BD4",
    "reputation_score": 84,
    "rating": 4.89,
@@ -2861,7 +2815,11 @@
   },
   {
    "office_id": 261735,
+   "va_ids": [
+    261735
+   ],
    "branch": "EweMove New Malden & Worcester Park",
+   "sub_brand": "EweMove",
    "postcode": "KT3",
    "reputation_score": 50,
    "rating": 4.45,
@@ -2898,30 +2856,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 255643,
-   "branch": "Ewemove Newmarket & Soham",
-   "postcode": "CB8",
-   "reputation_score": 92,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "19.05.2026 10:07:38",
-   "last_login_iso": "2026-05-19T10:07:38",
-   "days_since_login": 0,
-   "last_user": "MarkStephens",
-   "last_email": "mark.stephens@ewemove.com",
-   "last_review_at": "2026-05-17T12:58:52.570000",
-   "days_since_review": 2,
-   "total_reviews": 71,
-   "reviews_30d": 3,
-   "reviews_90d": 18,
-   "replies_90d": 18,
-   "reply_rate_90d": 100.0,
-   "flags": [],
-   "overall_rag": "GREEN"
-  },
-  {
    "office_id": 244033,
+   "va_ids": [
+    244033
+   ],
    "branch": "EweMove North Devon",
+   "sub_brand": "EweMove",
    "postcode": "EX32 8LS",
    "reputation_score": 93,
    "rating": 4.95,
@@ -2943,14 +2883,18 @@
   },
   {
    "office_id": 244132,
+   "va_ids": [
+    244132
+   ],
    "branch": "EweMove North Finchley",
+   "sub_brand": "EweMove",
    "postcode": "N12",
    "reputation_score": 84,
    "rating": 4.6,
    "nps": 0,
    "last_login_raw": "06.06.2025 05:39:42",
    "last_login_iso": "2025-06-06T05:39:42",
-   "days_since_login": 347,
+   "days_since_login": 348,
    "last_user": "KhilanShah",
    "last_email": "khilan.shah@ewemove.com",
    "last_review_at": "2026-05-16T14:17:27.033000",
@@ -2964,14 +2908,18 @@
     [
      "RED",
      "login_stale_90d",
-     "Last login 347d ago"
+     "Last login 348d ago"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 261737,
+   "va_ids": [
+    261737
+   ],
    "branch": "EweMove North Fylde",
+   "sub_brand": "EweMove",
    "postcode": "FY5",
    "reputation_score": 71,
    "rating": 4.92,
@@ -2998,69 +2946,12 @@
    "overall_rag": "AMBER"
   },
   {
-   "office_id": 255638,
-   "branch": "Ewemove North Huddersfield & Mirfield",
-   "postcode": "HD2 1LX",
-   "reputation_score": 71,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-03-07T15:52:03.317000",
-   "days_since_review": 73,
-   "total_reviews": 15,
-   "reviews_30d": 0,
-   "reviews_90d": 1,
-   "replies_90d": 1,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 73d"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244134,
-   "branch": "EweMove North Leeds",
-   "postcode": "LS17",
-   "reputation_score": 82,
-   "rating": 4.91,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-05-15T09:44:21.990000",
-   "days_since_review": 4,
-   "total_reviews": 98,
-   "reviews_30d": 2,
-   "reviews_90d": 2,
-   "replies_90d": 2,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 261746,
+   "va_ids": [
+    261746
+   ],
    "branch": "EweMove North Macclesfield & Poynton",
+   "sub_brand": "EweMove",
    "postcode": "SK10",
    "reputation_score": null,
    "rating": null,
@@ -3088,16 +2979,20 @@
   },
   {
    "office_id": 244136,
+   "va_ids": [
+    244136
+   ],
    "branch": "EweMove Northampton North",
+   "sub_brand": "EweMove",
    "postcode": "NN6",
    "reputation_score": 78,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-05-16T14:27:39.767000",
    "days_since_review": 3,
    "total_reviews": 83,
@@ -3120,30 +3015,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 260164,
-   "branch": "Ewemove Norwich North East",
-   "postcode": "NR6 6TU",
-   "reputation_score": 79,
-   "rating": 4.96,
-   "nps": 0,
-   "last_login_raw": "14.05.2026 04:50:34",
-   "last_login_iso": "2026-05-14T04:50:34",
-   "days_since_login": 6,
-   "last_user": "LenneWelch",
-   "last_email": "lenne.welch@ewemove.com",
-   "last_review_at": "2026-05-06T08:54:21.763000",
-   "days_since_review": 13,
-   "total_reviews": 23,
-   "reviews_30d": 2,
-   "reviews_90d": 6,
-   "replies_90d": 6,
-   "reply_rate_90d": 100.0,
-   "flags": [],
-   "overall_rag": "GREEN"
-  },
-  {
    "office_id": 261686,
+   "va_ids": [
+    261686
+   ],
    "branch": "EweMove Nuthall & Eastwood",
+   "sub_brand": "EweMove",
    "postcode": "NG16",
    "reputation_score": 65,
    "rating": 5.0,
@@ -3181,7 +3058,11 @@
   },
   {
    "office_id": 244021,
+   "va_ids": [
+    244021
+   ],
    "branch": "EweMove Oakham & Market Harborough",
+   "sub_brand": "EweMove",
    "postcode": "LE16 9BP",
    "reputation_score": 76,
    "rating": 5.0,
@@ -3219,7 +3100,11 @@
   },
   {
    "office_id": 244080,
+   "va_ids": [
+    244080
+   ],
    "branch": "EweMove Orpington & Chelsfield",
+   "sub_brand": "EweMove",
    "postcode": "BR6 0SE",
    "reputation_score": 85,
    "rating": 5.0,
@@ -3252,7 +3137,11 @@
   },
   {
    "office_id": 244139,
+   "va_ids": [
+    244139
+   ],
    "branch": "EweMove Otley & Guiseley",
+   "sub_brand": "EweMove",
    "postcode": "LS21",
    "reputation_score": 88,
    "rating": 5.0,
@@ -3285,7 +3174,11 @@
   },
   {
    "office_id": 244142,
+   "va_ids": [
+    244142
+   ],
    "branch": "EweMove Peterborough West",
+   "sub_brand": "EweMove",
    "postcode": "PE3 6JH",
    "reputation_score": 85,
    "rating": 4.8,
@@ -3296,7 +3189,7 @@
    "last_user": "LindenAndrew",
    "last_email": "linden.andrew@ewemove.com ",
    "last_review_at": "2025-10-25T05:50:51.233000",
-   "days_since_review": 206,
+   "days_since_review": 207,
    "total_reviews": 20,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -3311,23 +3204,27 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 206d"
+     "No review for 207d"
     ]
    ],
    "overall_rag": "AMBER"
   },
   {
    "office_id": 261403,
+   "va_ids": [
+    261403
+   ],
    "branch": "EweMove Pinner",
+   "sub_brand": "EweMove",
    "postcode": "HA5",
    "reputation_score": 48,
    "rating": 4.64,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": null,
    "days_since_review": null,
    "total_reviews": 0,
@@ -3356,7 +3253,11 @@
   },
   {
    "office_id": 261747,
+   "va_ids": [
+    261747
+   ],
    "branch": "EweMove Plymouth East",
+   "sub_brand": "EweMove",
    "postcode": "PL4",
    "reputation_score": null,
    "rating": null,
@@ -3384,7 +3285,11 @@
   },
   {
    "office_id": 244197,
+   "va_ids": [
+    244197
+   ],
    "branch": "EweMove Pocklington",
+   "sub_brand": "EweMove",
    "postcode": "YO42 2AL",
    "reputation_score": 81,
    "rating": 4.88,
@@ -3411,55 +3316,21 @@
    "overall_rag": "AMBER"
   },
   {
-   "office_id": 244143,
-   "branch": "EweMove Pontefract",
-   "postcode": "HD3",
-   "reputation_score": 71,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-03-25T19:28:32",
-   "days_since_review": 55,
-   "total_reviews": 34,
-   "reviews_30d": 0,
-   "reviews_90d": 1,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 55d"
-    ],
-    [
-     "RED",
-     "reply_rate_low",
-     "Reply rate 0% (90d)"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244144,
+   "va_ids": [
+    244144
+   ],
    "branch": "EweMove Porthcawl & Bridgend West",
+   "sub_brand": "EweMove",
    "postcode": "CF33",
    "reputation_score": 48,
    "rating": 4.95,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-10-31T08:26:50.300000",
    "days_since_review": 200,
    "total_reviews": 22,
@@ -3488,16 +3359,20 @@
   },
   {
    "office_id": 245274,
+   "va_ids": [
+    245274
+   ],
    "branch": "EweMove Pudsey & Birstall",
+   "sub_brand": "EweMove",
    "postcode": "LS28",
    "reputation_score": 69,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-03-30T15:36:22.040000",
    "days_since_review": 50,
    "total_reviews": 14,
@@ -3531,16 +3406,20 @@
   },
   {
    "office_id": 244146,
+   "va_ids": [
+    244146
+   ],
    "branch": "EweMove Putney",
+   "sub_brand": "EweMove",
    "postcode": "SW15",
    "reputation_score": 56,
    "rating": 4.43,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-06-18T03:26:34.990000",
    "days_since_review": 336,
    "total_reviews": 7,
@@ -3569,7 +3448,11 @@
   },
   {
    "office_id": 255433,
+   "va_ids": [
+    255433
+   ],
    "branch": "EweMove Ribble Valley",
+   "sub_brand": "EweMove",
    "postcode": "BB12",
    "reputation_score": 48,
    "rating": 4.64,
@@ -3607,16 +3490,20 @@
   },
   {
    "office_id": 244194,
+   "va_ids": [
+    244194
+   ],
    "branch": "EweMove Rodley & Bramley",
+   "sub_brand": "EweMove",
    "postcode": "LS16 9AP",
    "reputation_score": 41,
    "rating": 4.14,
    "nps": 100,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2023-03-08T01:54:38.140000",
    "days_since_review": 1169,
    "total_reviews": 7,
@@ -3644,55 +3531,21 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 260121,
-   "branch": "Ewemove Romsey",
-   "postcode": "SO51",
-   "reputation_score": 52,
-   "rating": 4.64,
-   "nps": 0,
-   "last_login_raw": "06.05.2025 05:57:35",
-   "last_login_iso": "2025-05-06T05:57:35",
-   "days_since_login": 378,
-   "last_user": "SimonAdams",
-   "last_email": "simon.adams@ewemove.com",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 378d ago"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ],
-    [
-     "AMBER",
-     "rep_score_med",
-     "Rep score 52"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244150,
+   "va_ids": [
+    244150
+   ],
    "branch": "EweMove Rossendale & Ramsbottom",
+   "sub_brand": "EweMove",
    "postcode": "BB4",
    "reputation_score": 46,
    "rating": 4.14,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-11-21T08:22:53.203000",
    "days_since_review": 179,
    "total_reviews": 21,
@@ -3721,16 +3574,20 @@
   },
   {
    "office_id": 261721,
+   "va_ids": [
+    261721
+   ],
    "branch": "EweMove Rugby",
+   "sub_brand": "EweMove",
    "postcode": "CV22",
    "reputation_score": 71,
    "rating": 4.94,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-25T10:20:12.670000",
    "days_since_review": 24,
    "total_reviews": 18,
@@ -3748,36 +3605,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 260163,
-   "branch": "Ewemove Sale",
-   "postcode": "M33 3HQ",
-   "reputation_score": 85,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "16.03.2026 12:55:20",
-   "last_login_iso": "2026-03-16T12:55:20",
-   "days_since_login": 64,
-   "last_user": "SamanthaCorbett",
-   "last_email": "samantha.corbett@ewemove.com",
-   "last_review_at": "2026-05-18T17:37:30.600000",
-   "days_since_review": 1,
-   "total_reviews": 40,
-   "reviews_30d": 2,
-   "reviews_90d": 7,
-   "replies_90d": 7,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "AMBER",
-     "login_stale_30d",
-     "Last login 64d ago"
-    ]
-   ],
-   "overall_rag": "AMBER"
-  },
-  {
    "office_id": 237615,
+   "va_ids": [
+    237615
+   ],
    "branch": "EweMove Salisbury",
+   "sub_brand": "EweMove",
    "postcode": "SP1 3TS",
    "reputation_score": 95,
    "rating": 4.66,
@@ -3815,7 +3648,11 @@
   },
   {
    "office_id": 244152,
+   "va_ids": [
+    244152
+   ],
    "branch": "EweMove Scunthorpe South",
+   "sub_brand": "EweMove",
    "postcode": "DN16",
    "reputation_score": 79,
    "rating": 4.67,
@@ -3848,7 +3685,11 @@
   },
   {
    "office_id": 247726,
+   "va_ids": [
+    247726
+   ],
    "branch": "EweMove Sefton Park",
+   "sub_brand": "EweMove",
    "postcode": "L13",
    "reputation_score": 78,
    "rating": 4.75,
@@ -3881,7 +3722,11 @@
   },
   {
    "office_id": 244091,
+   "va_ids": [
+    244091
+   ],
    "branch": "EweMove Sheffield South West",
+   "sub_brand": "EweMove",
    "postcode": "S2 4HL",
    "reputation_score": 93,
    "rating": 4.93,
@@ -3909,7 +3754,11 @@
   },
   {
    "office_id": 261732,
+   "va_ids": [
+    261732
+   ],
    "branch": "EweMove Shepton Mallet & Sherborne",
+   "sub_brand": "EweMove",
    "postcode": "BA4",
    "reputation_score": 44,
    "rating": 5.0,
@@ -3942,14 +3791,18 @@
   },
   {
    "office_id": 261740,
+   "va_ids": [
+    261740
+   ],
    "branch": "EweMove Shrewsbury West",
+   "sub_brand": "EweMove",
    "postcode": "SY3",
    "reputation_score": null,
    "rating": null,
    "nps": 0,
    "last_login_raw": "28.04.2026 05:27:00",
    "last_login_iso": "2026-04-28T05:27:00",
-   "days_since_login": 21,
+   "days_since_login": 22,
    "last_user": "AlexTaplin",
    "last_email": "alex.taplin@ewemove.com",
    "last_review_at": null,
@@ -3970,7 +3823,11 @@
   },
   {
    "office_id": 244156,
+   "va_ids": [
+    244156
+   ],
    "branch": "EweMove Sidcup",
+   "sub_brand": "EweMove",
    "postcode": "DA15",
    "reputation_score": 76,
    "rating": 4.95,
@@ -3997,84 +3854,13 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 260162,
-   "branch": "Ewemove Skipton & The Dales",
-   "postcode": "BD23 3UA",
-   "reputation_score": 48,
-   "rating": 4.64,
-   "nps": 0,
-   "last_login_raw": "07.11.2024 03:58:44",
-   "last_login_iso": "2024-11-07T03:58:44",
-   "days_since_login": 559,
-   "last_user": "EleanorRoberts",
-   "last_email": "Eleanor.Roberts@ewemove.com",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 559d ago"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ],
-    [
-     "RED",
-     "rep_score_low",
-     "Rep score 48"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 247728,
-   "branch": "EweMove Slough",
-   "postcode": "SL1",
-   "reputation_score": 69,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-02-28T13:59:52.723000",
-   "days_since_review": 80,
-   "total_reviews": 13,
-   "reviews_30d": 0,
-   "reviews_90d": 1,
-   "replies_90d": 1,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 80d"
-    ],
-    [
-     "AMBER",
-     "rep_score_med",
-     "Rep score 69"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 255434,
+   "va_ids": [
+    247728,
+    255434
+   ],
    "branch": "EweMove Solihull",
+   "sub_brand": "EweMove",
    "postcode": "SL1",
    "reputation_score": 71,
    "rating": 5.0,
@@ -4086,10 +3872,10 @@
    "last_email": "alek.sapic@ewemove.com",
    "last_review_at": "2026-05-10T19:38:42.137000",
    "days_since_review": 9,
-   "total_reviews": 20,
+   "total_reviews": 33,
    "reviews_30d": 1,
-   "reviews_90d": 3,
-   "replies_90d": 3,
+   "reviews_90d": 4,
+   "replies_90d": 4,
    "reply_rate_90d": 100.0,
    "flags": [
     [
@@ -4102,16 +3888,20 @@
   },
   {
    "office_id": 244097,
+   "va_ids": [
+    244097
+   ],
    "branch": "EweMove South Tyneside",
+   "sub_brand": "EweMove",
    "postcode": "SR6",
    "reputation_score": 75,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2026-04-21T19:42:27.810000",
    "days_since_review": 28,
    "total_reviews": 59,
@@ -4135,7 +3925,11 @@
   },
   {
    "office_id": 244022,
+   "va_ids": [
+    244022
+   ],
    "branch": "EweMove Southend",
+   "sub_brand": "EweMove",
    "postcode": "SS1 2SG",
    "reputation_score": 84,
    "rating": 4.94,
@@ -4163,7 +3957,12 @@
   },
   {
    "office_id": 244165,
+   "va_ids": [
+    244165,
+    245271
+   ],
    "branch": "EweMove Spalding",
+   "sub_brand": "EweMove",
    "postcode": "PE6 8FD",
    "reputation_score": 89,
    "rating": 4.91,
@@ -4173,19 +3972,23 @@
    "days_since_login": 15,
    "last_user": "KirstyKruse",
    "last_email": "kirsty.kruse@ewemove.com",
-   "last_review_at": "2026-05-08T10:56:47",
+   "last_review_at": "2026-05-08T11:38:40.710000",
    "days_since_review": 11,
-   "total_reviews": 112,
-   "reviews_30d": 4,
-   "reviews_90d": 6,
-   "replies_90d": 6,
-   "reply_rate_90d": 100.0,
+   "total_reviews": 156,
+   "reviews_30d": 6,
+   "reviews_90d": 8,
+   "replies_90d": 7,
+   "reply_rate_90d": 87.5,
    "flags": [],
    "overall_rag": "GREEN"
   },
   {
    "office_id": 244163,
+   "va_ids": [
+    244163
+   ],
    "branch": "EweMove St Helens",
+   "sub_brand": "EweMove",
    "postcode": "WA10",
    "reputation_score": 84,
    "rating": 5.0,
@@ -4213,7 +4016,11 @@
   },
   {
    "office_id": 244164,
+   "va_ids": [
+    244164
+   ],
    "branch": "EweMove Stafford",
+   "sub_brand": "EweMove",
    "postcode": "ST17 0UN",
    "reputation_score": 92,
    "rating": 4.96,
@@ -4234,52 +4041,31 @@
    "overall_rag": "GREEN"
   },
   {
-   "office_id": 245271,
-   "branch": "EweMove Stamford",
-   "postcode": "PE6 8FD",
-   "reputation_score": 85,
-   "rating": 4.91,
-   "nps": 100,
-   "last_login_raw": "04.05.2026 09:57:54",
-   "last_login_iso": "2026-05-04T09:57:54",
-   "days_since_login": 15,
-   "last_user": "KirstyKruse",
-   "last_email": "kirsty.kruse@ewemove.com",
-   "last_review_at": "2026-05-08T11:38:40.710000",
-   "days_since_review": 11,
-   "total_reviews": 44,
-   "reviews_30d": 2,
-   "reviews_90d": 2,
-   "replies_90d": 1,
-   "reply_rate_90d": 50.0,
-   "flags": [
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 50% (90d)"
-    ]
-   ],
-   "overall_rag": "AMBER"
-  },
-  {
    "office_id": 244166,
+   "va_ids": [
+    244058,
+    244123,
+    244166,
+    247721
+   ],
    "branch": "EweMove Stapleford & Sandiacre",
+   "sub_brand": "EweMove",
    "postcode": "NG10",
-   "reputation_score": 67,
+   "reputation_score": 82,
    "rating": 4.15,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2025-09-30T17:04:51.843000",
-   "days_since_review": 231,
-   "total_reviews": 13,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-05-04T20:35:35.617000",
+   "days_since_review": 15,
+   "total_reviews": 417,
+   "reviews_30d": 2,
+   "reviews_90d": 6,
    "replies_90d": 0,
-   "reply_rate_90d": null,
+   "reply_rate_90d": 0.0,
    "flags": [
     [
      "RED",
@@ -4287,21 +4073,20 @@
      "Never logged in"
     ],
     [
-     "AMBER",
-     "no_review_30d",
-     "No review for 231d"
-    ],
-    [
-     "AMBER",
-     "rep_score_med",
-     "Rep score 67"
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244038,
+   "va_ids": [
+    244038
+   ],
    "branch": "EweMove Stratford & Forest Gate",
+   "sub_brand": "EweMove",
    "postcode": "E15 1XH",
    "reputation_score": 88,
    "rating": 4.95,
@@ -4329,7 +4114,11 @@
   },
   {
    "office_id": 261750,
+   "va_ids": [
+    261750
+   ],
    "branch": "EweMove Stratford-upon-Avon",
+   "sub_brand": "EweMove",
    "postcode": "CV37",
    "reputation_score": null,
    "rating": null,
@@ -4356,41 +4145,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 244167,
-   "branch": "EweMove Strood & Rochester",
-   "postcode": "ME4",
-   "reputation_score": 84,
-   "rating": 4.79,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-04-15T14:47:15.087000",
-   "days_since_review": 34,
-   "total_reviews": 155,
-   "reviews_30d": 0,
-   "reviews_90d": 3,
-   "replies_90d": 3,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 34d"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 261731,
+   "va_ids": [
+    261731
+   ],
    "branch": "EweMove Sutton Coldfield West",
+   "sub_brand": "EweMove",
    "postcode": "B73",
    "reputation_score": 48,
    "rating": 4.5,
@@ -4422,41 +4182,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 244017,
-   "branch": "EweMove Swindon",
-   "postcode": "GL7 5UA",
-   "reputation_score": 80,
-   "rating": 4.92,
-   "nps": 0,
-   "last_login_raw": "13.01.2025 11:26:57",
-   "last_login_iso": "2025-01-13T11:26:57",
-   "days_since_login": 491,
-   "last_user": "JoMoss",
-   "last_email": "jo.moss@ewemove.com",
-   "last_review_at": "2026-05-06T11:36:53.423000",
-   "days_since_review": 13,
-   "total_reviews": 203,
-   "reviews_30d": 7,
-   "reviews_90d": 11,
-   "replies_90d": 7,
-   "reply_rate_90d": 63.63636363636363,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 491d ago"
-    ],
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 64% (90d)"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244168,
+   "va_ids": [
+    244168
+   ],
    "branch": "EweMove Swindon South",
+   "sub_brand": "EweMove",
    "postcode": "SN5 7EX",
    "reputation_score": 89,
    "rating": 4.64,
@@ -4484,7 +4215,11 @@
   },
   {
    "office_id": 244169,
+   "va_ids": [
+    244169
+   ],
    "branch": "EweMove Taunton",
+   "sub_brand": "EweMove",
    "postcode": "TA1",
    "reputation_score": 84,
    "rating": 4.98,
@@ -4517,7 +4252,11 @@
   },
   {
    "office_id": 261713,
+   "va_ids": [
+    261713
+   ],
    "branch": "EweMove Telford West",
+   "sub_brand": "EweMove",
    "postcode": "TF1 1AF",
    "reputation_score": 71,
    "rating": 5.0,
@@ -4545,9 +4284,14 @@
   },
   {
    "office_id": 244019,
+   "va_ids": [
+    244017,
+    244019
+   ],
    "branch": "EweMove Tetbury & Malmesbury",
+   "sub_brand": "EweMove",
    "postcode": "GL7 5UA",
-   "reputation_score": 78,
+   "reputation_score": 80,
    "rating": 4.97,
    "nps": 100,
    "last_login_raw": "13.01.2025 11:26:57",
@@ -4557,11 +4301,11 @@
    "last_email": "jo.moss@ewemove.com",
    "last_review_at": "2026-05-09T10:52:44.430000",
    "days_since_review": 10,
-   "total_reviews": 60,
-   "reviews_30d": 4,
-   "reviews_90d": 6,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
+   "total_reviews": 263,
+   "reviews_30d": 11,
+   "reviews_90d": 17,
+   "replies_90d": 7,
+   "reply_rate_90d": 41.17647058823529,
    "flags": [
     [
      "RED",
@@ -4571,21 +4315,25 @@
     [
      "RED",
      "reply_rate_low",
-     "Reply rate 0% (90d)"
+     "Reply rate 41% (90d)"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244170,
+   "va_ids": [
+    244170
+   ],
    "branch": "EweMove Tiverton & South Molton",
+   "sub_brand": "EweMove",
    "postcode": "EX32",
    "reputation_score": 62,
    "rating": 5.0,
    "nps": 0,
    "last_login_raw": "26.03.2026 05:20:49",
    "last_login_iso": "2026-03-26T05:20:49",
-   "days_since_login": 54,
+   "days_since_login": 55,
    "last_user": "PeterCollingswood",
    "last_email": "pete.collingswood@ewemove.com",
    "last_review_at": "2026-03-28T03:49:21.777000",
@@ -4599,7 +4347,7 @@
     [
      "AMBER",
      "login_stale_30d",
-     "Last login 54d ago"
+     "Last login 55d ago"
     ],
     [
      "AMBER",
@@ -4621,16 +4369,20 @@
   },
   {
    "office_id": 244171,
+   "va_ids": [
+    244171
+   ],
    "branch": "EweMove Todmorden & Littleborough",
+   "sub_brand": "EweMove",
    "postcode": "OL14",
    "reputation_score": 75,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-04-28T03:09:48.037000",
    "days_since_review": 387,
    "total_reviews": 23,
@@ -4654,7 +4406,11 @@
   },
   {
    "office_id": 244174,
+   "va_ids": [
+    244174
+   ],
    "branch": "EweMove Uttoxeter & Cheadle",
+   "sub_brand": "EweMove",
    "postcode": "ST13",
    "reputation_score": 69,
    "rating": 4.6,
@@ -4691,56 +4447,28 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 244175,
-   "branch": "EweMove Wakefield",
-   "postcode": "HD3",
-   "reputation_score": 71,
-   "rating": 5.0,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-02-09T21:59:32.670000",
-   "days_since_review": 99,
-   "total_reviews": 45,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 99d"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244176,
+   "va_ids": [
+    244167,
+    244176
+   ],
    "branch": "EweMove Walderslade & Chatham",
+   "sub_brand": "EweMove",
    "postcode": "ME4",
-   "reputation_score": 82,
+   "reputation_score": 84,
    "rating": 4.73,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-04-14T03:45:13.973000",
-   "days_since_review": 36,
-   "total_reviews": 60,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-15T14:47:15.087000",
+   "days_since_review": 34,
+   "total_reviews": 215,
    "reviews_30d": 0,
-   "reviews_90d": 4,
-   "replies_90d": 4,
+   "reviews_90d": 7,
+   "replies_90d": 7,
    "reply_rate_90d": 100.0,
    "flags": [
     [
@@ -4751,14 +4479,18 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 36d"
+     "No review for 34d"
     ]
    ],
    "overall_rag": "RED"
   },
   {
    "office_id": 244177,
+   "va_ids": [
+    244177
+   ],
    "branch": "EweMove Wapping & Bow",
+   "sub_brand": "EweMove",
    "postcode": "E1W 3BA",
    "reputation_score": 86,
    "rating": 4.97,
@@ -4780,16 +4512,20 @@
   },
   {
    "office_id": 247727,
+   "va_ids": [
+    247727
+   ],
    "branch": "EweMove Warwick & Leamington Spa",
+   "sub_brand": "EweMove",
    "postcode": "CV34",
    "reputation_score": 82,
    "rating": 4.96,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-12-10T03:41:00.763000",
    "days_since_review": 161,
    "total_reviews": 56,
@@ -4813,16 +4549,20 @@
   },
   {
    "office_id": 244179,
+   "va_ids": [
+    244179
+   ],
    "branch": "EweMove Washington & Houghton le Spring",
+   "sub_brand": "EweMove",
    "postcode": "NE38",
    "reputation_score": 75,
    "rating": 5.0,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-05-11T07:07:18.960000",
    "days_since_review": 373,
    "total_reviews": 14,
@@ -4845,45 +4585,21 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 244049,
-   "branch": "EweMove Welling",
-   "postcode": "DA7 5HD",
-   "reputation_score": 85,
-   "rating": 4.94,
-   "nps": 0,
-   "last_login_raw": "09.05.2025 11:15:29",
-   "last_login_iso": "2025-05-09T11:15:29",
-   "days_since_login": 375,
-   "last_user": "JamesHillier",
-   "last_email": "James.hillier@ewemove.com",
-   "last_review_at": "2026-05-18T10:22:21.810000",
-   "days_since_review": 1,
-   "total_reviews": 324,
-   "reviews_30d": 14,
-   "reviews_90d": 18,
-   "replies_90d": 17,
-   "reply_rate_90d": 94.44444444444444,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 375d ago"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244182,
+   "va_ids": [
+    244182
+   ],
    "branch": "EweMove Welwyn Garden City",
+   "sub_brand": "EweMove",
    "postcode": "AL7",
    "reputation_score": 83,
    "rating": 4.94,
    "nps": 0,
-   "last_login_raw": "",
+   "last_login_raw": null,
    "last_login_iso": null,
    "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
+   "last_user": null,
+   "last_email": null,
    "last_review_at": "2025-09-11T15:22:07.453000",
    "days_since_review": 250,
    "total_reviews": 145,
@@ -4907,7 +4623,11 @@
   },
   {
    "office_id": 261699,
+   "va_ids": [
+    261699
+   ],
    "branch": "EweMove West Bridgford & Ruddington",
+   "sub_brand": "EweMove",
    "postcode": "NG11",
    "reputation_score": 60,
    "rating": 5.0,
@@ -4940,7 +4660,11 @@
   },
   {
    "office_id": 244184,
+   "va_ids": [
+    244184
+   ],
    "branch": "EweMove Whitchurch & Nantwich",
+   "sub_brand": "EweMove",
    "postcode": "CW5",
    "reputation_score": 82,
    "rating": 5.0,
@@ -4967,46 +4691,12 @@
    "overall_rag": "RED"
   },
   {
-   "office_id": 247718,
-   "branch": "Ewemove Whitley Bay & Tynemouth",
-   "postcode": "NE26 3QX",
-   "reputation_score": 69,
-   "rating": 4.75,
-   "nps": 0,
-   "last_login_raw": "16.10.2025 11:26:03",
-   "last_login_iso": "2025-10-16T11:26:03",
-   "days_since_login": 215,
-   "last_user": "AnnUpson",
-   "last_email": "anna.upson@ewemove.com",
-   "last_review_at": "2026-05-15T16:50:03.810000",
-   "days_since_review": 4,
-   "total_reviews": 16,
-   "reviews_30d": 1,
-   "reviews_90d": 2,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 215d ago"
-    ],
-    [
-     "RED",
-     "reply_rate_low",
-     "Reply rate 0% (90d)"
-    ],
-    [
-     "AMBER",
-     "rep_score_med",
-     "Rep score 69"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
    "office_id": 244187,
+   "va_ids": [
+    244187
+   ],
    "branch": "EweMove Wigston & Blaby",
+   "sub_brand": "EweMove",
    "postcode": "LE18",
    "reputation_score": 88,
    "rating": 5.0,
@@ -5028,7 +4718,11 @@
   },
   {
    "office_id": 255642,
+   "va_ids": [
+    255642
+   ],
    "branch": "EweMove Willerby",
+   "sub_brand": "EweMove",
    "postcode": "HU15",
    "reputation_score": 65,
    "rating": 5.0,
@@ -5065,8 +4759,592 @@
    "overall_rag": "AMBER"
   },
   {
+   "office_id": 260957,
+   "va_ids": [
+    260957
+   ],
+   "branch": "EweMove Winchester and Salisbury",
+   "sub_brand": "EweMove",
+   "postcode": "N1 6DX",
+   "reputation_score": 75,
+   "rating": 4.59,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-04-03T04:28:42.043000",
+   "days_since_review": 47,
+   "total_reviews": 123,
+   "reviews_30d": 0,
+   "reviews_90d": 3,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 47d"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 247720,
+   "va_ids": [
+    247720
+   ],
+   "branch": "EweMove Wirral West",
+   "sub_brand": "EweMove",
+   "postcode": "CH43",
+   "reputation_score": 48,
+   "rating": 4.64,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": null,
+   "days_since_review": null,
+   "total_reviews": 0,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "RED",
+     "no_reviews_ever",
+     "No reviews on record"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 48"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 261741,
+   "va_ids": [
+    261741
+   ],
+   "branch": "EweMove Witney & Carterton",
+   "sub_brand": "EweMove",
+   "postcode": "OX28",
+   "reputation_score": null,
+   "rating": null,
+   "nps": 0,
+   "last_login_raw": "16.03.2026 12:53:59",
+   "last_login_iso": "2026-03-16T12:53:59",
+   "days_since_login": 64,
+   "last_user": "RossNorton",
+   "last_email": "ross.norton@ewemove.com",
+   "last_review_at": null,
+   "days_since_review": null,
+   "total_reviews": 0,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "AMBER",
+     "login_stale_30d",
+     "Last login 64d ago"
+    ],
+    [
+     "RED",
+     "no_reviews_ever",
+     "No reviews on record"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 244191,
+   "va_ids": [
+    244191
+   ],
+   "branch": "EweMove Worcester",
+   "sub_brand": "EweMove",
+   "postcode": "WR1 1EE",
+   "reputation_score": 79,
+   "rating": 4.9,
+   "nps": 0,
+   "last_login_raw": "06.09.2025 12:27:12",
+   "last_login_iso": "2025-09-06T12:27:12",
+   "days_since_login": 255,
+   "last_user": "GeorginaHopkinson",
+   "last_email": "georgina.hopkinson@ewemove.com",
+   "last_review_at": "2026-03-24T17:39:53.383000",
+   "days_since_review": 56,
+   "total_reviews": 30,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 1,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 255d ago"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 56d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 244192,
+   "va_ids": [
+    244192
+   ],
+   "branch": "EweMove Wymondham",
+   "sub_brand": "EweMove",
+   "postcode": "NR18 9RS",
+   "reputation_score": 91,
+   "rating": 4.82,
+   "nps": 0,
+   "last_login_raw": "02.07.2025 10:31:32",
+   "last_login_iso": "2025-07-02T10:31:32",
+   "days_since_login": 321,
+   "last_user": "SophieLowndes-Toole",
+   "last_email": "sophie.lowndes-toole@ewemove.com",
+   "last_review_at": "2026-05-05T13:03:21.403000",
+   "days_since_review": 14,
+   "total_reviews": 82,
+   "reviews_30d": 2,
+   "reviews_90d": 3,
+   "replies_90d": 2,
+   "reply_rate_90d": 66.66666666666666,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 321d ago"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 67% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 244193,
+   "va_ids": [
+    244193
+   ],
+   "branch": "EweMove Yeovil",
+   "sub_brand": "EweMove",
+   "postcode": "BA20 1HE",
+   "reputation_score": 93,
+   "rating": 4.85,
+   "nps": 0,
+   "last_login_raw": "17.11.2025 04:49:35",
+   "last_login_iso": "2025-11-17T04:49:35",
+   "days_since_login": 184,
+   "last_user": "PaulGammage",
+   "last_email": "paul.gammage@ewemove.com",
+   "last_review_at": "2026-05-15T01:43:28.640000",
+   "days_since_review": 5,
+   "total_reviews": 182,
+   "reviews_30d": 4,
+   "reviews_90d": 11,
+   "replies_90d": 11,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 184d ago"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 244196,
+   "va_ids": [
+    244196
+   ],
+   "branch": "EweMove York",
+   "sub_brand": "EweMove",
+   "postcode": "YO26 6RW",
+   "reputation_score": 85,
+   "rating": 4.89,
+   "nps": 0,
+   "last_login_raw": "20.04.2026 11:41:06",
+   "last_login_iso": "2026-04-20T11:41:06",
+   "days_since_login": 29,
+   "last_user": "JonathanDawson",
+   "last_email": "york@ewemove.com",
+   "last_review_at": "2026-04-26T09:50:26.627000",
+   "days_since_review": 23,
+   "total_reviews": 312,
+   "reviews_30d": 1,
+   "reviews_90d": 9,
+   "replies_90d": 7,
+   "reply_rate_90d": 77.77777777777779,
+   "flags": [
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 78% (90d)"
+    ]
+   ],
+   "overall_rag": "AMBER"
+  },
+  {
+   "office_id": 245273,
+   "va_ids": [
+    245273
+   ],
+   "branch": "Ewemove Kenilworth",
+   "sub_brand": "EweMove",
+   "postcode": "CV8 1HH",
+   "reputation_score": 85,
+   "rating": 5.0,
+   "nps": 100,
+   "last_login_raw": "20.11.2025 12:19:17",
+   "last_login_iso": "2025-11-20T12:19:17",
+   "days_since_login": 180,
+   "last_user": "MattClinton",
+   "last_email": "matt.clinton@ewemove.com",
+   "last_review_at": "2026-03-29T04:05:29.250000",
+   "days_since_review": 52,
+   "total_reviews": 26,
+   "reviews_30d": 0,
+   "reviews_90d": 4,
+   "replies_90d": 2,
+   "reply_rate_90d": 50.0,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 180d ago"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 52d"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 50% (90d)"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 245278,
+   "va_ids": [
+    245278
+   ],
+   "branch": "Ewemove Mildenhall",
+   "sub_brand": "EweMove",
+   "postcode": "IP28 7EF",
+   "reputation_score": 97,
+   "rating": 4.93,
+   "nps": 0,
+   "last_login_raw": "01.05.2026 10:06:53",
+   "last_login_iso": "2026-05-01T10:06:53",
+   "days_since_login": 18,
+   "last_user": "LeeDevenish",
+   "last_email": "lee.devenish@ewemove.com",
+   "last_review_at": "2026-04-30T19:44:52.463000",
+   "days_since_review": 19,
+   "total_reviews": 92,
+   "reviews_30d": 1,
+   "reviews_90d": 6,
+   "replies_90d": 4,
+   "reply_rate_90d": 66.66666666666666,
+   "flags": [
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 67% (90d)"
+    ]
+   ],
+   "overall_rag": "AMBER"
+  },
+  {
+   "office_id": 255643,
+   "va_ids": [
+    255643
+   ],
+   "branch": "Ewemove Newmarket & Soham",
+   "sub_brand": "EweMove",
+   "postcode": "CB8",
+   "reputation_score": 92,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": "19.05.2026 10:07:38",
+   "last_login_iso": "2026-05-19T10:07:38",
+   "days_since_login": 0,
+   "last_user": "MarkStephens",
+   "last_email": "mark.stephens@ewemove.com",
+   "last_review_at": "2026-05-17T12:58:52.570000",
+   "days_since_review": 2,
+   "total_reviews": 71,
+   "reviews_30d": 3,
+   "reviews_90d": 18,
+   "replies_90d": 18,
+   "reply_rate_90d": 100.0,
+   "flags": [],
+   "overall_rag": "GREEN"
+  },
+  {
+   "office_id": 255638,
+   "va_ids": [
+    255638
+   ],
+   "branch": "Ewemove North Huddersfield & Mirfield",
+   "sub_brand": "EweMove",
+   "postcode": "HD2 1LX",
+   "reputation_score": 71,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": null,
+   "last_login_iso": null,
+   "days_since_login": null,
+   "last_user": null,
+   "last_email": null,
+   "last_review_at": "2026-03-07T15:52:03.317000",
+   "days_since_review": 73,
+   "total_reviews": 15,
+   "reviews_30d": 0,
+   "reviews_90d": 1,
+   "replies_90d": 1,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "RED",
+     "never_logged_in",
+     "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 73d"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 260164,
+   "va_ids": [
+    260164
+   ],
+   "branch": "Ewemove Norwich North East",
+   "sub_brand": "EweMove",
+   "postcode": "NR6 6TU",
+   "reputation_score": 79,
+   "rating": 4.96,
+   "nps": 0,
+   "last_login_raw": "14.05.2026 04:50:34",
+   "last_login_iso": "2026-05-14T04:50:34",
+   "days_since_login": 6,
+   "last_user": "LenneWelch",
+   "last_email": "lenne.welch@ewemove.com",
+   "last_review_at": "2026-05-06T08:54:21.763000",
+   "days_since_review": 13,
+   "total_reviews": 23,
+   "reviews_30d": 2,
+   "reviews_90d": 6,
+   "replies_90d": 6,
+   "reply_rate_90d": 100.0,
+   "flags": [],
+   "overall_rag": "GREEN"
+  },
+  {
+   "office_id": 260121,
+   "va_ids": [
+    260121
+   ],
+   "branch": "Ewemove Romsey",
+   "sub_brand": "EweMove",
+   "postcode": "SO51",
+   "reputation_score": 52,
+   "rating": 4.64,
+   "nps": 0,
+   "last_login_raw": "06.05.2025 05:57:35",
+   "last_login_iso": "2025-05-06T05:57:35",
+   "days_since_login": 378,
+   "last_user": "SimonAdams",
+   "last_email": "simon.adams@ewemove.com",
+   "last_review_at": null,
+   "days_since_review": null,
+   "total_reviews": 0,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 378d ago"
+    ],
+    [
+     "RED",
+     "no_reviews_ever",
+     "No reviews on record"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 52"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 260163,
+   "va_ids": [
+    260163
+   ],
+   "branch": "Ewemove Sale",
+   "sub_brand": "EweMove",
+   "postcode": "M33 3HQ",
+   "reputation_score": 85,
+   "rating": 5.0,
+   "nps": 0,
+   "last_login_raw": "16.03.2026 12:55:20",
+   "last_login_iso": "2026-03-16T12:55:20",
+   "days_since_login": 64,
+   "last_user": "SamanthaCorbett",
+   "last_email": "samantha.corbett@ewemove.com",
+   "last_review_at": "2026-05-18T17:37:30.600000",
+   "days_since_review": 1,
+   "total_reviews": 40,
+   "reviews_30d": 2,
+   "reviews_90d": 7,
+   "replies_90d": 7,
+   "reply_rate_90d": 100.0,
+   "flags": [
+    [
+     "AMBER",
+     "login_stale_30d",
+     "Last login 64d ago"
+    ]
+   ],
+   "overall_rag": "AMBER"
+  },
+  {
+   "office_id": 260162,
+   "va_ids": [
+    260162
+   ],
+   "branch": "Ewemove Skipton & The Dales",
+   "sub_brand": "EweMove",
+   "postcode": "BD23 3UA",
+   "reputation_score": 48,
+   "rating": 4.64,
+   "nps": 0,
+   "last_login_raw": "07.11.2024 03:58:44",
+   "last_login_iso": "2024-11-07T03:58:44",
+   "days_since_login": 559,
+   "last_user": "EleanorRoberts",
+   "last_email": "Eleanor.Roberts@ewemove.com",
+   "last_review_at": null,
+   "days_since_review": null,
+   "total_reviews": 0,
+   "reviews_30d": 0,
+   "reviews_90d": 0,
+   "replies_90d": 0,
+   "reply_rate_90d": null,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 559d ago"
+    ],
+    [
+     "RED",
+     "no_reviews_ever",
+     "No reviews on record"
+    ],
+    [
+     "RED",
+     "rep_score_low",
+     "Rep score 48"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
+   "office_id": 247718,
+   "va_ids": [
+    247718
+   ],
+   "branch": "Ewemove Whitley Bay & Tynemouth",
+   "sub_brand": "EweMove",
+   "postcode": "NE26 3QX",
+   "reputation_score": 69,
+   "rating": 4.75,
+   "nps": 0,
+   "last_login_raw": "16.10.2025 11:26:03",
+   "last_login_iso": "2025-10-16T11:26:03",
+   "days_since_login": 215,
+   "last_user": "AnnUpson",
+   "last_email": "anna.upson@ewemove.com",
+   "last_review_at": "2026-05-15T16:50:03.810000",
+   "days_since_review": 4,
+   "total_reviews": 16,
+   "reviews_30d": 1,
+   "reviews_90d": 2,
+   "replies_90d": 0,
+   "reply_rate_90d": 0.0,
+   "flags": [
+    [
+     "RED",
+     "login_stale_90d",
+     "Last login 215d ago"
+    ],
+    [
+     "RED",
+     "reply_rate_low",
+     "Reply rate 0% (90d)"
+    ],
+    [
+     "AMBER",
+     "rep_score_med",
+     "Rep score 69"
+    ]
+   ],
+   "overall_rag": "RED"
+  },
+  {
    "office_id": 237616,
+   "va_ids": [
+    237616
+   ],
    "branch": "Ewemove Winchester",
+   "sub_brand": "EweMove",
    "postcode": "SO23 0LD",
    "reputation_score": 98,
    "rating": 4.66,
@@ -5101,276 +5379,6 @@
     ]
    ],
    "overall_rag": "RED"
-  },
-  {
-   "office_id": 260957,
-   "branch": "EweMove Winchester and Salisbury",
-   "postcode": "N1 6DX",
-   "reputation_score": 75,
-   "rating": 4.59,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": "2026-04-03T04:28:42.043000",
-   "days_since_review": 47,
-   "total_reviews": 123,
-   "reviews_30d": 0,
-   "reviews_90d": 3,
-   "replies_90d": 0,
-   "reply_rate_90d": 0.0,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 47d"
-    ],
-    [
-     "RED",
-     "reply_rate_low",
-     "Reply rate 0% (90d)"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 247720,
-   "branch": "EweMove Wirral West",
-   "postcode": "CH43",
-   "reputation_score": 48,
-   "rating": 4.64,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ],
-    [
-     "RED",
-     "rep_score_low",
-     "Rep score 48"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 261741,
-   "branch": "EweMove Witney & Carterton",
-   "postcode": "OX28",
-   "reputation_score": null,
-   "rating": null,
-   "nps": 0,
-   "last_login_raw": "16.03.2026 12:53:59",
-   "last_login_iso": "2026-03-16T12:53:59",
-   "days_since_login": 64,
-   "last_user": "RossNorton",
-   "last_email": "ross.norton@ewemove.com",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "AMBER",
-     "login_stale_30d",
-     "Last login 64d ago"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 247721,
-   "branch": "EweMove Wollaton",
-   "postcode": "NG10",
-   "reputation_score": 48,
-   "rating": 4.64,
-   "nps": 0,
-   "last_login_raw": "",
-   "last_login_iso": null,
-   "days_since_login": null,
-   "last_user": "",
-   "last_email": "",
-   "last_review_at": null,
-   "days_since_review": null,
-   "total_reviews": 0,
-   "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
-   "flags": [
-    [
-     "RED",
-     "never_logged_in",
-     "Never logged in"
-    ],
-    [
-     "RED",
-     "no_reviews_ever",
-     "No reviews on record"
-    ],
-    [
-     "RED",
-     "rep_score_low",
-     "Rep score 48"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244191,
-   "branch": "EweMove Worcester",
-   "postcode": "WR1 1EE",
-   "reputation_score": 79,
-   "rating": 4.9,
-   "nps": 0,
-   "last_login_raw": "06.09.2025 12:27:12",
-   "last_login_iso": "2025-09-06T12:27:12",
-   "days_since_login": 255,
-   "last_user": "GeorginaHopkinson",
-   "last_email": "georgina.hopkinson@ewemove.com",
-   "last_review_at": "2026-03-24T17:39:53.383000",
-   "days_since_review": 56,
-   "total_reviews": 30,
-   "reviews_30d": 0,
-   "reviews_90d": 1,
-   "replies_90d": 1,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 255d ago"
-    ],
-    [
-     "AMBER",
-     "no_review_30d",
-     "No review for 56d"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244192,
-   "branch": "EweMove Wymondham",
-   "postcode": "NR18 9RS",
-   "reputation_score": 91,
-   "rating": 4.82,
-   "nps": 0,
-   "last_login_raw": "02.07.2025 10:31:32",
-   "last_login_iso": "2025-07-02T10:31:32",
-   "days_since_login": 321,
-   "last_user": "SophieLowndes-Toole",
-   "last_email": "sophie.lowndes-toole@ewemove.com",
-   "last_review_at": "2026-05-05T13:03:21.403000",
-   "days_since_review": 14,
-   "total_reviews": 82,
-   "reviews_30d": 2,
-   "reviews_90d": 3,
-   "replies_90d": 2,
-   "reply_rate_90d": 66.66666666666666,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 321d ago"
-    ],
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 67% (90d)"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244193,
-   "branch": "EweMove Yeovil",
-   "postcode": "BA20 1HE",
-   "reputation_score": 93,
-   "rating": 4.85,
-   "nps": 0,
-   "last_login_raw": "17.11.2025 04:49:35",
-   "last_login_iso": "2025-11-17T04:49:35",
-   "days_since_login": 184,
-   "last_user": "PaulGammage",
-   "last_email": "paul.gammage@ewemove.com",
-   "last_review_at": "2026-05-15T01:43:28.640000",
-   "days_since_review": 5,
-   "total_reviews": 182,
-   "reviews_30d": 4,
-   "reviews_90d": 11,
-   "replies_90d": 11,
-   "reply_rate_90d": 100.0,
-   "flags": [
-    [
-     "RED",
-     "login_stale_90d",
-     "Last login 184d ago"
-    ]
-   ],
-   "overall_rag": "RED"
-  },
-  {
-   "office_id": 244196,
-   "branch": "EweMove York",
-   "postcode": "YO26 6RW",
-   "reputation_score": 85,
-   "rating": 4.89,
-   "nps": 0,
-   "last_login_raw": "20.04.2026 11:41:06",
-   "last_login_iso": "2026-04-20T11:41:06",
-   "days_since_login": 29,
-   "last_user": "JonathanDawson",
-   "last_email": "york@ewemove.com",
-   "last_review_at": "2026-04-26T09:50:26.627000",
-   "days_since_review": 23,
-   "total_reviews": 312,
-   "reviews_30d": 1,
-   "reviews_90d": 9,
-   "replies_90d": 7,
-   "reply_rate_90d": 77.77777777777779,
-   "flags": [
-    [
-     "AMBER",
-     "reply_rate_med",
-     "Reply rate 78% (90d)"
-    ]
-   ],
-   "overall_rag": "AMBER"
   }
- ],
- "brand": "EweMove"
+ ]
 }
