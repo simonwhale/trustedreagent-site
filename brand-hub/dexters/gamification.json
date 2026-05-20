@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20T08:56:16.042579+00:00",
-  "brand": "Dexters",
+  "updated": "2026-05-20T13:29:02.447074+00:00",
+  "brand": "Dexters Group",
   "offices": [
     {
       "office_id": 246155,
@@ -50,6 +50,16 @@
         "formatted_address": "10 Broadway Market, London E8 4QJ",
         "google_maps_url": "https://maps.google.com/?cid=3460845707891516091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1874,
+          "rating": 4.28
+        },
+        "Google": {
+          "count": 650,
+          "rating": 4.86
+        }
       }
     },
     {
@@ -91,6 +101,12 @@
         "google_maps_url": "https://maps.google.com/?cid=18278189200677629507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 1249,
+          "rating": 4.86
+        }
       }
     },
     {
@@ -142,6 +158,12 @@
         "google_maps_url": "https://maps.google.com/?cid=11680151681716340015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 344,
+          "rating": 4.86
+        }
       }
     },
     {
@@ -187,6 +209,12 @@
         "formatted_address": "145a Evelina Rd, London SE15 3HB",
         "google_maps_url": "https://maps.google.com/?cid=4979975903315194951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 427,
+          "rating": 4.9
+        }
       }
     },
     {
@@ -238,6 +266,16 @@
         "google_maps_url": "https://maps.google.com/?cid=12081646632261940376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 11,
+          "rating": 4.91
+        },
+        "Facebook": {
+          "count": 3,
+          "rating": 1.0
+        }
       }
     },
     {
@@ -284,6 +322,12 @@
         "google_maps_url": "https://maps.google.com/?cid=12081646632261940376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 490,
+          "rating": 4.92
+        }
       }
     },
     {
@@ -322,7 +366,13 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 67,
+          "rating": 4.99
+        }
+      }
     },
     {
       "office_id": 19362,
@@ -372,6 +422,12 @@
         "formatted_address": "9 Cavendish Parade, London SW4 9DP",
         "google_maps_url": "https://maps.google.com/?cid=17004691607322467010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 380,
+          "rating": 4.8
+        }
       }
     },
     {
@@ -418,6 +474,12 @@
         "google_maps_url": "https://maps.google.com/?cid=17792938186738675588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 661,
+          "rating": 4.81
+        }
       }
     },
     {
@@ -463,6 +525,12 @@
         "formatted_address": "194 High St, Brentford TW8 8LB",
         "google_maps_url": "https://maps.google.com/?cid=17724437092217284764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 264,
+          "rating": 4.78
+        }
       }
     },
     {
@@ -508,6 +576,12 @@
         "formatted_address": "121 Notting Hill Gate, London W11 3LB",
         "google_maps_url": "https://maps.google.com/?cid=48247971593925653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 453,
+          "rating": 4.74
+        }
       }
     },
     {
@@ -553,6 +627,12 @@
         "formatted_address": "66 Goodge St, London W1T 4NG",
         "google_maps_url": "https://maps.google.com/?cid=7450728417135081668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 582,
+          "rating": 4.87
+        }
       }
     },
     {
@@ -599,6 +679,12 @@
         "google_maps_url": "https://maps.google.com/?cid=14611224384304272257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 1017,
+          "rating": 4.82
+        }
       }
     },
     {
@@ -645,6 +731,12 @@
         "google_maps_url": "https://maps.google.com/?cid=14611224384304272257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 474,
+          "rating": 4.82
+        }
       }
     },
     {
@@ -697,6 +789,16 @@
         "google_maps_url": "https://maps.google.com/?cid=232369004322928267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.05,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 267,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 1749,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -748,6 +850,16 @@
         "formatted_address": "369 Brockley Rd, London SE4 2AG",
         "google_maps_url": "https://maps.google.com/?cid=4955272699677623190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 217,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 2003,
+          "rating": 4.21
+        }
       }
     },
     {
@@ -799,6 +911,16 @@
         "formatted_address": "39 Westferry Rd, London E14 8JH",
         "google_maps_url": "https://maps.google.com/?cid=1301233253536552099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 360,
+          "rating": 4.8
+        },
+        "Trustpilot": {
+          "count": 1636,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -850,6 +972,20 @@
         "formatted_address": "45 Sloane Ave, London SW3 3DH",
         "google_maps_url": "https://maps.google.com/?cid=12091992241784797708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 274,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 1767,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -896,6 +1032,16 @@
         "formatted_address": "Design Centre East, 5 Chelsea Harbour Dr, London SW10 0XF",
         "google_maps_url": "https://maps.google.com/?cid=4985063725024680679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 176,
+          "rating": 4.87
+        },
+        "Trustpilot": {
+          "count": 1794,
+          "rating": 4.29
+        }
       }
     },
     {
@@ -947,6 +1093,16 @@
         "formatted_address": "388 Chiswick High Rd., Chiswick, London W4 5TF",
         "google_maps_url": "https://maps.google.com/?cid=2696039225075368016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 273,
+          "rating": 4.82
+        },
+        "Trustpilot": {
+          "count": 1832,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -993,6 +1149,16 @@
         "formatted_address": "5a Sandy's Row, London E1 7HW",
         "google_maps_url": "https://maps.google.com/?cid=12021952234655592838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 348,
+          "rating": 4.76
+        },
+        "Trustpilot": {
+          "count": 1818,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1039,6 +1205,16 @@
         "formatted_address": "28 Abbeville Rd, London SW4 9NG",
         "google_maps_url": "https://maps.google.com/?cid=8078155240977268130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 300,
+          "rating": 4.88
+        },
+        "Trustpilot": {
+          "count": 1846,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -1090,6 +1266,16 @@
         "formatted_address": "55 Clapham High St, London SW4 7TG",
         "google_maps_url": "https://maps.google.com/?cid=8681395566144739793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 311,
+          "rating": 4.72
+        },
+        "Trustpilot": {
+          "count": 1841,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -1140,6 +1326,16 @@
         "formatted_address": "Millennium Heights, 1 Britton St, London EC1M 5NW",
         "google_maps_url": "https://maps.google.com/?cid=10927863484808112053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 356,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 1999,
+          "rating": 4.2
+        }
       }
     },
     {
@@ -1190,6 +1386,16 @@
         "formatted_address": "64 Chetwynd Road Dartmouth Park Estate Agents, London NW5 1DE",
         "google_maps_url": "https://maps.google.com/?cid=18292577224747014550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 266,
+          "rating": 4.87
+        },
+        "Trustpilot": {
+          "count": 1734,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -1245,6 +1451,12 @@
         "google_maps_url": "https://maps.google.com/?cid=11143367826871897885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 149,
+          "rating": 4.93
+        }
       }
     },
     {
@@ -1296,6 +1508,20 @@
         "formatted_address": "2, New Ealing Broadway, London W5 2NU",
         "google_maps_url": "https://maps.google.com/?cid=13332918707441898672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 340,
+          "rating": 4.7
+        },
+        "Trustpilot": {
+          "count": 1833,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1342,6 +1568,16 @@
         "formatted_address": "3 Hogarth Rd, London SW5 0QT",
         "google_maps_url": "https://maps.google.com/?cid=12982205627289778326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 257,
+          "rating": 4.95
+        },
+        "Trustpilot": {
+          "count": 1926,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -1388,6 +1624,16 @@
         "formatted_address": "98 Grove Vale, London SE22 8DR",
         "google_maps_url": "https://maps.google.com/?cid=6012884081623311666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 213,
+          "rating": 4.95
+        },
+        "Trustpilot": {
+          "count": 1651,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -1438,6 +1684,16 @@
         "formatted_address": "126 Ballards Ln, Church End, London N3 2PA",
         "google_maps_url": "https://maps.google.com/?cid=4228413936836836227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 276,
+          "rating": 4.88
+        },
+        "Trustpilot": {
+          "count": 1858,
+          "rating": 4.29
+        }
       }
     },
     {
@@ -1483,6 +1739,16 @@
         "formatted_address": "87 Stroud Green Rd, Finsbury Park, London N4 3PX",
         "google_maps_url": "https://maps.google.com/?cid=7641547364813782534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 2226,
+          "rating": 4.27
+        },
+        "Google": {
+          "count": 277,
+          "rating": 4.84
+        }
       }
     },
     {
@@ -1535,6 +1801,16 @@
         "google_maps_url": "https://maps.google.com/?cid=17792938186738675588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 287,
+          "rating": 4.77
+        },
+        "Trustpilot": {
+          "count": 1866,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1582,6 +1858,16 @@
         "google_maps_url": "https://maps.google.com/?cid=13457509711366235156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 167,
+          "rating": 4.57
+        },
+        "Trustpilot": {
+          "count": 1841,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -1628,6 +1914,16 @@
         "formatted_address": "331 Mare St, London E8 1HY",
         "google_maps_url": "https://maps.google.com/?cid=4904442015769015725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 298,
+          "rating": 4.85
+        },
+        "Trustpilot": {
+          "count": 1629,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -1679,6 +1975,16 @@
         "formatted_address": "164 King St, London W6 0QU",
         "google_maps_url": "https://maps.google.com/?cid=5512412921324697742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 280,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 1958,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -1729,6 +2035,16 @@
         "formatted_address": "56 Heath St, London NW3 1DL",
         "google_maps_url": "https://maps.google.com/?cid=13077046276880897348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 306,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 1828,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -1775,6 +2091,16 @@
         "formatted_address": "93 Station Rd, Hampton TW12 2BD",
         "google_maps_url": "https://maps.google.com/?cid=12257209380277267469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 354,
+          "rating": 4.84
+        },
+        "Trustpilot": {
+          "count": 1778,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1827,6 +2153,20 @@
         "google_maps_url": "https://maps.google.com/?cid=9773451052307168667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 257,
+          "rating": 4.76
+        },
+        "Trustpilot": {
+          "count": 1791,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -1878,6 +2218,16 @@
         "formatted_address": "35 Highgate High St, London N6 5JT",
         "google_maps_url": "https://maps.google.com/?cid=7860038562117227955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 334,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 1819,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1929,6 +2279,20 @@
         "formatted_address": "61 Honor Oak Park, London SE23 1EA",
         "google_maps_url": "https://maps.google.com/?cid=9978340028602019754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 222,
+          "rating": 4.77
+        },
+        "Trustpilot": {
+          "count": 1864,
+          "rating": 4.28
+        }
       }
     },
     {
@@ -1980,6 +2344,16 @@
         "formatted_address": "4 Spring St, Tyburnia, London W2 3RA",
         "google_maps_url": "https://maps.google.com/?cid=1135936016337459189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 325,
+          "rating": 4.8
+        },
+        "Trustpilot": {
+          "count": 1754,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -2031,6 +2405,20 @@
         "formatted_address": "568 London Rd, Isleworth TW7 4EP",
         "google_maps_url": "https://maps.google.com/?cid=17045053684416505179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 300,
+          "rating": 4.79
+        },
+        "Trustpilot": {
+          "count": 2039,
+          "rating": 4.22
+        },
+        "Facebook": {
+          "count": 1,
+          "rating": 1.0
+        }
       }
     },
     {
@@ -2050,7 +2438,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T09:45:32.270000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 2331,
       "reviews_30d": 0,
       "reviews_90d": 37,
@@ -2065,7 +2453,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ],
         [
           "RED",
@@ -2081,6 +2469,20 @@
         "formatted_address": "76 Upper St, London N1 0NU",
         "google_maps_url": "https://maps.google.com/?cid=2840055405148914417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 287,
+          "rating": 4.68
+        },
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Trustpilot": {
+          "count": 2042,
+          "rating": 4.22
+        }
       }
     },
     {
@@ -2128,6 +2530,16 @@
         "google_maps_url": "https://maps.google.com/?cid=11751904035671753910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 268,
+          "rating": 4.92
+        },
+        "Trustpilot": {
+          "count": 1541,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -2174,6 +2586,16 @@
         "formatted_address": "62 Chamberlayne Rd, London NW10 3JJ",
         "google_maps_url": "https://maps.google.com/?cid=3664020756221329169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 349,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 1779,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -2220,6 +2642,16 @@
         "formatted_address": "1 Campden Hill Rd, London W8 7DU",
         "google_maps_url": "https://maps.google.com/?cid=5735238439945193958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 178,
+          "rating": 4.86
+        },
+        "Trustpilot": {
+          "count": 1659,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -2270,6 +2702,16 @@
         "formatted_address": "274 Kentish Town Rd, London NW5 2JT",
         "google_maps_url": "https://maps.google.com/?cid=10854512893775087317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 277,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 1674,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -2316,6 +2758,16 @@
         "formatted_address": "2 Mortlake Terrace, Richmond TW9 3DT",
         "google_maps_url": "https://maps.google.com/?cid=15485769766545205502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 302,
+          "rating": 4.92
+        },
+        "Trustpilot": {
+          "count": 1993,
+          "rating": 4.21
+        }
       }
     },
     {
@@ -2367,6 +2819,16 @@
         "google_maps_url": "https://maps.google.com/?cid=18278189200677629507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 416,
+          "rating": 4.83
+        },
+        "Trustpilot": {
+          "count": 1921,
+          "rating": 4.2
+        }
       }
     },
     {
@@ -2414,6 +2876,16 @@
         "google_maps_url": "https://maps.google.com/?cid=13821977245874194999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 278,
+          "rating": 4.74
+        },
+        "Trustpilot": {
+          "count": 1932,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -2465,6 +2937,16 @@
         "google_maps_url": "https://maps.google.com/?cid=11680151681716340015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 242,
+          "rating": 4.86
+        },
+        "Trustpilot": {
+          "count": 1951,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -2516,6 +2998,16 @@
         "formatted_address": "54 Borough High St, London Brg, London SE1 1XL",
         "google_maps_url": "https://maps.google.com/?cid=11231514860327986134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 396,
+          "rating": 4.73
+        },
+        "Trustpilot": {
+          "count": 1891,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -2562,6 +3054,16 @@
         "formatted_address": "298 Elgin Ave., London W9 1JS",
         "google_maps_url": "https://maps.google.com/?cid=7207415637758269496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 350,
+          "rating": 4.87
+        },
+        "Trustpilot": {
+          "count": 1745,
+          "rating": 4.23
+        }
       }
     },
     {
@@ -2608,6 +3110,20 @@
         "formatted_address": "55 Weymouth St, London W1G 8NJ",
         "google_maps_url": "https://maps.google.com/?cid=2426048873792224922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 277,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 1786,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -2627,7 +3143,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T09:46:42.200000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 1992,
       "reviews_30d": 0,
       "reviews_90d": 20,
@@ -2642,7 +3158,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ]
       ],
       "overall_rag": "RED",
@@ -2653,6 +3169,16 @@
         "formatted_address": "418 Muswell Hill Broadway, Muswell Hill, London N10 1DJ",
         "google_maps_url": "https://maps.google.com/?cid=9011577812570228967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 296,
+          "rating": 4.8
+        },
+        "Trustpilot": {
+          "count": 1696,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -2703,6 +3229,20 @@
         "formatted_address": "256 New Cross Rd, London SE14 5PL",
         "google_maps_url": "https://maps.google.com/?cid=13579444048290506903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 3,
+          "rating": 3.67
+        },
+        "Google": {
+          "count": 320,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 1736,
+          "rating": 4.23
+        }
       }
     },
     {
@@ -2756,6 +3296,16 @@
         "google_maps_url": "https://maps.google.com/?cid=2316804883153970216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1802,
+          "rating": 4.29
+        },
+        "Google": {
+          "count": 2,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -2803,6 +3353,16 @@
         "formatted_address": "12 The Broadway, London SW19 1RF",
         "google_maps_url": "https://maps.google.com/?cid=7439164750057539586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 103,
+          "rating": 4.94
+        },
+        "Trustpilot": {
+          "count": 1782,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -2854,6 +3414,16 @@
         "formatted_address": "93-95 St John's Rd, London SW11 1QY",
         "google_maps_url": "https://maps.google.com/?cid=8743460888907540888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 274,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 1743,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -2900,6 +3470,16 @@
         "formatted_address": "140 Northfield Ave, London W13 9SB",
         "google_maps_url": "https://maps.google.com/?cid=4656936391215685775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 324,
+          "rating": 4.88
+        },
+        "Trustpilot": {
+          "count": 1933,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -2952,6 +3532,20 @@
         "google_maps_url": "https://maps.google.com/?cid=13434063906254212148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 221,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 1638,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -3002,6 +3596,16 @@
         "formatted_address": "50 Churton St, Pimlico, London SW1V 2LP",
         "google_maps_url": "https://maps.google.com/?cid=15236925342418090379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 265,
+          "rating": 4.75
+        },
+        "Trustpilot": {
+          "count": 1726,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -3053,6 +3657,16 @@
         "formatted_address": "176 Putney High St, London SW15 1RS",
         "google_maps_url": "https://maps.google.com/?cid=15460912727273433038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 290,
+          "rating": 4.75
+        },
+        "Trustpilot": {
+          "count": 1754,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -3072,7 +3686,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T10:47:48.950000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 371,
       "reviews_30d": 0,
       "reviews_90d": 25,
@@ -3087,7 +3701,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ],
         [
           "AMBER",
@@ -3103,6 +3717,20 @@
         "formatted_address": "1 Sheen Rd, Richmond TW9 1AD",
         "google_maps_url": "https://maps.google.com/?cid=8799428573538467011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 320,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 45,
+          "rating": 3.6
+        },
+        "Yell": {
+          "count": 6,
+          "rating": 2.67
+        }
       }
     },
     {
@@ -3154,6 +3782,16 @@
         "formatted_address": "53 Shepherd's Bush Grn, London W12 8PS",
         "google_maps_url": "https://maps.google.com/?cid=11819067127028153720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 339,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 1733,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -3205,6 +3843,20 @@
         "formatted_address": "44 Great Eastern St, London EC2A 3EP",
         "google_maps_url": "https://maps.google.com/?cid=6050011606591993639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 1.0
+        },
+        "Trustpilot": {
+          "count": 1743,
+          "rating": 4.27
+        },
+        "Google": {
+          "count": 291,
+          "rating": 4.78
+        }
       }
     },
     {
@@ -3251,6 +3903,20 @@
         "formatted_address": "144 Old Brompton Rd, South Kensington, London SW7 4NR",
         "google_maps_url": "https://maps.google.com/?cid=10078957145931814322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 314,
+          "rating": 4.74
+        },
+        "Trustpilot": {
+          "count": 1757,
+          "rating": 4.29
+        },
+        "Yell": {
+          "count": 5,
+          "rating": 2.4
+        }
       }
     },
     {
@@ -3302,6 +3968,16 @@
         "formatted_address": "1 Chertsey Rd, St Margarets, Twickenham TW1 1LR",
         "google_maps_url": "https://maps.google.com/?cid=3350043762802621888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 288,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 1694,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -3348,6 +4024,16 @@
         "formatted_address": "105 Streatham Hill, London SW2 4UG",
         "google_maps_url": "https://maps.google.com/?cid=12913981501663386533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1926,
+          "rating": 4.26
+        },
+        "Google": {
+          "count": 287,
+          "rating": 4.8
+        }
       }
     },
     {
@@ -3399,6 +4085,12 @@
         "formatted_address": "22 Thames St, Lower, Sunbury-on-Thames TW16 6AF",
         "google_maps_url": "https://maps.google.com/?cid=4714794342991684712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1996,
+          "rating": 4.23
+        }
       }
     },
     {
@@ -3451,6 +4143,16 @@
         "formatted_address": "Dexters Estate Agents, 61 High St, Teddington TW11 8HA",
         "google_maps_url": "https://maps.google.com/?cid=8337957395636404051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.05
+      },
+      "platforms": {
+        "Google": {
+          "count": 360,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 65,
+          "rating": 3.92
+        }
       }
     },
     {
@@ -3502,6 +4204,16 @@
         "formatted_address": "48 Tooting High St, London SW17 0RG",
         "google_maps_url": "https://maps.google.com/?cid=13018798223656603988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 318,
+          "rating": 4.96
+        },
+        "Trustpilot": {
+          "count": 1798,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -3553,6 +4265,20 @@
         "formatted_address": "50 Shad Thames Tower Bridge, London SE1 2LY",
         "google_maps_url": "https://maps.google.com/?cid=17309464315106844598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 396,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 1676,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -3573,7 +4299,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T09:48:45.613000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 3565,
       "reviews_30d": 0,
       "reviews_90d": 43,
@@ -3588,7 +4314,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ],
         [
           "RED",
@@ -3604,6 +4330,16 @@
         "formatted_address": "84 Heath Rd, Twickenham TW1 4BW",
         "google_maps_url": "https://maps.google.com/?cid=8636450386977439432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1737,
+          "rating": 4.25
+        },
+        "Google": {
+          "count": 316,
+          "rating": 4.86
+        }
       }
     },
     {
@@ -3646,6 +4382,16 @@
         "google_maps_url": "https://maps.google.com/?cid=11751904035671753910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 251,
+          "rating": 4.87
+        },
+        "Trustpilot": {
+          "count": 1867,
+          "rating": 4.27
+        }
       }
     },
     {
@@ -3697,6 +4443,16 @@
         "formatted_address": "123 Wapping High St, London E1W 3NX",
         "google_maps_url": "https://maps.google.com/?cid=1763069584490927073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 263,
+          "rating": 4.83
+        },
+        "Trustpilot": {
+          "count": 1776,
+          "rating": 4.25
+        }
       }
     },
     {
@@ -3743,6 +4499,16 @@
         "formatted_address": "42 Broadway, London W13 0SU",
         "google_maps_url": "https://maps.google.com/?cid=17203966049267164722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Yell": {
+          "count": 5,
+          "rating": 3.4
+        },
+        "Trustpilot": {
+          "count": 1636,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -3793,6 +4559,20 @@
         "formatted_address": "349 W End Ln, London NW6 1LT",
         "google_maps_url": "https://maps.google.com/?cid=1381326778876220699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 1.0
+        },
+        "Google": {
+          "count": 291,
+          "rating": 4.7
+        },
+        "Trustpilot": {
+          "count": 1769,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -3843,6 +4623,16 @@
         "formatted_address": "106 W End Ln, London NW6 2LS",
         "google_maps_url": "https://maps.google.com/?cid=3035639072278076813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 362,
+          "rating": 4.98
+        },
+        "Trustpilot": {
+          "count": 1798,
+          "rating": 4.24
+        }
       }
     },
     {
@@ -3889,6 +4679,20 @@
         "formatted_address": "179-181 North End Rd, London W14 9NL",
         "google_maps_url": "https://maps.google.com/?cid=8667342457199510709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 286,
+          "rating": 4.7
+        },
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Trustpilot": {
+          "count": 1791,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -3940,6 +4744,20 @@
         "formatted_address": "120 Westbourne Grove, London W11 2RR",
         "google_maps_url": "https://maps.google.com/?cid=14999304190086835398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 1.0
+        },
+        "Google": {
+          "count": 260,
+          "rating": 4.96
+        },
+        "Trustpilot": {
+          "count": 1816,
+          "rating": 4.26
+        }
       }
     },
     {
@@ -3991,6 +4809,16 @@
         "formatted_address": "Pimlico Estate Agents, 42 Denbigh St, Pimlico, London SW1V 2ER",
         "google_maps_url": "https://maps.google.com/?cid=14726676147383045153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1811,
+          "rating": 4.29
+        },
+        "Google": {
+          "count": 260,
+          "rating": 4.77
+        }
       }
     },
     {
@@ -4037,17 +4865,2225 @@
         "google_maps_url": "https://maps.google.com/?cid=2316804883153970216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 230,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 1738,
+          "rating": 4.28
+        }
+      }
+    },
+    {
+      "office_id": 15272,
+      "va_ids": [
+        15272,
+        17116
+      ],
+      "branch": "Marsh & Parsons (SW11)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW11 6QP",
+      "reputation_score": 80,
+      "rating": 4.65,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T18:34:39.527000",
+      "days_since_review": 43,
+      "total_reviews": 220,
+      "reviews_30d": 0,
+      "reviews_90d": 5,
+      "replies_90d": 5,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJHUdk3pUFdkgRymPtKO3BHn4",
+        "rating": 4.8,
+        "user_rating_count": 168,
+        "formatted_address": "118 Northcote Rd, London SW11 6QP",
+        "google_maps_url": "https://maps.google.com/?cid=9087914322418295754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "View Agents": {
+          "count": 18,
+          "rating": 4.72
+        },
+        "Facebook": {
+          "count": 21,
+          "rating": 4.76
+        },
+        "Google": {
+          "count": 160,
+          "rating": 4.61
+        }
+      }
+    },
+    {
+      "office_id": 15296,
+      "va_ids": [
+        15296
+      ],
+      "branch": "Marsh & Parsons (SW12)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW12 9DR",
+      "reputation_score": 82,
+      "rating": 4.77,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-13T18:36:19.633000",
+      "days_since_review": 67,
+      "total_reviews": 344,
+      "reviews_30d": 0,
+      "reviews_90d": 1,
+      "replies_90d": 0,
+      "reply_rate_90d": 0.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 67d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 0% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJr2H35MkFdkgRkQzFlOTDwhk",
+        "rating": 4.8,
+        "user_rating_count": 347,
+        "formatted_address": "45 Balham Hill, London SW12 9DR",
+        "google_maps_url": "https://maps.google.com/?cid=1856261382945967249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "View Agents": {
+          "count": 11,
+          "rating": 4.18
+        },
+        "Facebook": {
+          "count": 19,
+          "rating": 4.53
+        },
+        "Google": {
+          "count": 314,
+          "rating": 4.79
+        }
+      }
+    },
+    {
+      "office_id": 15307,
+      "va_ids": [
+        15307
+      ],
+      "branch": "Marsh & Parsons (SW13)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW13 9HH",
+      "reputation_score": 81,
+      "rating": 4.87,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T18:37:05.383000",
+      "days_since_review": 43,
+      "total_reviews": 270,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 30,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJE3nQtlcOdkgRrOENv1N1Iqg",
+        "rating": 4.9,
+        "user_rating_count": 347,
+        "formatted_address": "73, 75 Church Rd, London SW13 9HH",
+        "google_maps_url": "https://maps.google.com/?cid=12115374950128148908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "View Agents": {
+          "count": 7,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 242,
+          "rating": 4.87
+        },
+        "Facebook": {
+          "count": 21,
+          "rating": 4.86
+        }
+      }
+    },
+    {
+      "office_id": 222744,
+      "va_ids": [
+        222744
+      ],
+      "branch": "Marsh & Parsons (TW9)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "TW9 1BP",
+      "reputation_score": 81,
+      "rating": 4.89,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T20:50:03.773000",
+      "days_since_review": 43,
+      "total_reviews": 245,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 30,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 241,
+          "rating": 4.89
+        },
+        "View Agents": {
+          "count": 4,
+          "rating": 4.75
+        }
+      }
+    },
+    {
+      "office_id": 20766,
+      "va_ids": [
+        20766
+      ],
+      "branch": "Marsh & Parsons (W12)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W12 9BL",
+      "reputation_score": 80,
+      "rating": 4.78,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T20:14:31.067000",
+      "days_since_review": 39,
+      "total_reviews": 194,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 26,
+      "reply_rate_90d": 86.66666666666667,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJk0s7ujEOdkgRVRbZYJVI1Dg",
+        "rating": 4.9,
+        "user_rating_count": 266,
+        "formatted_address": "120 Askew Rd, London W12 9BL",
+        "google_maps_url": "https://maps.google.com/?cid=4094977767598790229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 193,
+          "rating": 4.78
+        }
+      }
+    },
+    {
+      "office_id": 222747,
+      "va_ids": [
+        222747
+      ],
+      "branch": "Marsh & Parsons (W14)",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W14 8UD",
+      "reputation_score": 45,
+      "rating": 5.0,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2016-04-15T11:19:03",
+      "days_since_review": 3686,
+      "total_reviews": 2,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 3686d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 45"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "View Agents": {
+          "count": 2,
+          "rating": 5.0
+        }
+      }
+    },
+    {
+      "office_id": 256335,
+      "va_ids": [
+        20765,
+        256335
+      ],
+      "branch": "Marsh & Parsons Bishops Park",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW6 6TE",
+      "reputation_score": 80,
+      "rating": 4.19,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T22:28:51.713000",
+      "days_since_review": 47,
+      "total_reviews": 1012,
+      "reviews_30d": 0,
+      "reviews_90d": 18,
+      "replies_90d": 16,
+      "reply_rate_90d": 88.88888888888889,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJZfLnGqEPdkgR9GJSlIaiu5k",
+        "rating": 4.8,
+        "user_rating_count": 161,
+        "formatted_address": "333 Fulham Palace Rd, London SW6 6TE",
+        "google_maps_url": "https://maps.google.com/?cid=11077626407345611508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 138,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 730,
+          "rating": 4.08
+        }
+      }
+    },
+    {
+      "office_id": 256337,
+      "va_ids": [
+        17396,
+        256337
+      ],
+      "branch": "Marsh & Parsons Brook Green",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W6 7LP",
+      "reputation_score": 82,
+      "rating": 4.24,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-13T11:16:34.277000",
+      "days_since_review": 37,
+      "total_reviews": 1446,
+      "reviews_30d": 0,
+      "reviews_90d": 26,
+      "replies_90d": 23,
+      "reply_rate_90d": 88.46153846153845,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 37d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJmcvIGMYPdkgR2mc8TbK_QpI",
+        "rating": 4.7,
+        "user_rating_count": 416,
+        "formatted_address": "107-109 Shepherds Bush Rd, London W6 7LP",
+        "google_maps_url": "https://maps.google.com/?cid=10539196850521270234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 299,
+          "rating": 4.69
+        },
+        "Trustpilot": {
+          "count": 745,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 256338,
+      "va_ids": [
+        20764,
+        256338
+      ],
+      "branch": "Marsh & Parsons Camden",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "NW1 7PN",
+      "reputation_score": 81,
+      "rating": 4.26,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T22:29:09.010000",
+      "days_since_review": 35,
+      "total_reviews": 1255,
+      "reviews_30d": 0,
+      "reviews_90d": 41,
+      "replies_90d": 38,
+      "reply_rate_90d": 92.6829268292683,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJx0X6VeAadkgRBIL4eV-I9J8",
+        "rating": 4.8,
+        "user_rating_count": 516,
+        "formatted_address": "27 Parkway, London NW1 7PN",
+        "google_maps_url": "https://maps.google.com/?cid=11525987289997541892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 265,
+          "rating": 4.77
+        },
+        "Trustpilot": {
+          "count": 735,
+          "rating": 4.07
+        }
+      }
+    },
+    {
+      "office_id": 256339,
+      "va_ids": [
+        15664,
+        256339
+      ],
+      "branch": "Marsh & Parsons Chelsea",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW3 2PU",
+      "reputation_score": 72,
+      "rating": 4.14,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-26T22:29:14.930000",
+      "days_since_review": 54,
+      "total_reviews": 853,
+      "reviews_30d": 0,
+      "reviews_90d": 6,
+      "replies_90d": 5,
+      "reply_rate_90d": 83.33333333333334,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 54d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ8SKd_D8FdkgRNmq6KtWZeq0",
+        "rating": 4.6,
+        "user_rating_count": 105,
+        "formatted_address": "2A Milner St, London SW3 2PU",
+        "google_maps_url": "https://maps.google.com/?cid=12500472856544176694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 108,
+          "rating": 4.69
+        },
+        "Trustpilot": {
+          "count": 739,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 256343,
+      "va_ids": [
+        222743,
+        256343
+      ],
+      "branch": "Marsh & Parsons East Sheen & Richmond",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW14 8AN",
+      "reputation_score": 81,
+      "rating": 3.49,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T20:49:55.830000",
+      "days_since_review": 43,
+      "total_reviews": 2645,
+      "reviews_30d": 0,
+      "reviews_90d": 31,
+      "replies_90d": 31,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Facebook": {
+          "count": 10,
+          "rating": 3.0
+        },
+        "Trustpilot": {
+          "count": 2395,
+          "rating": 3.5
+        }
+      }
+    },
+    {
+      "office_id": 256344,
+      "va_ids": [
+        15738,
+        256344
+      ],
+      "branch": "Marsh & Parsons Fulham",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW6 2DA",
+      "reputation_score": 72,
+      "rating": 4.07,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-19T17:14:19",
+      "days_since_review": 61,
+      "total_reviews": 839,
+      "reviews_30d": 0,
+      "reviews_90d": 20,
+      "replies_90d": 11,
+      "reply_rate_90d": 55.00000000000001,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 61d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 55% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJQyVPHYQPdkgRBVnksYhLSJo",
+        "rating": 4.6,
+        "user_rating_count": 217,
+        "formatted_address": "103-105 Moore Park Rd, London SW6 2DA",
+        "google_maps_url": "https://maps.google.com/?cid=11117218730636237061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 95,
+          "rating": 4.15
+        },
+        "Trustpilot": {
+          "count": 734,
+          "rating": 4.05
+        }
+      }
+    },
+    {
+      "office_id": 256345,
+      "va_ids": [
+        17000,
+        256345
+      ],
+      "branch": "Marsh & Parsons Holland Park",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W11 4QJ",
+      "reputation_score": 72,
+      "rating": 4.19,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T19:15:01.823000",
+      "days_since_review": 34,
+      "total_reviews": 918,
+      "reviews_30d": 0,
+      "reviews_90d": 7,
+      "replies_90d": 6,
+      "reply_rate_90d": 85.71428571428571,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJJeCikecPdkgRZeRnDTAq9fo",
+        "rating": 4.8,
+        "user_rating_count": 294,
+        "formatted_address": "57 Norland Square, London W11 4QJ",
+        "google_maps_url": "https://maps.google.com/?cid=18083406264647804005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 221,
+          "rating": 4.75
+        },
+        "Trustpilot": {
+          "count": 674,
+          "rating": 4.01
+        }
+      }
+    },
+    {
+      "office_id": 256347,
+      "va_ids": [
+        17439,
+        256347
+      ],
+      "branch": "Marsh & Parsons Kensington",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W8 4LF",
+      "reputation_score": 72,
+      "rating": 4.16,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-13T22:29:56.303000",
+      "days_since_review": 36,
+      "total_reviews": 880,
+      "reviews_30d": 0,
+      "reviews_90d": 6,
+      "replies_90d": 6,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 36d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJQw8nE_cPdkgRemoPcVKUK4M",
+        "rating": 4.8,
+        "user_rating_count": 148,
+        "formatted_address": "9 Kensington Church St, London W8 4LF",
+        "google_maps_url": "https://maps.google.com/?cid=9451811324772182650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 132,
+          "rating": 4.7
+        },
+        "Trustpilot": {
+          "count": 726,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 256348,
+      "va_ids": [
+        17477,
+        256348
+      ],
+      "branch": "Marsh & Parsons Little Venice",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W9 1TP",
+      "reputation_score": 82,
+      "rating": 4.68,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T19:17:10.693000",
+      "days_since_review": 40,
+      "total_reviews": 595,
+      "reviews_30d": 0,
+      "reviews_90d": 36,
+      "replies_90d": 27,
+      "reply_rate_90d": 75.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 75% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJuxUOYqUadkgRlf-dhtiBITE",
+        "rating": 4.8,
+        "user_rating_count": 324,
+        "formatted_address": "35 Maida Vale, London W9 1TP",
+        "google_maps_url": "https://maps.google.com/?cid=3540253549061341077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 240,
+          "rating": 4.85
+        },
+        "Trustpilot": {
+          "count": 64,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 256349,
+      "va_ids": [
+        20767,
+        256349
+      ],
+      "branch": "Marsh & Parsons Marylebone & Mayfair",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W1U 6FZ",
+      "reputation_score": 72,
+      "rating": 4.17,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T15:30:54.253000",
+      "days_since_review": 33,
+      "total_reviews": 887,
+      "reviews_30d": 0,
+      "reviews_90d": 11,
+      "replies_90d": 9,
+      "reply_rate_90d": 81.81818181818183,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJw5SZnM4adkgR_6Sw1Syq93o",
+        "rating": 4.8,
+        "user_rating_count": 204,
+        "formatted_address": "94 Baker St, London W1U 6FZ",
+        "google_maps_url": "https://maps.google.com/?cid=8860737901415146751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 151,
+          "rating": 4.68
+        },
+        "Trustpilot": {
+          "count": 729,
+          "rating": 4.07
+        }
+      }
+    },
+    {
+      "office_id": 256350,
+      "va_ids": [
+        256350
+      ],
+      "branch": "Marsh & Parsons New Homes",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "WC1A 1HB",
+      "reputation_score": 73,
+      "rating": 4.58,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T15:31:01.703000",
+      "days_since_review": 33,
+      "total_reviews": 197,
+      "reviews_30d": 0,
+      "reviews_90d": 11,
+      "replies_90d": 9,
+      "reply_rate_90d": 81.81818181818183,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 161,
+          "rating": 4.68
+        },
+        "Trustpilot": {
+          "count": 36,
+          "rating": 4.17
+        }
+      }
+    },
+    {
+      "office_id": 256351,
+      "va_ids": [
+        16969,
+        256351
+      ],
+      "branch": "Marsh & Parsons North Kensington",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W11 1QU",
+      "reputation_score": 72,
+      "rating": 4.13,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T22:31:09.417000",
+      "days_since_review": 47,
+      "total_reviews": 834,
+      "reviews_30d": 0,
+      "reviews_90d": 25,
+      "replies_90d": 16,
+      "reply_rate_90d": 64.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 64% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJdz4TmB8QdkgRKRnQIlpvCTI",
+        "rating": 4.8,
+        "user_rating_count": 149,
+        "formatted_address": "110 Ladbroke Grove, London W10 5NE",
+        "google_maps_url": "https://maps.google.com/?cid=3605535409608595753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75
+      },
+      "platforms": {
+        "Google": {
+          "count": 136,
+          "rating": 4.69
+        },
+        "Trustpilot": {
+          "count": 688,
+          "rating": 4.02
+        }
+      }
+    },
+    {
+      "office_id": 256352,
+      "va_ids": [
+        16985,
+        256352
+      ],
+      "branch": "Marsh & Parsons Notting Hill",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W11 3BU",
+      "reputation_score": 72,
+      "rating": 4.19,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T22:31:15.453000",
+      "days_since_review": 34,
+      "total_reviews": 974,
+      "reviews_30d": 0,
+      "reviews_90d": 20,
+      "replies_90d": 15,
+      "reply_rate_90d": 75.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 75% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJtUbKnPwPdkgResWxAE6wmSQ",
+        "rating": 4.7,
+        "user_rating_count": 504,
+        "formatted_address": "2-6 Kensington Park Rd, London W11 3BU",
+        "google_maps_url": "https://maps.google.com/?cid=2637332905867724154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 246,
+          "rating": 4.61
+        },
+        "Trustpilot": {
+          "count": 715,
+          "rating": 4.05
+        }
+      }
+    },
+    {
+      "office_id": 256353,
+      "va_ids": [
+        15559,
+        256353
+      ],
+      "branch": "Marsh & Parsons Pimlico & Westminster",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW1V 1QS",
+      "reputation_score": 75,
+      "rating": 4.1,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T22:31:22.670000",
+      "days_since_review": 34,
+      "total_reviews": 960,
+      "reviews_30d": 0,
+      "reviews_90d": 45,
+      "replies_90d": 41,
+      "reply_rate_90d": 91.11111111111111,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJVX7HJuAEdkgRRHd0e4UYUWU",
+        "rating": 4.4,
+        "user_rating_count": 122,
+        "formatted_address": "53 Warwick Wy, Pimlico, London SW1V 1QS",
+        "google_maps_url": "https://maps.google.com/?cid=7300643432525231940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 108,
+          "rating": 4.31
+        },
+        "Trustpilot": {
+          "count": 737,
+          "rating": 4.07
+        }
+      }
+    },
+    {
+      "office_id": 256354,
+      "va_ids": [
+        222746,
+        256354
+      ],
+      "branch": "Marsh & Parsons Queens Park",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "NW6 6NH",
+      "reputation_score": 72,
+      "rating": 4.2,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T18:31:29.047000",
+      "days_since_review": 33,
+      "total_reviews": 971,
+      "reviews_30d": 0,
+      "reviews_90d": 40,
+      "replies_90d": 23,
+      "reply_rate_90d": 57.49999999999999,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 57% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJQ-xPUxMQdkgRLLZwtTPrJ50",
+        "rating": 4.8,
+        "user_rating_count": 314,
+        "formatted_address": "56 Salusbury Rd, London NW6 6NN",
+        "google_maps_url": "https://maps.google.com/?cid=11324278395366323756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 214,
+          "rating": 4.77
+        },
+        "Trustpilot": {
+          "count": 755,
+          "rating": 4.04
+        }
+      }
+    },
+    {
+      "office_id": 256355,
+      "va_ids": [
+        223086,
+        256355
+      ],
+      "branch": "Marsh & Parsons Tooting",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW17 7TS",
+      "reputation_score": 72,
+      "rating": 4.24,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-10T22:31:35.727000",
+      "days_since_review": 39,
+      "total_reviews": 981,
+      "reviews_30d": 0,
+      "reviews_90d": 33,
+      "replies_90d": 23,
+      "reply_rate_90d": 69.6969696969697,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 39d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 70% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJIRCgi94FdkgRtEC2dU-WqqI",
+        "rating": 4.9,
+        "user_rating_count": 317,
+        "formatted_address": "29-31 Upper Tooting Rd, Tooting Bec, London SW17 7TS",
+        "google_maps_url": "https://maps.google.com/?cid=11721346248206598324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 207,
+          "rating": 4.81
+        },
+        "Trustpilot": {
+          "count": 755,
+          "rating": 4.08
+        }
+      }
+    },
+    {
+      "office_id": 256356,
+      "va_ids": [
+        256356
+      ],
+      "branch": "Marsh & Parsons Willesden Green",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "NW2 5HY",
+      "reputation_score": 72,
+      "rating": 4.19,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-16T14:31:43.567000",
+      "days_since_review": 33,
+      "total_reviews": 901,
+      "reviews_30d": 0,
+      "reviews_90d": 32,
+      "replies_90d": 2,
+      "reply_rate_90d": 6.25,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 33d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 6% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJEW8n-osRdkgRFFFpSzKFw0I",
+        "rating": 4.9,
+        "user_rating_count": 296,
+        "formatted_address": "291-295 Willesden Ln, London NW2 5HY",
+        "google_maps_url": "https://maps.google.com/?cid=4810835278021873940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 176,
+          "rating": 4.79
+        },
+        "Trustpilot": {
+          "count": 725,
+          "rating": 4.05
+        }
+      }
+    },
+    {
+      "office_id": 251889,
+      "va_ids": [
+        15722,
+        251889,
+        256342
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW5 0DE",
+      "reputation_score": 72,
+      "rating": 4.11,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-14T13:47:55.770000",
+      "days_since_review": 35,
+      "total_reviews": 1624,
+      "reviews_30d": 0,
+      "reviews_90d": 44,
+      "replies_90d": 30,
+      "reply_rate_90d": 68.18181818181817,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 35d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 68% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJK1e9OIoPdkgRZhh9I6GYDbo",
+        "rating": 4.6,
+        "user_rating_count": 120,
+        "formatted_address": "246 Old Brompton Rd, London SW5 0DE",
+        "google_maps_url": "https://maps.google.com/?cid=13406539483604392038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 721,
+          "rating": 4.06
+        },
+        "Google": {
+          "count": 93,
+          "rating": 4.47
+        }
+      }
+    },
+    {
+      "office_id": 251884,
+      "va_ids": [
+        15782,
+        251884
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW7 3HD",
+      "reputation_score": 72,
+      "rating": 4.23,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2025-12-23T19:50:25",
+      "days_since_review": 147,
+      "total_reviews": 949,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 147d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Trustpilot": {
+          "count": 731,
+          "rating": 4.06
+        },
+        "Google": {
+          "count": 210,
+          "rating": 4.82
+        }
+      }
+    },
+    {
+      "office_id": 223221,
+      "va_ids": [
+        223221
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "NW5 2HL",
+      "reputation_score": 81,
+      "rating": 4.67,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-06T21:06:13.147000",
+      "days_since_review": 43,
+      "total_reviews": 272,
+      "reviews_30d": 0,
+      "reviews_90d": 19,
+      "replies_90d": 18,
+      "reply_rate_90d": 94.73684210526315,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 43d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 245,
+          "rating": 4.71
+        },
+        "View Agents": {
+          "count": 2,
+          "rating": 5.0
+        },
+        "Facebook": {
+          "count": 25,
+          "rating": 4.16
+        }
+      }
+    },
+    {
+      "office_id": 251885,
+      "va_ids": [
+        251885,
+        256336
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW9 8LF",
+      "reputation_score": 72,
+      "rating": 4.28,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-09T22:28:57.917000",
+      "days_since_review": 40,
+      "total_reviews": 1943,
+      "reviews_30d": 0,
+      "reviews_90d": 44,
+      "replies_90d": 34,
+      "reply_rate_90d": 77.27272727272727,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 40d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 77% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJtVTtl2gEdkgRmkmqrmThHPQ",
+        "rating": 4.9,
+        "user_rating_count": 283,
+        "formatted_address": "400-402 Coldharbour Ln, London SW9 8LF",
+        "google_maps_url": "https://maps.google.com/?cid=17590182067145689498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 722,
+          "rating": 4.08
+        },
+        "Google": {
+          "count": 247,
+          "rating": 4.87
+        }
+      }
+    },
+    {
+      "office_id": 251886,
+      "va_ids": [
+        251886,
+        256346
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SE11 4QE",
+      "reputation_score": 72,
+      "rating": 4.25,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-12T22:29:50.160000",
+      "days_since_review": 37,
+      "total_reviews": 1882,
+      "reviews_30d": 0,
+      "reviews_90d": 42,
+      "replies_90d": 30,
+      "reply_rate_90d": 71.42857142857143,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 37d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 71% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJj8npWu4FdkgRxvCRAACnM8w",
+        "rating": 4.9,
+        "user_rating_count": 238,
+        "formatted_address": "295 Kennington Rd, London SE11 4QE",
+        "google_maps_url": "https://maps.google.com/?cid=14714288026000945350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 200,
+          "rating": 4.9
+        },
+        "Trustpilot": {
+          "count": 731,
+          "rating": 4.07
+        }
+      }
+    },
+    {
+      "office_id": 251887,
+      "va_ids": [
+        251887
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW2 4UG",
+      "reputation_score": 72,
+      "rating": 4.2,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T13:47:40.240000",
+      "days_since_review": 34,
+      "total_reviews": 903,
+      "reviews_30d": 0,
+      "reviews_90d": 9,
+      "replies_90d": 7,
+      "reply_rate_90d": 77.77777777777779,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 78% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 190,
+          "rating": 4.77
+        },
+        "Trustpilot": {
+          "count": 713,
+          "rating": 4.05
+        }
+      }
+    },
+    {
+      "office_id": 251888,
+      "va_ids": [
+        251888,
+        256341
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SW4 0LB",
+      "reputation_score": 72,
+      "rating": 4.21,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T22:29:27.810000",
+      "days_since_review": 47,
+      "total_reviews": 1878,
+      "reviews_30d": 0,
+      "reviews_90d": 14,
+      "replies_90d": 14,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJl9yaO60FdkgR5t5Q05RD5H0",
+        "rating": 4.6,
+        "user_rating_count": 261,
+        "formatted_address": "28 Old Town, London SW4 0LB",
+        "google_maps_url": "https://maps.google.com/?cid=9071449855910534886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 248,
+          "rating": 4.65
+        },
+        "Trustpilot": {
+          "count": 702,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 251890,
+      "va_ids": [
+        251890,
+        256340
+      ],
+      "branch": "Marsh and Parsons",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "W4 1QP",
+      "reputation_score": 72,
+      "rating": 4.21,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T22:29:21.753000",
+      "days_since_review": 34,
+      "total_reviews": 1812,
+      "reviews_30d": 0,
+      "reviews_90d": 62,
+      "replies_90d": 46,
+      "reply_rate_90d": 74.19354838709677,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 74% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJs1FBgkAOdkgRjQkjM4uy3FQ",
+        "rating": 4.8,
+        "user_rating_count": 224,
+        "formatted_address": "34-38 Turnham Green Terrace, Chiswick, London W4 1QP",
+        "google_maps_url": "https://maps.google.com/?cid=6114958704990423437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 157,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 724,
+          "rating": 4.06
+        }
+      }
+    },
+    {
+      "office_id": 240133,
+      "va_ids": [
+        240133
+      ],
+      "branch": "Marshall Inc Property - Kilmarnock",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "KA1 2PY",
+      "reputation_score": 45,
+      "rating": 3.67,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2022-04-14T02:28:59.390000",
+      "days_since_review": 1497,
+      "total_reviews": 6,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 1497d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 45"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 6,
+          "rating": 3.67
+        }
+      }
+    },
+    {
+      "office_id": 240134,
+      "va_ids": [
+        240134,
+        251891
+      ],
+      "branch": "Marshall Vizard - Watford",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "WD17 1JU",
+      "reputation_score": 68,
+      "rating": 4.45,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2025-09-27T07:18:50.817000",
+      "days_since_review": 235,
+      "total_reviews": 379,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 235d"
+        ],
+        [
+          "AMBER",
+          "rep_score_med",
+          "Rep score 68"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Facebook": {
+          "count": 4,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 196,
+          "rating": 4.44
+        }
+      }
+    },
+    {
+      "office_id": 9557,
+      "va_ids": [
+        9557
+      ],
+      "branch": "Marshalls Estate Agents",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "MK9 2AE",
+      "reputation_score": 42,
+      "rating": 5.0,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2018-02-07T06:24:59",
+      "days_since_review": 3024,
+      "total_reviews": 4,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 3024d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 42"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "View Agents": {
+          "count": 4,
+          "rating": 5.0
+        }
+      }
+    },
+    {
+      "office_id": 251892,
+      "va_ids": [
+        251892
+      ],
+      "branch": "Marshalls Estate Agents",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "TR18 2SG",
+      "reputation_score": 34,
+      "rating": 3.9,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-02T13:48:14.570000",
+      "days_since_review": 47,
+      "total_reviews": 49,
+      "reviews_30d": 0,
+      "reviews_90d": 4,
+      "replies_90d": 0,
+      "reply_rate_90d": 0.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 47d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 0% (90d)"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 34"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 49,
+          "rating": 3.9
+        }
+      }
+    },
+    {
+      "office_id": 251893,
+      "va_ids": [
+        251893
+      ],
+      "branch": "Marshalls Estate Agents",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "TR19 6SD",
+      "reputation_score": 44,
+      "rating": 4.5,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2023-03-26T19:02:35.920000",
+      "days_since_review": 1150,
+      "total_reviews": 12,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 1150d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 44"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 12,
+          "rating": 4.5
+        }
+      }
+    },
+    {
+      "office_id": 14091,
+      "va_ids": [
+        14091
+      ],
+      "branch": "Marshalls Properties",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SG8 9LD",
+      "reputation_score": 80,
+      "rating": 4.26,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2023-03-31T18:29:45.583000",
+      "days_since_review": 1145,
+      "total_reviews": 92,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 1145d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 87,
+          "rating": 4.22
+        },
+        "Facebook": {
+          "count": 5,
+          "rating": 5.0
+        }
+      }
+    },
+    {
+      "office_id": 251894,
+      "va_ids": [
+        251894
+      ],
+      "branch": "Marshalls Property Services",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "SL4 3BP",
+      "reputation_score": 71,
+      "rating": 4.38,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-16T13:48:32.297000",
+      "days_since_review": 64,
+      "total_reviews": 153,
+      "reviews_30d": 0,
+      "reviews_90d": 3,
+      "replies_90d": 2,
+      "reply_rate_90d": 66.66666666666666,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 64d"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 67% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 145,
+          "rating": 4.54
+        },
+        "Trustpilot": {
+          "count": 8,
+          "rating": 1.5
+        }
+      }
+    },
+    {
+      "office_id": 240135,
+      "va_ids": [
+        240135
+      ],
+      "branch": "Marshwood Lettings - Beaminster",
+      "sub_brand": "Marsh & Parsons",
+      "postcode": "DT8 3AE",
+      "reputation_score": 39,
+      "rating": 5.0,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2025-06-15T06:25:41.423000",
+      "days_since_review": 339,
+      "total_reviews": 5,
+      "reviews_30d": 0,
+      "reviews_90d": 0,
+      "replies_90d": 0,
+      "reply_rate_90d": null,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 339d"
+        ],
+        [
+          "RED",
+          "rep_score_low",
+          "Rep score 39"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 5,
+          "rating": 5.0
+        }
       }
     }
   ],
   "google_summary": {
-    "matched_offices": 82,
-    "total_offices": 83,
-    "match_rate_pct": 98.8,
-    "total_reviews": 63200,
-    "avg_rating": 4.86,
-    "avg_reviews_per_matched_office": 771.0,
+    "matched_offices": 106,
+    "total_offices": 122,
+    "match_rate_pct": 86.9,
+    "total_reviews": 69541,
+    "avg_rating": 4.84,
+    "avg_reviews_per_matched_office": 656.0,
     "multi_va_attribution_warnings": 20,
-    "source": "Google Places API \u2014 harvested 2026-05-20"
+    "source": "Google Places API \u2014 harvested 2026-05-20 (incl. recovery pass)"
+  },
+  "platforms_summary": {
+    "matched_offices": 122,
+    "total_offices": 122,
+    "platforms": {
+      "Google": {
+        "total_reviews": 32143,
+        "avg_rating": 4.81
+      },
+      "Trustpilot": {
+        "total_reviews": 139184,
+        "avg_rating": 4.22
+      },
+      "Facebook": {
+        "total_reviews": 136,
+        "avg_rating": 4.04
+      },
+      "Yell": {
+        "total_reviews": 16,
+        "avg_rating": 2.81
+      },
+      "View Agents": {
+        "total_reviews": 48,
+        "avg_rating": 4.69
+      }
+    },
+    "grand_total_reviews": 171527,
+    "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
   }
 }

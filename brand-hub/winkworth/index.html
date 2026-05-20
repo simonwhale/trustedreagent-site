@@ -1536,8 +1536,10 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       <span class="va-brand-tag">Hub</span>
     </a>
     <nav class="va-nav" aria-label="Hub sections">
-      <a href="#ops" class="va-nav-link is-active">Snapshot</a>
-      <a href="#ops" class="va-nav-link">Offices</a>
+      <a href="#performance" class="va-nav-link is-active">Performance</a>
+      <a href="#tiers" class="va-nav-link">Tiers</a>
+      <a href="#regional" class="va-nav-link">Regional</a>
+      <a href="#offices" class="va-nav-link">Offices</a>
       <a href="https://www.viewagents.com/login" class="va-nav-link va-nav-cta">Client Login</a>
     </nav>
   </div>
@@ -1568,7 +1570,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       </div>
     </div>
     <div class="hero-brand">EweMove</div>
-    <div class="hero-sub">UK office network · Reputation snapshot</div>
+    <div class="hero-sub">Your office network &middot; 2025/26 audit cycle &middot; Proof of concept</div>
     <div class="hero-stats">
       <div class="hero-stat">
         <div class="hero-stat-value">161</div>
@@ -1591,19 +1593,2583 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 ====================================================== -->
 <div class="main-content container">
 
-<!-- removed: 2. PERFORMANCE SUMMARY for prospect hub -->
+<!-- 2. PERFORMANCE SUMMARY -->
+<section id="performance">
+  <div class="section-title">Performance Summary</div>
+  <div class="perf-grid">
+    <div class="perf-card highlight">
+      <div class="perf-label">EweMove Winner Saturation</div>
+      <div class="perf-value gold">58%</div>
+      <div class="perf-desc">93 of 161 offices are Trusted Agent Winners — strongest network in the UK</div>
+    </div>
+    <div class="perf-card">
+      <div class="perf-label">Industry Average</div>
+      <div class="perf-value muted">~10%</div>
+      <div class="perf-desc">Typical single-brand saturation across all audited agents</div>
+    </div>
+    <div class="perf-card">
+      <div class="perf-label">Position vs Multi-Office Brands</div>
+      <div class="perf-value muted">#2</div>
+      <div class="perf-desc">Second highest saturation of any multi-office brand — 2nd of 24 audited networks</div>
+    </div>
+  </div>
+</section>
 
-<!-- removed: 3. TIER DISTRIBUTION for prospect hub -->
+<!-- 3. TIER DISTRIBUTION -->
+<section id="tiers">
+  <div class="section-title">Tier Distribution</div>
+  <div class="card">
+    <div class="segment-bar-track">
+      <div class="segment-bar-fill" style="width:57.8%;background:linear-gradient(90deg,#c9a35c,#dfc07a);" title="Winners"></div>
+      <div class="segment-bar-fill" style="width:29.2%;background:linear-gradient(90deg,#1e3a6e,#2d5299);" title="Contenders"></div>
+      <div class="segment-bar-fill" style="width:13.0%;background:#e4e6ef;" title="Foundation"></div>
+    </div>
+    <div class="tier-legend">
+      <div class="tier-item">
+        <div class="tier-swatch" style="background:var(--gold);"></div>
+        <div class="tier-info">
+          <div class="tier-name">Trusted Agent Winners</div>
+          <div class="tier-sub">Offices verified in the top tier of the rating model</div>
+        </div>
+        <div>
+          <div class="tier-count">93</div>
+          <span class="tier-pct">57.8%</span>
+        </div>
+      </div>
+      <div class="tier-item">
+        <div class="tier-swatch" style="background:var(--navy-light);"></div>
+        <div class="tier-info">
+          <div class="tier-name">Contenders</div>
+          <div class="tier-sub">Reputation Score &ge; 50 — above industry average</div>
+        </div>
+        <div>
+          <div class="tier-count">47</div>
+          <span class="tier-pct">29.2%</span>
+        </div>
+      </div>
+      <div class="tier-item">
+        <div class="tier-swatch" style="background:#c9ccd8;"></div>
+        <div class="tier-info">
+          <div class="tier-name">Foundation</div>
+          <div class="tier-sub">Reputation Score &lt; 50 — review volume or quality gap</div>
+        </div>
+        <div>
+          <div class="tier-count">21</div>
+          <span class="tier-pct">13.0%</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<!-- removed: 4. OFFICE LEADERBOARD for prospect hub -->
+<!-- ====================================================== -->
+<!--  V2 — INTERACTIVE MAP                                  -->
+<!-- ====================================================== -->
+<section id="v2-map">
+  <div class="section-title">Network Map &mdash; 161 EweMove Offices</div>
+  <div class="map-wrap">
+    <div class="map-controls">
+      <div>
+        <h3>Visualisation</h3>
+        <div class="map-layer-list" id="layer-list">
+          <button class="layer-btn active" data-layer="locations"><span class="dot" style="background:var(--gold)"></span>Office locations</button>
+          <button class="layer-btn" data-layer="reply"><span class="dot" style="background:#22c55e"></span>Reply rate (red → green)</button>
+          <button class="layer-btn" data-layer="volume"><span class="dot" style="background:#dfc07a"></span>Review volume (circle size)</button>
+          <button class="layer-btn" data-layer="stars"><span class="dot" style="background:#dc2626"></span>Star rating (red → gold)</button>
+        </div>
+      </div>
+      <div>
+        <h3>Tier Legend</h3>
+        <div class="map-tier-legend">
+          <div class="row"><div class="swatch" style="background:#C9A96E"></div>Platinum</div>
+          <div class="row"><div class="swatch" style="background:#8c6f2f"></div>Gold</div>
+          <div class="row"><div class="swatch" style="background:#C9A35C"></div>EweMove office</div>
+        </div>
+      </div>
+      <div style="margin-top:auto;font-size:11px;color:rgba(255,255,255,0.45);line-height:1.5;">
+        160 of 161 offices geocoded.<br>Tiles: © OpenStreetMap.
+      </div>
+    </div>
+    <div id="brand-map"></div>
+  </div>
+</section>
 
-<!-- removed: 5. REGIONAL BREAKDOWN for prospect hub -->
+<!-- ====================================================== -->
+<!--  V2 — MULTI-PLATFORM BREAKDOWN                          -->
+<!-- ====================================================== -->
+<section id="v2-platforms">
+  <div class="section-title">Multi-Platform Footprint</div>
+  <div class="card" style="padding:0;overflow:hidden;">
+    <table class="platform-table" id="platform-table">
+      <thead>
+        <tr>
+          <th>Platform</th>
+          <th class="num">Offices on it</th>
+          <th class="num">Total Reviews</th>
+          <th class="num">Avg Score</th>
+          <th>Reply Rate</th>
+        </tr>
+      </thead>
+      <tbody><!-- populated by JS --></tbody>
+    </table>
+  </div>
+  <div class="callout-google">
+    <div class="ico">⚡</div>
+    <div class="txt">
+      EweMove relies heavily on <strong>Google</strong> &mdash; <strong>132 of 161 offices</strong> active, with a <strong>91.5% reply rate</strong>
+      vs the UK estate-agent industry average of just <strong>39.8%</strong>. That single platform discipline is the
+      engine behind 57.8% network winner saturation.
+    </div>
+  </div>
+</section>
+
+<!-- ====================================================== -->
+<!--  V2 — STAR-LIFT CALCULATOR                              -->
+<!-- ====================================================== -->
+<section id="v2-calc">
+  <div class="section-title">Star-Lift Calculator &mdash; Hit the Next Milestone</div>
+  <div class="card">
+    <div class="calc-grid">
+      <div class="calc-pick">
+        <label for="calc-office">Pick an office</label>
+        <select id="calc-office"><!-- populated by JS --></select>
+        <div class="calc-current">
+          <div class="stat">
+            <div class="stat-label">Current Score</div>
+            <div class="stat-value" id="calc-current-score">—</div>
+          </div>
+          <div class="stat">
+            <div class="stat-label">Review Count</div>
+            <div class="stat-value" id="calc-current-count">—</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="calc-milestones" id="calc-milestones"><!-- populated by JS --></div>
+        <div class="calc-example" id="calc-example">
+          <b>Easiest in the network:</b> <b>EweMove Aberdeen</b> needs just <b>2</b> new 5-star reviews to push 4.79 → 4.80.
+          One satisfied vendor a fortnight clears it.
+        </div>
+      </div>
+    </div>
+    <div style="margin-top:16px;font-size:11px;color:var(--text-muted);font-family:'JetBrains Mono',monospace;letter-spacing:0.04em;">
+      math: n = current_count &times; (target &minus; current_score) / (5 &minus; target), rounded up
+    </div>
+  </div>
+</section>
+
+<!-- 4. OFFICE LEADERBOARD -->
+<section id="offices">
+  <div class="section-title">Office Leaderboard &mdash; All 161 Offices</div>
+  <div class="card" style="padding:0;overflow:hidden;">
+    <div class="table-scroll">
+      <table class="leaderboard-table" id="leaderboardTable">
+        <thead>
+          <tr>
+            <th style="text-align:center;" data-sort="rank" data-type="num">Rank</th>
+            <th data-sort="name" data-type="str">Office Name</th>
+            <th data-sort="postcode" data-type="str">Postcode</th>
+            <th data-sort="score" data-type="num">Score</th>
+            <th style="text-align:right;" data-sort="reviews" data-type="num">Reviews</th>
+            <th style="text-align:right;" data-sort="reply" data-type="num">Reply Rate</th>
+            <th style="text-align:center;" data-sort="trend" data-type="trend">Trend</th>
+          </tr>
+        </thead>
+        <tbody>
+<tr class="">
+      <td class="rank-cell">1</td>
+      <td class="name-cell">EweMove Leighton Buzzard</td>
+      <td>LU7 1DA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:98%"></div>
+          <span class="score-num">98</span>
+        </div>
+      </td>
+      <td class="num-cell">439</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">2</td>
+      <td class="name-cell">Winchester</td>
+      <td>SO23 0LD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:98%"></div>
+          <span class="score-num">98</span>
+        </div>
+      </td>
+      <td class="num-cell">185</td>
+      <td class="num-cell">83%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">3</td>
+      <td class="name-cell">Mildenhall</td>
+      <td>IP28 7EF</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:97%"></div>
+          <span class="score-num">97</span>
+        </div>
+      </td>
+      <td class="num-cell">88</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">4</td>
+      <td class="name-cell">EweMove Hinckley</td>
+      <td>BD19 4TE</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:97%"></div>
+          <span class="score-num">97</span>
+        </div>
+      </td>
+      <td class="num-cell">93</td>
+      <td class="num-cell">89%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">5</td>
+      <td class="name-cell">EweMove Harrogate &amp; Knaresborough</td>
+      <td>HG2</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:95%"></div>
+          <span class="score-num">95</span>
+        </div>
+      </td>
+      <td class="num-cell">110</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">6</td>
+      <td class="name-cell">EweMove Salisbury</td>
+      <td>SP1 3TS</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:95%"></div>
+          <span class="score-num">95</span>
+        </div>
+      </td>
+      <td class="num-cell">133</td>
+      <td class="num-cell">89%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">7</td>
+      <td class="name-cell">EweMove Sheffield South West</td>
+      <td>S2 4HL</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:93%"></div>
+          <span class="score-num">93</span>
+        </div>
+      </td>
+      <td class="num-cell">166</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">8</td>
+      <td class="name-cell">EweMove North Devon</td>
+      <td>EX32 8LS</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:93%"></div>
+          <span class="score-num">93</span>
+        </div>
+      </td>
+      <td class="num-cell">304</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">9</td>
+      <td class="name-cell">EweMove Cambridge West</td>
+      <td>CB23</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:93%"></div>
+          <span class="score-num">93</span>
+        </div>
+      </td>
+      <td class="num-cell">146</td>
+      <td class="num-cell">97%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">10</td>
+      <td class="name-cell">EweMove Yeovil</td>
+      <td>BA20 1HE</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:93%"></div>
+          <span class="score-num">93</span>
+        </div>
+      </td>
+      <td class="num-cell">174</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">11</td>
+      <td class="name-cell">EweMove Dorking &amp; Leatherhead</td>
+      <td>RH5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:93%"></div>
+          <span class="score-num">93</span>
+        </div>
+      </td>
+      <td class="num-cell">81</td>
+      <td class="num-cell">78%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">12</td>
+      <td class="name-cell">Newmarket &amp; Soham</td>
+      <td>CB8</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:92%"></div>
+          <span class="score-num">92</span>
+        </div>
+      </td>
+      <td class="num-cell">64</td>
+      <td class="num-cell">97%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">13</td>
+      <td class="name-cell">EweMove Stafford</td>
+      <td>ST17 0UN</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:92%"></div>
+          <span class="score-num">92</span>
+        </div>
+      </td>
+      <td class="num-cell">189</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">14</td>
+      <td class="name-cell">EweMove Goole &amp; Selby</td>
+      <td>YO8 8LZ</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:92%"></div>
+          <span class="score-num">92</span>
+        </div>
+      </td>
+      <td class="num-cell">102</td>
+      <td class="num-cell">90%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">15</td>
+      <td class="name-cell">EweMove Beverley</td>
+      <td>HU17 0PR</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:92%"></div>
+          <span class="score-num">92</span>
+        </div>
+      </td>
+      <td class="num-cell">93</td>
+      <td class="num-cell">77%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">16</td>
+      <td class="name-cell">EweMove Cleckheaton</td>
+      <td>HX3 7WG</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:92%"></div>
+          <span class="score-num">92</span>
+        </div>
+      </td>
+      <td class="num-cell">71</td>
+      <td class="num-cell">90%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">17</td>
+      <td class="name-cell">EweMove Wymondham</td>
+      <td>NR18 9RS</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:91%"></div>
+          <span class="score-num">91</span>
+        </div>
+      </td>
+      <td class="num-cell">80</td>
+      <td class="num-cell">89%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">18</td>
+      <td class="name-cell">EweMove Bexleyheath</td>
+      <td>DA7 5HD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:90%"></div>
+          <span class="score-num">90</span>
+        </div>
+      </td>
+      <td class="num-cell">297</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">19</td>
+      <td class="name-cell">EweMove Consett &amp; Lanchester</td>
+      <td>DH8</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:89%"></div>
+          <span class="score-num">89</span>
+        </div>
+      </td>
+      <td class="num-cell">34</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">20</td>
+      <td class="name-cell">EweMove Ebbsfleet Valley</td>
+      <td>DA10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:89%"></div>
+          <span class="score-num">89</span>
+        </div>
+      </td>
+      <td class="num-cell">42</td>
+      <td class="num-cell">98%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">21</td>
+      <td class="name-cell">EweMove Ashby de la Zouch</td>
+      <td>LE65</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:89%"></div>
+          <span class="score-num">89</span>
+        </div>
+      </td>
+      <td class="num-cell">42</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">22</td>
+      <td class="name-cell">EweMove Otley &amp; Guiseley</td>
+      <td>LS21</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">118</td>
+      <td class="num-cell">98%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">23</td>
+      <td class="name-cell">EweMove Estate &amp; Lettings Agents in Tadley</td>
+      <td>RG7 8RA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">144</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">24</td>
+      <td class="name-cell">EweMove Wigston &amp; Blaby</td>
+      <td>LE18</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">71</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">25</td>
+      <td class="name-cell">EweMove Stratford &amp; Forest Gate</td>
+      <td>E15 1XH</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">157</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">26</td>
+      <td class="name-cell">EweMove Barton-Under-Needwood</td>
+      <td>DE13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">138</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">27</td>
+      <td class="name-cell">EweMove Spalding</td>
+      <td>PE6 8FD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">108</td>
+      <td class="num-cell">89%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">28</td>
+      <td class="name-cell">EweMove Benfleet &amp; Hadleigh</td>
+      <td>SS7</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:88%"></div>
+          <span class="score-num">88</span>
+        </div>
+      </td>
+      <td class="num-cell">39</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">29</td>
+      <td class="name-cell">EweMove Basingstoke</td>
+      <td>RG24 8AG</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:86%"></div>
+          <span class="score-num">86</span>
+        </div>
+      </td>
+      <td class="num-cell">666</td>
+      <td class="num-cell">97%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">30</td>
+      <td class="name-cell">EweMove Wapping &amp; Bow</td>
+      <td>E1W 3BA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:86%"></div>
+          <span class="score-num">86</span>
+        </div>
+      </td>
+      <td class="num-cell">56</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">31</td>
+      <td class="name-cell">EweMove Abbey Wood &amp; Belvedere</td>
+      <td>DA7</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">295</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">32</td>
+      <td class="name-cell">Sale</td>
+      <td>M33 3HQ</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">37</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">33</td>
+      <td class="name-cell">EweMove Welling</td>
+      <td>DA7 5HD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">306</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">34</td>
+      <td class="name-cell">EweMove Dartford &amp; Greenhithe</td>
+      <td>DA7 5HD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">306</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">35</td>
+      <td class="name-cell">EweMove York</td>
+      <td>YO26 6RW</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">292</td>
+      <td class="num-cell">90%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">36</td>
+      <td class="name-cell">Kenilworth</td>
+      <td>CV8 1HH</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">26</td>
+      <td class="num-cell">81%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">37</td>
+      <td class="name-cell">EweMove Bramley &amp; Maltby</td>
+      <td>s66</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">30</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">38</td>
+      <td class="name-cell">EweMove Leamington Spa North &amp; Knowle</td>
+      <td>CV32</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">39</td>
+      <td class="name-cell">EweMove Stamford</td>
+      <td>PE6 8FD</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">42</td>
+      <td class="num-cell">76%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">40</td>
+      <td class="name-cell">EweMove Orpington &amp; Chelsfield</td>
+      <td>BR6 0SE</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">22</td>
+      <td class="num-cell">77%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">41</td>
+      <td class="name-cell">EweMove Peterborough West</td>
+      <td>PE3 6JH</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">20</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">42</td>
+      <td class="name-cell">EweMove Swindon South</td>
+      <td>SN5 7EX</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:85%"></div>
+          <span class="score-num">85</span>
+        </div>
+      </td>
+      <td class="num-cell">28</td>
+      <td class="num-cell">79%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">43</td>
+      <td class="name-cell">EweMove St Helens</td>
+      <td>WA10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">167</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">44</td>
+      <td class="name-cell">EweMove Folkestone &amp; Hawkinge</td>
+      <td>CT18</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">147</td>
+      <td class="num-cell">98%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">45</td>
+      <td class="name-cell">EweMove Hebden Bridge</td>
+      <td>HX7</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">191</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">46</td>
+      <td class="name-cell">EweMove Taunton</td>
+      <td>TA1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">183</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">47</td>
+      <td class="name-cell">EweMove Cheadle Hulme &amp; Wilmslow</td>
+      <td>SK8</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">40</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">48</td>
+      <td class="name-cell">EweMove Strood &amp; Rochester</td>
+      <td>ME4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">155</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">49</td>
+      <td class="name-cell">EweMove Southend</td>
+      <td>SS1 2SG</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">45</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">50</td>
+      <td class="name-cell">EweMove Leicester North</td>
+      <td>LE5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">200</td>
+      <td class="num-cell">99%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">51</td>
+      <td class="name-cell">EweMove Morley &amp; Rothwell</td>
+      <td>BD4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">113</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">52</td>
+      <td class="name-cell">EweMove Hyde &amp; Dukinfield</td>
+      <td>SK14</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">157</td>
+      <td class="num-cell">91%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">53</td>
+      <td class="name-cell">EweMove North Finchley</td>
+      <td>N12</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:84%"></div>
+          <span class="score-num">84</span>
+        </div>
+      </td>
+      <td class="num-cell">172</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">54</td>
+      <td class="name-cell">EweMove Welwyn Garden City</td>
+      <td>AL7</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:83%"></div>
+          <span class="score-num">83</span>
+        </div>
+      </td>
+      <td class="num-cell">145</td>
+      <td class="num-cell">65%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">55</td>
+      <td class="name-cell">EweMove Exmouth</td>
+      <td>EX8 1QJ</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">86</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">56</td>
+      <td class="name-cell">EweMove Whitchurch &amp; Nantwich</td>
+      <td>CW5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">39</td>
+      <td class="num-cell">72%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">57</td>
+      <td class="name-cell">EweMove Bridgwater</td>
+      <td>TA2</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">57</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">58</td>
+      <td class="name-cell">EweMove Brighouse</td>
+      <td>HD6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">86</td>
+      <td class="num-cell">83%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">59</td>
+      <td class="name-cell">EweMove North Leeds</td>
+      <td>LS17</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">96</td>
+      <td class="num-cell">97%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">60</td>
+      <td class="name-cell">EweMove Cheam &amp; Sutton</td>
+      <td>SM1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">64</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">61</td>
+      <td class="name-cell">EweMove Colne Valley, Lindley &amp; Barkisland</td>
+      <td>HD3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">57</td>
+      <td class="num-cell">88%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">62</td>
+      <td class="name-cell">EweMove Grantham &amp; Sleaford</td>
+      <td>NG33</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">107</td>
+      <td class="num-cell">89%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">63</td>
+      <td class="name-cell">EweMove Luton East</td>
+      <td>LU2</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">96</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">64</td>
+      <td class="name-cell">EweMove Middlesbrough &amp; Redcar</td>
+      <td>TS12</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:82%"></div>
+          <span class="score-num">82</span>
+        </div>
+      </td>
+      <td class="num-cell">60</td>
+      <td class="num-cell">53%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">65</td>
+      <td class="name-cell">EweMove Pocklington</td>
+      <td>YO26 6RW</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:81%"></div>
+          <span class="score-num">81</span>
+        </div>
+      </td>
+      <td class="num-cell">279</td>
+      <td class="num-cell">92%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">66</td>
+      <td class="name-cell">EweMove Hook</td>
+      <td>RG24 8AG</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:81%"></div>
+          <span class="score-num">81</span>
+        </div>
+      </td>
+      <td class="num-cell">662</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">67</td>
+      <td class="name-cell">EweMove Walderslade &amp; Chatham</td>
+      <td>ME4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:81%"></div>
+          <span class="score-num">81</span>
+        </div>
+      </td>
+      <td class="num-cell">58</td>
+      <td class="num-cell">86%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">68</td>
+      <td class="name-cell">EweMove Brighton &amp; Hove</td>
+      <td>FY8 5FT</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:81%"></div>
+          <span class="score-num">81</span>
+        </div>
+      </td>
+      <td class="num-cell">57</td>
+      <td class="num-cell">84%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">69</td>
+      <td class="name-cell">EweMove Cheltenham</td>
+      <td>GL50 1HT</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:81%"></div>
+          <span class="score-num">81</span>
+        </div>
+      </td>
+      <td class="num-cell">22</td>
+      <td class="num-cell">32%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">70</td>
+      <td class="name-cell">EweMove Warwick &amp; Leamington Spa</td>
+      <td>CV34</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:80%"></div>
+          <span class="score-num">80</span>
+        </div>
+      </td>
+      <td class="num-cell">42</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">71</td>
+      <td class="name-cell">EweMove Dronfield &amp; Barlborough</td>
+      <td>S18</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:80%"></div>
+          <span class="score-num">80</span>
+        </div>
+      </td>
+      <td class="num-cell">50</td>
+      <td class="num-cell">96%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">72</td>
+      <td class="name-cell">EweMove Aberdeen</td>
+      <td>AB15</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:80%"></div>
+          <span class="score-num">80</span>
+        </div>
+      </td>
+      <td class="num-cell">39</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">73</td>
+      <td class="name-cell">EweMove Beeston</td>
+      <td>NG10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:80%"></div>
+          <span class="score-num">80</span>
+        </div>
+      </td>
+      <td class="num-cell">170</td>
+      <td class="num-cell">18%</td>
+      <td class="trend-cell"><span class="trend-up">↑</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">74</td>
+      <td class="name-cell">EweMove Cirencester</td>
+      <td>GL7 </td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">157</td>
+      <td class="num-cell">80%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">75</td>
+      <td class="name-cell">EweMove Swindon</td>
+      <td>GL7 5UA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">194</td>
+      <td class="num-cell">98%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">76</td>
+      <td class="name-cell">Norwich North East</td>
+      <td>NR6 6TU</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">21</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">77</td>
+      <td class="name-cell">EweMove Worcester</td>
+      <td>WR1 1EE</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">30</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">78</td>
+      <td class="name-cell">EweMove Anston</td>
+      <td>S25 2QH</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">45</td>
+      <td class="num-cell">84%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">79</td>
+      <td class="name-cell">EweMove Scunthorpe South</td>
+      <td>DN16</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:79%"></div>
+          <span class="score-num">79</span>
+        </div>
+      </td>
+      <td class="num-cell">38</td>
+      <td class="num-cell">79%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">80</td>
+      <td class="name-cell">EweMove Cannock</td>
+      <td>WS12</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">32</td>
+      <td class="num-cell">88%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">81</td>
+      <td class="name-cell">EweMove Tetbury &amp; Malmesbury</td>
+      <td>GL7 5UA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">56</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">82</td>
+      <td class="name-cell">EweMove Northampton North</td>
+      <td>NN6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">81</td>
+      <td class="num-cell">69%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">83</td>
+      <td class="name-cell">EweMove Guildford</td>
+      <td>GU4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">34</td>
+      <td class="num-cell">65%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">84</td>
+      <td class="name-cell">EweMove Sefton Park</td>
+      <td>L13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">61</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">85</td>
+      <td class="name-cell">EweMove Childwall &amp; Woolton</td>
+      <td>L16</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">61</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">86</td>
+      <td class="name-cell">EweMove Long Eaton</td>
+      <td>NG10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:78%"></div>
+          <span class="score-num">78</span>
+        </div>
+      </td>
+      <td class="num-cell">205</td>
+      <td class="num-cell">17%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">87</td>
+      <td class="name-cell">EweMove Horsforth Adel &amp; Chapel Allerton</td>
+      <td>LS17</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:77%"></div>
+          <span class="score-num">77</span>
+        </div>
+      </td>
+      <td class="num-cell">69</td>
+      <td class="num-cell">94%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">88</td>
+      <td class="name-cell">EweMove Alton &amp; Bordon</td>
+      <td>GU35</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:77%"></div>
+          <span class="score-num">77</span>
+        </div>
+      </td>
+      <td class="num-cell">32</td>
+      <td class="num-cell">62%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">89</td>
+      <td class="name-cell">EweMove Halifax</td>
+      <td>HX1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:77%"></div>
+          <span class="score-num">77</span>
+        </div>
+      </td>
+      <td class="num-cell">44</td>
+      <td class="num-cell">59%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">90</td>
+      <td class="name-cell">EweMove Sidcup</td>
+      <td>DA15</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:76%"></div>
+          <span class="score-num">76</span>
+        </div>
+      </td>
+      <td class="num-cell">284</td>
+      <td class="num-cell">98%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">91</td>
+      <td class="name-cell">EweMove Oakham &amp; Market Harborough<span class="dq-badge">No Replies</span></td>
+      <td>LE16 9BP</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:76%"></div>
+          <span class="score-num">76</span>
+        </div>
+      </td>
+      <td class="num-cell">46</td>
+      <td class="num-cell">2%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">92</td>
+      <td class="name-cell">EweMove Todmorden &amp; Littleborough</td>
+      <td>OL14</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">22</td>
+      <td class="num-cell">82%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">93</td>
+      <td class="name-cell">EweMove Washington &amp; Houghton le Spring</td>
+      <td>NE38</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">14</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">94</td>
+      <td class="name-cell">EweMove Chester East</td>
+      <td>FY7 6EB</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">24</td>
+      <td class="num-cell">62%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">95</td>
+      <td class="name-cell">EweMove South Tyneside</td>
+      <td>SR6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">58</td>
+      <td class="num-cell">22%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">96</td>
+      <td class="name-cell">EweMove Lutterworth</td>
+      <td>LE17</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">27</td>
+      <td class="num-cell">85%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">97</td>
+      <td class="name-cell">EweMove Greenford</td>
+      <td>UB6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">25</td>
+      <td class="num-cell">60%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">98</td>
+      <td class="name-cell">EweMove Winchester and Salisbury</td>
+      <td>N1 6DX</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:75%"></div>
+          <span class="score-num">75</span>
+        </div>
+      </td>
+      <td class="num-cell">102</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">99</td>
+      <td class="name-cell">EweMove Hornchurch North<span class="dq-badge">Few Reviews</span></td>
+      <td>RM11</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:74%"></div>
+          <span class="score-num">74</span>
+        </div>
+      </td>
+      <td class="num-cell">5</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">100</td>
+      <td class="name-cell">EweMove Doncaster West</td>
+      <td>DN6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:73%"></div>
+          <span class="score-num">73</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">53%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">101</td>
+      <td class="name-cell">EweMove Wakefield</td>
+      <td>HD3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">44</td>
+      <td class="num-cell">93%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">102</td>
+      <td class="name-cell">EweMove Pontefract</td>
+      <td>HD3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">34</td>
+      <td class="num-cell">97%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">103</td>
+      <td class="name-cell">EweMove Coggeshall &amp; Braintree South</td>
+      <td>CO6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">25</td>
+      <td class="num-cell">88%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">104</td>
+      <td class="name-cell">EweMove Formby, Crosby &amp; Hightown</td>
+      <td>L37</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">105</td>
+      <td class="name-cell">EweMove Telford West</td>
+      <td>TF1 1AF</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">11</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">106</td>
+      <td class="name-cell">North Huddersfield &amp; Mirfield</td>
+      <td>HD2 1LX</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">107</td>
+      <td class="name-cell">EweMove Solihull</td>
+      <td>SL1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">19</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">108</td>
+      <td class="name-cell">EweMove Blackheath &amp; Charlton</td>
+      <td>SE3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:71%"></div>
+          <span class="score-num">71</span>
+        </div>
+      </td>
+      <td class="num-cell">20</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">109</td>
+      <td class="name-cell">EweMove Chilterns</td>
+      <td>HP16</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:70%"></div>
+          <span class="score-num">70</span>
+        </div>
+      </td>
+      <td class="num-cell">10</td>
+      <td class="num-cell">60%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">110</td>
+      <td class="name-cell">EweMove Slough</td>
+      <td>SL1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">13</td>
+      <td class="num-cell">77%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">111</td>
+      <td class="name-cell">EweMove Pudsey &amp; Birstall<span class="dq-badge">Few Reviews</span></td>
+      <td>LS28</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">12</td>
+      <td class="num-cell">33%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">112</td>
+      <td class="name-cell">EweMove Castle Bromwich</td>
+      <td>B37</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">19</td>
+      <td class="num-cell">16%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">113</td>
+      <td class="name-cell">EweMove Rugby</td>
+      <td>CV22</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">53%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">114</td>
+      <td class="name-cell">Whitley Bay &amp; Tynemouth</td>
+      <td>NE26 3QX</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">20%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">115</td>
+      <td class="name-cell">EweMove High Wycombe</td>
+      <td>HP13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">47%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">116</td>
+      <td class="name-cell">EweMove Boston<span class="dq-badge">No Replies</span></td>
+      <td>PE21</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">25</td>
+      <td class="num-cell">12%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">117</td>
+      <td class="name-cell">EweMove Uttoxeter &amp; Cheadle</td>
+      <td>ST13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:69%"></div>
+          <span class="score-num">69</span>
+        </div>
+      </td>
+      <td class="num-cell">10</td>
+      <td class="num-cell">30%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">118</td>
+      <td class="name-cell">EweMove Stapleford &amp; Sandiacre</td>
+      <td>NG10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:67%"></div>
+          <span class="score-num">67</span>
+        </div>
+      </td>
+      <td class="num-cell">12</td>
+      <td class="num-cell">25%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">119</td>
+      <td class="name-cell">EweMove Chandlers Ford &amp; Eastleigh</td>
+      <td>SO53</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:66%"></div>
+          <span class="score-num">66</span>
+        </div>
+      </td>
+      <td class="num-cell">20</td>
+      <td class="num-cell">95%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">120</td>
+      <td class="name-cell">EweMove Nuthall &amp; Eastwood<span class="dq-badge">Few Reviews</span></td>
+      <td>NG16</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:65%"></div>
+          <span class="score-num">65</span>
+        </div>
+      </td>
+      <td class="num-cell">3</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">121</td>
+      <td class="name-cell">EweMove Willerby<span class="dq-badge">Few Reviews</span></td>
+      <td>HU15</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:65%"></div>
+          <span class="score-num">65</span>
+        </div>
+      </td>
+      <td class="num-cell">2</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">122</td>
+      <td class="name-cell">EweMove Chester West<span class="dq-badge">Few Reviews</span></td>
+      <td>CH1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:65%"></div>
+          <span class="score-num">65</span>
+        </div>
+      </td>
+      <td class="num-cell">3</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">123</td>
+      <td class="name-cell">EweMove Farnborough<span class="dq-badge">Few Reviews</span></td>
+      <td>RD22</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:64%"></div>
+          <span class="score-num">64</span>
+        </div>
+      </td>
+      <td class="num-cell">8</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">124</td>
+      <td class="name-cell">EweMove Huntingdon &amp; St Ives</td>
+      <td>PE29</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:64%"></div>
+          <span class="score-num">64</span>
+        </div>
+      </td>
+      <td class="num-cell">17</td>
+      <td class="num-cell">53%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">125</td>
+      <td class="name-cell">EweMove Astley &amp; Worsley<span class="dq-badge">Few Reviews</span></td>
+      <td>M29 7EH</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:62%"></div>
+          <span class="score-num">62</span>
+        </div>
+      </td>
+      <td class="num-cell">8</td>
+      <td class="num-cell">75%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">126</td>
+      <td class="name-cell">EweMove Tiverton &amp; South Molton<span class="dq-badge">No Replies</span></td>
+      <td>EX32</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:62%"></div>
+          <span class="score-num">62</span>
+        </div>
+      </td>
+      <td class="num-cell">18</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">127</td>
+      <td class="name-cell">EweMove West Bridgford &amp; Ruddington<span class="dq-badge">Few Reviews</span></td>
+      <td>NG11</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:60%"></div>
+          <span class="score-num">60</span>
+        </div>
+      </td>
+      <td class="num-cell">4</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">128</td>
+      <td class="name-cell">EweMove Doncaster North<span class="dq-badge">Few Reviews</span></td>
+      <td>DN6</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:58%"></div>
+          <span class="score-num">58</span>
+        </div>
+      </td>
+      <td class="num-cell">8</td>
+      <td class="num-cell">75%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">129</td>
+      <td class="name-cell">EweMove Bromley East &amp; Chislehurst</td>
+      <td>BR4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:58%"></div>
+          <span class="score-num">58</span>
+        </div>
+      </td>
+      <td class="num-cell">14</td>
+      <td class="num-cell">21%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">130</td>
+      <td class="name-cell">EweMove Putney<span class="dq-badge">Few Reviews</span></td>
+      <td>SW15</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:56%"></div>
+          <span class="score-num">56</span>
+        </div>
+      </td>
+      <td class="num-cell">7</td>
+      <td class="num-cell">29%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">131</td>
+      <td class="name-cell">EweMove Melton Mowbray</td>
+      <td>NG13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:53%"></div>
+          <span class="score-num">53</span>
+        </div>
+      </td>
+      <td class="num-cell">10</td>
+      <td class="num-cell">80%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">132</td>
+      <td class="name-cell">EweMove East Leeds<span class="dq-badge">Few Reviews</span></td>
+      <td>LS7</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:53%"></div>
+          <span class="score-num">53</span>
+        </div>
+      </td>
+      <td class="num-cell">8</td>
+      <td class="num-cell">75%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">133</td>
+      <td class="name-cell">EweMove Chesterfield West<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>S42</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:53%"></div>
+          <span class="score-num">53</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">134</td>
+      <td class="name-cell">EweMove Coulsdon<span class="dq-badge">No Replies</span></td>
+      <td>CR5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:52%"></div>
+          <span class="score-num">52</span>
+        </div>
+      </td>
+      <td class="num-cell">15</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">135</td>
+      <td class="name-cell">Romsey<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>SO51</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:52%"></div>
+          <span class="score-num">52</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">136</td>
+      <td class="name-cell">EweMove Llantrisant &amp; Pontyclun<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>CF72</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:52%"></div>
+          <span class="score-num">52</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">137</td>
+      <td class="name-cell">EweMove Shepton Mallet &amp; Sherborne<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>BA4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:52%"></div>
+          <span class="score-num">52</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">138</td>
+      <td class="name-cell">EweMove Lancaster<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>LA1</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:50%"></div>
+          <span class="score-num">50</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">139</td>
+      <td class="name-cell">EweMove New Malden &amp; Worcester Park<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>KT3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:50%"></div>
+          <span class="score-num">50</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">140</td>
+      <td class="name-cell">EweMove Porthcawl &amp; Bridgend West<span class="dq-badge">No Replies</span></td>
+      <td>CF33</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">22</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">141</td>
+      <td class="name-cell">EweMove Hayes &amp; West Wickham<span class="dq-badge">No Replies</span></td>
+      <td>BR2</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">20</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">142</td>
+      <td class="name-cell">EweMove Hexham &amp; Tyne Valley<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>NE46</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">143</td>
+      <td class="name-cell">EweMove Ribble Valley<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>BB12</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">144</td>
+      <td class="name-cell">EweMove Doncaster East<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>DN11</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">145</td>
+      <td class="name-cell">EweMove Pinner<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>HA5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">146</td>
+      <td class="name-cell">EweMove Wirral West<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>CH43</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">147</td>
+      <td class="name-cell">EweMove Wollaton<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>NG10</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">148</td>
+      <td class="name-cell">EweMove Corby<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>LE16</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">149</td>
+      <td class="name-cell">Skipton &amp; The Dales<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>BD23 3UA</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">150</td>
+      <td class="name-cell">EweMove Sutton Coldfield West<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>B73</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:48%"></div>
+          <span class="score-num">48</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">151</td>
+      <td class="name-cell">EweMove Rossendale &amp; Ramsbottom<span class="dq-badge">No Replies</span></td>
+      <td>BB4</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:46%"></div>
+          <span class="score-num">46</span>
+        </div>
+      </td>
+      <td class="num-cell">21</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">152</td>
+      <td class="name-cell">EweMove North Fylde<span class="dq-badge">Few Reviews</span></td>
+      <td>FY5</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:45%"></div>
+          <span class="score-num">45</span>
+        </div>
+      </td>
+      <td class="num-cell">1</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">153</td>
+      <td class="name-cell">EweMove Beckenham &amp; Shortlands<span class="dq-badge">No Replies</span></td>
+      <td>BR2</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:44%"></div>
+          <span class="score-num">44</span>
+        </div>
+      </td>
+      <td class="num-cell">20</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">154</td>
+      <td class="name-cell">EweMove Camberley<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span> <span class="dq-badge">High 1★</span></td>
+      <td>RG27</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:41%"></div>
+          <span class="score-num">41</span>
+        </div>
+      </td>
+      <td class="num-cell">2</td>
+      <td class="num-cell">100%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">155</td>
+      <td class="name-cell">EweMove Rodley &amp; Bramley<span class="dq-badge">No Replies</span> <span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span> <span class="dq-badge">High 1★</span></td>
+      <td>LS16 9AP</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:41%"></div>
+          <span class="score-num">41</span>
+        </div>
+      </td>
+      <td class="num-cell">5</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-flat">→</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">156</td>
+      <td class="name-cell">EweMove Haslemere &amp; Liphook<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>GU27</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">157</td>
+      <td class="name-cell">EweMove Bury &amp; Summerseat<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>BL8</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">158</td>
+      <td class="name-cell">EweMove Shrewsbury West<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>SY3</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">159</td>
+      <td class="name-cell">EweMove Witney &amp; Carterton<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>OX28</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">160</td>
+      <td class="name-cell">EweMove Denholme &amp; Thornton<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>BD13</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+<tr class="">
+      <td class="rank-cell">161</td>
+      <td class="name-cell">EweMove Garforth &amp; Kippax<span class="dq-badge">Low Score</span> <span class="dq-badge">Few Reviews</span></td>
+      <td>LS15</td>
+      <td class="score-cell">
+        <div class="score-bar-wrap">
+          <div class="score-bar" style="width:0%"></div>
+          <span class="score-num">0</span>
+        </div>
+      </td>
+      <td class="num-cell">0</td>
+      <td class="num-cell">0%</td>
+      <td class="trend-cell"><span class="trend-down">↓</span></td>
+    </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- 5. REGIONAL BREAKDOWN -->
+<section id="regional">
+  <div class="section-title">Regional Breakdown</div>
+  <div class="card" style="padding:0;overflow:hidden;">
+    <table class="regional-table">
+      <thead>
+        <tr>
+          <th>Region</th>
+          <th>Offices</th>
+          <th>Winners</th>
+          <th>Saturation</th>
+        </tr>
+      </thead>
+      <tbody>
+<tr>
+      <td>East Anglia</td>
+      <td class="num-cell">2</td>
+      <td class="num-cell">2</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:100%"></div>
+          <span class="sat-pct">100%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>Yorkshire</td>
+      <td class="num-cell">33</td>
+      <td class="num-cell">22</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:67%"></div>
+          <span class="sat-pct">67%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>South East</td>
+      <td class="num-cell">34</td>
+      <td class="num-cell">21</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:62%"></div>
+          <span class="sat-pct">62%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>South West</td>
+      <td class="num-cell">13</td>
+      <td class="num-cell">8</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:62%"></div>
+          <span class="sat-pct">62%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>Midlands</td>
+      <td class="num-cell">28</td>
+      <td class="num-cell">16</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:57%"></div>
+          <span class="sat-pct">57%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>North West</td>
+      <td class="num-cell">19</td>
+      <td class="num-cell">10</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:53%"></div>
+          <span class="sat-pct">53%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>London</td>
+      <td class="num-cell">22</td>
+      <td class="num-cell">11</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:50%"></div>
+          <span class="sat-pct">50%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>North East</td>
+      <td class="num-cell">6</td>
+      <td class="num-cell">2</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:33%"></div>
+          <span class="sat-pct">33%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>Scotland</td>
+      <td class="num-cell">1</td>
+      <td class="num-cell">0</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:0%"></div>
+          <span class="sat-pct">0%</span>
+        </div>
+      </td>
+    </tr>
+<tr>
+      <td>Wales</td>
+      <td class="num-cell">2</td>
+      <td class="num-cell">0</td>
+      <td>
+        <div class="sat-bar-wrap">
+          <div class="sat-bar" style="--fill:0%"></div>
+          <span class="sat-pct">0%</span>
+        </div>
+      </td>
+    </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
 
 <!-- ======================================================
      6. HEAD-OFFICE OPS PANEL (RAG + Last Login + Gamification)
 ====================================================== -->
 <section id="ops">
-  <div class="section-title">Network Operations Snapshot</div>
+  <div class="section-title">Head-Office Ops</div>
 
   <!-- CHAMPION OF THE MONTH -->
   <div class="champion-card" id="championCard" style="display:none">
@@ -1781,8 +4347,48 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 </footer>
 
 <!-- ====================================================== -->
-<!-- v2 script removed for prospect hub -->
+<!--  V2 SCRIPT — MAP / PLATFORMS / CALCULATOR               -->
+<!-- ====================================================== -->
+<script>
+// ======================================================
+// VA HEADER NAV — active-state scroll spy
+// ======================================================
+(function(){
+  'use strict';
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.va-nav-link[href^="#"]'));
+  if (!navLinks.length) return;
+  var sections = navLinks.map(function(a){
+    var id = a.getAttribute('href').slice(1);
+    return { link: a, section: document.getElementById(id) };
+  }).filter(function(p){ return p.section; });
+  if (!sections.length) return;
 
+  function setActive(link) {
+    navLinks.forEach(function(l){ l.classList.remove('is-active'); });
+    if (link) link.classList.add('is-active');
+  }
+
+  // Click — immediate active swap
+  navLinks.forEach(function(a){
+    a.addEventListener('click', function(){ setActive(a); });
+  });
+
+  // Scroll spy: pick the section whose top is closest to the viewport top (after sticky-header offset)
+  var spy = function(){
+    var offset = 120;
+    var pos = window.scrollY + offset;
+    var current = sections[0];
+    for (var i = 0; i < sections.length; i++) {
+      var top = sections[i].section.offsetTop;
+      if (top <= pos) current = sections[i];
+    }
+    if (current) setActive(current.link);
+  };
+  window.addEventListener('scroll', spy, { passive: true });
+  window.addEventListener('resize', spy);
+  spy();
+})();
+</script>
 
 <script>
 // ======================================================
@@ -2461,5 +5067,281 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 })();
 </script>
 
+
+
+
+
+<!-- BRAND-AGNOSTIC RENDER INJECTED -->
+<script>
+// ======================================================
+// BRAND-AGNOSTIC RENDER — every visible section is data-driven
+// ======================================================
+(function(){
+  fetch('gamification.json', { cache: 'no-cache' })
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      try { renderHero(data); }            catch(e){ console.error('hero', e); }
+      try { renderPerformance(data); }     catch(e){ console.error('perf', e); }
+      try { renderTiers(data); }           catch(e){ console.error('tiers', e); }
+      try { renderMapHeader(data); }       catch(e){ console.error('map header', e); }
+      try { renderLeaderboard(data); }     catch(e){ console.error('leaderboard', e); }
+      try { renderRegional(data); }        catch(e){ console.error('regional', e); }
+      try { renderPlaybook(data); }        catch(e){ console.error('playbook', e); }
+      try { renderPlatforms(data); }       catch(e){ console.error('platforms', e); }
+      try { renderFooter(data); }          catch(e){ console.error('footer', e); }
+    });
+
+  // ---------- helpers ----------
+  function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function num(n){ return (n==null||!isFinite(n))?0:n; }
+  function fmt(n){ return num(n).toLocaleString('en-GB'); }
+  function setText(sel, txt){ var el = document.querySelector(sel); if (el) el.textContent = txt; }
+  function setHTML(sel, html){ var el = document.querySelector(sel); if (el) el.innerHTML = html; }
+  function isWinnerTier(t){ t = (t||'').toLowerCase(); return t==='platinum'||t==='gold'||t==='winner'; }
+  function isContenderTier(t){ return (t||'').toLowerCase()==='contender'; }
+  function isFoundationTier(t){ return (t||'').toLowerCase()==='foundation'; }
+
+  // ---------- HERO ----------
+  function renderHero(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var saturation = offices ? Math.round((winners/offices)*100) : 0;
+    setText('.hero-brand', brand);
+    var vals = document.querySelectorAll('.hero-stats .hero-stat-value');
+    if (vals.length >= 3) {
+      vals[0].textContent = fmt(offices);
+      vals[1].textContent = fmt(winners);
+      vals[2].textContent = saturation + '%';
+    }
+  }
+
+  // ---------- PERFORMANCE SUMMARY ----------
+  function renderPerformance(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var pct = offices ? Math.round((winners/offices)*100*10)/10 : 0;
+    var cards = document.querySelectorAll('#performance .perf-card');
+    if (cards.length >= 1) {
+      var c1 = cards[0];
+      var lbl = c1.querySelector('.perf-label'); if (lbl) lbl.textContent = brand + ' Winner Saturation';
+      var val = c1.querySelector('.perf-value'); if (val) val.textContent = pct + '%';
+      var desc = c1.querySelector('.perf-desc'); if (desc) desc.textContent = fmt(winners) + ' of ' + fmt(offices) + ' offices are Trusted Agent Winners';
+    }
+  }
+
+  // ---------- TIER DISTRIBUTION ----------
+  function renderTiers(data){
+    var offices = data.offices || [];
+    var total = offices.length;
+    var winners = offices.filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var contenders = offices.filter(function(o){ return isContenderTier(o.tier); }).length;
+    var foundation = offices.filter(function(o){ return isFoundationTier(o.tier); }).length;
+    var others = total - winners - contenders - foundation;
+    // Bucket "others" into foundation for the bar so it always sums to 100%
+    foundation = foundation + others;
+
+    var pctW = total ? +((winners/total)*100).toFixed(1) : 0;
+    var pctC = total ? +((contenders/total)*100).toFixed(1) : 0;
+    var pctF = total ? +((foundation/total)*100).toFixed(1) : 0;
+
+    // Update segment bar widths
+    var fills = document.querySelectorAll('#tiers .segment-bar-fill');
+    if (fills.length >= 3) {
+      fills[0].style.width = pctW + '%';
+      fills[1].style.width = pctC + '%';
+      fills[2].style.width = pctF + '%';
+    }
+
+    // Update tier counts
+    var counts = document.querySelectorAll('#tiers .tier-count');
+    var pcts = document.querySelectorAll('#tiers .tier-pct');
+    if (counts.length >= 3) {
+      counts[0].textContent = fmt(winners);
+      counts[1].textContent = fmt(contenders);
+      counts[2].textContent = fmt(foundation);
+    }
+    if (pcts.length >= 3) {
+      pcts[0].textContent = pctW + '%';
+      pcts[1].textContent = pctC + '%';
+      pcts[2].textContent = pctF + '%';
+    }
+  }
+
+  // ---------- MAP TITLE + LEGEND ----------
+  function renderMapHeader(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []);
+    var geo = offices.filter(function(o){ return o.lat && o.lng; }).length;
+    var mapTitle = document.querySelector('#v2-map .section-title');
+    if (mapTitle) mapTitle.innerHTML = 'Network Map &mdash; ' + fmt(offices.length) + ' ' + esc(brand) + ' Offices';
+    var legend = document.querySelector('#v2-map .map-tier-legend');
+    if (legend) {
+      // Replace the third row "EweMove office" with the actual brand
+      legend.querySelectorAll('.row').forEach(function(row){
+        if (/EweMove office/i.test(row.textContent)) {
+          row.lastChild && (row.lastChild.textContent = brand + ' office');
+        }
+      });
+    }
+    // Geocode caption
+    var caption = document.querySelector('#v2-map .map-wrap .map-controls > div:last-child');
+    if (caption && /geocoded/i.test(caption.textContent)) {
+      caption.innerHTML = fmt(geo) + ' of ' + fmt(offices.length) + ' offices geocoded.<br>Tiles: © OpenStreetMap.';
+    }
+  }
+
+  // ---------- LEADERBOARD ----------
+  function renderLeaderboard(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).slice();
+    // Sort by reputation_score desc (default order)
+    offices.sort(function(a,b){ return (b.reputation_score||0)-(a.reputation_score||0); });
+
+    var titleEl = document.querySelector('#offices .section-title');
+    if (titleEl) titleEl.innerHTML = 'Office Leaderboard &mdash; All ' + fmt(offices.length) + ' Offices';
+
+    var tbody = document.querySelector('#offices table tbody') || document.querySelector('#offices tbody');
+    if (!tbody) return;
+
+    var rows = offices.map(function(o, i){
+      var tier = (o.tier || 'Foundation');
+      var tierColor = ({'Platinum':'#C9A96E','Gold':'#8c6f2f','Winner':'#0d9488','Contender':'#3b82f6','Foundation':'#9ca3af'}[tier] || '#9ca3af');
+      var score = num(o.reputation_score);
+      var rating = (o.rating != null) ? Number(o.rating).toFixed(2) + '★' : '—';
+      var totalReviews = o.google && o.google.user_rating_count != null ? o.google.user_rating_count : num(o.total_reviews);
+      var reviews30 = num(o.reviews_30d);
+      var reply = (o.reply_rate != null && o.reply_rate !== '') ? (Math.round((o.reply_rate||0)*100*10)/10 + '%') : '—';
+      var loc = esc(o.postcode || '');
+      return '<tr>' +
+        '<td>' + (i+1) + '</td>' +
+        '<td class="name-cell">' + esc(o.branch) + '</td>' +
+        '<td>' + loc + '</td>' +
+        '<td><span class="tier-pill" style="background:'+tierColor+';color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;">' + esc(tier) + '</span></td>' +
+        '<td class="num-cell">' + score + '</td>' +
+        '<td class="num-cell">' + rating + '</td>' +
+        '<td class="num-cell">' + fmt(totalReviews) + '</td>' +
+        '<td class="num-cell">' + fmt(reviews30) + '</td>' +
+        '<td class="num-cell">' + reply + '</td>' +
+        '</tr>';
+    }).join('');
+    tbody.innerHTML = rows;
+  }
+
+  // ---------- REGIONAL BREAKDOWN ----------
+  function renderRegional(data){
+    var offices = data.offices || [];
+    var byRegion = {};
+    offices.forEach(function(o){
+      var r = o.region || 'Unknown';
+      byRegion[r] = byRegion[r] || { offices: 0, winners: 0 };
+      byRegion[r].offices++;
+      if (isWinnerTier(o.tier)) byRegion[r].winners++;
+    });
+    var rows = Object.keys(byRegion).map(function(r){
+      var sat = byRegion[r].offices ? Math.round(byRegion[r].winners/byRegion[r].offices*100) : 0;
+      return {region: r, offices: byRegion[r].offices, winners: byRegion[r].winners, sat: sat};
+    }).sort(function(a,b){ return b.offices - a.offices; });
+
+    var tbody = document.querySelector('.regional-table tbody');
+    if (!tbody) return;
+    tbody.innerHTML = rows.map(function(r){
+      return '<tr>' +
+        '<td>' + esc(r.region) + '</td>' +
+        '<td class="num-cell">' + fmt(r.offices) + '</td>' +
+        '<td class="num-cell">' + fmt(r.winners) + '</td>' +
+        '<td><div class="sat-bar-wrap"><div class="sat-bar" style="--fill:'+r.sat+'%"></div><span class="sat-pct">'+r.sat+'%</span></div></td>' +
+        '</tr>';
+    }).join('');
+  }
+
+  // ---------- PLAYBOOK ----------
+  function renderPlaybook(data){
+    var offices = data.offices || [];
+    var cards = document.querySelectorAll('.playbook-card');
+    if (!cards.length) return;
+    // Top 5 by reputation_score
+    var top = offices.slice().filter(function(o){ return num(o.reputation_score)>0; })
+      .sort(function(a,b){ return num(b.reputation_score)-num(a.reputation_score); }).slice(0,5);
+    var c1List = cards[0] && cards[0].querySelector('.office-list');
+    if (c1List) c1List.innerHTML = top.map(function(o){
+      return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">Score '+num(o.reputation_score)+'</span></li>';
+    }).join('') || '<li><span class="office-name">No data</span></li>';
+
+    // Worst reply rates
+    var low = offices.slice().filter(function(o){ return o.reply_rate != null && o.reply_rate !== ''; })
+      .sort(function(a,b){ return num(a.reply_rate)-num(b.reply_rate); }).slice(0,8);
+    if (cards.length >= 2) {
+      var c2List = cards[1].querySelector('.office-list');
+      if (c2List) c2List.innerHTML = low.map(function(o){
+        var pct = Math.round(num(o.reply_rate)*100*10)/10;
+        return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">'+pct+'%</span></li>';
+      }).join('') || '<li><span class="office-name">No data</span></li>';
+      var sub = cards[1].querySelector('.playbook-sub');
+      if (sub) sub.textContent = offices.filter(function(o){ return o.reply_rate != null && o.reply_rate < 0.5; }).length + ' offices reply to fewer than 50% of reviews — bottom of the list below';
+    }
+
+    // Flagged offices
+    if (cards.length >= 3) {
+      var flagged = offices.slice().filter(function(o){ return num(o.flag_count)>0; })
+        .sort(function(a,b){ return num(b.flag_count)-num(a.flag_count); }).slice(0,8);
+      var c3List = cards[2].querySelector('.office-list');
+      if (c3List) c3List.innerHTML = flagged.map(function(o){
+        return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">'+num(o.flag_count)+' flags</span></li>';
+      }).join('') || '<li><span class="office-name">No flagged offices</span></li>';
+      var sub3 = cards[2].querySelector('.playbook-sub');
+      if (sub3) sub3.textContent = flagged.length + ' offices have data-quality flags';
+    }
+  }
+
+  // ---------- PLATFORMS (multi-platform review breakdown) ----------
+  function renderPlatforms(data){
+    var brand = data.brand || 'Brand';
+    var ps = data.platforms_summary;
+    if (!ps || !ps.platforms) return;
+    var platOrder = ['Google','Trustpilot','Facebook','AllAgents','Yell','FeeFo','View Agents'];
+    var totalReviews = ps.grand_total_reviews || 0;
+    var rows = platOrder.filter(function(p){ return ps.platforms[p]; }).map(function(p){
+      var s = ps.platforms[p];
+      var pct = totalReviews ? ((s.total_reviews / totalReviews) * 100).toFixed(1) : '0';
+      var rating = s.avg_rating ? Number(s.avg_rating).toFixed(2) + '\u2605' : '\u2014';
+      var color = {'Google':'#4285F4','Trustpilot':'#00B67A','Facebook':'#1877F2',
+                   'AllAgents':'#FF6B35','Yell':'#FFCC00','FeeFo':'#7B68EE','View Agents':'#1ABC9C'}[p] || '#666';
+      return '<div class="plat-row" style="display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid #eaecef;">' +
+        '<div style="width:8px;height:32px;background:' + color + ';border-radius:2px;"></div>' +
+        '<div style="flex:1;"><div style="font-weight:600;font-size:14px;color:#0a1d3a;">' + esc(p) + '</div>' +
+        '<div style="font-size:11px;color:#7088a4;">' + rating + ' average</div></div>' +
+        '<div style="text-align:right;"><div style="font-size:18px;font-weight:700;color:#0a1d3a;">' + fmt(s.total_reviews) + '</div>' +
+        '<div style="font-size:11px;color:#7088a4;">' + pct + '% of total</div></div></div>';
+    }).join('');
+    // Inject a platforms section after the tiers section if not present
+    var existing = document.getElementById('platforms-breakdown');
+    var html = '<section id="platforms-breakdown" style="margin:32px 0;padding:0 24px;">' +
+      '<div class="section-title" style="font-size:11px;font-weight:700;letter-spacing:1.6px;color:#7088a4;text-transform:uppercase;margin-bottom:16px;">Review Platforms \u2014 ' + fmt(totalReviews) + ' Total Reviews</div>' +
+      '<div style="background:#fff;border:1px solid #eaecef;border-radius:12px;overflow:hidden;">' + rows + '</div>' +
+      '</section>';
+    if (existing) {
+      existing.outerHTML = html;
+    } else {
+      var tiersSection = document.getElementById('tiers');
+      if (tiersSection) tiersSection.insertAdjacentHTML('afterend', html);
+    }
+  }
+
+  // ---------- FOOTER ----------
+  function renderFooter(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    document.querySelectorAll('.footer-method').forEach(function(el){
+      el.innerHTML = el.innerHTML.replace(/\d+\s+EweMove offices audited/g, fmt(offices) + ' ' + esc(brand) + ' offices audited');
+    });
+    var fc = document.querySelector('.footer-copy');
+    if (fc) fc.innerHTML = fc.innerHTML.replace(/EweMove dashboard/g, esc(brand) + ' dashboard');
+  }
+})();
+</script>
+<!-- END BRAND-AGNOSTIC RENDER -->
 </body>
 </html>

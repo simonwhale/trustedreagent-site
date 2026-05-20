@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T08:56:15.952649+00:00",
+  "updated": "2026-05-20T13:29:02.323179+00:00",
   "brand": "Winkworth",
   "offices": [
     {
@@ -55,6 +55,12 @@
         "formatted_address": "406 Ringwood Rd, Ferndown BH22 9AU",
         "google_maps_url": "https://maps.google.com/?cid=7905628072044693735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 47,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -110,6 +116,16 @@
         "formatted_address": "4 Falcon Dr, Mudeford, Christchurch BH23 4BA",
         "google_maps_url": "https://maps.google.com/?cid=15674351656246360136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 39,
+          "rating": 4.82
+        },
+        "Trustpilot": {
+          "count": 810,
+          "rating": 3.88
+        }
       }
     },
     {
@@ -160,6 +176,16 @@
         "formatted_address": "15 Fore St, Tiverton EX16 6LN",
         "google_maps_url": "https://maps.google.com/?cid=12290005217318801140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 218,
+          "rating": 4.99
+        },
+        "Facebook": {
+          "count": 1,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -215,6 +241,12 @@
         "formatted_address": "115 High St, Crediton EX17 3LG",
         "google_maps_url": "https://maps.google.com/?cid=9960302714201712756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 110,
+          "rating": 4.92
+        }
       }
     },
     {
@@ -265,6 +297,12 @@
         "formatted_address": "41 High St, Bagshot GU19 5AF",
         "google_maps_url": "https://maps.google.com/?cid=11162050116049523404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 11,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -315,6 +353,12 @@
         "formatted_address": "45 High St, Southwold IP18 6DJ",
         "google_maps_url": "https://maps.google.com/?cid=3532168657187828356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.85
+      },
+      "platforms": {
+        "Google": {
+          "count": 48,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -365,6 +409,12 @@
         "formatted_address": "3 Broomhall Buildings, London Rd, Sunningdale, Berkshire SL5 0DH",
         "google_maps_url": "https://maps.google.com/?cid=1974236331245091619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 48,
+          "rating": 4.88
+        }
       }
     },
     {
@@ -410,6 +460,12 @@
         "formatted_address": "218 Leigh Rd, Southend-on-Sea, Leigh-on-Sea SS9 1BP",
         "google_maps_url": "https://maps.google.com/?cid=196700921612605611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 148,
+          "rating": 4.78
+        }
       }
     },
     {
@@ -460,6 +516,16 @@
         "formatted_address": "2 Barnes High St, London SW13 9LB",
         "google_maps_url": "https://maps.google.com/?cid=5829248166616955197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Yell": {
+          "count": 3,
+          "rating": 1.0
+        },
+        "Google": {
+          "count": 13,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -503,7 +569,13 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 21,
+          "rating": 5.0
+        }
+      }
     },
     {
       "office_id": 254330,
@@ -553,6 +625,12 @@
         "formatted_address": "3a Market St, Dartmouth TQ6 9QE",
         "google_maps_url": "https://maps.google.com/?cid=3436836409916316016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 8,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -604,6 +682,12 @@
         "formatted_address": "100 High St, Banstead SM7 2NN",
         "google_maps_url": "https://maps.google.com/?cid=7245587701733467025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 824,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -651,6 +735,16 @@
         "google_maps_url": "https://maps.google.com/?cid=3773327800483838802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 104,
+          "rating": 4.77
+        },
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        }
       }
     },
     {
@@ -696,6 +790,20 @@
         "formatted_address": "10B Church St, Basingstoke RG21 7QE",
         "google_maps_url": "https://maps.google.com/?cid=14810968565274974426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 73,
+          "rating": 4.84
+        },
+        "View Agents": {
+          "count": 3,
+          "rating": 5.0
+        },
+        "Facebook": {
+          "count": 10,
+          "rating": 4.6
+        }
       }
     },
     {
@@ -741,6 +849,12 @@
         "formatted_address": "13 Argyle St, Bathwick, Bath BA2 4BQ",
         "google_maps_url": "https://maps.google.com/?cid=10459779271058556091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75
+      },
+      "platforms": {
+        "Google": {
+          "count": 146,
+          "rating": 4.82
+        }
       }
     },
     {
@@ -786,6 +900,16 @@
         "formatted_address": "46 London End, Beaconsfield HP9 2JH",
         "google_maps_url": "https://maps.google.com/?cid=12312399694435458135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 85,
+          "rating": 4.92
+        }
       }
     },
     {
@@ -831,6 +955,12 @@
         "formatted_address": "436, The Broadway, Croydon Rd, Beckenham BR3 4EP",
         "google_maps_url": "https://maps.google.com/?cid=8666325685498585315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 183,
+          "rating": 4.76
+        }
       }
     },
     {
@@ -876,6 +1006,12 @@
         "formatted_address": "5 Blackheath Village, Blackheath, London SE3 9LA",
         "google_maps_url": "https://maps.google.com/?cid=18074041537147945126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 253,
+          "rating": 4.69
+        }
       }
     },
     {
@@ -923,6 +1059,16 @@
         "google_maps_url": "https://maps.google.com/?cid=18231957988681703510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 199,
+          "rating": 4.82
+        },
+        "Trustpilot": {
+          "count": 860,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -970,6 +1116,12 @@
         "google_maps_url": "https://maps.google.com/?cid=8844386491197289248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 115,
+          "rating": 4.95
+        }
       }
     },
     {
@@ -1013,7 +1165,13 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 36,
+          "rating": 3.14
+        }
+      }
     },
     {
       "office_id": 257352,
@@ -1070,6 +1228,16 @@
         "google_maps_url": "https://maps.google.com/?cid=18199427656309557499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 824,
+          "rating": 3.9
+        },
+        "Google": {
+          "count": 34,
+          "rating": 3.15
+        }
       }
     },
     {
@@ -1118,7 +1286,13 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Trustpilot": {
+          "count": 802,
+          "rating": 3.9
+        }
+      }
     },
     {
       "office_id": 257407,
@@ -1138,7 +1312,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-20T08:56:25.720000",
-      "days_since_review": 88,
+      "days_since_review": 89,
       "total_reviews": 993,
       "reviews_30d": 0,
       "reviews_90d": 2,
@@ -1153,7 +1327,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 88d"
+          "No review for 89d"
         ],
         [
           "RED",
@@ -1175,6 +1349,16 @@
         "google_maps_url": "https://maps.google.com/?cid=18266287002996258385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 83,
+          "rating": 4.71
+        },
+        "Trustpilot": {
+          "count": 817,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -1195,7 +1379,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-15T09:56:56.377000",
-      "days_since_review": 65,
+      "days_since_review": 66,
       "total_reviews": 852,
       "reviews_30d": 0,
       "reviews_90d": 5,
@@ -1210,7 +1394,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 65d"
+          "No review for 66d"
         ],
         [
           "RED",
@@ -1232,6 +1416,16 @@
         "google_maps_url": "https://maps.google.com/?cid=5512468358270957144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 19,
+          "rating": 4.32
+        },
+        "Trustpilot": {
+          "count": 805,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -1287,6 +1481,12 @@
         "formatted_address": "45-47 Station Way, Village, Sutton SM3 8SD",
         "google_maps_url": "https://maps.google.com/?cid=13163239946579607177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 119,
+          "rating": 4.74
+        }
       }
     },
     {
@@ -1337,6 +1537,16 @@
         "formatted_address": "79 Promenade, Cheltenham GL50 1PJ",
         "google_maps_url": "https://maps.google.com/?cid=12419366052691465235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 67,
+          "rating": 4.88
+        },
+        "Facebook": {
+          "count": 10,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -1388,6 +1598,16 @@
         "formatted_address": "269 Chiswick High Rd., Chiswick, London W4 4PU",
         "google_maps_url": "https://maps.google.com/?cid=4786168265447747122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 146,
+          "rating": 4.75
+        },
+        "Trustpilot": {
+          "count": 833,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -1436,6 +1656,16 @@
         "google_maps_url": "https://maps.google.com/?cid=17494446489025466669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 100,
+          "rating": 4.93
+        },
+        "Trustpilot": {
+          "count": 834,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -1487,6 +1717,16 @@
         "formatted_address": "12 Broadway Parade, Tottenham Ln, London N8 9DE",
         "google_maps_url": "https://maps.google.com/?cid=10324773839279332816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 36,
+          "rating": 4.58
+        },
+        "Trustpilot": {
+          "count": 774,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -1537,6 +1777,12 @@
         "formatted_address": "45, 47 Westow Hill, Norwood, London SE19 1TS",
         "google_maps_url": "https://maps.google.com/?cid=4667794934215813575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 150,
+          "rating": 4.89
+        }
       }
     },
     {
@@ -1592,6 +1838,12 @@
         "formatted_address": "1 Lumley St, London W1K 6TT",
         "google_maps_url": "https://maps.google.com/?cid=7743587456810221606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 801,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -1637,6 +1889,12 @@
         "formatted_address": "4/5 The Market Pl, Devizes SN10 1HT",
         "google_maps_url": "https://maps.google.com/?cid=8840337441155551598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 20,
+          "rating": 4.95
+        }
       }
     },
     {
@@ -1688,6 +1946,20 @@
         "formatted_address": "97 Lordship Ln, London SE22 8HU",
         "google_maps_url": "https://maps.google.com/?cid=4120233013633558475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 797,
+          "rating": 3.89
+        },
+        "Yell": {
+          "count": 1,
+          "rating": 1.0
+        },
+        "Google": {
+          "count": 206,
+          "rating": 4.63
+        }
       }
     },
     {
@@ -1739,6 +2011,16 @@
         "formatted_address": "5 - 6, Station Buildings, 5-6 Uxbridge Rd, London W5 3NU",
         "google_maps_url": "https://maps.google.com/?cid=5187995087040308972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 240,
+          "rating": 4.83
+        },
+        "Trustpilot": {
+          "count": 811,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -1789,6 +2071,16 @@
         "formatted_address": "65 Magdalen Rd, St. Leonards Rd, Exeter EX2 4TA",
         "google_maps_url": "https://maps.google.com/?cid=10834375323074113651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75
+      },
+      "platforms": {
+        "Yell": {
+          "count": 4,
+          "rating": 3.0
+        },
+        "Google": {
+          "count": 556,
+          "rating": 4.75
+        }
       }
     },
     {
@@ -1839,6 +2131,20 @@
         "formatted_address": "99 West St, Farnham GU9 7EN",
         "google_maps_url": "https://maps.google.com/?cid=2794552930333433791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 6,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 288,
+          "rating": 4.9
+        },
+        "View Agents": {
+          "count": 1,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -1895,6 +2201,16 @@
         "formatted_address": "364 Regents Park Rd, London N3 2LJ",
         "google_maps_url": "https://maps.google.com/?cid=9022015715658228019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 42,
+          "rating": 3.88
+        },
+        "Trustpilot": {
+          "count": 796,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -1947,6 +2263,16 @@
         "google_maps_url": "https://maps.google.com/?cid=7610173500125757870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 192,
+          "rating": 4.82
+        },
+        "Trustpilot": {
+          "count": 832,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -2002,6 +2328,16 @@
         "formatted_address": "190 Fulham Palace Rd, London W6 9PA",
         "google_maps_url": "https://maps.google.com/?cid=5864595306951139858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.85
+      },
+      "platforms": {
+        "Google": {
+          "count": 39,
+          "rating": 4.97
+        },
+        "Trustpilot": {
+          "count": 160,
+          "rating": 3.73
+        }
       }
     },
     {
@@ -2052,6 +2388,16 @@
         "formatted_address": "891 Finchley Rd, London NW11 8RR",
         "google_maps_url": "https://maps.google.com/?cid=1389060004179240965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 82,
+          "rating": 4.21
+        },
+        "Trustpilot": {
+          "count": 824,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2102,6 +2448,12 @@
         "formatted_address": "4 Finkin St, Grantham NG31 6QZ",
         "google_maps_url": "https://maps.google.com/?cid=15875245516622093496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 89,
+          "rating": 3.84
+        }
       }
     },
     {
@@ -2153,6 +2505,16 @@
         "formatted_address": "279, 283 Greenwich High Rd, London SE10 8NB",
         "google_maps_url": "https://maps.google.com/?cid=16077204918429295931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 223,
+          "rating": 4.81
+        },
+        "Trustpilot": {
+          "count": 818,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -2200,6 +2562,16 @@
         "google_maps_url": "https://maps.google.com/?cid=8081331189264295776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 190,
+          "rating": 4.86
+        },
+        "Trustpilot": {
+          "count": 835,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -2251,6 +2623,16 @@
         "formatted_address": "129 Shepherds Bush Rd, Brook Grn, London W6 7LP",
         "google_maps_url": "https://maps.google.com/?cid=1458836685975027655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 815,
+          "rating": 3.89
+        },
+        "Google": {
+          "count": 134,
+          "rating": 4.8
+        }
       }
     },
     {
@@ -2301,6 +2683,16 @@
         "formatted_address": "10-11 Grand Parade, Green Lanes, Harringay Ladder, London N4 1JX",
         "google_maps_url": "https://maps.google.com/?cid=5309063556449955077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 221,
+          "rating": 4.59
+        },
+        "Trustpilot": {
+          "count": 824,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2351,6 +2743,12 @@
         "formatted_address": "7 Central Parade, Station Rd, Harrow HA1 2TW",
         "google_maps_url": "https://maps.google.com/?cid=7252349382227932100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 304,
+          "rating": 4.68
+        }
       }
     },
     {
@@ -2402,6 +2800,16 @@
         "formatted_address": "49 Brent St, London NW4 2EA",
         "google_maps_url": "https://maps.google.com/?cid=18277391755125788618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 87,
+          "rating": 4.51
+        },
+        "Trustpilot": {
+          "count": 795,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2453,6 +2861,16 @@
         "formatted_address": "236 Railton Rd, London SE24 0JT",
         "google_maps_url": "https://maps.google.com/?cid=17265565335507002326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 87,
+          "rating": 4.49
+        },
+        "Trustpilot": {
+          "count": 824,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2499,6 +2917,16 @@
         "formatted_address": "106 Highbury Park, London N5 2XE",
         "google_maps_url": "https://maps.google.com/?cid=7845624331466745584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 179,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 819,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -2549,6 +2977,16 @@
         "formatted_address": "279 Lymington Rd, Highcliffe, Christchurch BH23 5EB",
         "google_maps_url": "https://maps.google.com/?cid=16448681216738360782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 3,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 132,
+          "rating": 4.93
+        }
       }
     },
     {
@@ -2605,6 +3043,16 @@
         "formatted_address": "36 Highgate High St, London N6 5JG",
         "google_maps_url": "https://maps.google.com/?cid=13706161059477503098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 31,
+          "rating": 4.74
+        },
+        "Trustpilot": {
+          "count": 822,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2650,6 +3098,16 @@
         "formatted_address": "65 Upper St, London N1 0NY",
         "google_maps_url": "https://maps.google.com/?cid=5328108014505349189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 219,
+          "rating": 4.65
+        },
+        "Trustpilot": {
+          "count": 796,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -2696,6 +3154,20 @@
         "formatted_address": "299 Kennington Rd, London SE11 4QE",
         "google_maps_url": "https://maps.google.com/?cid=119270795013510386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 211,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 834,
+          "rating": 3.9
+        },
+        "Yell": {
+          "count": 1,
+          "rating": 1.0
+        }
       }
     },
     {
@@ -2746,6 +3218,16 @@
         "formatted_address": "2, Bridge House, Chamberlayne Rd, London NW10 3NR",
         "google_maps_url": "https://maps.google.com/?cid=18083862568766852871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 243,
+          "rating": 4.85
+        },
+        "Trustpilot": {
+          "count": 825,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -2797,6 +3279,16 @@
         "formatted_address": "118 Kensington Church St, London W8 4BH",
         "google_maps_url": "https://maps.google.com/?cid=6018092915300570006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 67,
+          "rating": 4.88
+        },
+        "Trustpilot": {
+          "count": 835,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -2848,6 +3340,16 @@
         "formatted_address": "306 Kentish Town Rd, London NW5 2TH",
         "google_maps_url": "https://maps.google.com/?cid=9922621848219829628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 117,
+          "rating": 4.34
+        },
+        "Trustpilot": {
+          "count": 806,
+          "rating": 3.88
+        }
       }
     },
     {
@@ -2899,6 +3401,16 @@
         "formatted_address": "505, 507 Kingsbury Rd, London NW9 9EG",
         "google_maps_url": "https://maps.google.com/?cid=9030041704068346938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75
+      },
+      "platforms": {
+        "Google": {
+          "count": 312,
+          "rating": 4.95
+        },
+        "Trustpilot": {
+          "count": 817,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -2955,6 +3467,16 @@
         "formatted_address": "289 Brompton Rd, London SW3 2DY",
         "google_maps_url": "https://maps.google.com/?cid=4185232699395057061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 26,
+          "rating": 4.85
+        },
+        "Trustpilot": {
+          "count": 817,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3006,6 +3528,16 @@
         "formatted_address": "211-213 Sutherland Ave, London W9 1RU",
         "google_maps_url": "https://maps.google.com/?cid=14292415165232464424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 78,
+          "rating": 4.94
+        },
+        "Trustpilot": {
+          "count": 811,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3051,6 +3583,16 @@
         "formatted_address": "5 High St, Market Deeping, Peterborough PE6 8ED",
         "google_maps_url": "https://maps.google.com/?cid=17073950876831843184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 45,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 105,
+          "rating": 4.88
+        }
       }
     },
     {
@@ -3097,6 +3639,12 @@
         "formatted_address": "5 Church Hill, Milford on Sea, Lymington SO41 0QH",
         "google_maps_url": "https://maps.google.com/?cid=7846923452990110322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.85
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 2,
+          "rating": 3.0
+        }
       }
     },
     {
@@ -3148,6 +3696,20 @@
         "formatted_address": "157 New Cross Rd, London SE14 5DG",
         "google_maps_url": "https://maps.google.com/?cid=4460860428673802645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 210,
+          "rating": 4.37
+        },
+        "Trustpilot": {
+          "count": 54,
+          "rating": 4.19
+        },
+        "Yell": {
+          "count": 4,
+          "rating": 4.5
+        }
       }
     },
     {
@@ -3191,7 +3753,13 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 1,
+          "rating": 5.0
+        }
+      }
     },
     {
       "office_id": 10468,
@@ -3241,6 +3809,16 @@
         "formatted_address": "4 Finkin St, Grantham NG31 6QZ",
         "google_maps_url": "https://maps.google.com/?cid=16337397777484489611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75
+      },
+      "platforms": {
+        "Google": {
+          "count": 35,
+          "rating": 4.49
+        },
+        "Facebook": {
+          "count": 3,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -3291,6 +3869,12 @@
         "formatted_address": "43 Northbrook St, Newbury RG14 1DT",
         "google_maps_url": "https://maps.google.com/?cid=5705101272666515379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 204,
+          "rating": 4.77
+        }
       }
     },
     {
@@ -3342,6 +3926,16 @@
         "formatted_address": "141 Ladbroke Grove, London W10 6HJ",
         "google_maps_url": "https://maps.google.com/?cid=9544001388738824838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 175,
+          "rating": 4.81
+        },
+        "Trustpilot": {
+          "count": 832,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -3393,6 +3987,16 @@
         "google_maps_url": "https://maps.google.com/?cid=2309519589537518628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 12,
+          "rating": 4.33
+        },
+        "Google": {
+          "count": 119,
+          "rating": 4.65
+        }
       }
     },
     {
@@ -3444,6 +4048,16 @@
         "google_maps_url": "https://maps.google.com/?cid=2309519589537518628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 107,
+          "rating": 4.68
+        },
+        "Trustpilot": {
+          "count": 798,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3490,6 +4104,20 @@
         "formatted_address": "178 Westbourne Grove, London W11 2RH",
         "google_maps_url": "https://maps.google.com/?cid=5051251241219224007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 100,
+          "rating": 4.83
+        },
+        "Trustpilot": {
+          "count": 841,
+          "rating": 3.9
+        },
+        "Yell": {
+          "count": 1,
+          "rating": 1.0
+        }
       }
     },
     {
@@ -3533,7 +4161,17 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 48,
+          "rating": 4.69
+        },
+        "Trustpilot": {
+          "count": 812,
+          "rating": 3.9
+        }
+      }
     },
     {
       "office_id": 9769,
@@ -3578,6 +4216,20 @@
         "formatted_address": "393 Green Lanes, London N13 4JG",
         "google_maps_url": "https://maps.google.com/?cid=13066703848767511707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "View Agents": {
+          "count": 60,
+          "rating": 4.87
+        },
+        "Facebook": {
+          "count": 11,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 189,
+          "rating": 4.82
+        }
       }
     },
     {
@@ -3629,6 +4281,16 @@
         "formatted_address": "40 New Kings Rd, London SW6 4ST",
         "google_maps_url": "https://maps.google.com/?cid=11097669742953502975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.05
+      },
+      "platforms": {
+        "Google": {
+          "count": 189,
+          "rating": 4.81
+        },
+        "Trustpilot": {
+          "count": 825,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3677,6 +4339,12 @@
         "google_maps_url": "https://maps.google.com/?cid=10689273625360782223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 806,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3723,6 +4391,16 @@
         "formatted_address": "31 Belgrave Rd, Pimlico, London SW1V 1RB",
         "google_maps_url": "https://maps.google.com/?cid=13482091629716736791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 128,
+          "rating": 4.7
+        },
+        "Trustpilot": {
+          "count": 840,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3742,7 +4420,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-20T09:22:32.970000",
-      "days_since_review": 88,
+      "days_since_review": 89,
       "total_reviews": 63,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -3757,7 +4435,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 88d"
+          "No review for 89d"
         ],
         [
           "RED",
@@ -3778,6 +4456,12 @@
         "formatted_address": "135 Penn Hill Ave, Parkstone, Lower, Poole BH14 9LY",
         "google_maps_url": "https://maps.google.com/?cid=7485378912152886226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 63,
+          "rating": 4.9
+        }
       }
     },
     {
@@ -3797,7 +4481,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-05-09T09:51:46.647000",
-      "days_since_review": 375,
+      "days_since_review": 376,
       "total_reviews": 19,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -3812,7 +4496,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 375d"
+          "No review for 376d"
         ],
         [
           "RED",
@@ -3828,6 +4512,12 @@
         "formatted_address": "Bristol BS5 8AQ, UK",
         "google_maps_url": "https://maps.google.com/?cid=3025798223835740967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 19,
+          "rating": 3.63
+        }
       }
     },
     {
@@ -3879,6 +4569,16 @@
         "formatted_address": "196 Upper Richmond Rd, London SW15 2SH",
         "google_maps_url": "https://maps.google.com/?cid=3513833663929582742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 96,
+          "rating": 4.82
+        },
+        "Trustpilot": {
+          "count": 784,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -3926,6 +4626,16 @@
         "google_maps_url": "https://maps.google.com/?cid=12630165933959540575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 304,
+          "rating": 4.59
+        },
+        "Trustpilot": {
+          "count": 793,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -3971,6 +4681,20 @@
         "formatted_address": "18 Market Pl, Romsey SO51 8NA",
         "google_maps_url": "https://maps.google.com/?cid=13249078697542659512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 79,
+          "rating": 4.34
+        },
+        "Yell": {
+          "count": 4,
+          "rating": 1.0
+        }
       }
     },
     {
@@ -4021,6 +4745,12 @@
         "formatted_address": "97 High St, Marlborough SN8 1HD",
         "google_maps_url": "https://maps.google.com/?cid=10486030161962019265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 36,
+          "rating": 4.72
+        }
       }
     },
     {
@@ -4072,6 +4802,16 @@
         "formatted_address": "97 Uxbridge Rd, London W12 8NL",
         "google_maps_url": "https://maps.google.com/?cid=1086313507205934519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 225,
+          "rating": 4.52
+        },
+        "Trustpilot": {
+          "count": 793,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -4120,6 +4860,16 @@
         "google_maps_url": "https://maps.google.com/?cid=5093532940384118434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 250,
+          "rating": 4.88
+        },
+        "Trustpilot": {
+          "count": 775,
+          "rating": 3.88
+        }
       }
     },
     {
@@ -4167,6 +4917,16 @@
         "google_maps_url": "https://maps.google.com/?cid=3327646735365371301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 200,
+          "rating": 4.63
+        },
+        "Facebook": {
+          "count": 2,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -4218,6 +4978,16 @@
         "formatted_address": "123a Gloucester Rd, South Kensington, London SW7 4TE",
         "google_maps_url": "https://maps.google.com/?cid=12026542858642355259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 76,
+          "rating": 4.63
+        },
+        "Trustpilot": {
+          "count": 793,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -4237,7 +5007,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-09-20T09:23:16.973000",
-      "days_since_review": 241,
+      "days_since_review": 242,
       "total_reviews": 131,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4252,7 +5022,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 241d"
+          "No review for 242d"
         ]
       ],
       "overall_rag": "RED",
@@ -4263,6 +5033,16 @@
         "formatted_address": "29 Southbourne Grove, Southbourne, Bournemouth BH6 3QT",
         "google_maps_url": "https://maps.google.com/?cid=12199390923729165832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 39,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 92,
+          "rating": 4.37
+        }
       }
     },
     {
@@ -4315,6 +5095,16 @@
         "google_maps_url": "https://maps.google.com/?cid=3756265866229473736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 145,
+          "rating": 4.81
+        },
+        "Trustpilot": {
+          "count": 833,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -4361,6 +5151,16 @@
         "formatted_address": "103-104 St John's Wood Terrace, London NW8 6PL",
         "google_maps_url": "https://maps.google.com/?cid=2214516051315823006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 106,
+          "rating": 4.91
+        },
+        "Trustpilot": {
+          "count": 832,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -4412,6 +5212,16 @@
         "google_maps_url": "https://maps.google.com/?cid=10613305068492721675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.75,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 162,
+          "rating": 4.69
+        },
+        "Facebook": {
+          "count": 3,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -4464,6 +5274,16 @@
         "google_maps_url": "https://maps.google.com/?cid=10613305068492721675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 97,
+          "rating": 4.65
+        },
+        "Trustpilot": {
+          "count": 825,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -4514,6 +5334,16 @@
         "formatted_address": "26 Brighton Rd, Surbiton KT6 5PQ",
         "google_maps_url": "https://maps.google.com/?cid=14690275809089635225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 194,
+          "rating": 4.93
+        },
+        "Trustpilot": {
+          "count": 36,
+          "rating": 4.17
+        }
       }
     },
     {
@@ -4570,6 +5400,16 @@
         "formatted_address": "Redriff Rd, London SE16 7LL",
         "google_maps_url": "https://maps.google.com/?cid=13185721372126835772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 24,
+          "rating": 4.29
+        },
+        "Trustpilot": {
+          "count": 37,
+          "rating": 4.14
+        }
       }
     },
     {
@@ -4617,6 +5457,16 @@
         "google_maps_url": "https://maps.google.com/?cid=10735316597287386031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 177,
+          "rating": 4.67
+        },
+        "Trustpilot": {
+          "count": 788,
+          "rating": 3.89
+        }
       }
     },
     {
@@ -4668,6 +5518,20 @@
         "formatted_address": "55 New Oxford St, London WC1A 1BS",
         "google_maps_url": "https://maps.google.com/?cid=1495756353989745298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 1.0
+        },
+        "Google": {
+          "count": 100,
+          "rating": 4.73
+        },
+        "Trustpilot": {
+          "count": 823,
+          "rating": 3.9
+        }
       }
     },
     {
@@ -4719,6 +5583,16 @@
         "formatted_address": "142 W End Ln, London NW6 1SD",
         "google_maps_url": "https://maps.google.com/?cid=6580302545557603529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 46,
+          "rating": 4.83
+        },
+        "Trustpilot": {
+          "count": 816,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -4774,6 +5648,12 @@
         "formatted_address": "28 Knights Hill, Norwood, London SE27 0HY",
         "google_maps_url": "https://maps.google.com/?cid=7398711738509847405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 43,
+          "rating": 4.58
+        }
       }
     },
     {
@@ -4824,6 +5704,16 @@
         "formatted_address": "77 Poole Rd, Westbourne, Bournemouth BH4 9BB",
         "google_maps_url": "https://maps.google.com/?cid=5543173158544845463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 544,
+          "rating": 4.89
+        },
+        "Facebook": {
+          "count": 1,
+          "rating": 5.0
+        }
       }
     },
     {
@@ -4864,6 +5754,16 @@
         "formatted_address": "79 Queens Rd, Weybridge KT13 9UQ",
         "google_maps_url": "https://maps.google.com/?cid=15000183142221762534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15
+      },
+      "platforms": {
+        "Facebook": {
+          "count": 1,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 85,
+          "rating": 4.73
+        }
       }
     },
     {
@@ -4903,7 +5803,17 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 53,
+          "rating": 4.89
+        },
+        "Trustpilot": {
+          "count": 834,
+          "rating": 3.91
+        }
+      }
     },
     {
       "office_id": 14714,
@@ -4948,6 +5858,12 @@
         "formatted_address": "72 High St, Winchester SO23 9DA",
         "google_maps_url": "https://maps.google.com/?cid=16522652201826957309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 180,
+          "rating": 4.86
+        }
       }
     },
     {
@@ -4999,6 +5915,16 @@
         "formatted_address": "7 Broad St, Wokingham RG40 1AY",
         "google_maps_url": "https://maps.google.com/?cid=6131003253996522894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 18,
+          "rating": 4.78
+        },
+        "Trustpilot": {
+          "count": 835,
+          "rating": 3.91
+        }
       }
     },
     {
@@ -5051,6 +5977,16 @@
         "google_maps_url": "https://maps.google.com/?cid=16107570672752066955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.15,
         "multi_va_attribution_count": 2
+      },
+      "platforms": {
+        "Google": {
+          "count": 99,
+          "rating": 4.71
+        },
+        "Trustpilot": {
+          "count": 848,
+          "rating": 3.88
+        }
       }
     },
     {
@@ -5089,7 +6025,21 @@
         ]
       ],
       "overall_rag": "RED",
-      "google": null
+      "google": null,
+      "platforms": {
+        "Yell": {
+          "count": 2,
+          "rating": 5.0
+        },
+        "Facebook": {
+          "count": 3,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 180,
+          "rating": 4.91
+        }
+      }
     }
   ],
   "google_summary": {
@@ -5100,6 +6050,34 @@
     "avg_rating": 4.74,
     "avg_reviews_per_matched_office": 146.0,
     "multi_va_attribution_warnings": 20,
-    "source": "Google Places API \u2014 harvested 2026-05-20"
+    "source": "Google Places API \u2014 harvested 2026-05-20 (incl. recovery pass)"
+  },
+  "platforms_summary": {
+    "matched_offices": 103,
+    "total_offices": 103,
+    "platforms": {
+      "Google": {
+        "total_reviews": 12577,
+        "avg_rating": 4.74
+      },
+      "Trustpilot": {
+        "total_reviews": 43550,
+        "avg_rating": 3.9
+      },
+      "Facebook": {
+        "total_reviews": 158,
+        "avg_rating": 4.85
+      },
+      "Yell": {
+        "total_reviews": 20,
+        "avg_rating": 2.5
+      },
+      "View Agents": {
+        "total_reviews": 64,
+        "avg_rating": 4.88
+      }
+    },
+    "grand_total_reviews": 56369,
+    "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
   }
 }

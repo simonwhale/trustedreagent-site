@@ -5067,5 +5067,281 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 })();
 </script>
 
+
+
+
+
+<!-- BRAND-AGNOSTIC RENDER INJECTED -->
+<script>
+// ======================================================
+// BRAND-AGNOSTIC RENDER — every visible section is data-driven
+// ======================================================
+(function(){
+  fetch('gamification.json', { cache: 'no-cache' })
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      try { renderHero(data); }            catch(e){ console.error('hero', e); }
+      try { renderPerformance(data); }     catch(e){ console.error('perf', e); }
+      try { renderTiers(data); }           catch(e){ console.error('tiers', e); }
+      try { renderMapHeader(data); }       catch(e){ console.error('map header', e); }
+      try { renderLeaderboard(data); }     catch(e){ console.error('leaderboard', e); }
+      try { renderRegional(data); }        catch(e){ console.error('regional', e); }
+      try { renderPlaybook(data); }        catch(e){ console.error('playbook', e); }
+      try { renderPlatforms(data); }       catch(e){ console.error('platforms', e); }
+      try { renderFooter(data); }          catch(e){ console.error('footer', e); }
+    });
+
+  // ---------- helpers ----------
+  function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function num(n){ return (n==null||!isFinite(n))?0:n; }
+  function fmt(n){ return num(n).toLocaleString('en-GB'); }
+  function setText(sel, txt){ var el = document.querySelector(sel); if (el) el.textContent = txt; }
+  function setHTML(sel, html){ var el = document.querySelector(sel); if (el) el.innerHTML = html; }
+  function isWinnerTier(t){ t = (t||'').toLowerCase(); return t==='platinum'||t==='gold'||t==='winner'; }
+  function isContenderTier(t){ return (t||'').toLowerCase()==='contender'; }
+  function isFoundationTier(t){ return (t||'').toLowerCase()==='foundation'; }
+
+  // ---------- HERO ----------
+  function renderHero(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var saturation = offices ? Math.round((winners/offices)*100) : 0;
+    setText('.hero-brand', brand);
+    var vals = document.querySelectorAll('.hero-stats .hero-stat-value');
+    if (vals.length >= 3) {
+      vals[0].textContent = fmt(offices);
+      vals[1].textContent = fmt(winners);
+      vals[2].textContent = saturation + '%';
+    }
+  }
+
+  // ---------- PERFORMANCE SUMMARY ----------
+  function renderPerformance(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var pct = offices ? Math.round((winners/offices)*100*10)/10 : 0;
+    var cards = document.querySelectorAll('#performance .perf-card');
+    if (cards.length >= 1) {
+      var c1 = cards[0];
+      var lbl = c1.querySelector('.perf-label'); if (lbl) lbl.textContent = brand + ' Winner Saturation';
+      var val = c1.querySelector('.perf-value'); if (val) val.textContent = pct + '%';
+      var desc = c1.querySelector('.perf-desc'); if (desc) desc.textContent = fmt(winners) + ' of ' + fmt(offices) + ' offices are Trusted Agent Winners';
+    }
+  }
+
+  // ---------- TIER DISTRIBUTION ----------
+  function renderTiers(data){
+    var offices = data.offices || [];
+    var total = offices.length;
+    var winners = offices.filter(function(o){ return isWinnerTier(o.tier); }).length;
+    var contenders = offices.filter(function(o){ return isContenderTier(o.tier); }).length;
+    var foundation = offices.filter(function(o){ return isFoundationTier(o.tier); }).length;
+    var others = total - winners - contenders - foundation;
+    // Bucket "others" into foundation for the bar so it always sums to 100%
+    foundation = foundation + others;
+
+    var pctW = total ? +((winners/total)*100).toFixed(1) : 0;
+    var pctC = total ? +((contenders/total)*100).toFixed(1) : 0;
+    var pctF = total ? +((foundation/total)*100).toFixed(1) : 0;
+
+    // Update segment bar widths
+    var fills = document.querySelectorAll('#tiers .segment-bar-fill');
+    if (fills.length >= 3) {
+      fills[0].style.width = pctW + '%';
+      fills[1].style.width = pctC + '%';
+      fills[2].style.width = pctF + '%';
+    }
+
+    // Update tier counts
+    var counts = document.querySelectorAll('#tiers .tier-count');
+    var pcts = document.querySelectorAll('#tiers .tier-pct');
+    if (counts.length >= 3) {
+      counts[0].textContent = fmt(winners);
+      counts[1].textContent = fmt(contenders);
+      counts[2].textContent = fmt(foundation);
+    }
+    if (pcts.length >= 3) {
+      pcts[0].textContent = pctW + '%';
+      pcts[1].textContent = pctC + '%';
+      pcts[2].textContent = pctF + '%';
+    }
+  }
+
+  // ---------- MAP TITLE + LEGEND ----------
+  function renderMapHeader(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []);
+    var geo = offices.filter(function(o){ return o.lat && o.lng; }).length;
+    var mapTitle = document.querySelector('#v2-map .section-title');
+    if (mapTitle) mapTitle.innerHTML = 'Network Map &mdash; ' + fmt(offices.length) + ' ' + esc(brand) + ' Offices';
+    var legend = document.querySelector('#v2-map .map-tier-legend');
+    if (legend) {
+      // Replace the third row "EweMove office" with the actual brand
+      legend.querySelectorAll('.row').forEach(function(row){
+        if (/EweMove office/i.test(row.textContent)) {
+          row.lastChild && (row.lastChild.textContent = brand + ' office');
+        }
+      });
+    }
+    // Geocode caption
+    var caption = document.querySelector('#v2-map .map-wrap .map-controls > div:last-child');
+    if (caption && /geocoded/i.test(caption.textContent)) {
+      caption.innerHTML = fmt(geo) + ' of ' + fmt(offices.length) + ' offices geocoded.<br>Tiles: © OpenStreetMap.';
+    }
+  }
+
+  // ---------- LEADERBOARD ----------
+  function renderLeaderboard(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).slice();
+    // Sort by reputation_score desc (default order)
+    offices.sort(function(a,b){ return (b.reputation_score||0)-(a.reputation_score||0); });
+
+    var titleEl = document.querySelector('#offices .section-title');
+    if (titleEl) titleEl.innerHTML = 'Office Leaderboard &mdash; All ' + fmt(offices.length) + ' Offices';
+
+    var tbody = document.querySelector('#offices table tbody') || document.querySelector('#offices tbody');
+    if (!tbody) return;
+
+    var rows = offices.map(function(o, i){
+      var tier = (o.tier || 'Foundation');
+      var tierColor = ({'Platinum':'#C9A96E','Gold':'#8c6f2f','Winner':'#0d9488','Contender':'#3b82f6','Foundation':'#9ca3af'}[tier] || '#9ca3af');
+      var score = num(o.reputation_score);
+      var rating = (o.rating != null) ? Number(o.rating).toFixed(2) + '★' : '—';
+      var totalReviews = o.google && o.google.user_rating_count != null ? o.google.user_rating_count : num(o.total_reviews);
+      var reviews30 = num(o.reviews_30d);
+      var reply = (o.reply_rate != null && o.reply_rate !== '') ? (Math.round((o.reply_rate||0)*100*10)/10 + '%') : '—';
+      var loc = esc(o.postcode || '');
+      return '<tr>' +
+        '<td>' + (i+1) + '</td>' +
+        '<td class="name-cell">' + esc(o.branch) + '</td>' +
+        '<td>' + loc + '</td>' +
+        '<td><span class="tier-pill" style="background:'+tierColor+';color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;">' + esc(tier) + '</span></td>' +
+        '<td class="num-cell">' + score + '</td>' +
+        '<td class="num-cell">' + rating + '</td>' +
+        '<td class="num-cell">' + fmt(totalReviews) + '</td>' +
+        '<td class="num-cell">' + fmt(reviews30) + '</td>' +
+        '<td class="num-cell">' + reply + '</td>' +
+        '</tr>';
+    }).join('');
+    tbody.innerHTML = rows;
+  }
+
+  // ---------- REGIONAL BREAKDOWN ----------
+  function renderRegional(data){
+    var offices = data.offices || [];
+    var byRegion = {};
+    offices.forEach(function(o){
+      var r = o.region || 'Unknown';
+      byRegion[r] = byRegion[r] || { offices: 0, winners: 0 };
+      byRegion[r].offices++;
+      if (isWinnerTier(o.tier)) byRegion[r].winners++;
+    });
+    var rows = Object.keys(byRegion).map(function(r){
+      var sat = byRegion[r].offices ? Math.round(byRegion[r].winners/byRegion[r].offices*100) : 0;
+      return {region: r, offices: byRegion[r].offices, winners: byRegion[r].winners, sat: sat};
+    }).sort(function(a,b){ return b.offices - a.offices; });
+
+    var tbody = document.querySelector('.regional-table tbody');
+    if (!tbody) return;
+    tbody.innerHTML = rows.map(function(r){
+      return '<tr>' +
+        '<td>' + esc(r.region) + '</td>' +
+        '<td class="num-cell">' + fmt(r.offices) + '</td>' +
+        '<td class="num-cell">' + fmt(r.winners) + '</td>' +
+        '<td><div class="sat-bar-wrap"><div class="sat-bar" style="--fill:'+r.sat+'%"></div><span class="sat-pct">'+r.sat+'%</span></div></td>' +
+        '</tr>';
+    }).join('');
+  }
+
+  // ---------- PLAYBOOK ----------
+  function renderPlaybook(data){
+    var offices = data.offices || [];
+    var cards = document.querySelectorAll('.playbook-card');
+    if (!cards.length) return;
+    // Top 5 by reputation_score
+    var top = offices.slice().filter(function(o){ return num(o.reputation_score)>0; })
+      .sort(function(a,b){ return num(b.reputation_score)-num(a.reputation_score); }).slice(0,5);
+    var c1List = cards[0] && cards[0].querySelector('.office-list');
+    if (c1List) c1List.innerHTML = top.map(function(o){
+      return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">Score '+num(o.reputation_score)+'</span></li>';
+    }).join('') || '<li><span class="office-name">No data</span></li>';
+
+    // Worst reply rates
+    var low = offices.slice().filter(function(o){ return o.reply_rate != null && o.reply_rate !== ''; })
+      .sort(function(a,b){ return num(a.reply_rate)-num(b.reply_rate); }).slice(0,8);
+    if (cards.length >= 2) {
+      var c2List = cards[1].querySelector('.office-list');
+      if (c2List) c2List.innerHTML = low.map(function(o){
+        var pct = Math.round(num(o.reply_rate)*100*10)/10;
+        return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">'+pct+'%</span></li>';
+      }).join('') || '<li><span class="office-name">No data</span></li>';
+      var sub = cards[1].querySelector('.playbook-sub');
+      if (sub) sub.textContent = offices.filter(function(o){ return o.reply_rate != null && o.reply_rate < 0.5; }).length + ' offices reply to fewer than 50% of reviews — bottom of the list below';
+    }
+
+    // Flagged offices
+    if (cards.length >= 3) {
+      var flagged = offices.slice().filter(function(o){ return num(o.flag_count)>0; })
+        .sort(function(a,b){ return num(b.flag_count)-num(a.flag_count); }).slice(0,8);
+      var c3List = cards[2].querySelector('.office-list');
+      if (c3List) c3List.innerHTML = flagged.map(function(o){
+        return '<li><span class="office-name">'+esc(o.branch)+'</span><span class="office-stat">'+num(o.flag_count)+' flags</span></li>';
+      }).join('') || '<li><span class="office-name">No flagged offices</span></li>';
+      var sub3 = cards[2].querySelector('.playbook-sub');
+      if (sub3) sub3.textContent = flagged.length + ' offices have data-quality flags';
+    }
+  }
+
+  // ---------- PLATFORMS (multi-platform review breakdown) ----------
+  function renderPlatforms(data){
+    var brand = data.brand || 'Brand';
+    var ps = data.platforms_summary;
+    if (!ps || !ps.platforms) return;
+    var platOrder = ['Google','Trustpilot','Facebook','AllAgents','Yell','FeeFo','View Agents'];
+    var totalReviews = ps.grand_total_reviews || 0;
+    var rows = platOrder.filter(function(p){ return ps.platforms[p]; }).map(function(p){
+      var s = ps.platforms[p];
+      var pct = totalReviews ? ((s.total_reviews / totalReviews) * 100).toFixed(1) : '0';
+      var rating = s.avg_rating ? Number(s.avg_rating).toFixed(2) + '\u2605' : '\u2014';
+      var color = {'Google':'#4285F4','Trustpilot':'#00B67A','Facebook':'#1877F2',
+                   'AllAgents':'#FF6B35','Yell':'#FFCC00','FeeFo':'#7B68EE','View Agents':'#1ABC9C'}[p] || '#666';
+      return '<div class="plat-row" style="display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid #eaecef;">' +
+        '<div style="width:8px;height:32px;background:' + color + ';border-radius:2px;"></div>' +
+        '<div style="flex:1;"><div style="font-weight:600;font-size:14px;color:#0a1d3a;">' + esc(p) + '</div>' +
+        '<div style="font-size:11px;color:#7088a4;">' + rating + ' average</div></div>' +
+        '<div style="text-align:right;"><div style="font-size:18px;font-weight:700;color:#0a1d3a;">' + fmt(s.total_reviews) + '</div>' +
+        '<div style="font-size:11px;color:#7088a4;">' + pct + '% of total</div></div></div>';
+    }).join('');
+    // Inject a platforms section after the tiers section if not present
+    var existing = document.getElementById('platforms-breakdown');
+    var html = '<section id="platforms-breakdown" style="margin:32px 0;padding:0 24px;">' +
+      '<div class="section-title" style="font-size:11px;font-weight:700;letter-spacing:1.6px;color:#7088a4;text-transform:uppercase;margin-bottom:16px;">Review Platforms \u2014 ' + fmt(totalReviews) + ' Total Reviews</div>' +
+      '<div style="background:#fff;border:1px solid #eaecef;border-radius:12px;overflow:hidden;">' + rows + '</div>' +
+      '</section>';
+    if (existing) {
+      existing.outerHTML = html;
+    } else {
+      var tiersSection = document.getElementById('tiers');
+      if (tiersSection) tiersSection.insertAdjacentHTML('afterend', html);
+    }
+  }
+
+  // ---------- FOOTER ----------
+  function renderFooter(data){
+    var brand = data.brand || 'Brand';
+    var offices = (data.offices || []).length;
+    document.querySelectorAll('.footer-method').forEach(function(el){
+      el.innerHTML = el.innerHTML.replace(/\d+\s+EweMove offices audited/g, fmt(offices) + ' ' + esc(brand) + ' offices audited');
+    });
+    var fc = document.querySelector('.footer-copy');
+    if (fc) fc.innerHTML = fc.innerHTML.replace(/EweMove dashboard/g, esc(brand) + ' dashboard');
+  }
+})();
+</script>
+<!-- END BRAND-AGNOSTIC RENDER -->
 </body>
 </html>

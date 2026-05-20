@@ -1,0 +1,1785 @@
+{
+  "updated": "2026-05-20T13:29:02.453661+00:00",
+  "brand": "NEA (Northern Estate Agencies)",
+  "offices": [
+    {
+      "office_id": 251848,
+      "va_ids": [
+        251848
+      ],
+      "branch": "Manning Stainton (LS18)",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS18 4QD",
+      "reputation_score": 76,
+      "rating": 4.74,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T20:33:51",
+      "days_since_review": 0,
+      "total_reviews": 2241,
+      "reviews_30d": 82,
+      "reviews_90d": 101,
+      "replies_90d": 48,
+      "reply_rate_90d": 47.524752475247524,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 48% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJRaJ_Br1YeUgRN8zAtcHkoHU",
+        "rating": 4.9,
+        "user_rating_count": 211,
+        "formatted_address": "113 New Rd Side, Horsforth, Leeds LS18 4QD",
+        "google_maps_url": "https://maps.google.com/?cid=8476026019340405815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 214,
+          "rating": 4.92
+        },
+        "Trustpilot": {
+          "count": 2027,
+          "rating": 4.72
+        }
+      }
+    },
+    {
+      "office_id": 244000,
+      "va_ids": [
+        244000
+      ],
+      "branch": "Manning Stainton Adel",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS16 7NR",
+      "reputation_score": 75,
+      "rating": 4.94,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-06T01:46:09.427000",
+      "days_since_review": 14,
+      "total_reviews": 166,
+      "reviews_30d": 7,
+      "reviews_90d": 23,
+      "replies_90d": 17,
+      "reply_rate_90d": 73.91304347826086,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 74% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJJ7wcSQhZeUgRFy_O_sGeLLE",
+        "rating": 4.9,
+        "user_rating_count": 162,
+        "formatted_address": "487 Otley Rd, Adel, Leeds LS16 7NR",
+        "google_maps_url": "https://maps.google.com/?cid=12766753599729315607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 166,
+          "rating": 4.94
+        }
+      }
+    },
+    {
+      "office_id": 244001,
+      "va_ids": [
+        244001
+      ],
+      "branch": "Manning Stainton Beeston",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS11 7HX",
+      "reputation_score": 75,
+      "rating": 4.82,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-20T22:44:57.153000",
+      "days_since_review": 29,
+      "total_reviews": 132,
+      "reviews_30d": 1,
+      "reviews_90d": 8,
+      "replies_90d": 7,
+      "reply_rate_90d": 87.5,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJbX3dmYheeUgR5T3L1CZ5CHo",
+        "rating": 4.8,
+        "user_rating_count": 132,
+        "formatted_address": "293 Beeston Rd, Beeston, Leeds LS11 7HX",
+        "google_maps_url": "https://maps.google.com/?cid=8793411480126701029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 132,
+          "rating": 4.82
+        }
+      }
+    },
+    {
+      "office_id": 244002,
+      "va_ids": [
+        244002
+      ],
+      "branch": "Manning Stainton Crossgates",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS15 8DX",
+      "reputation_score": 75,
+      "rating": 4.88,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T04:48:33.967000",
+      "days_since_review": 1,
+      "total_reviews": 191,
+      "reviews_30d": 1,
+      "reviews_90d": 5,
+      "replies_90d": 4,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJE6UBVqxceUgReA3nEu5j5Rw",
+        "rating": 4.9,
+        "user_rating_count": 181,
+        "formatted_address": "62 Austhorpe Rd, Cross Gates, Leeds LS15 8DX",
+        "google_maps_url": "https://maps.google.com/?cid=2082180276899220856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 191,
+          "rating": 4.88
+        }
+      }
+    },
+    {
+      "office_id": 244003,
+      "va_ids": [
+        244003
+      ],
+      "branch": "Manning Stainton Garforth",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS25 1AA",
+      "reputation_score": 74,
+      "rating": 4.94,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-08T16:53:38.593000",
+      "days_since_review": 11,
+      "total_reviews": 130,
+      "reviews_30d": 2,
+      "reviews_90d": 7,
+      "replies_90d": 5,
+      "reply_rate_90d": 71.42857142857143,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 71% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJo8MJT59DeUgR-NUS2ymRWKk",
+        "rating": 4.9,
+        "user_rating_count": 126,
+        "formatted_address": "34 Main St, Garforth, Leeds LS25 1AA",
+        "google_maps_url": "https://maps.google.com/?cid=12202662799315490296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 130,
+          "rating": 4.94
+        }
+      }
+    },
+    {
+      "office_id": 8790,
+      "va_ids": [
+        8790
+      ],
+      "branch": "Manning Stainton Guiseley",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS20 9BT",
+      "reputation_score": 74,
+      "rating": 4.84,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-12T00:03:40.407000",
+      "days_since_review": 8,
+      "total_reviews": 124,
+      "reviews_30d": 3,
+      "reviews_90d": 6,
+      "replies_90d": 3,
+      "reply_rate_90d": 50.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 50% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJX3B7VOHie0gRuP5xgknsMm8",
+        "rating": 4.9,
+        "user_rating_count": 93,
+        "formatted_address": "2 The Grn, Guiseley, Leeds LS20 9BT",
+        "google_maps_url": "https://maps.google.com/?cid=8012726487510810296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 124,
+          "rating": 4.84
+        }
+      }
+    },
+    {
+      "office_id": 8867,
+      "va_ids": [
+        8867
+      ],
+      "branch": "Manning Stainton Headingley",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS6 2AD",
+      "reputation_score": 75,
+      "rating": 4.86,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-10T11:21:55.277000",
+      "days_since_review": 9,
+      "total_reviews": 180,
+      "reviews_30d": 3,
+      "reviews_90d": 7,
+      "replies_90d": 4,
+      "reply_rate_90d": 57.14285714285714,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 57% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJbWd5MEhZeUgRolPLXwWdh-0",
+        "rating": 4.9,
+        "user_rating_count": 163,
+        "formatted_address": "20 Otley Rd, Headingley, Leeds LS6 2AD",
+        "google_maps_url": "https://maps.google.com/?cid=17115821555252417442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 180,
+          "rating": 4.86
+        }
+      }
+    },
+    {
+      "office_id": 8764,
+      "va_ids": [
+        8764
+      ],
+      "branch": "Manning Stainton Moortown",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS17 6DR",
+      "reputation_score": 80,
+      "rating": 4.7,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-15T17:04:13.730000",
+      "days_since_review": 34,
+      "total_reviews": 166,
+      "reviews_30d": 0,
+      "reviews_90d": 5,
+      "replies_90d": 4,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 34d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJkd_9ZcZbeUgRWkuJ89ALNc4",
+        "rating": 4.3,
+        "user_rating_count": 150,
+        "formatted_address": "2 Shadwell Ln, Moortown, Leeds LS17 6DR",
+        "google_maps_url": "https://maps.google.com/?cid=14858795537645783898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Yell": {
+          "count": 1,
+          "rating": 5.0
+        },
+        "Google": {
+          "count": 165,
+          "rating": 4.7
+        }
+      }
+    },
+    {
+      "office_id": 241635,
+      "va_ids": [
+        241635
+      ],
+      "branch": "Manning Stainton Moortown Lettings",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS17 6RE",
+      "reputation_score": 76,
+      "rating": 4.72,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-18T12:46:37.620000",
+      "days_since_review": 1,
+      "total_reviews": 2057,
+      "reviews_30d": 77,
+      "reviews_90d": 91,
+      "replies_90d": 34,
+      "reply_rate_90d": 37.362637362637365,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 37% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJffID18FbeUgRYXeG6ffbHo0",
+        "rating": 4.8,
+        "user_rating_count": 131,
+        "formatted_address": "9 Allerton Ave, Moortown, Leeds LS17 6RE",
+        "google_maps_url": "https://maps.google.com/?cid=10168806866470467425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.05
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1913,
+          "rating": 4.72
+        },
+        "Google": {
+          "count": 144,
+          "rating": 4.74
+        }
+      }
+    },
+    {
+      "office_id": 8832,
+      "va_ids": [
+        8832
+      ],
+      "branch": "Manning Stainton Morley",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS27 9BR",
+      "reputation_score": 75,
+      "rating": 4.51,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-01T00:11:36.790000",
+      "days_since_review": 19,
+      "total_reviews": 336,
+      "reviews_30d": 2,
+      "reviews_90d": 6,
+      "replies_90d": 4,
+      "reply_rate_90d": 66.66666666666666,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 67% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Google": {
+          "count": 336,
+          "rating": 4.51
+        }
+      }
+    },
+    {
+      "office_id": 8891,
+      "va_ids": [
+        8891
+      ],
+      "branch": "Manning Stainton Oakwood",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS8 4BA",
+      "reputation_score": 76,
+      "rating": 4.95,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-11T00:13:00.197000",
+      "days_since_review": 9,
+      "total_reviews": 388,
+      "reviews_30d": 2,
+      "reviews_90d": 5,
+      "replies_90d": 3,
+      "reply_rate_90d": 60.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 60% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJISr9oZxbeUgR2ZLt5Wk64pc",
+        "rating": 4.9,
+        "user_rating_count": 370,
+        "formatted_address": "659 Roundhay Rd, Roundhay, Leeds LS8 4BA",
+        "google_maps_url": "https://maps.google.com/?cid=10944374270967255769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 388,
+          "rating": 4.95
+        }
+      }
+    },
+    {
+      "office_id": 8843,
+      "va_ids": [
+        8843
+      ],
+      "branch": "Manning Stainton Pudsey",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS28 7DT",
+      "reputation_score": 76,
+      "rating": 4.88,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-17T12:35:41.883000",
+      "days_since_review": 2,
+      "total_reviews": 703,
+      "reviews_30d": 11,
+      "reviews_90d": 38,
+      "replies_90d": 27,
+      "reply_rate_90d": 71.05263157894737,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 71% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJY_KhdOThe0gRUBJFAOUwG6c",
+        "rating": 4.9,
+        "user_rating_count": 657,
+        "formatted_address": "Mozart House, Lidget Hill, Pudsey LS28 7DT",
+        "google_maps_url": "https://maps.google.com/?cid=12041271788815323728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 703,
+          "rating": 4.88
+        }
+      }
+    },
+    {
+      "office_id": 244004,
+      "va_ids": [
+        244004
+      ],
+      "branch": "Manning Stainton Rothwell",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS26 0BB",
+      "reputation_score": 74,
+      "rating": 4.64,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-18T12:02:41.667000",
+      "days_since_review": 1,
+      "total_reviews": 129,
+      "reviews_30d": 1,
+      "reviews_90d": 4,
+      "replies_90d": 3,
+      "reply_rate_90d": 75.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 75% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJP60wmWxdeUgRQO5IZ01QUBs",
+        "rating": 4.6,
+        "user_rating_count": 121,
+        "formatted_address": "30 Marsh St, Rothwell, Leeds LS26 0BB",
+        "google_maps_url": "https://maps.google.com/?cid=1968161330536443456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 129,
+          "rating": 4.64
+        }
+      }
+    },
+    {
+      "office_id": 241638,
+      "va_ids": [
+        241638
+      ],
+      "branch": "Manning Stainton Wakefield",
+      "sub_brand": "Manning Stainton",
+      "postcode": "WF1 3AP",
+      "reputation_score": 75,
+      "rating": 4.78,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-18T11:57:44.510000",
+      "days_since_review": 1,
+      "total_reviews": 293,
+      "reviews_30d": 8,
+      "reviews_90d": 24,
+      "replies_90d": 15,
+      "reply_rate_90d": 62.5,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 62% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJPQ8q4v1meUgRHGC5IUvuy3o",
+        "rating": 4.8,
+        "user_rating_count": 276,
+        "formatted_address": "62-64 Northgate, Wakefield WF1 3AP",
+        "google_maps_url": "https://maps.google.com/?cid=8848427899355226140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 293,
+          "rating": 4.78
+        }
+      }
+    },
+    {
+      "office_id": 241639,
+      "va_ids": [
+        241639
+      ],
+      "branch": "Manning Stainton Wetherby",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS22 6LN",
+      "reputation_score": 74,
+      "rating": 4.94,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-01T23:12:52.460000",
+      "days_since_review": 48,
+      "total_reviews": 150,
+      "reviews_30d": 0,
+      "reviews_90d": 3,
+      "replies_90d": 3,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 48d"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJfX3qaxJPeUgRdt-bC_aOJSo",
+        "rating": 4.9,
+        "user_rating_count": 80,
+        "formatted_address": "43 Market Pl, Wetherby LS22 6LN",
+        "google_maps_url": "https://maps.google.com/?cid=3036990711139131254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 85,
+          "rating": 4.91
+        },
+        "AllAgents": {
+          "count": 65,
+          "rating": 4.98
+        }
+      }
+    },
+    {
+      "office_id": 8740,
+      "va_ids": [
+        8740
+      ],
+      "branch": "Manning Stainton Wortley",
+      "sub_brand": "Manning Stainton",
+      "postcode": "LS12 4PQ",
+      "reputation_score": 80,
+      "rating": 4.87,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-09T00:07:55.200000",
+      "days_since_review": 11,
+      "total_reviews": 183,
+      "reviews_30d": 1,
+      "reviews_90d": 7,
+      "replies_90d": 6,
+      "reply_rate_90d": 85.71428571428571,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJX_cQauReeUgR6OHxyI4FQZ4",
+        "rating": 4.9,
+        "user_rating_count": 173,
+        "formatted_address": "134-136 Lower Wortley Rd, Wortley, Leeds LS12 4PQ",
+        "google_maps_url": "https://maps.google.com/?cid=11403401842293596648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 183,
+          "rating": 4.87
+        }
+      }
+    },
+    {
+      "office_id": 225471,
+      "va_ids": [
+        225471
+      ],
+      "branch": "Mortimers (BB1)",
+      "sub_brand": "Mortimers",
+      "postcode": "BB1 7DT",
+      "reputation_score": 75,
+      "rating": 4.81,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-12T12:23:52.590000",
+      "days_since_review": 7,
+      "total_reviews": 312,
+      "reviews_30d": 2,
+      "reviews_90d": 7,
+      "replies_90d": 7,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJLQwB6s2fe0gRiGZvsot0Yvw",
+        "rating": 4.8,
+        "user_rating_count": 298,
+        "formatted_address": "82 King William St, Blackburn BB1 7DT",
+        "google_maps_url": "https://maps.google.com/?cid=18186226388618405512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 312,
+          "rating": 4.81
+        }
+      }
+    },
+    {
+      "office_id": 829,
+      "va_ids": [
+        829
+      ],
+      "branch": "Mortimers (BB5)",
+      "sub_brand": "Mortimers",
+      "postcode": "BB5 1HD",
+      "reputation_score": 76,
+      "rating": 4.88,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-28T13:49:01.080000",
+      "days_since_review": 21,
+      "total_reviews": 389,
+      "reviews_30d": 1,
+      "reviews_90d": 12,
+      "replies_90d": 12,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ8TgWI-GYe0gRvLbAOq0LJQw",
+        "rating": 4.9,
+        "user_rating_count": 377,
+        "formatted_address": "22 Blackburn Rd, Accrington BB5 1HD",
+        "google_maps_url": "https://maps.google.com/?cid=875118541236385468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 389,
+          "rating": 4.88
+        }
+      }
+    },
+    {
+      "office_id": 841,
+      "va_ids": [
+        841
+      ],
+      "branch": "Mortimers (BB7)",
+      "sub_brand": "Mortimers",
+      "postcode": "BB7 2BT",
+      "reputation_score": 80,
+      "rating": 4.82,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-04T01:46:48.120000",
+      "days_since_review": 16,
+      "total_reviews": 174,
+      "reviews_30d": 5,
+      "reviews_90d": 9,
+      "replies_90d": 8,
+      "reply_rate_90d": 88.88888888888889,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJzZCCQVube0gRobfe7pGdfkc",
+        "rating": 4.8,
+        "user_rating_count": 166,
+        "formatted_address": "5-7 Castle St, Clitheroe BB7 2BT",
+        "google_maps_url": "https://maps.google.com/?cid=5151728273861818273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 174,
+          "rating": 4.82
+        }
+      }
+    },
+    {
+      "office_id": 259714,
+      "va_ids": [
+        259714
+      ],
+      "branch": "Ryder & Dutton Glossop",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "SK13 8AL",
+      "reputation_score": 76,
+      "rating": 4.83,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-19T18:26:40",
+      "days_since_review": 61,
+      "total_reviews": 1697,
+      "reviews_30d": 0,
+      "reviews_90d": 30,
+      "replies_90d": 5,
+      "reply_rate_90d": 16.666666666666664,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 61d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 17% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJQVeSR_TLe0gRjdlbktgGWsc",
+        "rating": 4.8,
+        "user_rating_count": 131,
+        "formatted_address": "1 High St W, Glossop SK13 8AL",
+        "google_maps_url": "https://maps.google.com/?cid=14364801488689813901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1579,
+          "rating": 4.83
+        },
+        "Google": {
+          "count": 118,
+          "rating": 4.8
+        }
+      }
+    },
+    {
+      "office_id": 241791,
+      "va_ids": [
+        241791
+      ],
+      "branch": "Ryder & Dutton Holmfirth",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "HD9 3AZ",
+      "reputation_score": 75,
+      "rating": 4.96,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-12T21:21:45.803000",
+      "days_since_review": 7,
+      "total_reviews": 184,
+      "reviews_30d": 1,
+      "reviews_90d": 5,
+      "replies_90d": 4,
+      "reply_rate_90d": 80.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ-22S52fae0gRDOXXL7Ks0-A",
+        "rating": 5.0,
+        "user_rating_count": 177,
+        "formatted_address": "71 Huddersfield Rd, Holmfirth HD9 3AZ",
+        "google_maps_url": "https://maps.google.com/?cid=16200482165888640268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 184,
+          "rating": 4.96
+        }
+      }
+    },
+    {
+      "office_id": 241793,
+      "va_ids": [
+        241793
+      ],
+      "branch": "Ryder & Dutton Huddersfield",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "HD3 3DU",
+      "reputation_score": 75,
+      "rating": 4.8,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-17T06:59:15.663000",
+      "days_since_review": 3,
+      "total_reviews": 285,
+      "reviews_30d": 9,
+      "reviews_90d": 12,
+      "replies_90d": 11,
+      "reply_rate_90d": 91.66666666666666,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJGYmy343ce0gRBSRz4dDtUlM",
+        "rating": 4.8,
+        "user_rating_count": 272,
+        "formatted_address": "2 Acre St, Lindley, Huddersfield HD3 3DU",
+        "google_maps_url": "https://maps.google.com/?cid=6004122734629692421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 285,
+          "rating": 4.8
+        }
+      }
+    },
+    {
+      "office_id": 241794,
+      "va_ids": [
+        241794
+      ],
+      "branch": "Ryder & Dutton Rawtenstall",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "BB4 8EG",
+      "reputation_score": 76,
+      "rating": 4.9,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-18T09:59:05.663000",
+      "days_since_review": 2,
+      "total_reviews": 397,
+      "reviews_30d": 12,
+      "reviews_90d": 16,
+      "replies_90d": 5,
+      "reply_rate_90d": 31.25,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 31% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJZ7zAl7Kie0gR1KwjSB2T_zE",
+        "rating": 4.9,
+        "user_rating_count": 382,
+        "formatted_address": "68 Bank St, Rawtenstall, Rossendale BB4 8EG",
+        "google_maps_url": "https://maps.google.com/?cid=3602759980893318356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 397,
+          "rating": 4.9
+        }
+      }
+    },
+    {
+      "office_id": 241796,
+      "va_ids": [
+        241796
+      ],
+      "branch": "Ryder & Dutton Royton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL2 6QJ",
+      "reputation_score": 74,
+      "rating": 4.89,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-30T01:16:28.247000",
+      "days_since_review": 20,
+      "total_reviews": 186,
+      "reviews_30d": 1,
+      "reviews_90d": 5,
+      "replies_90d": 5,
+      "reply_rate_90d": 100.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJV6y8ILa5e0gRUXueJCQFg1s",
+        "rating": 4.9,
+        "user_rating_count": 175,
+        "formatted_address": "30-32 Rochdale Rd, Oldham OL2 6QJ",
+        "google_maps_url": "https://maps.google.com/?cid=6594119932191865681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 186,
+          "rating": 4.89
+        }
+      }
+    },
+    {
+      "office_id": 258632,
+      "va_ids": [
+        258632
+      ],
+      "branch": "Ryder & Dutton Slaithwaite",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "HD7 5AN",
+      "reputation_score": 75,
+      "rating": 4.98,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-03-27T22:28:37.677000",
+      "days_since_review": 53,
+      "total_reviews": 228,
+      "reviews_30d": 0,
+      "reviews_90d": 8,
+      "replies_90d": 0,
+      "reply_rate_90d": 0.0,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 53d"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 0% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJiwNhB1Pbe0gRhB8lFLYApLY",
+        "rating": 5.0,
+        "user_rating_count": 336,
+        "formatted_address": "Colne Valley, 12 Carr Ln, Slaithwaite, Huddersfield HD7 5AN",
+        "google_maps_url": "https://maps.google.com/?cid=13160644793105457028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 1.15
+      },
+      "platforms": {
+        "Google": {
+          "count": 228,
+          "rating": 4.98
+        }
+      }
+    },
+    {
+      "office_id": 9071,
+      "va_ids": [
+        9071,
+        257872
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "M24 1AB",
+      "reputation_score": 82,
+      "rating": 4.78,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T08:58:11",
+      "days_since_review": 1,
+      "total_reviews": 5010,
+      "reviews_30d": 70,
+      "reviews_90d": 121,
+      "replies_90d": 48,
+      "reply_rate_90d": 39.66942148760331,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 40% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJyVcRsna6e0gRkXSXVqhfAEk",
+        "rating": 4.9,
+        "user_rating_count": 845,
+        "formatted_address": "33, Middleton Gardens, Middleton, Manchester M24 1AB",
+        "google_maps_url": "https://maps.google.com/?cid=5260309541380650129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 939,
+          "rating": 4.86
+        },
+        "Trustpilot": {
+          "count": 1847,
+          "rating": 4.75
+        }
+      }
+    },
+    {
+      "office_id": 11417,
+      "va_ids": [
+        11417,
+        259445
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL1 1HA",
+      "reputation_score": 82,
+      "rating": 4.8,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-12T11:19:32.110000",
+      "days_since_review": 7,
+      "total_reviews": 661,
+      "reviews_30d": 8,
+      "reviews_90d": 55,
+      "replies_90d": 38,
+      "reply_rate_90d": 69.0909090909091,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 69% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJlcn0zX63e0gRcHH_b8Vhs2M",
+        "rating": 4.8,
+        "user_rating_count": 584,
+        "formatted_address": "7 Union St, Oldham OL1 1HA",
+        "google_maps_url": "https://maps.google.com/?cid=7184193331201536368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 605,
+          "rating": 4.8
+        }
+      }
+    },
+    {
+      "office_id": 253137,
+      "va_ids": [
+        11425,
+        253137
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL10 4NL",
+      "reputation_score": 82,
+      "rating": 4.79,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T08:58:11",
+      "days_since_review": 1,
+      "total_reviews": 2921,
+      "reviews_30d": 69,
+      "reviews_90d": 103,
+      "replies_90d": 33,
+      "reply_rate_90d": 32.038834951456316,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 32% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJmYNCxqm7e0gRLJkmjTRf3us",
+        "rating": 4.9,
+        "user_rating_count": 502,
+        "formatted_address": "22 Market Pl, Heywood OL10 4NL",
+        "google_maps_url": "https://maps.google.com/?cid=16996126723053885740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 407,
+          "rating": 4.95
+        },
+        "Trustpilot": {
+          "count": 1934,
+          "rating": 4.75
+        }
+      }
+    },
+    {
+      "office_id": 11452,
+      "va_ids": [
+        11452,
+        258167
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL16 1LD",
+      "reputation_score": 80,
+      "rating": 4.88,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-04-30T00:28:41.367000",
+      "days_since_review": 20,
+      "total_reviews": 2350,
+      "reviews_30d": 1,
+      "reviews_90d": 38,
+      "replies_90d": 11,
+      "reply_rate_90d": 28.947368421052634,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 29% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJZbLneEW5e0gRkO0JvocIX20",
+        "rating": 4.7,
+        "user_rating_count": 275,
+        "formatted_address": "8-12 St Mary's Gate, Rochdale OL16 1DZ",
+        "google_maps_url": "https://maps.google.com/?cid=7881027252023586192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.75
+      },
+      "platforms": {
+        "Google": {
+          "count": 198,
+          "rating": 4.88
+        }
+      }
+    },
+    {
+      "office_id": 11464,
+      "va_ids": [
+        11464,
+        259446
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL3 6AP",
+      "reputation_score": 82,
+      "rating": 4.84,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-18T13:17:39.077000",
+      "days_since_review": 1,
+      "total_reviews": 403,
+      "reviews_30d": 6,
+      "reviews_90d": 14,
+      "replies_90d": 11,
+      "reply_rate_90d": 78.57142857142857,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 79% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJ3XNe7yrGe0gR4561qIte_b0",
+        "rating": 4.9,
+        "user_rating_count": 228,
+        "formatted_address": "79 High St, Uppermill, Oldham OL3 6AP",
+        "google_maps_url": "https://maps.google.com/?cid=13690202396200115939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "View Agents": {
+          "count": 1,
+          "rating": 0.9
+        },
+        "Google": {
+          "count": 358,
+          "rating": 4.85
+        }
+      }
+    },
+    {
+      "office_id": 253138,
+      "va_ids": [
+        11476,
+        253138
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL6 6BX",
+      "reputation_score": 82,
+      "rating": 4.77,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T08:58:11",
+      "days_since_review": 1,
+      "total_reviews": 3022,
+      "reviews_30d": 75,
+      "reviews_90d": 128,
+      "replies_90d": 59,
+      "reply_rate_90d": 46.09375,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 46% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJG6TxBkW2e0gRMriMEE4NwAs",
+        "rating": 4.9,
+        "user_rating_count": 528,
+        "formatted_address": "20 Market St, Ashton-under-Lyne OL6 6BX",
+        "google_maps_url": "https://maps.google.com/?cid=846691358881921074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1921,
+          "rating": 4.75
+        },
+        "Google": {
+          "count": 517,
+          "rating": 4.87
+        }
+      }
+    },
+    {
+      "office_id": 11491,
+      "va_ids": [
+        11491,
+        259444
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL9 8DN",
+      "reputation_score": 82,
+      "rating": 4.76,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-17T19:12:59.690000",
+      "days_since_review": 2,
+      "total_reviews": 2228,
+      "reviews_30d": 8,
+      "reviews_90d": 41,
+      "replies_90d": 21,
+      "reply_rate_90d": 51.21951219512195,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "AMBER",
+          "reply_rate_med",
+          "Reply rate 51% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJbdwLi8qwe0gRUNXQWC4GdrE",
+        "rating": 4.8,
+        "user_rating_count": 293,
+        "formatted_address": "635 Broadway, Chadderton, Oldham OL9 8DN",
+        "google_maps_url": "https://maps.google.com/?cid=12787414988093445456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Google": {
+          "count": 343,
+          "rating": 4.76
+        }
+      }
+    },
+    {
+      "office_id": 253139,
+      "va_ids": [
+        253139,
+        259469
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "HX1 1HS",
+      "reputation_score": 76,
+      "rating": 4.78,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T00:51:22",
+      "days_since_review": 1,
+      "total_reviews": 4049,
+      "reviews_30d": 70,
+      "reviews_90d": 133,
+      "replies_90d": 31,
+      "reply_rate_90d": 23.308270676691727,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 23% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": null,
+      "platforms": {
+        "Yell": {
+          "count": 3,
+          "rating": 3.67
+        },
+        "Google": {
+          "count": 211,
+          "rating": 4.71
+        },
+        "Trustpilot": {
+          "count": 1829,
+          "rating": 4.8
+        }
+      }
+    },
+    {
+      "office_id": 253140,
+      "va_ids": [
+        253140
+      ],
+      "branch": "Ryder and Dutton",
+      "sub_brand": "Ryder & Dutton",
+      "postcode": "OL2 6HT",
+      "reputation_score": 76,
+      "rating": 4.74,
+      "nps": 0,
+      "last_login_raw": null,
+      "last_login_iso": null,
+      "days_since_login": null,
+      "last_user": null,
+      "last_email": null,
+      "last_review_at": "2026-05-19T08:58:11",
+      "days_since_review": 1,
+      "total_reviews": 2041,
+      "reviews_30d": 69,
+      "reviews_90d": 79,
+      "replies_90d": 28,
+      "reply_rate_90d": 35.44303797468354,
+      "flags": [
+        [
+          "RED",
+          "never_logged_in",
+          "Never logged in"
+        ],
+        [
+          "RED",
+          "reply_rate_low",
+          "Reply rate 35% (90d)"
+        ]
+      ],
+      "overall_rag": "RED",
+      "google": {
+        "place_id": "ChIJP8YRdDO4e0gRFroyuwRSk2M",
+        "rating": 4.7,
+        "user_rating_count": 140,
+        "formatted_address": "Salmon Fields Business Village, Salmon Fields, Royton, Oldham OL2 6HT",
+        "google_maps_url": "https://maps.google.com/?cid=7175168811605342742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "match_confidence": 0.95
+      },
+      "platforms": {
+        "Trustpilot": {
+          "count": 1894,
+          "rating": 4.74
+        },
+        "Google": {
+          "count": 147,
+          "rating": 4.73
+        }
+      }
+    }
+  ],
+  "google_summary": {
+    "matched_offices": 32,
+    "total_offices": 34,
+    "match_rate_pct": 94.1,
+    "total_reviews": 8735,
+    "avg_rating": 4.84,
+    "avg_reviews_per_matched_office": 273.0,
+    "multi_va_attribution_warnings": 0,
+    "source": "Google Places API \u2014 harvested 2026-05-20 (incl. recovery pass)"
+  },
+  "platforms_summary": {
+    "matched_offices": 34,
+    "total_offices": 34,
+    "platforms": {
+      "Google": {
+        "total_reviews": 9561,
+        "avg_rating": 4.84
+      },
+      "Trustpilot": {
+        "total_reviews": 14944,
+        "avg_rating": 4.76
+      },
+      "AllAgents": {
+        "total_reviews": 65,
+        "avg_rating": 4.98
+      },
+      "Yell": {
+        "total_reviews": 4,
+        "avg_rating": 4.0
+      },
+      "View Agents": {
+        "total_reviews": 1,
+        "avg_rating": 0.9
+      }
+    },
+    "grand_total_reviews": 24575,
+    "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
+  }
+}
