@@ -1713,14 +1713,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       <tbody><!-- populated by JS --></tbody>
     </table>
   </div>
-  <div class="callout-google">
-    <div class="ico">⚡</div>
-    <div class="txt">
-      <span data-brand-name></span> relies heavily on <strong>Google</strong> &mdash; <strong>132 of 161 offices</strong> active, with a <strong>91.5% reply rate</strong>
-      vs the UK estate-agent industry average of just <strong>39.8%</strong>. That single platform discipline is the
-      engine behind 57.8% network winner saturation.
-    </div>
-  </div>
+  <div data-platform-insight></div>
 </section>
 
 <!-- ====================================================== -->
@@ -1746,10 +1739,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       </div>
       <div>
         <div class="calc-milestones" id="calc-milestones"><!-- populated by JS --></div>
-        <div class="calc-example" id="calc-example">
-          <b>Easiest in the network:</b> <b><span data-brand-name></span> Aberdeen</b> needs just <b>2</b> new 5-star reviews to push 4.79 → 4.80.
-          One satisfied vendor a fortnight clears it.
-        </div>
+        <div class="calc-example" id="calc-example"><span data-calc-hint><i>Select an office above to see how many 5-star reviews lift them to the next milestone.</i></span></div>
       </div>
     </div>
     <div style="margin-top:16px;font-size:11px;color:var(--text-muted);font-family:'JetBrains Mono',monospace;letter-spacing:0.04em;">
@@ -2820,6 +2810,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 
 
 
+
 <!-- BRAND-AGNOSTIC RENDER INJECTED -->
 <script>
 // ======================================================
@@ -2839,6 +2830,8 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       try { renderPlatforms(data); }       catch(e){ console.error('platforms', e); }
       try { renderPlaceholders(data); }    catch(e){ console.error('placeholders', e); }
       try { renderCalcHint(data); }        catch(e){ console.error('calc', e); }
+      try { renderPlatformInsight(data); } catch(e){ console.error('platform-insight', e); }
+      try { renderPlatformFootprint(data); } catch(e){ console.error('platform-footprint', e); }
       try { renderFooter(data); }          catch(e){ console.error('footer', e); }
     });
 
@@ -2848,6 +2841,80 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
     var officeCount = (data.offices || []).length;
     document.querySelectorAll('[data-brand-name]').forEach(function(el){ el.textContent = brand; });
     document.querySelectorAll('[data-office-count]').forEach(function(el){ el.textContent = fmt(officeCount); });
+  }
+
+  // ---------- PLATFORM FOOTPRINT TABLE (#platform-table tbody) ----------
+  function renderPlatformFootprint(data){
+    var tbody = document.querySelector('#platform-table tbody');
+    if (!tbody) return;
+    var plats = (data.platforms_summary && data.platforms_summary.platforms) || {};
+    var offices = data.offices || [];
+    var totalReviews = (data.platforms_summary && data.platforms_summary.grand_total_reviews) || 0;
+    var rowsByPlat = {};
+    var platMeta = {
+      'Google':     {color:'#4285F4', dominant: true},
+      'Trustpilot': {color:'#00B67A'},
+      'FeeFo':      {color:'#7B68EE'},
+      'Facebook':   {color:'#1877F2'},
+      'AllAgents':  {color:'#FF6B35'},
+      'Yell':       {color:'#FFCC00'},
+      'View Agents':{color:'#1ABC9C'},
+    };
+    // Count offices that have data on each platform (look at o.platforms[plat])
+    Object.keys(platMeta).forEach(function(p){
+      var officeCount = 0;
+      offices.forEach(function(o){
+        if (o.platforms && o.platforms[p] && o.platforms[p].count > 0) officeCount++;
+      });
+      var s = plats[p] || {};
+      rowsByPlat[p] = {
+        name: p, color: platMeta[p].color,
+        offices: officeCount, reviews: s.total_reviews || 0, avg: s.avg_rating || null,
+        dominant: !!platMeta[p].dominant && (s.total_reviews||0) > 0,
+      };
+    });
+    var rows = Object.keys(rowsByPlat).map(function(p){ return rowsByPlat[p]; })
+      .sort(function(a,b){ return b.reviews - a.reviews; });
+    var html = rows.map(function(r){
+      var zero = r.offices === 0 && r.reviews === 0;
+      return '<tr' + (zero ? ' style="opacity:0.45;"' : '') + '>' +
+        '<td><span class="platform-name"><span class="platform-dot" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:' + r.color + ';margin-right:8px;"></span>' + esc(r.name) + '</span></td>' +
+        '<td class="num">' + (r.offices ? fmt(r.offices) : '<span class="dim">0</span>') + '</td>' +
+        '<td class="num">' + (r.reviews ? fmt(r.reviews) : '<span class="dim">0</span>') + '</td>' +
+        '<td class="num">' + (r.avg ? Number(r.avg).toFixed(2) + '\u2605' : '<span class="dim">\u2014</span>') + '</td>' +
+        '<td><span class="dim">\u2014</span></td>' +
+        '</tr>';
+    }).join('');
+    tbody.innerHTML = html;
+  }
+
+  // ---------- PLATFORM INSIGHT (narrative below the platforms table) ----------
+  function renderPlatformInsight(data){
+    var brand = data.brand || 'Brand';
+    var ps = data.platforms_summary || {};
+    var plats = ps.platforms || {};
+    var totalReviews = ps.grand_total_reviews || 0;
+    if (!totalReviews) return;
+    // Top platform by review count
+    var sorted = Object.keys(plats).map(function(p){ return {name:p, n:plats[p].total_reviews||0, r:plats[p].avg_rating}; })
+      .sort(function(a,b){ return b.n - a.n; });
+    if (!sorted.length) return;
+    var top = sorted[0];
+    var topPct = totalReviews ? Math.round(top.n * 100 / totalReviews) : 0;
+    var second = sorted[1];
+    var msg = '<b>' + esc(brand) + '</b> has <b>' + fmt(totalReviews) + '</b> reviews across <b>' +
+      sorted.length + ' platforms</b>. <b>' + esc(top.name) + '</b> is the dominant channel (<b>' +
+      topPct + '%</b> of total volume' +
+      (top.r ? ', ' + Number(top.r).toFixed(2) + '\u2605 avg' : '') + ')';
+    if (second) {
+      var secondPct = totalReviews ? Math.round(second.n * 100 / totalReviews) : 0;
+      msg += ', followed by <b>' + esc(second.name) + '</b> at <b>' + secondPct + '%</b>';
+    }
+    msg += '.';
+    document.querySelectorAll('[data-platform-insight]').forEach(function(el){
+      el.style.cssText = 'background:#0a1d3a;color:#fff;padding:14px 18px;border-radius:8px;border-left:4px solid #f59e0b;font-size:13px;line-height:1.6;margin-top:16px;';
+      el.innerHTML = msg;
+    });
   }
 
   // ---------- STAR-LIFT CALCULATOR HINT ----------
