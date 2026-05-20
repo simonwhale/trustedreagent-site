@@ -63,7 +63,17 @@
       "va": {
         "overallRating": 4.74,
         "totalReviews": 2241,
-        "replyRate": 47.524752475247524
+        "replyRate": 47.524752475247524,
+        "platforms": {
+          "google": {
+            "reviews": 214,
+            "score": 4.92
+          },
+          "trustpilot": {
+            "reviews": 2027,
+            "score": 4.72
+          }
+        }
       },
       "totalReviews": 2241,
       "replyRate": 47.524752475247524,
@@ -127,7 +137,13 @@
       "va": {
         "overallRating": 4.94,
         "totalReviews": 166,
-        "replyRate": 73.91304347826086
+        "replyRate": 73.91304347826086,
+        "platforms": {
+          "google": {
+            "reviews": 166,
+            "score": 4.94
+          }
+        }
       },
       "totalReviews": 166,
       "replyRate": 73.91304347826086,
@@ -186,7 +202,13 @@
       "va": {
         "overallRating": 4.82,
         "totalReviews": 132,
-        "replyRate": 87.5
+        "replyRate": 87.5,
+        "platforms": {
+          "google": {
+            "reviews": 132,
+            "score": 4.82
+          }
+        }
       },
       "totalReviews": 132,
       "replyRate": 87.5,
@@ -245,7 +267,13 @@
       "va": {
         "overallRating": 4.88,
         "totalReviews": 191,
-        "replyRate": 80.0
+        "replyRate": 80.0,
+        "platforms": {
+          "google": {
+            "reviews": 191,
+            "score": 4.88
+          }
+        }
       },
       "totalReviews": 191,
       "replyRate": 80.0,
@@ -309,7 +337,13 @@
       "va": {
         "overallRating": 4.94,
         "totalReviews": 130,
-        "replyRate": 71.42857142857143
+        "replyRate": 71.42857142857143,
+        "platforms": {
+          "google": {
+            "reviews": 130,
+            "score": 4.94
+          }
+        }
       },
       "totalReviews": 130,
       "replyRate": 71.42857142857143,
@@ -373,7 +407,13 @@
       "va": {
         "overallRating": 4.84,
         "totalReviews": 124,
-        "replyRate": 50.0
+        "replyRate": 50.0,
+        "platforms": {
+          "google": {
+            "reviews": 124,
+            "score": 4.84
+          }
+        }
       },
       "totalReviews": 124,
       "replyRate": 50.0,
@@ -437,7 +477,13 @@
       "va": {
         "overallRating": 4.86,
         "totalReviews": 180,
-        "replyRate": 57.14285714285714
+        "replyRate": 57.14285714285714,
+        "platforms": {
+          "google": {
+            "reviews": 180,
+            "score": 4.86
+          }
+        }
       },
       "totalReviews": 180,
       "replyRate": 57.14285714285714,
@@ -505,7 +551,17 @@
       "va": {
         "overallRating": 4.7,
         "totalReviews": 166,
-        "replyRate": 80.0
+        "replyRate": 80.0,
+        "platforms": {
+          "google": {
+            "reviews": 165,
+            "score": 4.7
+          },
+          "yell": {
+            "reviews": 1,
+            "score": 5.0
+          }
+        }
       },
       "totalReviews": 166,
       "replyRate": 80.0,
@@ -573,7 +629,17 @@
       "va": {
         "overallRating": 4.72,
         "totalReviews": 2057,
-        "replyRate": 37.362637362637365
+        "replyRate": 37.362637362637365,
+        "platforms": {
+          "google": {
+            "reviews": 144,
+            "score": 4.74
+          },
+          "trustpilot": {
+            "reviews": 1913,
+            "score": 4.72
+          }
+        }
       },
       "totalReviews": 2057,
       "replyRate": 37.362637362637365,
@@ -630,7 +696,13 @@
       "va": {
         "overallRating": 4.51,
         "totalReviews": 336,
-        "replyRate": 66.66666666666666
+        "replyRate": 66.66666666666666,
+        "platforms": {
+          "google": {
+            "reviews": 336,
+            "score": 4.51
+          }
+        }
       },
       "totalReviews": 336,
       "replyRate": 66.66666666666666,
@@ -693,7 +765,13 @@
       "va": {
         "overallRating": 4.95,
         "totalReviews": 388,
-        "replyRate": 60.0
+        "replyRate": 60.0,
+        "platforms": {
+          "google": {
+            "reviews": 388,
+            "score": 4.95
+          }
+        }
       },
       "totalReviews": 388,
       "replyRate": 60.0,
@@ -757,7 +835,13 @@
       "va": {
         "overallRating": 4.88,
         "totalReviews": 703,
-        "replyRate": 71.05263157894737
+        "replyRate": 71.05263157894737,
+        "platforms": {
+          "google": {
+            "reviews": 703,
+            "score": 4.88
+          }
+        }
       },
       "totalReviews": 703,
       "replyRate": 71.05263157894737,
@@ -821,7 +905,13 @@
       "va": {
         "overallRating": 4.64,
         "totalReviews": 129,
-        "replyRate": 75.0
+        "replyRate": 75.0,
+        "platforms": {
+          "google": {
+            "reviews": 129,
+            "score": 4.64
+          }
+        }
       },
       "totalReviews": 129,
       "replyRate": 75.0,
@@ -885,7 +975,13 @@
       "va": {
         "overallRating": 4.78,
         "totalReviews": 293,
-        "replyRate": 62.5
+        "replyRate": 62.5,
+        "platforms": {
+          "google": {
+            "reviews": 293,
+            "score": 4.78
+          }
+        }
       },
       "totalReviews": 293,
       "replyRate": 62.5,
@@ -953,7 +1049,17 @@
       "va": {
         "overallRating": 4.94,
         "totalReviews": 150,
-        "replyRate": 100.0
+        "replyRate": 100.0,
+        "platforms": {
+          "google": {
+            "reviews": 85,
+            "score": 4.91
+          },
+          "allagents": {
+            "reviews": 65,
+            "score": 4.98
+          }
+        }
       },
       "totalReviews": 150,
       "replyRate": 100.0,
@@ -1012,7 +1118,13 @@
       "va": {
         "overallRating": 4.87,
         "totalReviews": 183,
-        "replyRate": 85.71428571428571
+        "replyRate": 85.71428571428571,
+        "platforms": {
+          "google": {
+            "reviews": 183,
+            "score": 4.87
+          }
+        }
       },
       "totalReviews": 183,
       "replyRate": 85.71428571428571,
@@ -1071,7 +1183,13 @@
       "va": {
         "overallRating": 4.81,
         "totalReviews": 312,
-        "replyRate": 100.0
+        "replyRate": 100.0,
+        "platforms": {
+          "google": {
+            "reviews": 312,
+            "score": 4.81
+          }
+        }
       },
       "totalReviews": 312,
       "replyRate": 100.0,
@@ -1130,7 +1248,13 @@
       "va": {
         "overallRating": 4.88,
         "totalReviews": 389,
-        "replyRate": 100.0
+        "replyRate": 100.0,
+        "platforms": {
+          "google": {
+            "reviews": 389,
+            "score": 4.88
+          }
+        }
       },
       "totalReviews": 389,
       "replyRate": 100.0,
@@ -1189,7 +1313,13 @@
       "va": {
         "overallRating": 4.82,
         "totalReviews": 174,
-        "replyRate": 88.88888888888889
+        "replyRate": 88.88888888888889,
+        "platforms": {
+          "google": {
+            "reviews": 174,
+            "score": 4.82
+          }
+        }
       },
       "totalReviews": 174,
       "replyRate": 88.88888888888889,
@@ -1262,7 +1392,17 @@
       "va": {
         "overallRating": 4.83,
         "totalReviews": 1697,
-        "replyRate": 16.666666666666664
+        "replyRate": 16.666666666666664,
+        "platforms": {
+          "google": {
+            "reviews": 118,
+            "score": 4.8
+          },
+          "trustpilot": {
+            "reviews": 1579,
+            "score": 4.83
+          }
+        }
       },
       "totalReviews": 1697,
       "replyRate": 16.666666666666664,
@@ -1321,7 +1461,13 @@
       "va": {
         "overallRating": 4.96,
         "totalReviews": 184,
-        "replyRate": 80.0
+        "replyRate": 80.0,
+        "platforms": {
+          "google": {
+            "reviews": 184,
+            "score": 4.96
+          }
+        }
       },
       "totalReviews": 184,
       "replyRate": 80.0,
@@ -1380,7 +1526,13 @@
       "va": {
         "overallRating": 4.8,
         "totalReviews": 285,
-        "replyRate": 91.66666666666666
+        "replyRate": 91.66666666666666,
+        "platforms": {
+          "google": {
+            "reviews": 285,
+            "score": 4.8
+          }
+        }
       },
       "totalReviews": 285,
       "replyRate": 91.66666666666666,
@@ -1444,7 +1596,13 @@
       "va": {
         "overallRating": 4.9,
         "totalReviews": 397,
-        "replyRate": 31.25
+        "replyRate": 31.25,
+        "platforms": {
+          "google": {
+            "reviews": 397,
+            "score": 4.9
+          }
+        }
       },
       "totalReviews": 397,
       "replyRate": 31.25,
@@ -1503,7 +1661,13 @@
       "va": {
         "overallRating": 4.89,
         "totalReviews": 186,
-        "replyRate": 100.0
+        "replyRate": 100.0,
+        "platforms": {
+          "google": {
+            "reviews": 186,
+            "score": 4.89
+          }
+        }
       },
       "totalReviews": 186,
       "replyRate": 100.0,
@@ -1572,7 +1736,13 @@
       "va": {
         "overallRating": 4.98,
         "totalReviews": 228,
-        "replyRate": 0.0
+        "replyRate": 0.0,
+        "platforms": {
+          "google": {
+            "reviews": 228,
+            "score": 4.98
+          }
+        }
       },
       "totalReviews": 228,
       "replyRate": 0.0,
@@ -1641,7 +1811,17 @@
       "va": {
         "overallRating": 4.79,
         "totalReviews": 2786,
-        "replyRate": 39.66942148760331
+        "replyRate": 39.66942148760331,
+        "platforms": {
+          "google": {
+            "reviews": 939,
+            "score": 4.86
+          },
+          "trustpilot": {
+            "reviews": 1847,
+            "score": 4.75
+          }
+        }
       },
       "totalReviews": 2786,
       "replyRate": 39.66942148760331,
@@ -1706,7 +1886,13 @@
       "va": {
         "overallRating": 4.8,
         "totalReviews": 605,
-        "replyRate": 69.0909090909091
+        "replyRate": 69.0909090909091,
+        "platforms": {
+          "google": {
+            "reviews": 605,
+            "score": 4.8
+          }
+        }
       },
       "totalReviews": 605,
       "replyRate": 69.0909090909091,
@@ -1775,7 +1961,17 @@
       "va": {
         "overallRating": 4.78,
         "totalReviews": 2341,
-        "replyRate": 32.038834951456316
+        "replyRate": 32.038834951456316,
+        "platforms": {
+          "google": {
+            "reviews": 407,
+            "score": 4.95
+          },
+          "trustpilot": {
+            "reviews": 1934,
+            "score": 4.75
+          }
+        }
       },
       "totalReviews": 2341,
       "replyRate": 32.038834951456316,
@@ -1840,7 +2036,13 @@
       "va": {
         "overallRating": 4.88,
         "totalReviews": 198,
-        "replyRate": 28.947368421052634
+        "replyRate": 28.947368421052634,
+        "platforms": {
+          "google": {
+            "reviews": 198,
+            "score": 4.88
+          }
+        }
       },
       "totalReviews": 198,
       "replyRate": 28.947368421052634,
@@ -1909,7 +2111,17 @@
       "va": {
         "overallRating": 4.84,
         "totalReviews": 359,
-        "replyRate": 78.57142857142857
+        "replyRate": 78.57142857142857,
+        "platforms": {
+          "google": {
+            "reviews": 358,
+            "score": 4.85
+          },
+          "viewagents": {
+            "reviews": 1,
+            "score": 0.9
+          }
+        }
       },
       "totalReviews": 359,
       "replyRate": 78.57142857142857,
@@ -1978,7 +2190,17 @@
       "va": {
         "overallRating": 4.78,
         "totalReviews": 2438,
-        "replyRate": 46.09375
+        "replyRate": 46.09375,
+        "platforms": {
+          "google": {
+            "reviews": 517,
+            "score": 4.87
+          },
+          "trustpilot": {
+            "reviews": 1921,
+            "score": 4.75
+          }
+        }
       },
       "totalReviews": 2438,
       "replyRate": 46.09375,
@@ -2043,7 +2265,13 @@
       "va": {
         "overallRating": 4.76,
         "totalReviews": 343,
-        "replyRate": 51.21951219512195
+        "replyRate": 51.21951219512195,
+        "platforms": {
+          "google": {
+            "reviews": 343,
+            "score": 4.76
+          }
+        }
       },
       "totalReviews": 343,
       "replyRate": 51.21951219512195,
@@ -2109,7 +2337,21 @@
       "va": {
         "overallRating": 4.79,
         "totalReviews": 2043,
-        "replyRate": 23.308270676691727
+        "replyRate": 23.308270676691727,
+        "platforms": {
+          "google": {
+            "reviews": 211,
+            "score": 4.71
+          },
+          "trustpilot": {
+            "reviews": 1829,
+            "score": 4.8
+          },
+          "yell": {
+            "reviews": 3,
+            "score": 3.67
+          }
+        }
       },
       "totalReviews": 2043,
       "replyRate": 23.308270676691727,
@@ -2176,7 +2418,17 @@
       "va": {
         "overallRating": 4.74,
         "totalReviews": 2041,
-        "replyRate": 35.44303797468354
+        "replyRate": 35.44303797468354,
+        "platforms": {
+          "google": {
+            "reviews": 147,
+            "score": 4.73
+          },
+          "trustpilot": {
+            "reviews": 1894,
+            "score": 4.74
+          }
+        }
       },
       "totalReviews": 2041,
       "replyRate": 35.44303797468354,
@@ -2221,5 +2473,42 @@
     },
     "grand_total_reviews": 24575,
     "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
+  },
+  "platformFootprint": {
+    "google": {
+      "reviews": 9561,
+      "replies": 0,
+      "with_presence": 34
+    },
+    "trustpilot": {
+      "reviews": 14944,
+      "replies": 0,
+      "with_presence": 8
+    },
+    "feefo": {
+      "reviews": 0,
+      "replies": 0,
+      "with_presence": 0
+    },
+    "facebook": {
+      "reviews": 0,
+      "replies": 0,
+      "with_presence": 0
+    },
+    "allagents": {
+      "reviews": 65,
+      "replies": 0,
+      "with_presence": 1
+    },
+    "yell": {
+      "reviews": 4,
+      "replies": 0,
+      "with_presence": 2
+    },
+    "viewagents": {
+      "reviews": 1,
+      "replies": 0,
+      "with_presence": 1
+    }
   }
 }

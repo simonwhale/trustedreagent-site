@@ -2823,6 +2823,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 
 
 
+
 <!-- BRAND-AGNOSTIC RENDER INJECTED -->
 <script>
 // ======================================================
@@ -2843,7 +2844,8 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
       try { renderPlaceholders(data); }    catch(e){ console.error('placeholders', e); }
       try { renderCalcHint(data); }        catch(e){ console.error('calc', e); }
       try { renderPlatformInsight(data); } catch(e){ console.error('platform-insight', e); }
-      try { renderPlatformFootprint(data); } catch(e){ console.error('platform-footprint', e); }
+      // renderPlatformFootprint disabled — the legacy initPlatforms function handles the table
+      // using data.platformFootprint (which the JSON build script populates)
       try { renderFooter(data); }          catch(e){ console.error('footer', e); }
     });
 
