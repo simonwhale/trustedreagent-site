@@ -1,509 +1,168 @@
 {
- "updated": "2026-05-20T05:57:51.766547Z",
- "brands": [
-  {
-   "brand": "Connells Group",
-   "sub_count": 15,
-   "google": {
-    "offices": 1529,
-    "reviews": 232924,
-    "avg_rating": 4.59,
-    "reply_rate_all": 61.4,
-    "reviews_90d": 6792,
-    "reply_rate_90d": 87.5
-   },
-   "trustpilot": {
-    "offices": 1529,
-    "reviews": 516285,
-    "avg_rating": 2.54,
-    "reply_rate_all": 10.2,
-    "reviews_90d": 3900,
-    "reply_rate_90d": 15.8
-   },
-   "feefo": {
-    "offices": 1529,
-    "reviews": 95,
-    "avg_rating": 4.25,
-    "reply_rate_all": 32.6,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "LRG (Leaders Romans)",
-   "sub_count": 12,
-   "google": {
-    "offices": 445,
-    "reviews": 102837,
-    "avg_rating": 4.58,
-    "reply_rate_all": 70.4,
-    "reviews_90d": 2918,
-    "reply_rate_90d": 80.9
-   },
-   "trustpilot": {
-    "offices": 445,
-    "reviews": 100392,
-    "avg_rating": 4.32,
-    "reply_rate_all": 42.3,
-    "reviews_90d": 2148,
-    "reply_rate_90d": 44.1
-   },
-   "feefo": {
-    "offices": 445,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "PFG (Property Franchise Group)",
-   "sub_count": 8,
-   "google": {
-    "offices": 636,
-    "reviews": 80120,
-    "avg_rating": 4.71,
-    "reply_rate_all": 61.2,
-    "reviews_90d": 2495,
-    "reply_rate_90d": 72.3
-   },
-   "trustpilot": {
-    "offices": 636,
-    "reviews": 204818,
-    "avg_rating": 3.31,
-    "reply_rate_all": 11.2,
-    "reviews_90d": 1657,
-    "reply_rate_90d": 7.2
-   },
-   "feefo": {
-    "offices": 636,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Spicerhaart",
-   "sub_count": 4,
-   "google": {
-    "offices": 211,
-    "reviews": 88603,
-    "avg_rating": 4.77,
-    "reply_rate_all": 87.1,
-    "reviews_90d": 2007,
-    "reply_rate_90d": 90.9
-   },
-   "trustpilot": {
-    "offices": 211,
-    "reviews": 18343,
-    "avg_rating": 4.16,
-    "reply_rate_all": 69.6,
-    "reviews_90d": 12,
-    "reply_rate_90d": 0.0
-   },
-   "feefo": {
-    "offices": 211,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Foxtons Group",
-   "sub_count": 3,
-   "google": {
-    "offices": 284,
-    "reviews": 99588,
-    "avg_rating": 4.73,
-    "reply_rate_all": 69.9,
-    "reviews_90d": 3070,
-    "reply_rate_90d": 83.8
-   },
-   "trustpilot": {
-    "offices": 284,
-    "reviews": 145539,
-    "avg_rating": 4.19,
-    "reply_rate_all": 90.7,
-    "reviews_90d": 1462,
-    "reply_rate_90d": 4.0
-   },
-   "feefo": {
-    "offices": 284,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Savills",
-   "sub_count": 1,
-   "google": {
-    "offices": 189,
-    "reviews": 22814,
-    "avg_rating": 4.82,
-    "reply_rate_all": 48.5,
-    "reviews_90d": 382,
-    "reply_rate_90d": 38.7
-   },
-   "trustpilot": {
-    "offices": 189,
-    "reviews": 141650,
-    "avg_rating": 4.1,
-    "reply_rate_all": 78.9,
-    "reviews_90d": 745,
-    "reply_rate_90d": 82.7
-   },
-   "feefo": {
-    "offices": 189,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Knight Frank",
-   "sub_count": 1,
-   "google": {
-    "offices": 114,
-    "reviews": 11044,
-    "avg_rating": 4.82,
-    "reply_rate_all": 62.2,
-    "reviews_90d": 152,
-    "reply_rate_90d": 93.4
-   },
-   "trustpilot": {
-    "offices": 114,
-    "reviews": 68117,
-    "avg_rating": 4.8,
-    "reply_rate_all": 93.0,
-    "reviews_90d": 789,
-    "reply_rate_90d": 81.0
-   },
-   "feefo": {
-    "offices": 114,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Strutt & Parker",
-   "sub_count": 1,
-   "google": {
-    "offices": 33,
-    "reviews": 1803,
-    "avg_rating": 4.75,
-    "reply_rate_all": 47.1,
-    "reviews_90d": 41,
-    "reply_rate_90d": 80.5
-   },
-   "trustpilot": {
-    "offices": 33,
-    "reviews": 12224,
-    "avg_rating": 4.4,
-    "reply_rate_all": 2.2,
-    "reviews_90d": 40,
-    "reply_rate_90d": 0.0
-   },
-   "feefo": {
-    "offices": 33,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Winkworth",
-   "sub_count": 1,
-   "google": {
-    "offices": 157,
-    "reviews": 20093,
-    "avg_rating": 4.74,
-    "reply_rate_all": 44.4,
-    "reviews_90d": 659,
-    "reply_rate_90d": 47.5
-   },
-   "trustpilot": {
-    "offices": 157,
-    "reviews": 43550,
-    "avg_rating": 3.9,
-    "reply_rate_all": 41.5,
-    "reviews_90d": 431,
-    "reply_rate_90d": 73.5
-   },
-   "feefo": {
-    "offices": 157,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Fine & Country",
-   "sub_count": 1,
-   "google": {
-    "offices": 116,
-    "reviews": 3294,
-    "avg_rating": 4.75,
-    "reply_rate_all": 49.7,
-    "reviews_90d": 102,
-    "reply_rate_90d": 38.2
-   },
-   "trustpilot": {
-    "offices": 116,
-    "reviews": 2966,
-    "avg_rating": 4.39,
-    "reply_rate_all": 84.9,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   },
-   "feefo": {
-    "offices": 116,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Hunters",
-   "sub_count": 1,
-   "google": {
-    "offices": 218,
-    "reviews": 28623,
-    "avg_rating": 4.66,
-    "reply_rate_all": 60.2,
-    "reviews_90d": 660,
-    "reply_rate_90d": 63.8
-   },
-   "trustpilot": {
-    "offices": 218,
-    "reviews": 85430,
-    "avg_rating": 2.34,
-    "reply_rate_all": 1.6,
-    "reviews_90d": 375,
-    "reply_rate_90d": 5.1
-   },
-   "feefo": {
-    "offices": 218,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Belvoir",
-   "sub_count": 1,
-   "google": {
-    "offices": 164,
-    "reviews": 23796,
-    "avg_rating": 4.54,
-    "reply_rate_all": 53.5,
-    "reviews_90d": 37,
-    "reply_rate_90d": 70.3
-   },
-   "trustpilot": {
-    "offices": 164,
-    "reviews": 512,
-    "avg_rating": 2.09,
-    "reply_rate_all": 0.4,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   },
-   "feefo": {
-    "offices": 164,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Northwood",
-   "sub_count": 1,
-   "google": {
-    "offices": 89,
-    "reviews": 12720,
-    "avg_rating": 4.5,
-    "reply_rate_all": 52.1,
-    "reviews_90d": 51,
-    "reply_rate_90d": 19.6
-   },
-   "trustpilot": {
-    "offices": 89,
-    "reviews": 504,
-    "avg_rating": 1.78,
-    "reply_rate_all": 0.0,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   },
-   "feefo": {
-    "offices": 89,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Kinleigh Folkard & Hayward",
-   "sub_count": 1,
-   "google": {
-    "offices": 102,
-    "reviews": 45902,
-    "avg_rating": 4.83,
-    "reply_rate_all": 6.6,
-    "reviews_90d": 1316,
-    "reply_rate_90d": 78.4
-   },
-   "trustpilot": {
-    "offices": 102,
-    "reviews": 21139,
-    "avg_rating": 4.42,
-    "reply_rate_all": 0.2,
-    "reviews_90d": 165,
-    "reply_rate_90d": 14.5
-   },
-   "feefo": {
-    "offices": 102,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Chestertons",
-   "sub_count": 1,
-   "google": {
-    "offices": 34,
-    "reviews": 7390,
-    "avg_rating": 4.69,
-    "reply_rate_all": 28.1,
-    "reviews_90d": 298,
-    "reply_rate_90d": 85.6
-   },
-   "trustpilot": {
-    "offices": 34,
-    "reviews": 61843,
-    "avg_rating": 4.52,
-    "reply_rate_all": 93.2,
-    "reviews_90d": 328,
-    "reply_rate_90d": 85.4
-   },
-   "feefo": {
-    "offices": 34,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Carter Jonas",
-   "sub_count": 1,
-   "google": {
-    "offices": 47,
-    "reviews": 4848,
-    "avg_rating": 4.67,
-    "reply_rate_all": 55.7,
-    "reviews_90d": 85,
-    "reply_rate_90d": 81.2
-   },
-   "trustpilot": {
-    "offices": 47,
-    "reviews": 12038,
-    "avg_rating": 4.19,
-    "reply_rate_all": 89.9,
-    "reviews_90d": 62,
-    "reply_rate_90d": 50.0
-   },
-   "feefo": {
-    "offices": 47,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Jackson-Stops",
-   "sub_count": 1,
-   "google": {
-    "offices": 29,
-    "reviews": 3608,
-    "avg_rating": 4.88,
-    "reply_rate_all": 55.3,
-    "reviews_90d": 106,
-    "reply_rate_90d": 85.8
-   },
-   "trustpilot": {
-    "offices": 29,
-    "reviews": 12883,
-    "avg_rating": 4.63,
-    "reply_rate_all": 91.1,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   },
-   "feefo": {
-    "offices": 29,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  },
-  {
-   "brand": "Christie & Co",
-   "sub_count": 1,
-   "google": {
-    "offices": 6,
-    "reviews": 20,
-    "avg_rating": 3.5,
-    "reply_rate_all": 10.0,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   },
-   "trustpilot": {
-    "offices": 6,
-    "reviews": 163,
-    "avg_rating": 4.52,
-    "reply_rate_all": 79.8,
-    "reviews_90d": 9,
-    "reply_rate_90d": 100.0
-   },
-   "feefo": {
-    "offices": 6,
-    "reviews": 0,
-    "avg_rating": null,
-    "reply_rate_all": null,
-    "reviews_90d": 0,
-    "reply_rate_90d": null
-   }
-  }
- ]
+  "source": "Google Places API (places.googleapis.com searchText)",
+  "updated_at": "2026-05-20T08:51:22.444038Z",
+  "method": "Auto-accept matched offices only \u2014 brand_root + postcode + place_type (confidence \u2265 0.75)",
+  "caveats": [
+    "Match rate < 100% means some offices have no Google Business Profile or did not auto-match.",
+    "Unmatched offices contribute 0 to totals \u2014 see google-places-needs-review.csv for review.",
+    "Avg rating is mean of place-level rating, weighted equally per matched office (not weighted by review count)."
+  ],
+  "leaderboard": [
+    {
+      "brand": "Connells Group",
+      "offices_total": 925,
+      "google_matched": 591,
+      "match_rate": 63.9,
+      "avg_rating": 4.59,
+      "total_reviews": 108157,
+      "avg_reviews_per_office": 184,
+      "top_office_reviews": 1027,
+      "pct_offices_4_5_plus": 74.7,
+      "rank_by_total_reviews": 1,
+      "rank_by_avg_rating": 10
+    },
+    {
+      "brand": "LRG",
+      "offices_total": 337,
+      "google_matched": 287,
+      "match_rate": 85.2,
+      "avg_rating": 4.6,
+      "total_reviews": 91761,
+      "avg_reviews_per_office": 321,
+      "top_office_reviews": 1301,
+      "pct_offices_4_5_plus": 80.1,
+      "rank_by_total_reviews": 2,
+      "rank_by_avg_rating": 9
+    },
+    {
+      "brand": "haart (Spicerhaart)",
+      "offices_total": 159,
+      "google_matched": 91,
+      "match_rate": 57.2,
+      "avg_rating": 4.8,
+      "total_reviews": 78977,
+      "avg_reviews_per_office": 878,
+      "top_office_reviews": 3470,
+      "pct_offices_4_5_plus": 100.0,
+      "rank_by_total_reviews": 3,
+      "rank_by_avg_rating": 3
+    },
+    {
+      "brand": "Your Move (LSL)",
+      "offices_total": 258,
+      "google_matched": 192,
+      "match_rate": 74.4,
+      "avg_rating": 4.67,
+      "total_reviews": 37930,
+      "avg_reviews_per_office": 200,
+      "top_office_reviews": 972,
+      "pct_offices_4_5_plus": 86.3,
+      "rank_by_total_reviews": 4,
+      "rank_by_avg_rating": 5
+    },
+    {
+      "brand": "Reeds Rains (LSL)",
+      "offices_total": 116,
+      "google_matched": 107,
+      "match_rate": 92.2,
+      "avg_rating": 4.67,
+      "total_reviews": 24564,
+      "avg_reviews_per_office": 230,
+      "top_office_reviews": 717,
+      "pct_offices_4_5_plus": 86.9,
+      "rank_by_total_reviews": 5,
+      "rank_by_avg_rating": 6
+    },
+    {
+      "brand": "Belvoir",
+      "offices_total": 156,
+      "google_matched": 142,
+      "match_rate": 91.0,
+      "avg_rating": 4.49,
+      "total_reviews": 23817,
+      "avg_reviews_per_office": 168,
+      "top_office_reviews": 794,
+      "pct_offices_4_5_plus": 64.8,
+      "rank_by_total_reviews": 6,
+      "rank_by_avg_rating": 12
+    },
+    {
+      "brand": "Hunters (PFG)",
+      "offices_total": 150,
+      "google_matched": 122,
+      "match_rate": 81.3,
+      "avg_rating": 4.62,
+      "total_reviews": 22620,
+      "avg_reviews_per_office": 187,
+      "top_office_reviews": 1096,
+      "pct_offices_4_5_plus": 80.2,
+      "rank_by_total_reviews": 7,
+      "rank_by_avg_rating": 7
+    },
+    {
+      "brand": "Winkworth",
+      "offices_total": 119,
+      "google_matched": 112,
+      "match_rate": 94.1,
+      "avg_rating": 4.73,
+      "total_reviews": 16831,
+      "avg_reviews_per_office": 152,
+      "top_office_reviews": 674,
+      "pct_offices_4_5_plus": 91.0,
+      "rank_by_total_reviews": 8,
+      "rank_by_avg_rating": 4
+    },
+    {
+      "brand": "Bridgfords",
+      "offices_total": 51,
+      "google_matched": 49,
+      "match_rate": 96.1,
+      "avg_rating": 4.58,
+      "total_reviews": 10405,
+      "avg_reviews_per_office": 212,
+      "top_office_reviews": 1112,
+      "pct_offices_4_5_plus": 71.4,
+      "rank_by_total_reviews": 9,
+      "rank_by_avg_rating": 11
+    },
+    {
+      "brand": "EweMove",
+      "offices_total": 160,
+      "google_matched": 55,
+      "match_rate": 34.4,
+      "avg_rating": 4.88,
+      "total_reviews": 7059,
+      "avg_reviews_per_office": 128,
+      "top_office_reviews": 637,
+      "pct_offices_4_5_plus": 98.2,
+      "rank_by_total_reviews": 10,
+      "rank_by_avg_rating": 1
+    },
+    {
+      "brand": "Mann",
+      "offices_total": 42,
+      "google_matched": 26,
+      "match_rate": 61.9,
+      "avg_rating": 4.62,
+      "total_reviews": 5331,
+      "avg_reviews_per_office": 205,
+      "top_office_reviews": 428,
+      "pct_offices_4_5_plus": 88.5,
+      "rank_by_total_reviews": 11,
+      "rank_by_avg_rating": 8
+    },
+    {
+      "brand": "Fine & Country",
+      "offices_total": 207,
+      "google_matched": 84,
+      "match_rate": 40.6,
+      "avg_rating": 4.81,
+      "total_reviews": 2891,
+      "avg_reviews_per_office": 38,
+      "top_office_reviews": 140,
+      "pct_offices_4_5_plus": 90.9,
+      "rank_by_total_reviews": 12,
+      "rank_by_avg_rating": 2
+    }
+  ]
 }
