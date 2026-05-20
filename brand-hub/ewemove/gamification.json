@@ -57,7 +57,18 @@
         }
       },
       "lat": 51.4676,
-      "lng": 0.134856
+      "lng": 0.134856,
+      "id": 245253,
+      "name": "EweMove Abbey Wood & Belvedere",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 314,
+        "replyRate": 89.47368421052632
+      },
+      "totalReviews": 314,
+      "replyRate": 89.47368421052632,
+      "googleScore": 4.9,
+      "score": 85
     },
     {
       "office_id": 244050,
@@ -103,7 +114,17 @@
         }
       },
       "lat": 57.1381,
-      "lng": -2.22058
+      "lng": -2.22058,
+      "id": 244050,
+      "name": "EweMove Aberdeen",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 39,
+        "replyRate": 100.0
+      },
+      "totalReviews": 39,
+      "replyRate": 100.0,
+      "score": 80
     },
     {
       "office_id": 244052,
@@ -155,7 +176,18 @@
         }
       },
       "lat": 51.1241,
-      "lng": -0.851958
+      "lng": -0.851958,
+      "id": 244052,
+      "name": "EweMove Alton & Bordon",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 33,
+        "replyRate": 100.0
+      },
+      "totalReviews": 33,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 77
     },
     {
       "office_id": 244029,
@@ -205,7 +237,17 @@
         }
       },
       "lat": 53.3671,
-      "lng": -1.21403
+      "lng": -1.21403,
+      "id": 244029,
+      "name": "EweMove Anston",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 45,
+        "replyRate": null
+      },
+      "totalReviews": 45,
+      "replyRate": null,
+      "score": 79
     },
     {
       "office_id": 245280,
@@ -257,7 +299,18 @@
         }
       },
       "lat": 52.7688,
-      "lng": -1.45649
+      "lng": -1.45649,
+      "id": 245280,
+      "name": "EweMove Ashby de la Zouch",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 45,
+        "replyRate": 100.0
+      },
+      "totalReviews": 45,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 89
     },
     {
       "office_id": 255637,
@@ -319,7 +372,18 @@
         }
       },
       "lat": 53.4935,
-      "lng": -2.46877
+      "lng": -2.46877,
+      "id": 255637,
+      "name": "EweMove Astley & Worsley",
+      "va": {
+        "overallRating": 4.97,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 62
     },
     {
       "office_id": 244056,
@@ -375,7 +439,18 @@
         }
       },
       "lat": 52.7973,
-      "lng": -1.72411
+      "lng": -1.72411,
+      "id": 244056,
+      "name": "EweMove Barton-Under-Needwood",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 144,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 144,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.9,
+      "score": 88
     },
     {
       "office_id": 244205,
@@ -425,7 +500,18 @@
         }
       },
       "lat": 51.2813,
-      "lng": -1.06022
+      "lng": -1.06022,
+      "id": 244205,
+      "name": "EweMove Basingstoke",
+      "va": {
+        "overallRating": 4.99,
+        "totalReviews": 686,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 686,
+      "replyRate": 83.33333333333334,
+      "googleScore": 5.0,
+      "score": 86
     },
     {
       "office_id": 244057,
@@ -485,7 +571,18 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244057,
+      "name": "EweMove Beckenham & Shortlands",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 21,
+        "replyRate": 0.0
+      },
+      "totalReviews": 21,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 48
     },
     {
       "office_id": 244208,
@@ -530,7 +627,17 @@
         }
       },
       "lat": 51.5664,
-      "lng": 0.550214
+      "lng": 0.550214,
+      "id": 244208,
+      "name": "EweMove Benfleet & Hadleigh",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 41,
+        "replyRate": 100.0
+      },
+      "totalReviews": 41,
+      "replyRate": 100.0,
+      "score": 88
     },
     {
       "office_id": 244045,
@@ -586,7 +693,18 @@
         }
       },
       "lat": 53.8396,
-      "lng": -0.412313
+      "lng": -0.412313,
+      "id": 244045,
+      "name": "EweMove Beverley",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 107,
+        "replyRate": 100.0
+      },
+      "totalReviews": 107,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 92
     },
     {
       "office_id": 247713,
@@ -637,7 +755,17 @@
         }
       },
       "lat": 51.4677,
-      "lng": 0.0175685
+      "lng": 0.0175685,
+      "id": 247713,
+      "name": "EweMove Blackheath & Charlton",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 20,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 20,
+      "replyRate": 66.66666666666666,
+      "score": 71
     },
     {
       "office_id": 244063,
@@ -692,7 +820,17 @@
         }
       },
       "lat": 52.9707,
-      "lng": -0.0123637
+      "lng": -0.0123637,
+      "id": 244063,
+      "name": "EweMove Boston",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 26,
+        "replyRate": 0.0
+      },
+      "totalReviews": 26,
+      "replyRate": 0.0,
+      "score": 69
     },
     {
       "office_id": 255432,
@@ -727,7 +865,17 @@
         }
       },
       "lat": 0.0,
-      "lng": 0.0
+      "lng": 0.0,
+      "id": 255432,
+      "name": "EweMove Bramley & Maltby",
+      "va": {
+        "overallRating": 4.97,
+        "totalReviews": 32,
+        "replyRate": 100.0
+      },
+      "totalReviews": 32,
+      "replyRate": 100.0,
+      "score": 89
     },
     {
       "office_id": 244065,
@@ -768,7 +916,17 @@
         }
       },
       "lat": 51.0442,
-      "lng": -3.10786
+      "lng": -3.10786,
+      "id": 244065,
+      "name": "EweMove Bridgwater",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 62,
+        "replyRate": 100.0
+      },
+      "totalReviews": 62,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 244066,
@@ -825,7 +983,18 @@
         }
       },
       "lat": 53.7075,
-      "lng": -1.77565
+      "lng": -1.77565,
+      "id": 244066,
+      "name": "EweMove Brighouse",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 92,
+        "replyRate": 73.33333333333333
+      },
+      "totalReviews": 92,
+      "replyRate": 73.33333333333333,
+      "googleScore": 5.0,
+      "score": 82
     },
     {
       "office_id": 244202,
@@ -875,7 +1044,17 @@
         }
       },
       "lat": 53.7375,
-      "lng": -2.94708
+      "lng": -2.94708,
+      "id": 244202,
+      "name": "EweMove Brighton & Hove",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 58,
+        "replyRate": 0.0
+      },
+      "totalReviews": 58,
+      "replyRate": 0.0,
+      "score": 81
     },
     {
       "office_id": 244067,
@@ -931,7 +1110,17 @@
         }
       },
       "lat": 51.3706,
-      "lng": -0.0029175
+      "lng": -0.0029175,
+      "id": 244067,
+      "name": "EweMove Bromley East & Chislehurst",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 0.0
+      },
+      "totalReviews": 20,
+      "replyRate": 0.0,
+      "score": 58
     },
     {
       "office_id": 261738,
@@ -970,7 +1159,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261738,
+      "name": "EweMove Bury & Summerseat",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244070,
@@ -1005,7 +1204,17 @@
         }
       },
       "lat": 52.2125,
-      "lng": -0.0240614
+      "lng": -0.0240614,
+      "id": 244070,
+      "name": "EweMove Cambridge West",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 159,
+        "replyRate": 96.42857142857143
+      },
+      "totalReviews": 159,
+      "replyRate": 96.42857142857143,
+      "score": 93
     },
     {
       "office_id": 244071,
@@ -1055,7 +1264,17 @@
         }
       },
       "lat": 52.7183,
-      "lng": -1.98588
+      "lng": -1.98588,
+      "id": 244071,
+      "name": "EweMove Cannock",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 32,
+        "replyRate": 100.0
+      },
+      "totalReviews": 32,
+      "replyRate": 100.0,
+      "score": 78
     },
     {
       "office_id": 244075,
@@ -1106,7 +1325,17 @@
         }
       },
       "lat": 0.0,
-      "lng": 0.0
+      "lng": 0.0,
+      "id": 244075,
+      "name": "EweMove Castle Bromwich",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 0.0
+      },
+      "totalReviews": 20,
+      "replyRate": 0.0,
+      "score": 69
     },
     {
       "office_id": 244076,
@@ -1164,7 +1393,18 @@
         }
       },
       "lat": 50.9885,
-      "lng": -1.38395
+      "lng": -1.38395,
+      "id": 244076,
+      "name": "EweMove Chandlers Ford & Eastleigh",
+      "va": {
+        "overallRating": 4.97,
+        "totalReviews": 39,
+        "replyRate": 15.789473684210526
+      },
+      "totalReviews": 39,
+      "replyRate": 15.789473684210526,
+      "googleScore": 4.9,
+      "score": 68
     },
     {
       "office_id": 244078,
@@ -1205,7 +1445,17 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244078,
+      "name": "EweMove Cheadle Hulme & Wilmslow",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 43,
+        "replyRate": 80.0
+      },
+      "totalReviews": 43,
+      "replyRate": 80.0,
+      "score": 84
     },
     {
       "office_id": 244079,
@@ -1246,7 +1496,17 @@
         }
       },
       "lat": 51.3731,
-      "lng": -0.192953
+      "lng": -0.192953,
+      "id": 244079,
+      "name": "EweMove Cheam & Sutton",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 65,
+        "replyRate": 100.0
+      },
+      "totalReviews": 65,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 244081,
@@ -1299,7 +1559,18 @@
         }
       },
       "lat": 51.8976,
-      "lng": -2.07627
+      "lng": -2.07627,
+      "id": 244081,
+      "name": "EweMove Cheltenham",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 23,
+        "replyRate": null
+      },
+      "totalReviews": 23,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 81
     },
     {
       "office_id": 244023,
@@ -1349,7 +1620,17 @@
         }
       },
       "lat": 53.9237,
-      "lng": -3.01037
+      "lng": -3.01037,
+      "id": 244023,
+      "name": "EweMove Chester East",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 24,
+        "replyRate": null
+      },
+      "totalReviews": 24,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 261717,
@@ -1398,7 +1679,17 @@
           "count": 4,
           "rating": 5.0
         }
-      }
+      },
+      "id": 261717,
+      "name": "EweMove Chester West",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 4,
+        "replyRate": 100.0
+      },
+      "totalReviews": 4,
+      "replyRate": 100.0,
+      "score": 65
     },
     {
       "office_id": 245276,
@@ -1444,7 +1735,17 @@
       "google": null,
       "platforms": null,
       "lat": 0.0,
-      "lng": 0.0
+      "lng": 0.0,
+      "id": 245276,
+      "name": "EweMove Chesterfield West",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 53
     },
     {
       "office_id": 244082,
@@ -1490,7 +1791,17 @@
         }
       },
       "lat": 53.3963,
-      "lng": -2.88715
+      "lng": -2.88715,
+      "id": 244082,
+      "name": "EweMove Childwall & Woolton",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 87,
+        "replyRate": 100.0
+      },
+      "totalReviews": 87,
+      "replyRate": 100.0,
+      "score": 78
     },
     {
       "office_id": 244083,
@@ -1536,7 +1847,17 @@
         }
       },
       "lat": 51.7128,
-      "lng": -0.726012
+      "lng": -0.726012,
+      "id": 244083,
+      "name": "EweMove Chilterns",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 244016,
@@ -1598,7 +1919,18 @@
         }
       },
       "lat": 51.709,
-      "lng": -1.97633
+      "lng": -1.97633,
+      "id": 244016,
+      "name": "EweMove Cirencester",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 157,
+        "replyRate": null
+      },
+      "totalReviews": 157,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 244044,
@@ -1648,7 +1980,17 @@
         }
       },
       "lat": 53.745,
-      "lng": -1.8338
+      "lng": -1.8338,
+      "id": 244044,
+      "name": "EweMove Cleckheaton",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 72,
+        "replyRate": 100.0
+      },
+      "totalReviews": 72,
+      "replyRate": 100.0,
+      "score": 92
     },
     {
       "office_id": 245281,
@@ -1687,7 +2029,17 @@
         }
       },
       "lat": 51.9134,
-      "lng": 0.743339
+      "lng": 0.743339,
+      "id": 245281,
+      "name": "EweMove Coggeshall & Braintree South",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 28,
+        "replyRate": 80.0
+      },
+      "totalReviews": 28,
+      "replyRate": 80.0,
+      "score": 71
     },
     {
       "office_id": 244085,
@@ -1751,7 +2103,18 @@
         }
       },
       "lat": 53.6632,
-      "lng": -1.83836
+      "lng": -1.83836,
+      "id": 244085,
+      "name": "EweMove Colne Valley, Lindley & Barkisland",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 57,
+        "replyRate": 50.0
+      },
+      "totalReviews": 57,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 255641,
@@ -1796,7 +2159,17 @@
         }
       },
       "lat": 54.8352,
-      "lng": -1.96743
+      "lng": -1.96743,
+      "id": 255641,
+      "name": "EweMove Consett & Lanchester",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 37,
+        "replyRate": 80.0
+      },
+      "totalReviews": 37,
+      "replyRate": 80.0,
+      "score": 89
     },
     {
       "office_id": 255435,
@@ -1842,7 +2215,17 @@
       "google": null,
       "platforms": null,
       "lat": 52.5074,
-      "lng": -0.858256
+      "lng": -0.858256,
+      "id": 255435,
+      "name": "EweMove Corby",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 244086,
@@ -1893,7 +2276,17 @@
         }
       },
       "lat": 51.2998,
-      "lng": -0.145722
+      "lng": -0.145722,
+      "id": 244086,
+      "name": "EweMove Coulsdon",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": null
+      },
+      "totalReviews": 15,
+      "replyRate": null,
+      "score": 52
     },
     {
       "office_id": 244048,
@@ -1948,7 +2341,18 @@
         }
       },
       "lat": 51.4732,
-      "lng": 0.141373
+      "lng": 0.141373,
+      "id": 244048,
+      "name": "EweMove Dartford & Greenhithe",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 324,
+        "replyRate": 94.64285714285714
+      },
+      "totalReviews": 324,
+      "replyRate": 94.64285714285714,
+      "googleScore": 4.9,
+      "score": 90
     },
     {
       "office_id": 261739,
@@ -1987,7 +2391,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261739,
+      "name": "EweMove Denholme & Thornton",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 261676,
@@ -2033,7 +2447,17 @@
       "google": null,
       "platforms": null,
       "lat": 53.4504,
-      "lng": -1.09329
+      "lng": -1.09329,
+      "id": 261676,
+      "name": "EweMove Doncaster East",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 245277,
@@ -2080,7 +2504,17 @@
         }
       },
       "lat": 53.6118,
-      "lng": -1.19029
+      "lng": -1.19029,
+      "id": 245277,
+      "name": "EweMove Doncaster North",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": 0.0
+      },
+      "totalReviews": 8,
+      "replyRate": 0.0,
+      "score": 73
     },
     {
       "office_id": 244088,
@@ -2135,7 +2569,17 @@
         }
       },
       "lat": 51.158,
-      "lng": -0.34871
+      "lng": -0.34871,
+      "id": 244088,
+      "name": "EweMove Dorking & Leatherhead",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 82,
+        "replyRate": 0.0
+      },
+      "totalReviews": 82,
+      "replyRate": 0.0,
+      "score": 93
     },
     {
       "office_id": 244089,
@@ -2180,7 +2624,17 @@
         }
       },
       "lat": 53.2843,
-      "lng": -1.48402
+      "lng": -1.48402,
+      "id": 244089,
+      "name": "EweMove Dronfield & Barlborough",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 55,
+        "replyRate": 100.0
+      },
+      "totalReviews": 55,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 260103,
@@ -2236,7 +2690,17 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 260103,
+      "name": "EweMove East Leeds",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": 0.0
+      },
+      "totalReviews": 8,
+      "replyRate": 0.0,
+      "score": 53
     },
     {
       "office_id": 255431,
@@ -2287,7 +2751,17 @@
         }
       },
       "lat": 51.4437,
-      "lng": 0.308114
+      "lng": 0.308114,
+      "id": 255431,
+      "name": "EweMove Ebbsfleet Valley",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 43,
+        "replyRate": 75.0
+      },
+      "totalReviews": 43,
+      "replyRate": 75.0,
+      "score": 89
     },
     {
       "office_id": 244036,
@@ -2333,7 +2807,18 @@
         }
       },
       "lat": 51.3615,
-      "lng": -1.1612
+      "lng": -1.1612,
+      "id": 244036,
+      "name": "EweMove Estate & Lettings Agents in Tadley",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 148,
+        "replyRate": 100.0
+      },
+      "totalReviews": 148,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 88
     },
     {
       "office_id": 244034,
@@ -2390,7 +2875,18 @@
         }
       },
       "lat": 50.6244,
-      "lng": -3.40938
+      "lng": -3.40938,
+      "id": 244034,
+      "name": "EweMove Exmouth",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 112,
+        "replyRate": 100.0
+      },
+      "totalReviews": 112,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 84
     },
     {
       "office_id": 244094,
@@ -2441,7 +2937,17 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244094,
+      "name": "EweMove Farnborough",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "score": 64
     },
     {
       "office_id": 244095,
@@ -2486,7 +2992,17 @@
         }
       },
       "lat": 51.1217,
-      "lng": 1.13528
+      "lng": 1.13528,
+      "id": 244095,
+      "name": "EweMove Folkestone & Hawkinge",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 153,
+        "replyRate": 100.0
+      },
+      "totalReviews": 153,
+      "replyRate": 100.0,
+      "score": 84
     },
     {
       "office_id": 244096,
@@ -2532,7 +3048,17 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244096,
+      "name": "EweMove Formby, Crosby & Hightown",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": null
+      },
+      "totalReviews": 15,
+      "replyRate": null,
+      "score": 71
     },
     {
       "office_id": 261710,
@@ -2571,7 +3097,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261710,
+      "name": "EweMove Garforth & Kippax",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244207,
@@ -2628,7 +3164,18 @@
         }
       },
       "lat": 53.7665,
-      "lng": -1.06704
+      "lng": -1.06704,
+      "id": 244207,
+      "name": "EweMove Goole & Selby",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 109,
+        "replyRate": 0.0
+      },
+      "totalReviews": 109,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 92
     },
     {
       "office_id": 244158,
@@ -2683,7 +3230,17 @@
         }
       },
       "lat": 52.83,
-      "lng": -0.544082
+      "lng": -0.544082,
+      "id": 244158,
+      "name": "EweMove Grantham & Sleaford",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 107,
+        "replyRate": 0.0
+      },
+      "totalReviews": 107,
+      "replyRate": 0.0,
+      "score": 82
     },
     {
       "office_id": 244100,
@@ -2733,7 +3290,17 @@
         }
       },
       "lat": 51.5408,
-      "lng": -0.335782
+      "lng": -0.335782,
+      "id": 244100,
+      "name": "EweMove Greenford",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 25,
+        "replyRate": null
+      },
+      "totalReviews": 25,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 244101,
@@ -2782,7 +3349,17 @@
         }
       },
       "lat": 51.2568,
-      "lng": -0.520002
+      "lng": -0.520002,
+      "id": 244101,
+      "name": "EweMove Guildford",
+      "va": {
+        "overallRating": 4.99,
+        "totalReviews": 37,
+        "replyRate": 100.0
+      },
+      "totalReviews": 37,
+      "replyRate": 100.0,
+      "score": 78
     },
     {
       "office_id": 244102,
@@ -2839,7 +3416,18 @@
         }
       },
       "lat": 53.7196,
-      "lng": -1.87176
+      "lng": -1.87176,
+      "id": 244102,
+      "name": "EweMove Halifax",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 46,
+        "replyRate": 50.0
+      },
+      "totalReviews": 46,
+      "replyRate": 50.0,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 244104,
@@ -2889,7 +3477,17 @@
         }
       },
       "lat": 53.9825,
-      "lng": -1.529
+      "lng": -1.529,
+      "id": 244104,
+      "name": "EweMove Harrogate & Knaresborough",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 120,
+        "replyRate": 44.44444444444444
+      },
+      "totalReviews": 120,
+      "replyRate": 44.44444444444444,
+      "score": 95
     },
     {
       "office_id": 244107,
@@ -2934,7 +3532,17 @@
         }
       },
       "lat": 53.7845,
-      "lng": -2.05129
+      "lng": -2.05129,
+      "id": 244107,
+      "name": "EweMove Hebden Bridge",
+      "va": {
+        "overallRating": 4.99,
+        "totalReviews": 208,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 208,
+      "replyRate": 90.9090909090909,
+      "score": 85
     },
     {
       "office_id": 260180,
@@ -2980,7 +3588,17 @@
         }
       },
       "lat": 54.9644,
-      "lng": -2.14252
+      "lng": -2.14252,
+      "id": 260180,
+      "name": "EweMove Hexham & Tyne Valley",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 0.0
+      },
+      "totalReviews": 2,
+      "replyRate": 0.0,
+      "score": 51
     },
     {
       "office_id": 244110,
@@ -3031,7 +3649,17 @@
         }
       },
       "lat": 51.6338,
-      "lng": -0.729934
+      "lng": -0.729934,
+      "id": 244110,
+      "name": "EweMove High Wycombe",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 15,
+        "replyRate": null
+      },
+      "totalReviews": 15,
+      "replyRate": null,
+      "score": 69
     },
     {
       "office_id": 244195,
@@ -3088,7 +3716,18 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244195,
+      "name": "EweMove Hinckley",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 100,
+        "replyRate": null
+      },
+      "totalReviews": 100,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 97
     },
     {
       "office_id": 261696,
@@ -3134,7 +3773,17 @@
         }
       },
       "lat": 51.5726,
-      "lng": 0.229755
+      "lng": 0.229755,
+      "id": 261696,
+      "name": "EweMove Hornchurch North",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 5,
+        "replyRate": null
+      },
+      "totalReviews": 5,
+      "replyRate": null,
+      "score": 74
     },
     {
       "office_id": 244112,
@@ -3180,7 +3829,17 @@
         }
       },
       "lat": 53.8902,
-      "lng": -1.51725
+      "lng": -1.51725,
+      "id": 244112,
+      "name": "EweMove Horsforth Adel & Chapel Allerton",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 70,
+        "replyRate": 100.0
+      },
+      "totalReviews": 70,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 244113,
@@ -3235,7 +3894,17 @@
         }
       },
       "lat": 52.3293,
-      "lng": -0.18151
+      "lng": -0.18151,
+      "id": 244113,
+      "name": "EweMove Huntingdon & St Ives",
+      "va": {
+        "overallRating": 4.46,
+        "totalReviews": 22,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 22,
+      "replyRate": 66.66666666666666,
+      "score": 65
     },
     {
       "office_id": 244114,
@@ -3287,7 +3956,18 @@
         }
       },
       "lat": 53.4484,
-      "lng": -2.06546
+      "lng": -2.06546,
+      "id": 244114,
+      "name": "EweMove Hyde & Dukinfield",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 157,
+        "replyRate": 100.0
+      },
+      "totalReviews": 157,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 84
     },
     {
       "office_id": 261734,
@@ -3338,7 +4018,18 @@
         "google_maps_url": "https://maps.google.com/?cid=14375483317801892862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "match_confidence": 1.05
       },
-      "platforms": null
+      "platforms": null,
+      "id": 261734,
+      "name": "EweMove Lancaster",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 29,
+        "replyRate": null
+      },
+      "totalReviews": 29,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 50
     },
     {
       "office_id": 261745,
@@ -3372,7 +4063,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261745,
+      "name": "EweMove Langport & Crewkerne",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 245275,
@@ -3407,7 +4108,17 @@
         }
       },
       "lat": 52.3036,
-      "lng": -1.5254
+      "lng": -1.5254,
+      "id": 245275,
+      "name": "EweMove Leamington Spa North & Knowle",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 17,
+        "replyRate": 100.0
+      },
+      "totalReviews": 17,
+      "replyRate": 100.0,
+      "score": 85
     },
     {
       "office_id": 244122,
@@ -3448,7 +4159,17 @@
         }
       },
       "lat": 52.6445,
-      "lng": -1.07422
+      "lng": -1.07422,
+      "id": 244122,
+      "name": "EweMove Leicester North",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 208,
+        "replyRate": 100.0
+      },
+      "totalReviews": 208,
+      "replyRate": 100.0,
+      "score": 85
     },
     {
       "office_id": 244206,
@@ -3494,7 +4215,18 @@
         }
       },
       "lat": 51.9176,
-      "lng": -0.662055
+      "lng": -0.662055,
+      "id": 244206,
+      "name": "EweMove Leighton Buzzard",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 445,
+        "replyRate": 80.0
+      },
+      "totalReviews": 445,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 98
     },
     {
       "office_id": 261697,
@@ -3540,7 +4272,17 @@
         }
       },
       "lat": 51.5282,
-      "lng": -3.4254
+      "lng": -3.4254,
+      "id": 261697,
+      "name": "EweMove Llantrisant & Pontyclun ",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2,
+      "replyRate": 100.0,
+      "score": 52
     },
     {
       "office_id": 244124,
@@ -3590,7 +4332,17 @@
         }
       },
       "lat": 51.9045,
-      "lng": -0.370148
+      "lng": -0.370148,
+      "id": 244124,
+      "name": "EweMove Luton East",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 101,
+        "replyRate": 100.0
+      },
+      "totalReviews": 101,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 244125,
@@ -3647,7 +4399,18 @@
         }
       },
       "lat": 52.4623,
-      "lng": -1.15401
+      "lng": -1.15401,
+      "id": 244125,
+      "name": "EweMove Lutterworth",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 27,
+        "replyRate": null
+      },
+      "totalReviews": 27,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 260107,
@@ -3698,7 +4461,17 @@
         }
       },
       "lat": 52.9353,
-      "lng": -0.87166
+      "lng": -0.87166,
+      "id": 260107,
+      "name": "EweMove Melton Mowbray",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 11,
+        "replyRate": 0.0
+      },
+      "totalReviews": 11,
+      "replyRate": 0.0,
+      "score": 58
     },
     {
       "office_id": 244149,
@@ -3753,7 +4526,17 @@
         }
       },
       "lat": 54.5508,
-      "lng": -0.964751
+      "lng": -0.964751,
+      "id": 244149,
+      "name": "EweMove Middlesbrough & Redcar",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 60,
+        "replyRate": 0.0
+      },
+      "totalReviews": 60,
+      "replyRate": 0.0,
+      "score": 82
     },
     {
       "office_id": 244128,
@@ -3798,7 +4581,17 @@
         }
       },
       "lat": 53.7737,
-      "lng": -1.70104
+      "lng": -1.70104,
+      "id": 244128,
+      "name": "EweMove Morley & Rothwell",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 115,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 115,
+      "replyRate": 83.33333333333334,
+      "score": 84
     },
     {
       "office_id": 261735,
@@ -3842,7 +4635,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261735,
+      "name": "EweMove New Malden & Worcester Park",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 50
     },
     {
       "office_id": 244033,
@@ -3888,7 +4691,18 @@
         }
       },
       "lat": 51.0784,
-      "lng": -4.05817
+      "lng": -4.05817,
+      "id": 244033,
+      "name": "EweMove North Devon",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 309,
+        "replyRate": 100.0
+      },
+      "totalReviews": 309,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 93
     },
     {
       "office_id": 244132,
@@ -3936,7 +4750,18 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244132,
+      "name": "EweMove North Finchley",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 175,
+        "replyRate": 80.0
+      },
+      "totalReviews": 175,
+      "replyRate": 80.0,
+      "googleScore": 4.8,
+      "score": 84
     },
     {
       "office_id": 261737,
@@ -3975,7 +4800,17 @@
           "count": 12,
           "rating": 4.92
         }
-      }
+      },
+      "id": 261737,
+      "name": "EweMove North Fylde",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 12,
+        "replyRate": 100.0
+      },
+      "totalReviews": 12,
+      "replyRate": 100.0,
+      "score": 71
     },
     {
       "office_id": 261746,
@@ -4009,7 +4844,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261746,
+      "name": "EweMove North Macclesfield & Poynton",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244136,
@@ -4059,7 +4904,17 @@
         }
       },
       "lat": 52.3362,
-      "lng": -0.951377
+      "lng": -0.951377,
+      "id": 244136,
+      "name": "EweMove Northampton North",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 83,
+        "replyRate": 0.0
+      },
+      "totalReviews": 83,
+      "replyRate": 0.0,
+      "score": 78
     },
     {
       "office_id": 261686,
@@ -4110,7 +4965,17 @@
         }
       },
       "lat": 53.0281,
-      "lng": -1.29212
+      "lng": -1.29212,
+      "id": 261686,
+      "name": "EweMove Nuthall & Eastwood",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": 100.0
+      },
+      "totalReviews": 3,
+      "replyRate": 100.0,
+      "score": 65
     },
     {
       "office_id": 244021,
@@ -4165,7 +5030,17 @@
         }
       },
       "lat": 52.4773,
-      "lng": -0.922013
+      "lng": -0.922013,
+      "id": 244021,
+      "name": "EweMove Oakham & Market Harborough",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 46,
+        "replyRate": 0.0
+      },
+      "totalReviews": 46,
+      "replyRate": 0.0,
+      "score": 76
     },
     {
       "office_id": 244080,
@@ -4218,7 +5093,18 @@
         }
       },
       "lat": 51.3735,
-      "lng": 0.090764
+      "lng": 0.090764,
+      "id": 244080,
+      "name": "EweMove Orpington & Chelsfield",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 28,
+        "replyRate": 42.857142857142854
+      },
+      "totalReviews": 28,
+      "replyRate": 42.857142857142854,
+      "googleScore": 5.0,
+      "score": 85
     },
     {
       "office_id": 244139,
@@ -4268,7 +5154,17 @@
         }
       },
       "lat": 53.9205,
-      "lng": -1.6904
+      "lng": -1.6904,
+      "id": 244139,
+      "name": "EweMove Otley & Guiseley",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 118,
+        "replyRate": 100.0
+      },
+      "totalReviews": 118,
+      "replyRate": 100.0,
+      "score": 88
     },
     {
       "office_id": 244142,
@@ -4318,7 +5214,17 @@
         }
       },
       "lat": 52.5726,
-      "lng": -0.263404
+      "lng": -0.263404,
+      "id": 244142,
+      "name": "EweMove Peterborough West",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 20,
+        "replyRate": null
+      },
+      "totalReviews": 20,
+      "replyRate": null,
+      "score": 85
     },
     {
       "office_id": 261403,
@@ -4364,7 +5270,17 @@
       "google": null,
       "platforms": null,
       "lat": 51.5933,
-      "lng": -0.383817
+      "lng": -0.383817,
+      "id": 261403,
+      "name": "EweMove Pinner",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 261747,
@@ -4398,7 +5314,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261747,
+      "name": "EweMove Plymouth East",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244197,
@@ -4455,7 +5381,18 @@
         }
       },
       "lat": 53.931,
-      "lng": -0.778214
+      "lng": -0.778214,
+      "id": 244197,
+      "name": "EweMove Pocklington",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 303,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 303,
+      "replyRate": 77.77777777777779,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 244144,
@@ -4510,7 +5447,17 @@
         }
       },
       "lat": 51.5307,
-      "lng": -3.69029
+      "lng": -3.69029,
+      "id": 244144,
+      "name": "EweMove Porthcawl & Bridgend West",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 22,
+        "replyRate": null
+      },
+      "totalReviews": 22,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 245274,
@@ -4570,7 +5517,17 @@
         }
       },
       "lat": 53.8066,
-      "lng": -1.67677
+      "lng": -1.67677,
+      "id": 245274,
+      "name": "EweMove Pudsey & Birstall",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": 0.0
+      },
+      "totalReviews": 14,
+      "replyRate": 0.0,
+      "score": 69
     },
     {
       "office_id": 244146,
@@ -4621,7 +5578,17 @@
         }
       },
       "lat": 51.457,
-      "lng": -0.228805
+      "lng": -0.228805,
+      "id": 244146,
+      "name": "EweMove Putney",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 56
     },
     {
       "office_id": 255433,
@@ -4667,7 +5634,17 @@
       "google": null,
       "platforms": null,
       "lat": 53.8125,
-      "lng": -2.30568
+      "lng": -2.30568,
+      "id": 255433,
+      "name": "EweMove Ribble Valley",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 244194,
@@ -4722,7 +5699,17 @@
         }
       },
       "lat": 53.8811,
-      "lng": -1.6063
+      "lng": -1.6063,
+      "id": 244194,
+      "name": "EweMove Rodley & Bramley",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 41
     },
     {
       "office_id": 244150,
@@ -4773,7 +5760,17 @@
         }
       },
       "lat": 53.7377,
-      "lng": -1.71967
+      "lng": -1.71967,
+      "id": 244150,
+      "name": "EweMove Rossendale & Ramsbottom",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 21,
+        "replyRate": null
+      },
+      "totalReviews": 21,
+      "replyRate": null,
+      "score": 46
     },
     {
       "office_id": 261721,
@@ -4812,7 +5809,17 @@
           "count": 18,
           "rating": 4.94
         }
-      }
+      },
+      "id": 261721,
+      "name": "EweMove Rugby",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 18,
+        "replyRate": 100.0
+      },
+      "totalReviews": 18,
+      "replyRate": 100.0,
+      "score": 71
     },
     {
       "office_id": 237615,
@@ -4878,7 +5885,18 @@
         }
       },
       "lat": 51.0716,
-      "lng": -1.79605
+      "lng": -1.79605,
+      "id": 237615,
+      "name": "EweMove Salisbury",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 147,
+        "replyRate": 0.0
+      },
+      "totalReviews": 147,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 95
     },
     {
       "office_id": 244152,
@@ -4935,7 +5953,18 @@
         }
       },
       "lat": 53.5728,
-      "lng": -0.62289
+      "lng": -0.62289,
+      "id": 244152,
+      "name": "EweMove Scunthorpe South",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 39,
+        "replyRate": null
+      },
+      "totalReviews": 39,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 247726,
@@ -4981,7 +6010,17 @@
         }
       },
       "lat": 53.417,
-      "lng": -2.92252
+      "lng": -2.92252,
+      "id": 247726,
+      "name": "EweMove Sefton Park",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 65,
+        "replyRate": 100.0
+      },
+      "totalReviews": 65,
+      "replyRate": 100.0,
+      "score": 78
     },
     {
       "office_id": 244091,
@@ -5026,7 +6065,17 @@
         }
       },
       "lat": 53.3621,
-      "lng": -1.47282
+      "lng": -1.47282,
+      "id": 244091,
+      "name": "EweMove Sheffield South West",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 167,
+        "replyRate": 100.0
+      },
+      "totalReviews": 167,
+      "replyRate": 100.0,
+      "score": 93
     },
     {
       "office_id": 261732,
@@ -5070,7 +6119,17 @@
           "count": 1,
           "rating": 5.0
         }
-      }
+      },
+      "id": 261732,
+      "name": "EweMove Shepton Mallet & Sherborne",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1,
+      "replyRate": 0.0,
+      "score": 44
     },
     {
       "office_id": 261740,
@@ -5104,7 +6163,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261740,
+      "name": "EweMove Shrewsbury West",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244156,
@@ -5149,7 +6218,17 @@
         }
       },
       "lat": 51.4467,
-      "lng": 0.0995649
+      "lng": 0.0995649,
+      "id": 244156,
+      "name": "EweMove Sidcup",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 302,
+        "replyRate": 94.44444444444444
+      },
+      "totalReviews": 302,
+      "replyRate": 94.44444444444444,
+      "score": 76
     },
     {
       "office_id": 255434,
@@ -5191,7 +6270,17 @@
         }
       },
       "lat": 0.0,
-      "lng": 0.0
+      "lng": 0.0,
+      "id": 255434,
+      "name": "EweMove Solihull",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 100.0
+      },
+      "totalReviews": 20,
+      "replyRate": 100.0,
+      "score": 71
     },
     {
       "office_id": 244097,
@@ -5241,7 +6330,17 @@
         }
       },
       "lat": 54.9479,
-      "lng": -1.37965
+      "lng": -1.37965,
+      "id": 244097,
+      "name": "EweMove South Tyneside",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 59,
+        "replyRate": 25.0
+      },
+      "totalReviews": 59,
+      "replyRate": 25.0,
+      "score": 75
     },
     {
       "office_id": 244022,
@@ -5286,7 +6385,17 @@
         }
       },
       "lat": 51.5359,
-      "lng": 0.733143
+      "lng": 0.733143,
+      "id": 244022,
+      "name": "EweMove Southend",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 47,
+        "replyRate": 100.0
+      },
+      "totalReviews": 47,
+      "replyRate": 100.0,
+      "score": 84
     },
     {
       "office_id": 244165,
@@ -5338,7 +6447,18 @@
         }
       },
       "lat": 52.689,
-      "lng": -0.309411
+      "lng": -0.309411,
+      "id": 244165,
+      "name": "EweMove Spalding",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 112,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 112,
+      "replyRate": 85.71428571428571,
+      "googleScore": 5.0,
+      "score": 89
     },
     {
       "office_id": 244163,
@@ -5383,7 +6503,17 @@
         }
       },
       "lat": 53.4612,
-      "lng": -2.77121
+      "lng": -2.77121,
+      "id": 244163,
+      "name": "EweMove St Helens",
+      "va": {
+        "overallRating": 4.98,
+        "totalReviews": 175,
+        "replyRate": 100.0
+      },
+      "totalReviews": 175,
+      "replyRate": 100.0,
+      "score": 84
     },
     {
       "office_id": 244164,
@@ -5422,7 +6552,17 @@
         }
       },
       "lat": 52.7882,
-      "lng": -2.05857
+      "lng": -2.05857,
+      "id": 244164,
+      "name": "EweMove Stafford",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 211,
+        "replyRate": 100.0
+      },
+      "totalReviews": 211,
+      "replyRate": 100.0,
+      "score": 92
     },
     {
       "office_id": 244166,
@@ -5478,7 +6618,18 @@
         }
       },
       "lat": 52.8941,
-      "lng": -1.27952
+      "lng": -1.27952,
+      "id": 244166,
+      "name": "EweMove Stapleford & Sandiacre",
+      "va": {
+        "overallRating": 4.15,
+        "totalReviews": 13,
+        "replyRate": 0.0
+      },
+      "totalReviews": 13,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 244038,
@@ -5530,7 +6681,18 @@
         }
       },
       "lat": 51.5409,
-      "lng": 0.0009726
+      "lng": 0.0009726,
+      "id": 244038,
+      "name": "EweMove Stratford & Forest Gate",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 168,
+        "replyRate": 100.0
+      },
+      "totalReviews": 168,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 88
     },
     {
       "office_id": 261750,
@@ -5564,7 +6726,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261750,
+      "name": "EweMove Stratford-upon-Avon",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 261731,
@@ -5605,7 +6777,17 @@
       "google": null,
       "platforms": null,
       "lat": 52.5522,
-      "lng": -1.84441
+      "lng": -1.84441,
+      "id": 261731,
+      "name": "EweMove Sutton Coldfield West",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 244168,
@@ -5657,7 +6839,18 @@
         }
       },
       "lat": 51.5698,
-      "lng": -1.8252
+      "lng": -1.8252,
+      "id": 244168,
+      "name": "EweMove Swindon South",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 33,
+        "replyRate": 75.0
+      },
+      "totalReviews": 33,
+      "replyRate": 75.0,
+      "googleScore": 4.9,
+      "score": 89
     },
     {
       "office_id": 244169,
@@ -5707,7 +6900,17 @@
         }
       },
       "lat": 51.0079,
-      "lng": -3.0977
+      "lng": -3.0977,
+      "id": 244169,
+      "name": "EweMove Taunton",
+      "va": {
+        "overallRating": 4.98,
+        "totalReviews": 185,
+        "replyRate": 87.5
+      },
+      "totalReviews": 185,
+      "replyRate": 87.5,
+      "score": 84
     },
     {
       "office_id": 261713,
@@ -5750,7 +6953,17 @@
           "count": 1,
           "rating": 5.0
         }
-      }
+      },
+      "id": 261713,
+      "name": "EweMove Telford West",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": 75.0
+      },
+      "totalReviews": 14,
+      "replyRate": 75.0,
+      "score": 71
     },
     {
       "office_id": 244019,
@@ -5809,7 +7022,18 @@
         }
       },
       "lat": 51.6732,
-      "lng": -1.93073
+      "lng": -1.93073,
+      "id": 244019,
+      "name": "EweMove Tetbury & Malmesbury",
+      "va": {
+        "overallRating": 4.97,
+        "totalReviews": 60,
+        "replyRate": 37.5
+      },
+      "totalReviews": 60,
+      "replyRate": 37.5,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 244170,
@@ -5869,7 +7093,17 @@
         }
       },
       "lat": 51.0822,
-      "lng": -3.93064
+      "lng": -3.93064,
+      "id": 244170,
+      "name": "EweMove Tiverton & South Molton",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 19,
+        "replyRate": 0.0
+      },
+      "totalReviews": 19,
+      "replyRate": 0.0,
+      "score": 62
     },
     {
       "office_id": 244171,
@@ -5919,7 +7153,17 @@
         }
       },
       "lat": 53.7075,
-      "lng": -2.11153
+      "lng": -2.11153,
+      "id": 244171,
+      "name": "EweMove Todmorden & Littleborough",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 23,
+        "replyRate": null
+      },
+      "totalReviews": 23,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 244174,
@@ -5970,7 +7214,17 @@
         }
       },
       "lat": 53.0936,
-      "lng": -2.00021
+      "lng": -2.00021,
+      "id": 244174,
+      "name": "EweMove Uttoxeter & Cheadle",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 69
     },
     {
       "office_id": 244176,
@@ -6028,7 +7282,18 @@
         }
       },
       "lat": 51.3799,
-      "lng": 0.525248
+      "lng": 0.525248,
+      "id": 244176,
+      "name": "EweMove Walderslade & Chatham",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 60,
+        "replyRate": 100.0
+      },
+      "totalReviews": 60,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 84
     },
     {
       "office_id": 244177,
@@ -6070,7 +7335,18 @@
         }
       },
       "lat": 51.5075,
-      "lng": -0.0576468
+      "lng": -0.0576468,
+      "id": 244177,
+      "name": "EweMove Wapping & Bow",
+      "va": {
+        "overallRating": 4.97,
+        "totalReviews": 58,
+        "replyRate": 100.0
+      },
+      "totalReviews": 58,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 86
     },
     {
       "office_id": 247727,
@@ -6127,7 +7403,18 @@
         }
       },
       "lat": 52.2763,
-      "lng": -1.57984
+      "lng": -1.57984,
+      "id": 247727,
+      "name": "EweMove Warwick & Leamington Spa",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 56,
+        "replyRate": null
+      },
+      "totalReviews": 56,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 82
     },
     {
       "office_id": 244179,
@@ -6173,7 +7460,17 @@
         }
       },
       "lat": 54.8912,
-      "lng": -1.51293
+      "lng": -1.51293,
+      "id": 244179,
+      "name": "EweMove Washington & Houghton le Spring",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": null
+      },
+      "totalReviews": 14,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 244182,
@@ -6223,7 +7520,17 @@
         }
       },
       "lat": 51.794,
-      "lng": -0.183992
+      "lng": -0.183992,
+      "id": 244182,
+      "name": "EweMove Welwyn Garden City",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 145,
+        "replyRate": null
+      },
+      "totalReviews": 145,
+      "replyRate": null,
+      "score": 83
     },
     {
       "office_id": 261699,
@@ -6269,7 +7576,17 @@
         }
       },
       "lat": 52.879,
-      "lng": -1.18416
+      "lng": -1.18416,
+      "id": 261699,
+      "name": "EweMove West Bridgford & Ruddington",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 4,
+        "replyRate": null
+      },
+      "totalReviews": 4,
+      "replyRate": null,
+      "score": 60
     },
     {
       "office_id": 244184,
@@ -6314,7 +7631,17 @@
         }
       },
       "lat": 53.0398,
-      "lng": -2.56602
+      "lng": -2.56602,
+      "id": 244184,
+      "name": "EweMove Whitchurch & Nantwich",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 40,
+        "replyRate": 0.0
+      },
+      "totalReviews": 40,
+      "replyRate": 0.0,
+      "score": 82
     },
     {
       "office_id": 244187,
@@ -6353,7 +7680,17 @@
         }
       },
       "lat": 52.5748,
-      "lng": -1.10264
+      "lng": -1.10264,
+      "id": 244187,
+      "name": "EweMove Wigston & Blaby",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 74,
+        "replyRate": 80.0
+      },
+      "totalReviews": 74,
+      "replyRate": 80.0,
+      "score": 88
     },
     {
       "office_id": 255642,
@@ -6404,7 +7741,17 @@
         }
       },
       "lat": 53.7569,
-      "lng": -0.639974
+      "lng": -0.639974,
+      "id": 255642,
+      "name": "EweMove Willerby",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2,
+      "replyRate": 100.0,
+      "score": 65
     },
     {
       "office_id": 260957,
@@ -6455,7 +7802,17 @@
         }
       },
       "lat": 51.5274,
-      "lng": -0.086527
+      "lng": -0.086527,
+      "id": 260957,
+      "name": "EweMove Winchester and Salisbury",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 123,
+        "replyRate": 0.0
+      },
+      "totalReviews": 123,
+      "replyRate": 0.0,
+      "score": 75
     },
     {
       "office_id": 247720,
@@ -6501,7 +7858,17 @@
       "google": null,
       "platforms": null,
       "lat": 53.3891,
-      "lng": -3.06894
+      "lng": -3.06894,
+      "id": 247720,
+      "name": "EweMove Wirral West",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 261741,
@@ -6540,7 +7907,17 @@
       ],
       "overall_rag": "RED",
       "google": null,
-      "platforms": null
+      "platforms": null,
+      "id": 261741,
+      "name": "EweMove Witney & Carterton",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": null
     },
     {
       "office_id": 244191,
@@ -6593,7 +7970,18 @@
         }
       },
       "lat": 52.1959,
-      "lng": -2.22285
+      "lng": -2.22285,
+      "id": 244191,
+      "name": "EweMove Worcester",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 30,
+        "replyRate": 100.0
+      },
+      "totalReviews": 30,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 244192,
@@ -6650,7 +8038,18 @@
         }
       },
       "lat": 52.5781,
-      "lng": 1.19189
+      "lng": 1.19189,
+      "id": 244192,
+      "name": "EweMove Wymondham",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 82,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 82,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.9,
+      "score": 91
     },
     {
       "office_id": 244193,
@@ -6698,7 +8097,18 @@
         }
       },
       "lat": 50.9422,
-      "lng": -2.63291
+      "lng": -2.63291,
+      "id": 244193,
+      "name": "EweMove Yeovil",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 182,
+        "replyRate": 100.0
+      },
+      "totalReviews": 182,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 93
     },
     {
       "office_id": 244196,
@@ -6755,7 +8165,18 @@
         }
       },
       "lat": 53.9798,
-      "lng": -1.13212
+      "lng": -1.13212,
+      "id": 244196,
+      "name": "EweMove York",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 312,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 312,
+      "replyRate": 77.77777777777779,
+      "googleScore": 4.9,
+      "score": 85
     },
     {
       "office_id": 245273,
@@ -6810,7 +8231,17 @@
         }
       },
       "lat": 52.3406,
-      "lng": -1.5773
+      "lng": -1.5773,
+      "id": 245273,
+      "name": "Ewemove Kenilworth",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 26,
+        "replyRate": 50.0
+      },
+      "totalReviews": 26,
+      "replyRate": 50.0,
+      "score": 85
     },
     {
       "office_id": 245278,
@@ -6866,7 +8297,18 @@
         }
       },
       "lat": 52.3433,
-      "lng": 0.510586
+      "lng": 0.510586,
+      "id": 245278,
+      "name": "Ewemove Mildenhall",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 92,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 92,
+      "replyRate": 66.66666666666666,
+      "googleScore": 5.0,
+      "score": 97
     },
     {
       "office_id": 255643,
@@ -6905,7 +8347,17 @@
         }
       },
       "lat": 52.2116,
-      "lng": 0.459165
+      "lng": 0.459165,
+      "id": 255643,
+      "name": "Ewemove Newmarket & Soham",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 71,
+        "replyRate": 100.0
+      },
+      "totalReviews": 71,
+      "replyRate": 100.0,
+      "score": 92
     },
     {
       "office_id": 255638,
@@ -6951,7 +8403,17 @@
         }
       },
       "lat": 53.6689,
-      "lng": -1.75224
+      "lng": -1.75224,
+      "id": 255638,
+      "name": "Ewemove North Huddersfield & Mirfield",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": 100.0
+      },
+      "totalReviews": 15,
+      "replyRate": 100.0,
+      "score": 71
     },
     {
       "office_id": 260164,
@@ -6990,7 +8452,17 @@
         }
       },
       "lat": 52.6574,
-      "lng": 1.28856
+      "lng": 1.28856,
+      "id": 260164,
+      "name": "Ewemove Norwich North East",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 23,
+        "replyRate": 100.0
+      },
+      "totalReviews": 23,
+      "replyRate": 100.0,
+      "score": 79
     },
     {
       "office_id": 260121,
@@ -7036,7 +8508,17 @@
       "google": null,
       "platforms": null,
       "lat": 50.9816,
-      "lng": -1.52002
+      "lng": -1.52002,
+      "id": 260121,
+      "name": "Ewemove Romsey",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 52
     },
     {
       "office_id": 260163,
@@ -7088,7 +8570,18 @@
         }
       },
       "lat": 53.4196,
-      "lng": -2.30555
+      "lng": -2.30555,
+      "id": 260163,
+      "name": "Ewemove Sale",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 40,
+        "replyRate": 100.0
+      },
+      "totalReviews": 40,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 85
     },
     {
       "office_id": 260162,
@@ -7134,7 +8627,17 @@
       "google": null,
       "platforms": null,
       "lat": 53.9498,
-      "lng": -2.16427
+      "lng": -2.16427,
+      "id": 260162,
+      "name": "Ewemove Skipton & The Dales",
+      "va": {
+        "overallRating": null,
+        "totalReviews": 0,
+        "replyRate": null
+      },
+      "totalReviews": 0,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 247718,
@@ -7192,7 +8695,18 @@
         }
       },
       "lat": 55.0455,
-      "lng": -1.45225
+      "lng": -1.45225,
+      "id": 247718,
+      "name": "Ewemove Whitley Bay & Tynemouth",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 16,
+        "replyRate": 0.0
+      },
+      "totalReviews": 16,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 69
     },
     {
       "office_id": 237616,
@@ -7258,7 +8772,18 @@
         }
       },
       "lat": 51.0663,
-      "lng": -1.29832
+      "lng": -1.29832,
+      "id": 237616,
+      "name": "Ewemove Winchester",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 200,
+        "replyRate": 0.0
+      },
+      "totalReviews": 200,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 98
     }
   ],
   "google_summary": {

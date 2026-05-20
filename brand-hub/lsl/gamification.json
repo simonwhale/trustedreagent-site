@@ -53,7 +53,18 @@
         }
       },
       "lat": 53.7884,
-      "lng": -2.24294
+      "lng": -2.24294,
+      "id": 249878,
+      "name": "Entwistle Green (BB11)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 98,
+        "replyRate": 100.0
+      },
+      "totalReviews": 98,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 246245,
@@ -110,7 +121,18 @@
         }
       },
       "lat": 53.548,
-      "lng": -2.52255
+      "lng": -2.52255,
+      "id": 246245,
+      "name": "Entwistle Green (BL5)",
+      "va": {
+        "overallRating": 4.47,
+        "totalReviews": 160,
+        "replyRate": 100.0
+      },
+      "totalReviews": 160,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 72
     },
     {
       "office_id": 249879,
@@ -163,7 +185,18 @@
         }
       },
       "lat": 53.5936,
-      "lng": -2.29663
+      "lng": -2.29663,
+      "id": 249879,
+      "name": "Entwistle Green (BL9)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 351,
+        "replyRate": 100.0
+      },
+      "totalReviews": 351,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 249880,
@@ -225,7 +258,18 @@
         }
       },
       "lat": 53.8192,
-      "lng": -3.04984
+      "lng": -3.04984,
+      "id": 249880,
+      "name": "Entwistle Green (FY1)",
+      "va": {
+        "overallRating": 3.52,
+        "totalReviews": 486,
+        "replyRate": 92.3076923076923
+      },
+      "totalReviews": 486,
+      "replyRate": 92.3076923076923,
+      "googleScore": 4.6,
+      "score": 63
     },
     {
       "office_id": 249881,
@@ -291,7 +335,18 @@
         }
       },
       "lat": 53.7517,
-      "lng": -3.0316
+      "lng": -3.0316,
+      "id": 249881,
+      "name": "Entwistle Green (FY8)",
+      "va": {
+        "overallRating": 3.39,
+        "totalReviews": 388,
+        "replyRate": 87.5
+      },
+      "totalReviews": 388,
+      "replyRate": 87.5,
+      "googleScore": 4.7,
+      "score": 56
     },
     {
       "office_id": 249886,
@@ -353,7 +408,18 @@
         }
       },
       "lat": 54.0721,
-      "lng": -2.86781
+      "lng": -2.86781,
+      "id": 249886,
+      "name": "Entwistle Green (LA4)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 316,
+        "replyRate": 100.0
+      },
+      "totalReviews": 316,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 55
     },
     {
       "office_id": 223888,
@@ -404,7 +470,17 @@
         }
       },
       "lat": 53.648652,
-      "lng": -3.005693
+      "lng": -3.005693,
+      "id": 223888,
+      "name": "Entwistle Green (PR8)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 0
     },
     {
       "office_id": 249887,
@@ -462,7 +538,18 @@
         }
       },
       "lat": 53.3886,
-      "lng": -2.59712
+      "lng": -2.59712,
+      "id": 249887,
+      "name": "Entwistle Green (WA1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 67,
+        "replyRate": null
+      },
+      "totalReviews": 67,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 67
     },
     {
       "office_id": 249888,
@@ -524,7 +611,18 @@
         }
       },
       "lat": 53.453,
-      "lng": -2.73601
+      "lng": -2.73601,
+      "id": 249888,
+      "name": "Entwistle Green (WA10)",
+      "va": {
+        "overallRating": 3.57,
+        "totalReviews": 462,
+        "replyRate": 93.75
+      },
+      "totalReviews": 462,
+      "replyRate": 93.75,
+      "googleScore": 4.7,
+      "score": 63
     },
     {
       "office_id": 257919,
@@ -588,7 +686,18 @@
         }
       },
       "lat": 53.3884,
-      "lng": -2.91358
+      "lng": -2.91358,
+      "id": 257919,
+      "name": "Entwistle Green Allerton Sales",
+      "va": {
+        "overallRating": 2.45,
+        "totalReviews": 245,
+        "replyRate": 72.72727272727273
+      },
+      "totalReviews": 245,
+      "replyRate": 72.72727272727273,
+      "googleScore": 4.3,
+      "score": 58
     },
     {
       "office_id": 259115,
@@ -642,7 +751,18 @@
         }
       },
       "lat": 53.7505,
-      "lng": -2.48589
+      "lng": -2.48589,
+      "id": 259115,
+      "name": "Entwistle Green Blackburn Sales",
+      "va": {
+        "overallRating": 2.44,
+        "totalReviews": 249,
+        "replyRate": 85.0
+      },
+      "totalReviews": 249,
+      "replyRate": 85.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 257848,
@@ -700,7 +820,18 @@
         }
       },
       "lat": 53.5798,
-      "lng": -2.42969
+      "lng": -2.42969,
+      "id": 257848,
+      "name": "Entwistle Green Bolton Sales",
+      "va": {
+        "overallRating": 3.6,
+        "totalReviews": 498,
+        "replyRate": 80.0
+      },
+      "totalReviews": 498,
+      "replyRate": 80.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 259418,
@@ -759,7 +890,18 @@
         }
       },
       "lat": 53.8571,
-      "lng": -2.16962
+      "lng": -2.16962,
+      "id": 259418,
+      "name": "Entwistle Green Colne Sales",
+      "va": {
+        "overallRating": 2.44,
+        "totalReviews": 249,
+        "replyRate": 72.72727272727273
+      },
+      "totalReviews": 249,
+      "replyRate": 72.72727272727273,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 257920,
@@ -822,7 +964,18 @@
         }
       },
       "lat": 53.4911,
-      "lng": -3.02596
+      "lng": -3.02596,
+      "id": 257920,
+      "name": "Entwistle Green Crosby Sales",
+      "va": {
+        "overallRating": 3.48,
+        "totalReviews": 435,
+        "replyRate": 91.17647058823529
+      },
+      "totalReviews": 435,
+      "replyRate": 91.17647058823529,
+      "googleScore": 4.7,
+      "score": 58
     },
     {
       "office_id": 257921,
@@ -890,7 +1043,18 @@
         }
       },
       "lat": 53.5571,
-      "lng": -3.06143
+      "lng": -3.06143,
+      "id": 257921,
+      "name": "Entwistle Green Formby",
+      "va": {
+        "overallRating": 3.36,
+        "totalReviews": 412,
+        "replyRate": 0.0
+      },
+      "totalReviews": 412,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 58
     },
     {
       "office_id": 259912,
@@ -957,7 +1121,18 @@
         }
       },
       "lat": 53.7904,
-      "lng": -2.71372
+      "lng": -2.71372,
+      "id": 259912,
+      "name": "Entwistle Green Fulwood",
+      "va": {
+        "overallRating": 2.79,
+        "totalReviews": 333,
+        "replyRate": 0.0
+      },
+      "totalReviews": 333,
+      "replyRate": 0.0,
+      "googleScore": 4.1,
+      "score": 25
     },
     {
       "office_id": 223895,
@@ -1013,7 +1188,18 @@
         }
       },
       "lat": 54.048497,
-      "lng": -2.802413
+      "lng": -2.802413,
+      "id": 223895,
+      "name": "Entwistle Green Lettings Lancaster",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 308,
+        "replyRate": 100.0
+      },
+      "totalReviews": 308,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 259706,
@@ -1080,7 +1266,18 @@
         }
       },
       "lat": 53.695,
-      "lng": -2.69523
+      "lng": -2.69523,
+      "id": 259706,
+      "name": "Entwistle Green Leyland Sales",
+      "va": {
+        "overallRating": 3.27,
+        "totalReviews": 381,
+        "replyRate": 0.0
+      },
+      "totalReviews": 381,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 58
     },
     {
       "office_id": 257922,
@@ -1139,7 +1336,18 @@
         }
       },
       "lat": 53.4076,
-      "lng": -2.99029
+      "lng": -2.99029,
+      "id": 257922,
+      "name": "Entwistle Green Liverpool City Sales",
+      "va": {
+        "overallRating": 2.45,
+        "totalReviews": 242,
+        "replyRate": 75.0
+      },
+      "totalReviews": 242,
+      "replyRate": 75.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 257923,
@@ -1198,7 +1406,18 @@
         }
       },
       "lat": 53.5167,
-      "lng": -2.94387
+      "lng": -2.94387,
+      "id": 257923,
+      "name": "Entwistle Green Maghull Sales",
+      "va": {
+        "overallRating": 2.43,
+        "totalReviews": 240,
+        "replyRate": 94.73684210526315
+      },
+      "totalReviews": 240,
+      "replyRate": 94.73684210526315,
+      "googleScore": 4.5,
+      "score": 56
     },
     {
       "office_id": 257924,
@@ -1260,7 +1479,18 @@
         }
       },
       "lat": 53.4125,
-      "lng": -2.91169
+      "lng": -2.91169,
+      "id": 257924,
+      "name": "Entwistle Green Old Swan Sales",
+      "va": {
+        "overallRating": 2.68,
+        "totalReviews": 308,
+        "replyRate": 100.0
+      },
+      "totalReviews": 308,
+      "replyRate": 100.0,
+      "googleScore": 3.6,
+      "score": 25
     },
     {
       "office_id": 259799,
@@ -1328,7 +1558,18 @@
         }
       },
       "lat": 53.8766,
-      "lng": -3.03923
+      "lng": -3.03923,
+      "id": 259799,
+      "name": "Entwistle Green Thornton-Cleveleys Sales",
+      "va": {
+        "overallRating": 2.92,
+        "totalReviews": 316,
+        "replyRate": 0.0
+      },
+      "totalReviews": 316,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 25
     },
     {
       "office_id": 257925,
@@ -1391,7 +1632,18 @@
         }
       },
       "lat": 53.463,
-      "lng": -2.96016
+      "lng": -2.96016,
+      "id": 257925,
+      "name": "Entwistle Green Walton Vale",
+      "va": {
+        "overallRating": 2.44,
+        "totalReviews": 246,
+        "replyRate": 0.0
+      },
+      "totalReviews": 246,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 0
     },
     {
       "office_id": 252880,
@@ -1458,7 +1710,18 @@
         }
       },
       "lat": 53.6325,
-      "lng": -2.33587
+      "lng": -2.33587,
+      "id": 252880,
+      "name": "Reeds Rains (BL0)",
+      "va": {
+        "overallRating": 3.64,
+        "totalReviews": 1837,
+        "replyRate": 40.0
+      },
+      "totalReviews": 1837,
+      "replyRate": 40.0,
+      "googleScore": 4.3,
+      "score": 60
     },
     {
       "office_id": 1302,
@@ -1509,7 +1772,17 @@
         }
       },
       "lat": 53.593427,
-      "lng": -2.29731
+      "lng": -2.29731,
+      "id": 1302,
+      "name": "Reeds Rains (BL9)",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 12,
+        "replyRate": null
+      },
+      "totalReviews": 12,
+      "replyRate": null,
+      "score": 41
     },
     {
       "office_id": 254945,
@@ -1573,7 +1846,18 @@
         }
       },
       "lat": 54.6623,
-      "lng": -5.66813
+      "lng": -5.66813,
+      "id": 254945,
+      "name": "Reeds Rains (Bangor)",
+      "va": {
+        "overallRating": 3.73,
+        "totalReviews": 2012,
+        "replyRate": 50.0
+      },
+      "totalReviews": 2012,
+      "replyRate": 50.0,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 252896,
@@ -1645,7 +1929,18 @@
         }
       },
       "lat": 53.32,
-      "lng": -3.48939
+      "lng": -3.48939,
+      "id": 252896,
+      "name": "Reeds Rains (LL18)",
+      "va": {
+        "overallRating": 3.76,
+        "totalReviews": 2071,
+        "replyRate": 34.78260869565217
+      },
+      "totalReviews": 2071,
+      "replyRate": 34.78260869565217,
+      "googleScore": 4.7,
+      "score": 62
     },
     {
       "office_id": 8833,
@@ -1704,7 +1999,18 @@
         }
       },
       "lat": 53.743818,
-      "lng": -1.600437
+      "lng": -1.600437,
+      "id": 8833,
+      "name": "Reeds Rains (LS27)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 42
     },
     {
       "office_id": 14248,
@@ -1763,7 +2069,18 @@
         }
       },
       "lat": 53.370365,
-      "lng": -2.234689
+      "lng": -2.234689,
+      "id": 14248,
+      "name": "Reeds Rains (SK8)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 42
     },
     {
       "office_id": 252902,
@@ -1835,7 +2152,18 @@
         }
       },
       "lat": 53.3697,
-      "lng": -2.72465
+      "lng": -2.72465,
+      "id": 252902,
+      "name": "Reeds Rains (WA8)",
+      "va": {
+        "overallRating": 3.78,
+        "totalReviews": 2174,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 2174,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.7,
+      "score": 61
     },
     {
       "office_id": 257751,
@@ -1898,7 +2226,18 @@
         }
       },
       "lat": 52.4681,
-      "lng": -1.80774
+      "lng": -1.80774,
+      "id": 257751,
+      "name": "Reeds Rains Birmingham",
+      "va": {
+        "overallRating": 3.68,
+        "totalReviews": 1987,
+        "replyRate": 40.0
+      },
+      "totalReviews": 1987,
+      "replyRate": 40.0,
+      "googleScore": 4.5,
+      "score": 70
     },
     {
       "office_id": 243696,
@@ -1956,7 +2295,18 @@
         }
       },
       "lat": 54.085,
-      "lng": -0.195762
+      "lng": -0.195762,
+      "id": 243696,
+      "name": "Reeds Rains Bridlington",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 36
     },
     {
       "office_id": 243700,
@@ -2018,7 +2368,18 @@
         }
       },
       "lat": 51.4464,
-      "lng": -0.018444
+      "lng": -0.018444,
+      "id": 243700,
+      "name": "Reeds Rains Catford",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 140,
+        "replyRate": 25.0
+      },
+      "totalReviews": 140,
+      "replyRate": 25.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 258345,
@@ -2090,7 +2451,18 @@
         }
       },
       "lat": 52.4052,
-      "lng": -1.5137
+      "lng": -1.5137,
+      "id": 258345,
+      "name": "Reeds Rains Coventry",
+      "va": {
+        "overallRating": 3.81,
+        "totalReviews": 2202,
+        "replyRate": 0.0
+      },
+      "totalReviews": 2202,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 62
     },
     {
       "office_id": 243695,
@@ -2141,7 +2513,17 @@
         }
       },
       "lat": 52.9239,
-      "lng": -1.47717
+      "lng": -1.47717,
+      "id": 243695,
+      "name": "Reeds Rains Derby",
+      "va": {
+        "overallRating": 3.69,
+        "totalReviews": 1853,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1853,
+      "replyRate": 0.0,
+      "score": 60
     },
     {
       "office_id": 257868,
@@ -2205,7 +2587,18 @@
         }
       },
       "lat": 53.4741,
-      "lng": -2.24516
+      "lng": -2.24516,
+      "id": 257868,
+      "name": "Reeds Rains Manchester",
+      "va": {
+        "overallRating": 3.68,
+        "totalReviews": 1901,
+        "replyRate": 50.0
+      },
+      "totalReviews": 1901,
+      "replyRate": 50.0,
+      "googleScore": 4.4,
+      "score": 62
     },
     {
       "office_id": 243704,
@@ -2263,7 +2656,18 @@
         }
       },
       "lat": 51.5201,
-      "lng": 0.018454
+      "lng": 0.018454,
+      "id": 243704,
+      "name": "Reeds Rains Plaistow",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 223,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 223,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 243705,
@@ -2320,7 +2724,18 @@
         }
       },
       "lat": 53.4287,
-      "lng": -2.80486
+      "lng": -2.80486,
+      "id": 243705,
+      "name": "Reeds Rains Prescot",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 289,
+        "replyRate": 100.0
+      },
+      "totalReviews": 289,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 243706,
@@ -2387,7 +2802,18 @@
         }
       },
       "lat": 53.3202,
-      "lng": -3.48965
+      "lng": -3.48965,
+      "id": 243706,
+      "name": "Reeds Rains Rhyl",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 266,
+        "replyRate": 0.0
+      },
+      "totalReviews": 266,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 258212,
@@ -2450,7 +2876,18 @@
         }
       },
       "lat": 53.3832,
-      "lng": -1.47116
+      "lng": -1.47116,
+      "id": 258212,
+      "name": "Reeds Rains Sheffield City Living",
+      "va": {
+        "overallRating": 3.66,
+        "totalReviews": 1887,
+        "replyRate": 64.86486486486487
+      },
+      "totalReviews": 1887,
+      "replyRate": 64.86486486486487,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 259486,
@@ -2518,7 +2955,18 @@
         }
       },
       "lat": 54.565,
-      "lng": -1.31189
+      "lng": -1.31189,
+      "id": 259486,
+      "name": "Reeds Rains Stockton-On-Tees",
+      "va": {
+        "overallRating": 3.67,
+        "totalReviews": 1960,
+        "replyRate": 38.095238095238095
+      },
+      "totalReviews": 1960,
+      "replyRate": 38.095238095238095,
+      "googleScore": 4.9,
+      "score": 62
     },
     {
       "office_id": 18207,
@@ -2571,7 +3019,18 @@
         }
       },
       "lat": 53.957274,
-      "lng": -1.12351
+      "lng": -1.12351,
+      "id": 18207,
+      "name": "Reeds Rains, Acomb",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 206,
+        "replyRate": 100.0
+      },
+      "totalReviews": 206,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 243723,
@@ -2640,7 +3099,18 @@
         }
       },
       "lat": 53.4894,
-      "lng": -2.09126
+      "lng": -2.09126,
+      "id": 243723,
+      "name": "Reeds Rains, Ashton Under Lyne",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 213,
+        "replyRate": 0.0
+      },
+      "totalReviews": 213,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 69
     },
     {
       "office_id": 236680,
@@ -2705,7 +3175,18 @@
         }
       },
       "lat": 54.595355,
-      "lng": -5.869097
+      "lng": -5.869097,
+      "id": 236680,
+      "name": "Reeds Rains, Ballyhackamore NI",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 436,
+        "replyRate": 31.372549019607842
+      },
+      "totalReviews": 436,
+      "replyRate": 31.372549019607842,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 225500,
@@ -2763,7 +3244,18 @@
         }
       },
       "lat": 53.730581,
-      "lng": -2.661224
+      "lng": -2.661224,
+      "id": 225500,
+      "name": "Reeds Rains, Bamber Bridge",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 201,
+        "replyRate": 28.57142857142857
+      },
+      "totalReviews": 201,
+      "replyRate": 28.57142857142857,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 243725,
@@ -2832,7 +3324,18 @@
         }
       },
       "lat": 52.4795,
-      "lng": -1.46976
+      "lng": -1.46976,
+      "id": 243725,
+      "name": "Reeds Rains, Bedworth",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 418,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 418,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.9,
+      "score": 68
     },
     {
       "office_id": 5753,
@@ -2889,7 +3392,18 @@
         }
       },
       "lat": 53.785708,
-      "lng": -3.0457
+      "lng": -3.0457,
+      "id": 5753,
+      "name": "Reeds Rains, Blackpool",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 248,
+        "replyRate": 100.0
+      },
+      "totalReviews": 248,
+      "replyRate": 100.0,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 791,
@@ -2941,7 +3455,18 @@
         }
       },
       "lat": 53.7884,
-      "lng": -2.24289
+      "lng": -2.24289,
+      "id": 791,
+      "name": "Reeds Rains, Burnley",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 304,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 304,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 2154,
@@ -3006,7 +3531,18 @@
         }
       },
       "lat": 54.715278,
-      "lng": -5.806272
+      "lng": -5.806272,
+      "id": 2154,
+      "name": "Reeds Rains, Carrickfergus, NI",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 292,
+        "replyRate": 26.31578947368421
+      },
+      "totalReviews": 292,
+      "replyRate": 26.31578947368421,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 17790,
@@ -3064,7 +3600,18 @@
         }
       },
       "lat": 53.726718,
-      "lng": -1.352612
+      "lng": -1.352612,
+      "id": 17790,
+      "name": "Reeds Rains, Castleford",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 304,
+        "replyRate": 86.66666666666667
+      },
+      "totalReviews": 304,
+      "replyRate": 86.66666666666667,
+      "googleScore": 4.7,
+      "score": 81
     },
     {
       "office_id": 243727,
@@ -3121,7 +3668,18 @@
         }
       },
       "lat": 54.9953,
-      "lng": -1.71714
+      "lng": -1.71714,
+      "id": 243727,
+      "name": "Reeds Rains, Chapel House",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 118,
+        "replyRate": 100.0
+      },
+      "totalReviews": 118,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 21445,
@@ -3185,7 +3743,18 @@
         }
       },
       "lat": 53.393749,
-      "lng": -2.218442
+      "lng": -2.218442,
+      "id": 21445,
+      "name": "Reeds Rains, Cheadle",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 165,
+        "replyRate": 50.0
+      },
+      "totalReviews": 165,
+      "replyRate": 50.0,
+      "googleScore": 4.5,
+      "score": 79
     },
     {
       "office_id": 243728,
@@ -3247,7 +3816,18 @@
         }
       },
       "lat": 53.1899,
-      "lng": -2.89344
+      "lng": -2.89344,
+      "id": 243728,
+      "name": "Reeds Rains, Chester",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 182,
+        "replyRate": 0.0
+      },
+      "totalReviews": 182,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 71
     },
     {
       "office_id": 243729,
@@ -3299,7 +3879,17 @@
         }
       },
       "lat": 54.8586,
-      "lng": -1.57363
+      "lng": -1.57363,
+      "id": 243729,
+      "name": "Reeds Rains, Chester le Street",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 261,
+        "replyRate": 100.0
+      },
+      "totalReviews": 261,
+      "replyRate": 100.0,
+      "score": 76
     },
     {
       "office_id": 13315,
@@ -3360,7 +3950,18 @@
         }
       },
       "lat": 53.236997,
-      "lng": -1.429152
+      "lng": -1.429152,
+      "id": 13315,
+      "name": "Reeds Rains, Chesterfield",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 234,
+        "replyRate": 100.0
+      },
+      "totalReviews": 234,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 86
     },
     {
       "office_id": 243730,
@@ -3423,7 +4024,18 @@
         }
       },
       "lat": 53.6537,
-      "lng": -2.63079
+      "lng": -2.63079,
+      "id": 243730,
+      "name": "Reeds Rains, Chorley",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 169,
+        "replyRate": 46.15384615384615
+      },
+      "totalReviews": 169,
+      "replyRate": 46.15384615384615,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 236245,
@@ -3476,7 +4088,18 @@
         }
       },
       "lat": 53.723436,
-      "lng": -1.71217
+      "lng": -1.71217,
+      "id": 236245,
+      "name": "Reeds Rains, Cleckheaton",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 213,
+        "replyRate": 90.0
+      },
+      "totalReviews": 213,
+      "replyRate": 90.0,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 243731,
@@ -3543,7 +4166,18 @@
         }
       },
       "lat": 51.4366,
-      "lng": -2.85209
+      "lng": -2.85209,
+      "id": 243731,
+      "name": "Reeds Rains, Clevedon",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 236,
+        "replyRate": 43.47826086956522
+      },
+      "totalReviews": 236,
+      "replyRate": 43.47826086956522,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 861,
@@ -3602,7 +4236,18 @@
         }
       },
       "lat": 53.856043,
-      "lng": -2.172987
+      "lng": -2.172987,
+      "id": 861,
+      "name": "Reeds Rains, Colne",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 22,
+        "replyRate": 31.25
+      },
+      "totalReviews": 22,
+      "replyRate": 31.25,
+      "googleScore": 4.4,
+      "score": 68
     },
     {
       "office_id": 3779,
@@ -3660,7 +4305,18 @@
         }
       },
       "lat": 53.162687,
-      "lng": -2.211358
+      "lng": -2.211358,
+      "id": 3779,
+      "name": "Reeds Rains, Congleton",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 313,
+        "replyRate": 80.0
+      },
+      "totalReviews": 313,
+      "replyRate": 80.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 243733,
@@ -3719,7 +4375,18 @@
         }
       },
       "lat": 54.8523,
-      "lng": -1.83269
+      "lng": -1.83269,
+      "id": 243733,
+      "name": "Reeds Rains, Consett",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 163,
+        "replyRate": 36.36363636363637
+      },
+      "totalReviews": 163,
+      "replyRate": 36.36363636363637,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 243986,
@@ -3780,7 +4447,18 @@
           "count": 358,
           "rating": 4.87
         }
-      }
+      },
+      "id": 243986,
+      "name": "Reeds Rains, Coventry",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 418,
+        "replyRate": 75.0
+      },
+      "totalReviews": 418,
+      "replyRate": 75.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 8753,
@@ -3837,7 +4515,18 @@
         }
       },
       "lat": 53.807201,
-      "lng": -1.450397
+      "lng": -1.450397,
+      "id": 8753,
+      "name": "Reeds Rains, Crossgates",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 170,
+        "replyRate": 100.0
+      },
+      "totalReviews": 170,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 77
     },
     {
       "office_id": 3841,
@@ -3901,7 +4590,18 @@
         }
       },
       "lat": 51.4452,
-      "lng": 0.216407
+      "lng": 0.216407,
+      "id": 3841,
+      "name": "Reeds Rains, Dartford",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 127,
+        "replyRate": 40.909090909090914
+      },
+      "totalReviews": 127,
+      "replyRate": 40.909090909090914,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 9040,
@@ -3962,7 +4662,18 @@
         }
       },
       "lat": 53.417023,
-      "lng": -2.23123
+      "lng": -2.23123,
+      "id": 9040,
+      "name": "Reeds Rains, Didsbury",
+      "va": {
+        "overallRating": 4.52,
+        "totalReviews": 227,
+        "replyRate": 100.0
+      },
+      "totalReviews": 227,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 227823,
@@ -4015,7 +4726,18 @@
         }
       },
       "lat": 53.369322,
-      "lng": -1.210378
+      "lng": -1.210378,
+      "id": 227823,
+      "name": "Reeds Rains, Dinnington",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 128,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 128,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 4342,
@@ -4072,7 +4794,17 @@
         }
       },
       "lat": 53.522589,
-      "lng": -1.134693
+      "lng": -1.134693,
+      "id": 4342,
+      "name": "Reeds Rains, Doncaster",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 37,
+        "replyRate": 40.0
+      },
+      "totalReviews": 37,
+      "replyRate": 40.0,
+      "score": 64
     },
     {
       "office_id": 227371,
@@ -4135,7 +4867,18 @@
         }
       },
       "lat": 54.775249,
-      "lng": -1.572234
+      "lng": -1.572234,
+      "id": 227371,
+      "name": "Reeds Rains, Durham City",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 256,
+        "replyRate": 46.666666666666664
+      },
+      "totalReviews": 256,
+      "replyRate": 46.666666666666664,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 243734,
@@ -4186,7 +4929,17 @@
         }
       },
       "lat": 53.0179,
-      "lng": -1.30661
+      "lng": -1.30661,
+      "id": 243734,
+      "name": "Reeds Rains, Eastwood",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 6,
+        "replyRate": null
+      },
+      "totalReviews": 6,
+      "replyRate": null,
+      "score": 60
     },
     {
       "office_id": 243735,
@@ -4246,7 +4999,18 @@
         }
       },
       "lat": 52.8594,
-      "lng": -2.25352
+      "lng": -2.25352,
+      "id": 243735,
+      "name": "Reeds Rains, Eccleshall",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 127,
+        "replyRate": 51.85185185185185
+      },
+      "totalReviews": 127,
+      "replyRate": 51.85185185185185,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 243736,
@@ -4314,7 +5078,18 @@
         }
       },
       "lat": 52.0933,
-      "lng": -1.94729
+      "lng": -1.94729,
+      "id": 243736,
+      "name": "Reeds Rains, Evesham",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 185,
+        "replyRate": 45.45454545454545
+      },
+      "totalReviews": 185,
+      "replyRate": 45.45454545454545,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 3493,
@@ -4382,7 +5157,18 @@
         }
       },
       "lat": 51.078118,
-      "lng": 1.178038
+      "lng": 1.178038,
+      "id": 3493,
+      "name": "Reeds Rains, Folkestone",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 194,
+        "replyRate": 57.14285714285714
+      },
+      "totalReviews": 194,
+      "replyRate": 57.14285714285714,
+      "googleScore": 4.7,
+      "score": 80
     },
     {
       "office_id": 12553,
@@ -4440,7 +5226,18 @@
         }
       },
       "lat": 53.901221,
-      "lng": -2.773562
+      "lng": -2.773562,
+      "id": 12553,
+      "name": "Reeds Rains, Garstang",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 99,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 99,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.9,
+      "score": 78
     },
     {
       "office_id": 2149,
@@ -4505,7 +5302,18 @@
         }
       },
       "lat": 54.67167,
-      "lng": -5.957686
+      "lng": -5.957686,
+      "id": 2149,
+      "name": "Reeds Rains, Glengormley, NI",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 152,
+        "replyRate": 46.2962962962963
+      },
+      "totalReviews": 152,
+      "replyRate": 46.2962962962963,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 243737,
@@ -4564,7 +5372,18 @@
         }
       },
       "lat": 53.4435,
-      "lng": -1.95195
+      "lng": -1.95195,
+      "id": 243737,
+      "name": "Reeds Rains, Glossop",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": 38.095238095238095
+      },
+      "totalReviews": 1,
+      "replyRate": 38.095238095238095,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 243738,
@@ -4618,7 +5437,18 @@
         }
       },
       "lat": 55.014,
-      "lng": -1.62168
+      "lng": -1.62168,
+      "id": 243738,
+      "name": "Reeds Rains, Gosforth",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 194,
+        "replyRate": 100.0
+      },
+      "totalReviews": 194,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 243739,
@@ -4685,7 +5515,18 @@
         }
       },
       "lat": 53.5643,
-      "lng": -0.087427
+      "lng": -0.087427,
+      "id": 243739,
+      "name": "Reeds Rains, Grimsby",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 400,
+        "replyRate": 59.375
+      },
+      "totalReviews": 400,
+      "replyRate": 59.375,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 243740,
@@ -4747,7 +5588,18 @@
         }
       },
       "lat": 54.536,
-      "lng": -1.05139
+      "lng": -1.05139,
+      "id": 243740,
+      "name": "Reeds Rains, Guisborough",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 104,
+        "replyRate": 75.0
+      },
+      "totalReviews": 104,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 7231,
@@ -4804,7 +5656,18 @@
         }
       },
       "lat": 53.721927,
-      "lng": -1.864028
+      "lng": -1.864028,
+      "id": 7231,
+      "name": "Reeds Rains, Halifax",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 218,
+        "replyRate": 100.0
+      },
+      "totalReviews": 218,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 243742,
@@ -4867,7 +5730,18 @@
         }
       },
       "lat": 53.0247,
-      "lng": -2.17691
+      "lng": -2.17691,
+      "id": 243742,
+      "name": "Reeds Rains, Hanley",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 175,
+        "replyRate": 38.095238095238095
+      },
+      "totalReviews": 175,
+      "replyRate": 38.095238095238095,
+      "googleScore": 4.1,
+      "score": 70
     },
     {
       "office_id": 18218,
@@ -4920,7 +5794,18 @@
         }
       },
       "lat": 54.016876,
-      "lng": -1.07696
+      "lng": -1.07696,
+      "id": 18218,
+      "name": "Reeds Rains, Haxby",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 234,
+        "replyRate": 100.0
+      },
+      "totalReviews": 234,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 14239,
@@ -4981,7 +5866,18 @@
         }
       },
       "lat": 53.381032,
-      "lng": -2.122947
+      "lng": -2.122947,
+      "id": 14239,
+      "name": "Reeds Rains, Hazel Grove",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 273,
+        "replyRate": 100.0
+      },
+      "totalReviews": 273,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 243744,
@@ -5036,7 +5932,17 @@
         }
       },
       "lat": 54.9725,
-      "lng": -1.5195
+      "lng": -1.5195,
+      "id": 243744,
+      "name": "Reeds Rains, Hebburn",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 55,
+        "replyRate": 100.0
+      },
+      "totalReviews": 55,
+      "replyRate": 100.0,
+      "score": 66
     },
     {
       "office_id": 243745,
@@ -5097,7 +6003,18 @@
         }
       },
       "lat": 53.7417,
-      "lng": -2.01314
+      "lng": -2.01314,
+      "id": 243745,
+      "name": "Reeds Rains, Hebden Bridge",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 285,
+        "replyRate": 100.0
+      },
+      "totalReviews": 285,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 13337,
@@ -5151,7 +6068,18 @@
         }
       },
       "lat": 53.403567,
-      "lng": -1.503125
+      "lng": -1.503125,
+      "id": 13337,
+      "name": "Reeds Rains, Hillsborough",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 315,
+        "replyRate": 82.35294117647058
+      },
+      "totalReviews": 315,
+      "replyRate": 82.35294117647058,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 3800,
@@ -5204,7 +6132,18 @@
         }
       },
       "lat": 53.201067,
-      "lng": -2.356143
+      "lng": -2.356143,
+      "id": 3800,
+      "name": "Reeds Rains, Holmes Chapel",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 105,
+        "replyRate": 100.0
+      },
+      "totalReviews": 105,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 6814,
@@ -5264,7 +6203,17 @@
         }
       },
       "lat": 53.646539,
-      "lng": -1.781902
+      "lng": -1.781902,
+      "id": 6814,
+      "name": "Reeds Rains, Huddersfield",
+      "va": {
+        "overallRating": 4.02,
+        "totalReviews": 193,
+        "replyRate": 59.375
+      },
+      "totalReviews": 193,
+      "replyRate": 59.375,
+      "score": 75
     },
     {
       "office_id": 7216,
@@ -5317,7 +6266,18 @@
         }
       },
       "lat": 53.760147,
-      "lng": -0.303015
+      "lng": -0.303015,
+      "id": 7216,
+      "name": "Reeds Rains, Hull",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 312,
+        "replyRate": 82.35294117647058
+      },
+      "totalReviews": 312,
+      "replyRate": 82.35294117647058,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 14143,
@@ -5374,7 +6334,18 @@
         }
       },
       "lat": 53.450092,
-      "lng": -2.078787
+      "lng": -2.078787,
+      "id": 14143,
+      "name": "Reeds Rains, Hyde",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 251,
+        "replyRate": null
+      },
+      "totalReviews": 251,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 243749,
@@ -5438,7 +6409,18 @@
         }
       },
       "lat": 51.5831,
-      "lng": 0.0765
+      "lng": 0.0765,
+      "id": 243749,
+      "name": "Reeds Rains, Ilford",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 68,
+        "replyRate": 40.0
+      },
+      "totalReviews": 68,
+      "replyRate": 40.0,
+      "googleScore": 4.3,
+      "score": 65
     },
     {
       "office_id": 3756,
@@ -5502,7 +6484,18 @@
         }
       },
       "lat": 52.341557,
-      "lng": -1.578283
+      "lng": -1.578283,
+      "id": 3756,
+      "name": "Reeds Rains, Kenilworth",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 186,
+        "replyRate": 40.0
+      },
+      "totalReviews": 186,
+      "replyRate": 40.0,
+      "googleScore": 4.9,
+      "score": 63
     },
     {
       "office_id": 243750,
@@ -5561,7 +6554,18 @@
         }
       },
       "lat": 51.4976,
-      "lng": -0.112267
+      "lng": -0.112267,
+      "id": 243750,
+      "name": "Reeds Rains, Kennington",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 18,
+        "replyRate": null
+      },
+      "totalReviews": 18,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 60
     },
     {
       "office_id": 12545,
@@ -5623,7 +6627,18 @@
         }
       },
       "lat": 53.694724,
-      "lng": -2.694757
+      "lng": -2.694757,
+      "id": 12545,
+      "name": "Reeds Rains, Leyland",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 123,
+        "replyRate": 0.0
+      },
+      "totalReviews": 123,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 79
     },
     {
       "office_id": 2097,
@@ -5679,7 +6694,18 @@
         }
       },
       "lat": 54.510587,
-      "lng": -6.045104
+      "lng": -6.045104,
+      "id": 2097,
+      "name": "Reeds Rains, Lisburn NI",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 340,
+        "replyRate": 39.6551724137931
+      },
+      "totalReviews": 340,
+      "replyRate": 39.6551724137931,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 243752,
@@ -5747,7 +6773,18 @@
         }
       },
       "lat": 53.2838,
-      "lng": -2.94561
+      "lng": -2.94561,
+      "id": 243752,
+      "name": "Reeds Rains, Little Sutton",
+      "va": {
+        "overallRating": 4.44,
+        "totalReviews": 109,
+        "replyRate": 0.0
+      },
+      "totalReviews": 109,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 68
     },
     {
       "office_id": 8115,
@@ -5819,7 +6856,18 @@
         }
       },
       "lat": 53.406087,
-      "lng": -2.988875
+      "lng": -2.988875,
+      "id": 8115,
+      "name": "Reeds Rains, Liverpool",
+      "va": {
+        "overallRating": 3.94,
+        "totalReviews": 423,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 423,
+      "replyRate": 77.77777777777779,
+      "googleScore": 4.1,
+      "score": 66
     },
     {
       "office_id": 14113,
@@ -5880,7 +6928,18 @@
         }
       },
       "lat": 53.259781,
-      "lng": -2.124906
+      "lng": -2.124906,
+      "id": 14113,
+      "name": "Reeds Rains, Macclesfield",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 418,
+        "replyRate": 100.0
+      },
+      "totalReviews": 418,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 243753,
@@ -5938,7 +6997,18 @@
         }
       },
       "lat": 54.5382,
-      "lng": -1.26214
+      "lng": -1.26214,
+      "id": 243753,
+      "name": "Reeds Rains, Middlesbrough",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 239,
+        "replyRate": 91.17647058823529
+      },
+      "totalReviews": 239,
+      "replyRate": 91.17647058823529,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 8829,
@@ -6001,7 +7071,18 @@
         }
       },
       "lat": 53.745324,
-      "lng": -1.602212
+      "lng": -1.602212,
+      "id": 8829,
+      "name": "Reeds Rains, Morley ",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 591,
+        "replyRate": 50.0
+      },
+      "totalReviews": 591,
+      "replyRate": 50.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 243754,
@@ -6068,7 +7149,18 @@
         }
       },
       "lat": 53.0679,
-      "lng": -2.52155
+      "lng": -2.52155,
+      "id": 243754,
+      "name": "Reeds Rains, Nantwich",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 66,
+        "replyRate": null
+      },
+      "totalReviews": 66,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 65
     },
     {
       "office_id": 243756,
@@ -6119,7 +7211,17 @@
         }
       },
       "lat": 54.9754,
-      "lng": -1.65253
+      "lng": -1.65253,
+      "id": 243756,
+      "name": "Reeds Rains, Newcastle West",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "score": 38
     },
     {
       "office_id": 243755,
@@ -6179,7 +7281,18 @@
         }
       },
       "lat": 53.0108,
-      "lng": -2.22653
+      "lng": -2.22653,
+      "id": 243755,
+      "name": "Reeds Rains, Newcastle under Lyme",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 181,
+        "replyRate": 22.22222222222222
+      },
+      "totalReviews": 181,
+      "replyRate": 22.22222222222222,
+      "googleScore": 4.3,
+      "score": 71
     },
     {
       "office_id": 2079,
@@ -6245,7 +7358,18 @@
         }
       },
       "lat": 54.593999,
-      "lng": -5.696249
+      "lng": -5.696249,
+      "id": 2079,
+      "name": "Reeds Rains, Newtownards NI",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 44,
+        "replyRate": 38.095238095238095
+      },
+      "totalReviews": 44,
+      "replyRate": 38.095238095238095,
+      "googleScore": 4.7,
+      "score": 68
     },
     {
       "office_id": 243757,
@@ -6302,7 +7426,18 @@
         }
       },
       "lat": 53.26,
-      "lng": -2.51507
+      "lng": -2.51507,
+      "id": 243757,
+      "name": "Reeds Rains, Northwich",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 164,
+        "replyRate": 100.0
+      },
+      "totalReviews": 164,
+      "replyRate": 100.0,
+      "googleScore": 4.4,
+      "score": 71
     },
     {
       "office_id": 243758,
@@ -6366,7 +7501,18 @@
         }
       },
       "lat": 52.9552,
-      "lng": -1.14999
+      "lng": -1.14999,
+      "id": 243758,
+      "name": "Reeds Rains, Nottingham",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 201,
+        "replyRate": 60.60606060606061
+      },
+      "totalReviews": 201,
+      "replyRate": 60.60606060606061,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 243978,
@@ -6427,7 +7573,18 @@
         }
       },
       "lat": 54.578,
-      "lng": -5.91851
+      "lng": -5.91851,
+      "id": 243978,
+      "name": "Reeds Rains, Ormeau NI",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 431,
+        "replyRate": 31.147540983606557
+      },
+      "totalReviews": 431,
+      "replyRate": 31.147540983606557,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 17828,
@@ -6484,7 +7641,18 @@
         }
       },
       "lat": 53.679745,
-      "lng": -1.580469
+      "lng": -1.580469,
+      "id": 17828,
+      "name": "Reeds Rains, Ossett",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 97,
+        "replyRate": 100.0
+      },
+      "totalReviews": 97,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 75
     },
     {
       "office_id": 243760,
@@ -6542,7 +7710,18 @@
         }
       },
       "lat": 53.5362,
-      "lng": -2.68306
+      "lng": -2.68306,
+      "id": 243760,
+      "name": "Reeds Rains, Pemberton",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 301,
+        "replyRate": 75.0
+      },
+      "totalReviews": 301,
+      "replyRate": 75.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 17836,
@@ -6599,7 +7778,18 @@
         }
       },
       "lat": 53.691512,
-      "lng": -1.312491
+      "lng": -1.312491,
+      "id": 17836,
+      "name": "Reeds Rains, Pontefract",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 229,
+        "replyRate": 100.0
+      },
+      "totalReviews": 229,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 81
     },
     {
       "office_id": 243762,
@@ -6662,7 +7852,18 @@
         }
       },
       "lat": 51.4838,
-      "lng": -2.76889
+      "lng": -2.76889,
+      "id": 243762,
+      "name": "Reeds Rains, Portishead",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 137,
+        "replyRate": 50.0
+      },
+      "totalReviews": 137,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 12516,
@@ -6723,7 +7924,18 @@
         }
       },
       "lat": 53.757491,
-      "lng": -2.706622
+      "lng": -2.706622,
+      "id": 12516,
+      "name": "Reeds Rains, Preston",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 238,
+        "replyRate": 100.0
+      },
+      "totalReviews": 238,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 78
     },
     {
       "office_id": 243764,
@@ -6785,7 +7997,18 @@
         }
       },
       "lat": 53.7039,
-      "lng": -2.28529
+      "lng": -2.28529,
+      "id": 243764,
+      "name": "Reeds Rains, Rawtenstall",
+      "va": {
+        "overallRating": 4.04,
+        "totalReviews": 47,
+        "replyRate": null
+      },
+      "totalReviews": 47,
+      "replyRate": null,
+      "googleScore": 4.1,
+      "score": 65
     },
     {
       "office_id": 14209,
@@ -6843,7 +8066,18 @@
         }
       },
       "lat": 53.437095,
-      "lng": -2.159281
+      "lng": -2.159281,
+      "id": 14209,
+      "name": "Reeds Rains, Reddish",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 257,
+        "replyRate": 80.0
+      },
+      "totalReviews": 257,
+      "replyRate": 80.0,
+      "googleScore": 4.7,
+      "score": 80
     },
     {
       "office_id": 13344,
@@ -6903,7 +8137,17 @@
         }
       },
       "lat": 53.429848,
-      "lng": -1.356031
+      "lng": -1.356031,
+      "id": 13344,
+      "name": "Reeds Rains, Rotherham",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 262,
+        "replyRate": 43.47826086956522
+      },
+      "totalReviews": 262,
+      "replyRate": 43.47826086956522,
+      "score": 81
     },
     {
       "office_id": 8823,
@@ -6961,7 +8205,18 @@
         }
       },
       "lat": 53.748607,
-      "lng": -1.478396
+      "lng": -1.478396,
+      "id": 8823,
+      "name": "Reeds Rains, Rothwell",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 47,
+        "replyRate": null
+      },
+      "totalReviews": 47,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 46
     },
     {
       "office_id": 243715,
@@ -7018,7 +8273,18 @@
         }
       },
       "lat": 50.9511,
-      "lng": 0.731068
+      "lng": 0.731068,
+      "id": 243715,
+      "name": "Reeds Rains, Rye",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 111,
+        "replyRate": 100.0
+      },
+      "totalReviews": 111,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 9165,
@@ -7077,7 +8343,18 @@
         }
       },
       "lat": 53.425536,
-      "lng": -2.323811
+      "lng": -2.323811,
+      "id": 9165,
+      "name": "Reeds Rains, Sale",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 165,
+        "replyRate": 47.82608695652174
+      },
+      "totalReviews": 165,
+      "replyRate": 47.82608695652174,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 9227,
@@ -7138,7 +8415,18 @@
         }
       },
       "lat": 53.486336,
-      "lng": -2.295159
+      "lng": -2.295159,
+      "id": 9227,
+      "name": "Reeds Rains, Salford",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 247,
+        "replyRate": 87.5
+      },
+      "totalReviews": 247,
+      "replyRate": 87.5,
+      "googleScore": 4.5,
+      "score": 80
     },
     {
       "office_id": 9226,
@@ -7190,7 +8478,18 @@
         }
       },
       "lat": 53.474044,
-      "lng": -2.28632
+      "lng": -2.28632,
+      "id": 9226,
+      "name": "Reeds Rains, Salford Quays",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 417,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 417,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 18150,
@@ -7247,7 +8546,18 @@
         }
       },
       "lat": 54.282042,
-      "lng": -0.402575
+      "lng": -0.402575,
+      "id": 18150,
+      "name": "Reeds Rains, Scarborough",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 347,
+        "replyRate": 100.0
+      },
+      "totalReviews": 347,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 243768,
@@ -7310,7 +8620,18 @@
         }
       },
       "lat": 53.7846,
-      "lng": -1.06918
+      "lng": -1.06918,
+      "id": 243768,
+      "name": "Reeds Rains, Selby",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 177,
+        "replyRate": 48.148148148148145
+      },
+      "totalReviews": 177,
+      "replyRate": 48.148148148148145,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 243770,
@@ -7368,7 +8689,18 @@
         }
       },
       "lat": 50.7863,
-      "lng": -1.08671
+      "lng": -1.08671,
+      "id": 243770,
+      "name": "Reeds Rains, Southsea",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 121,
+        "replyRate": 100.0
+      },
+      "totalReviews": 121,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 17515,
@@ -7425,7 +8757,18 @@
         }
       },
       "lat": 53.453175,
-      "lng": -2.736857
+      "lng": -2.736857,
+      "id": 17515,
+      "name": "Reeds Rains, St Helens",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 510,
+        "replyRate": 100.0
+      },
+      "totalReviews": 510,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 243772,
@@ -7483,7 +8826,18 @@
         }
       },
       "lat": 54.8692,
-      "lng": -1.7003
+      "lng": -1.7003,
+      "id": 243772,
+      "name": "Reeds Rains, Stanley",
+      "va": {
+        "overallRating": 3.4,
+        "totalReviews": 5,
+        "replyRate": null
+      },
+      "totalReviews": 5,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 32
     },
     {
       "office_id": 243987,
@@ -7535,7 +8889,18 @@
           "count": 303,
           "rating": 4.93
         }
-      }
+      },
+      "id": 243987,
+      "name": "Reeds Rains, Stockton on Tees",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 303,
+        "replyRate": 100.0
+      },
+      "totalReviews": 303,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 17768,
@@ -7588,7 +8953,18 @@
         }
       },
       "lat": 53.683359,
-      "lng": -1.498961
+      "lng": -1.498961,
+      "id": 17768,
+      "name": "Reeds Rains, Wakefield",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 226,
+        "replyRate": 100.0
+      },
+      "totalReviews": 226,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 243773,
@@ -7640,7 +9016,17 @@
         }
       },
       "lat": 51.3399,
-      "lng": 0.527201
+      "lng": 0.527201,
+      "id": 243773,
+      "name": "Reeds Rains, Walderslade",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 56,
+        "replyRate": null
+      },
+      "totalReviews": 56,
+      "replyRate": null,
+      "score": 62
     },
     {
       "office_id": 243718,
@@ -7702,7 +9088,18 @@
         }
       },
       "lat": 53.4337,
-      "lng": -2.912
+      "lng": -2.912,
+      "id": 243718,
+      "name": "Reeds Rains, West Derby",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 172,
+        "replyRate": 75.0
+      },
+      "totalReviews": 172,
+      "replyRate": 75.0,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 243719,
@@ -7758,7 +9155,18 @@
           "count": 292,
           "rating": 4.74
         }
-      }
+      },
+      "id": 243719,
+      "name": "Reeds Rains, Widnes",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 296,
+        "replyRate": 100.0
+      },
+      "totalReviews": 296,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 243774,
@@ -7821,7 +9229,18 @@
         }
       },
       "lat": 53.3255,
-      "lng": -2.23363
+      "lng": -2.23363,
+      "id": 243774,
+      "name": "Reeds Rains, Wilmslow",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 251,
+        "replyRate": 45.83333333333333
+      },
+      "totalReviews": 251,
+      "replyRate": 45.83333333333333,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 227819,
@@ -7878,7 +9297,18 @@
         }
       },
       "lat": 53.343062,
-      "lng": -1.477903
+      "lng": -1.477903,
+      "id": 227819,
+      "name": "Reeds Rains, Woodseats",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 158,
+        "replyRate": 100.0
+      },
+      "totalReviews": 158,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 8528,
@@ -7936,7 +9366,18 @@
         }
       },
       "lat": 53.047453,
-      "lng": -2.996546
+      "lng": -2.996546,
+      "id": 8528,
+      "name": "Reeds Rains, Wrexham",
+      "va": {
+        "overallRating": 4.13,
+        "totalReviews": 32,
+        "replyRate": null
+      },
+      "totalReviews": 32,
+      "replyRate": null,
+      "googleScore": 4.3,
+      "score": 44
     },
     {
       "office_id": 18114,
@@ -7998,7 +9439,18 @@
         }
       },
       "lat": 53.957131,
-      "lng": -1.086129
+      "lng": -1.086129,
+      "id": 18114,
+      "name": "Reeds Rains, York",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 277,
+        "replyRate": 0.0
+      },
+      "totalReviews": 277,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 254454,
@@ -8063,7 +9515,18 @@
         }
       },
       "lat": 51.3866,
-      "lng": 1.38102
+      "lng": 1.38102,
+      "id": 254454,
+      "name": "YOUR MOVE Charterhouse Lettings",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 115,
+        "replyRate": 44.44444444444444
+      },
+      "totalReviews": 115,
+      "replyRate": 44.44444444444444,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 254465,
@@ -8118,7 +9581,18 @@
         }
       },
       "lat": 54.9455,
-      "lng": -1.68091
+      "lng": -1.68091,
+      "id": 254465,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 100,
+        "replyRate": 90.0
+      },
+      "totalReviews": 100,
+      "replyRate": 90.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 254459,
@@ -8165,7 +9639,17 @@
         }
       },
       "lat": 54.9546,
-      "lng": -1.72614
+      "lng": -1.72614,
+      "id": 254459,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 88,
+        "replyRate": null
+      },
+      "totalReviews": 88,
+      "replyRate": null,
+      "score": 79
     },
     {
       "office_id": 254460,
@@ -8220,7 +9704,18 @@
         }
       },
       "lat": 55.0431,
-      "lng": -1.4507
+      "lng": -1.4507,
+      "id": 254460,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 240,
+        "replyRate": 100.0
+      },
+      "totalReviews": 240,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 254461,
@@ -8270,7 +9765,18 @@
         }
       },
       "lat": 54.9913,
-      "lng": -1.53327
+      "lng": -1.53327,
+      "id": 254461,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 281,
+        "replyRate": 100.0
+      },
+      "totalReviews": 281,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 254462,
@@ -8325,7 +9831,18 @@
         }
       },
       "lat": 54.9668,
-      "lng": -1.78912
+      "lng": -1.78912,
+      "id": 254462,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 127,
+        "replyRate": 100.0
+      },
+      "totalReviews": 127,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 254463,
@@ -8384,7 +9901,18 @@
         }
       },
       "lat": 54.9884,
-      "lng": -1.70894
+      "lng": -1.70894,
+      "id": 254463,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 210,
+        "replyRate": 100.0
+      },
+      "totalReviews": 210,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 254464,
@@ -8439,7 +9967,18 @@
         }
       },
       "lat": 54.9055,
-      "lng": -1.38063
+      "lng": -1.38063,
+      "id": 254464,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 147,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 147,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 254458,
@@ -8493,7 +10032,18 @@
         }
       },
       "lat": 54.8534,
-      "lng": -1.83412
+      "lng": -1.83412,
+      "id": 254458,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 276,
+        "replyRate": 100.0
+      },
+      "totalReviews": 276,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254455,
@@ -8548,7 +10098,18 @@
         }
       },
       "lat": 54.7757,
-      "lng": -1.57265
+      "lng": -1.57265,
+      "id": 254455,
+      "name": "YOUR MOVE Chris Stonock",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 198,
+        "replyRate": 100.0
+      },
+      "totalReviews": 198,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254466,
@@ -8603,7 +10164,18 @@
         }
       },
       "lat": 54.9197,
-      "lng": -1.74438
+      "lng": -1.74438,
+      "id": 254466,
+      "name": "YOUR MOVE Chris Stonock Lettings",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 173,
+        "replyRate": 100.0
+      },
+      "totalReviews": 173,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 254469,
@@ -8661,7 +10233,18 @@
         }
       },
       "lat": 55.7737,
-      "lng": -3.91859
+      "lng": -3.91859,
+      "id": 254469,
+      "name": "YOUR MOVE First",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 39,
+        "replyRate": 100.0
+      },
+      "totalReviews": 39,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 68
     },
     {
       "office_id": 254471,
@@ -8725,7 +10308,18 @@
         }
       },
       "lat": 53.524,
-      "lng": -1.40037
+      "lng": -1.40037,
+      "id": 254471,
+      "name": "YOUR MOVE Furness Lyman",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 50,
+        "replyRate": 100.0
+      },
+      "totalReviews": 50,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 67
     },
     {
       "office_id": 254473,
@@ -8793,7 +10387,18 @@
         }
       },
       "lat": 53.3136,
-      "lng": 0.281724
+      "lng": 0.281724,
+      "id": 254473,
+      "name": "YOUR MOVE Ian McCarthy",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 40,
+        "replyRate": 75.0
+      },
+      "totalReviews": 40,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 68
     },
     {
       "office_id": 254475,
@@ -8844,7 +10449,17 @@
         }
       },
       "lat": 51.8788,
-      "lng": -0.418086
+      "lng": -0.418086,
+      "id": 254475,
+      "name": "YOUR MOVE Jameson Owen",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 18,
+        "replyRate": null
+      },
+      "totalReviews": 18,
+      "replyRate": null,
+      "score": 40
     },
     {
       "office_id": 254484,
@@ -8908,7 +10523,18 @@
         }
       },
       "lat": 55.8519,
-      "lng": -4.02057
+      "lng": -4.02057,
+      "id": 254484,
+      "name": "YOUR MOVE McLaughlin",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 21,
+        "replyRate": null
+      },
+      "totalReviews": 21,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 62
     },
     {
       "office_id": 254486,
@@ -8963,7 +10589,18 @@
         }
       },
       "lat": 52.243,
-      "lng": -0.873798
+      "lng": -0.873798,
+      "id": 254486,
+      "name": "YOUR MOVE Nolan Throw",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 353,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 353,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 254487,
@@ -9022,7 +10659,18 @@
         }
       },
       "lat": 52.4003,
-      "lng": -0.725988
+      "lng": -0.725988,
+      "id": 254487,
+      "name": "YOUR MOVE Nolan Throw",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 445,
+        "replyRate": 100.0
+      },
+      "totalReviews": 445,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254488,
@@ -9082,7 +10730,18 @@
         }
       },
       "lat": 52.2646,
-      "lng": -0.899582
+      "lng": -0.899582,
+      "id": 254488,
+      "name": "YOUR MOVE Nolan Throw",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 234,
+        "replyRate": 75.0
+      },
+      "totalReviews": 234,
+      "replyRate": 75.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254489,
@@ -9137,7 +10796,18 @@
         }
       },
       "lat": 52.2434,
-      "lng": -0.944852
+      "lng": -0.944852,
+      "id": 254489,
+      "name": "YOUR MOVE Nolan Throw",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 208,
+        "replyRate": 100.0
+      },
+      "totalReviews": 208,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 254485,
@@ -9183,7 +10853,17 @@
         }
       },
       "lat": 52.2358,
-      "lng": -0.894819
+      "lng": -0.894819,
+      "id": 254485,
+      "name": "YOUR MOVE Nolan Throw",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 476,
+        "replyRate": 89.47368421052632
+      },
+      "totalReviews": 476,
+      "replyRate": 89.47368421052632,
+      "score": 76
     },
     {
       "office_id": 254490,
@@ -9243,7 +10923,18 @@
         }
       },
       "lat": 52.5801,
-      "lng": 1.72817
+      "lng": 1.72817,
+      "id": 254490,
+      "name": "YOUR MOVE Oliver James",
+      "va": {
+        "overallRating": 4.47,
+        "totalReviews": 179,
+        "replyRate": 50.0
+      },
+      "totalReviews": 179,
+      "replyRate": 50.0,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 254491,
@@ -9303,7 +10994,18 @@
         }
       },
       "lat": 52.4777,
-      "lng": 1.75439
+      "lng": 1.75439,
+      "id": 254491,
+      "name": "YOUR MOVE Oliver James",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 119,
+        "replyRate": 0.0
+      },
+      "totalReviews": 119,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 254493,
@@ -9364,7 +11066,18 @@
         }
       },
       "lat": 53.8533,
-      "lng": -1.76566
+      "lng": -1.76566,
+      "id": 254493,
+      "name": "YOUR MOVE Roebuck Residential Lettings",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 95,
+        "replyRate": 42.857142857142854
+      },
+      "totalReviews": 95,
+      "replyRate": 42.857142857142854,
+      "googleScore": 4.6,
+      "score": 60
     },
     {
       "office_id": 254496,
@@ -9428,7 +11141,18 @@
         }
       },
       "lat": 56.1959,
-      "lng": -2.99732
+      "lng": -2.99732,
+      "id": 254496,
+      "name": "YOUR MOVE Stewart Filshill",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 177,
+        "replyRate": 60.0
+      },
+      "totalReviews": 177,
+      "replyRate": 60.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254495,
@@ -9491,7 +11215,18 @@
         }
       },
       "lat": 51.5748,
-      "lng": 0.185354
+      "lng": 0.185354,
+      "id": 254495,
+      "name": "YOUR MOVE Stewart and Co",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 189,
+        "replyRate": 0.0
+      },
+      "totalReviews": 189,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 484,
@@ -9549,7 +11284,18 @@
         }
       },
       "lat": 52.4635,
-      "lng": -1.99692
+      "lng": -1.99692,
+      "id": 484,
+      "name": "Your Move (B68)",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.0,
+      "score": 35
     },
     {
       "office_id": 22251,
@@ -9600,7 +11346,17 @@
         }
       },
       "lat": 51.327968,
-      "lng": -2.178076
+      "lng": -2.178076,
+      "id": 22251,
+      "name": "Your Move (BA14)",
+      "va": {
+        "overallRating": 3.86,
+        "totalReviews": 22,
+        "replyRate": null
+      },
+      "totalReviews": 22,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 741,
@@ -9649,7 +11405,18 @@
         }
       },
       "lat": 51.2887,
-      "lng": -2.47815
+      "lng": -2.47815,
+      "id": 741,
+      "name": "Your Move (BA3)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 257,
+        "replyRate": 100.0
+      },
+      "totalReviews": 257,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 1252,
@@ -9700,7 +11467,17 @@
         }
       },
       "lat": 53.5773,
-      "lng": -2.42638
+      "lng": -2.42638,
+      "id": 1252,
+      "name": "Your Move (BL1)",
+      "va": {
+        "overallRating": 3.69,
+        "totalReviews": 16,
+        "replyRate": null
+      },
+      "totalReviews": 16,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 1311,
@@ -9742,7 +11519,17 @@
         }
       },
       "lat": 53.5936,
-      "lng": -2.29663
+      "lng": -2.29663,
+      "id": 1311,
+      "name": "Your Move (BL9)",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 231,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 231,
+      "replyRate": 83.33333333333334,
+      "score": 81
     },
     {
       "office_id": 1370,
@@ -9793,7 +11580,17 @@
         }
       },
       "lat": 50.8123,
-      "lng": -0.370202
+      "lng": -0.370202,
+      "id": 1370,
+      "name": "Your Move (BN11)",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 31,
+        "replyRate": null
+      },
+      "totalReviews": 31,
+      "replyRate": null,
+      "score": 48
     },
     {
       "office_id": 1891,
@@ -9856,7 +11653,18 @@
         }
       },
       "lat": 51.4146,
-      "lng": -2.49827
+      "lng": -2.49827,
+      "id": 1891,
+      "name": "Your Move (BS31)",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 39,
+        "replyRate": null
+      },
+      "totalReviews": 39,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 49
     },
     {
       "office_id": 247706,
@@ -9919,7 +11727,18 @@
         }
       },
       "lat": 51.2777,
-      "lng": 1.07912
+      "lng": 1.07912,
+      "id": 247706,
+      "name": "Your Move (CT1)",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 2040,
+        "replyRate": 12.5
+      },
+      "totalReviews": 2040,
+      "replyRate": 12.5,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 3499,
@@ -9974,7 +11793,17 @@
         }
       },
       "lat": 51.077877,
-      "lng": 1.176965
+      "lng": 1.176965,
+      "id": 3499,
+      "name": "Your Move (CT20)",
+      "va": {
+        "overallRating": 3.69,
+        "totalReviews": 26,
+        "replyRate": null
+      },
+      "totalReviews": 26,
+      "replyRate": null,
+      "score": 57
     },
     {
       "office_id": 3540,
@@ -10025,7 +11854,17 @@
         }
       },
       "lat": 51.371156,
-      "lng": 1.127154
+      "lng": 1.127154,
+      "id": 3540,
+      "name": "Your Move (CT6)",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 3561,
@@ -10088,7 +11927,18 @@
         }
       },
       "lat": 51.387423,
-      "lng": 1.398416
+      "lng": 1.398416,
+      "id": 3561,
+      "name": "Your Move (CT9)",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 146,
+        "replyRate": 50.0
+      },
+      "totalReviews": 146,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 79
     },
     {
       "office_id": 254444,
@@ -10147,7 +11997,18 @@
         }
       },
       "lat": 53.087,
-      "lng": -2.44734
+      "lng": -2.44734,
+      "id": 254444,
+      "name": "Your Move (CW2)",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 59,
+        "replyRate": 100.0
+      },
+      "totalReviews": 59,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 68
     },
     {
       "office_id": 3875,
@@ -10200,7 +12061,18 @@
         }
       },
       "lat": 51.440957,
-      "lng": 0.371199
+      "lng": 0.371199,
+      "id": 3875,
+      "name": "Your Move (DA12)",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 299,
+        "replyRate": 100.0
+      },
+      "totalReviews": 299,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 3891,
@@ -10251,7 +12123,17 @@
         }
       },
       "lat": 51.426272,
-      "lng": 0.100151
+      "lng": 0.100151,
+      "id": 3891,
+      "name": "Your Move (DA14)",
+      "va": {
+        "overallRating": 3.92,
+        "totalReviews": 24,
+        "replyRate": null
+      },
+      "totalReviews": 24,
+      "replyRate": null,
+      "score": 37
     },
     {
       "office_id": 3905,
@@ -10301,7 +12183,17 @@
         }
       },
       "lat": 51.462158,
-      "lng": 0.108407
+      "lng": 0.108407,
+      "id": 3905,
+      "name": "Your Move (DA16)",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 72,
+        "replyRate": null
+      },
+      "totalReviews": 72,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 3916,
@@ -10352,7 +12244,17 @@
         }
       },
       "lat": 51.481913,
-      "lng": 0.145713
+      "lng": 0.145713,
+      "id": 3916,
+      "name": "Your Move (DA17)",
+      "va": {
+        "overallRating": 3.5,
+        "totalReviews": 6,
+        "replyRate": null
+      },
+      "totalReviews": 6,
+      "replyRate": null,
+      "score": 33
     },
     {
       "office_id": 3938,
@@ -10411,7 +12313,18 @@
         }
       },
       "lat": 51.457189,
-      "lng": 0.141905
+      "lng": 0.141905,
+      "id": 3938,
+      "name": "Your Move (DA6)",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 47,
+        "replyRate": null
+      },
+      "totalReviews": 47,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 48
     },
     {
       "office_id": 4098,
@@ -10462,7 +12375,17 @@
         }
       },
       "lat": 53.097207,
-      "lng": -1.390771
+      "lng": -1.390771,
+      "id": 4098,
+      "name": "Your Move (DE55)",
+      "va": {
+        "overallRating": 2.67,
+        "totalReviews": 15,
+        "replyRate": null
+      },
+      "totalReviews": 15,
+      "replyRate": null,
+      "score": 0
     },
     {
       "office_id": 4422,
@@ -10513,7 +12436,17 @@
         }
       },
       "lat": 53.323594,
-      "lng": -0.942752
+      "lng": -0.942752,
+      "id": 4422,
+      "name": "Your Move (DN22)",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 31,
+        "replyRate": null
+      },
+      "totalReviews": 31,
+      "replyRate": null,
+      "score": 69
     },
     {
       "office_id": 4709,
@@ -10564,7 +12497,17 @@
         }
       },
       "lat": 51.511405,
-      "lng": -0.013781
+      "lng": -0.013781,
+      "id": 4709,
+      "name": "Your Move (E14)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 20
     },
     {
       "office_id": 254448,
@@ -10618,7 +12561,18 @@
         }
       },
       "lat": 51.5843,
-      "lng": -0.01909
+      "lng": -0.01909,
+      "id": 254448,
+      "name": "Your Move (E17)",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 611,
+        "replyRate": 87.5
+      },
+      "totalReviews": 611,
+      "replyRate": 87.5,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 254449,
@@ -10675,7 +12629,18 @@
         }
       },
       "lat": 51.5494,
-      "lng": 0.022157
+      "lng": 0.022157,
+      "id": 254449,
+      "name": "Your Move (E7)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 154,
+        "replyRate": null
+      },
+      "totalReviews": 154,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 5268,
@@ -10726,7 +12691,17 @@
         }
       },
       "lat": 55.900102,
-      "lng": -3.640315
+      "lng": -3.640315,
+      "id": 5268,
+      "name": "Your Move (EH48)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 23
     },
     {
       "office_id": 222931,
@@ -10772,7 +12747,17 @@
         }
       },
       "lat": 55.8848043,
-      "lng": -3.5100724
+      "lng": -3.5100724,
+      "id": 222931,
+      "name": "Your Move (EH54)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 106,
+        "replyRate": null
+      },
+      "totalReviews": 106,
+      "replyRate": null,
+      "score": 73
     },
     {
       "office_id": 5636,
@@ -10830,7 +12815,18 @@
         }
       },
       "lat": 50.722861,
-      "lng": -3.532819
+      "lng": -3.532819,
+      "id": 5636,
+      "name": "Your Move (EX4)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "googleScore": null,
+      "score": 44
     },
     {
       "office_id": 22252,
@@ -10888,7 +12884,18 @@
         }
       },
       "lat": 50.618439,
-      "lng": -3.411865
+      "lng": -3.411865,
+      "id": 22252,
+      "name": "Your Move (EX8)",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 82,
+        "replyRate": null
+      },
+      "totalReviews": 82,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 71
     },
     {
       "office_id": 6906,
@@ -10941,7 +12948,18 @@
         }
       },
       "lat": 51.756662,
-      "lng": -0.47246
+      "lng": -0.47246,
+      "id": 6906,
+      "name": "Your Move (HP1)",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 142,
+        "replyRate": null
+      },
+      "totalReviews": 142,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 7712,
@@ -10996,7 +13014,17 @@
         }
       },
       "lat": 51.412113,
-      "lng": -0.301894
+      "lng": -0.301894,
+      "id": 7712,
+      "name": "Your Move (KT1)",
+      "va": {
+        "overallRating": 4.09,
+        "totalReviews": 43,
+        "replyRate": null
+      },
+      "totalReviews": 43,
+      "replyRate": null,
+      "score": 67
     },
     {
       "office_id": 7903,
@@ -11047,7 +13075,17 @@
         }
       },
       "lat": 51.401508,
-      "lng": -0.256382
+      "lng": -0.256382,
+      "id": 7903,
+      "name": "Your Move (KT3)",
+      "va": {
+        "overallRating": 2.67,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 7982,
@@ -11093,7 +13131,17 @@
         }
       },
       "lat": 51.367375,
-      "lng": -0.306178
+      "lng": -0.306178,
+      "id": 7982,
+      "name": "Your Move (KT9)",
+      "va": {
+        "overallRating": 4.52,
+        "totalReviews": 29,
+        "replyRate": null
+      },
+      "totalReviews": 29,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 8164,
@@ -11144,7 +13192,17 @@
         }
       },
       "lat": 53.428692,
-      "lng": -2.804791
+      "lng": -2.804791,
+      "id": 8164,
+      "name": "Your Move (L34)",
+      "va": {
+        "overallRating": 3.59,
+        "totalReviews": 17,
+        "replyRate": null
+      },
+      "totalReviews": 17,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 8470,
@@ -11199,7 +13257,17 @@
         }
       },
       "lat": 52.680047,
-      "lng": -1.12466
+      "lng": -1.12466,
+      "id": 8470,
+      "name": "Your Move (LE4)",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 23,
+        "replyRate": null
+      },
+      "totalReviews": 23,
+      "replyRate": null,
+      "score": 68
     },
     {
       "office_id": 8649,
@@ -11254,7 +13322,17 @@
         }
       },
       "lat": 53.229579,
-      "lng": -0.54253
+      "lng": -0.54253,
+      "id": 8649,
+      "name": "Your Move (LN1)",
+      "va": {
+        "overallRating": 3.87,
+        "totalReviews": 95,
+        "replyRate": null
+      },
+      "totalReviews": 95,
+      "replyRate": null,
+      "score": 63
     },
     {
       "office_id": 8754,
@@ -11315,7 +13393,18 @@
         }
       },
       "lat": 53.807201,
-      "lng": -1.450397
+      "lng": -1.450397,
+      "id": 8754,
+      "name": "Your Move (LS15)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 142,
+        "replyRate": 100.0
+      },
+      "totalReviews": 142,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 85
     },
     {
       "office_id": 8767,
@@ -11366,7 +13455,17 @@
         }
       },
       "lat": 53.843531,
-      "lng": -1.533284
+      "lng": -1.533284,
+      "id": 8767,
+      "name": "Your Move (LS17)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "score": 65
     },
     {
       "office_id": 22254,
@@ -11424,7 +13523,18 @@
         }
       },
       "lat": 53.503372,
-      "lng": -2.356668
+      "lng": -2.356668,
+      "id": 22254,
+      "name": "Your Move (M27)",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 127,
+        "replyRate": null
+      },
+      "totalReviews": 127,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 9111,
@@ -11475,7 +13585,17 @@
         }
       },
       "lat": 53.502148,
-      "lng": -2.447958
+      "lng": -2.447958,
+      "id": 9111,
+      "name": "Your Move (M29)",
+      "va": {
+        "overallRating": 3.5,
+        "totalReviews": 22,
+        "replyRate": null
+      },
+      "totalReviews": 22,
+      "replyRate": null,
+      "score": 52
     },
     {
       "office_id": 22255,
@@ -11530,7 +13650,17 @@
         }
       },
       "lat": 53.513903,
-      "lng": -2.464972
+      "lng": -2.464972,
+      "id": 22255,
+      "name": "Your Move (M29)",
+      "va": {
+        "overallRating": 3.57,
+        "totalReviews": 23,
+        "replyRate": null
+      },
+      "totalReviews": 23,
+      "replyRate": null,
+      "score": 57
     },
     {
       "office_id": 9240,
@@ -11590,7 +13720,18 @@
         }
       },
       "lat": 51.386038,
-      "lng": 0.507505
+      "lng": 0.507505,
+      "id": 9240,
+      "name": "Your Move (ME1)",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 144,
+        "replyRate": 0.0
+      },
+      "totalReviews": 144,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 9315,
@@ -11641,7 +13782,17 @@
         }
       },
       "lat": 51.268208,
-      "lng": 0.488784
+      "lng": 0.488784,
+      "id": 9315,
+      "name": "Your Move (ME16)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 9343,
@@ -11692,7 +13843,17 @@
         }
       },
       "lat": 51.395694,
-      "lng": 0.494189
+      "lng": 0.494189,
+      "id": 9343,
+      "name": "Your Move (ME2)",
+      "va": {
+        "overallRating": 2.69,
+        "totalReviews": 13,
+        "replyRate": null
+      },
+      "totalReviews": 13,
+      "replyRate": null,
+      "score": 0
     },
     {
       "office_id": 254451,
@@ -11749,7 +13910,18 @@
         }
       },
       "lat": 55.7762,
-      "lng": -4.03449
+      "lng": -4.03449,
+      "id": 254451,
+      "name": "Your Move (ML3)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 149,
+        "replyRate": 100.0
+      },
+      "totalReviews": 149,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 10250,
@@ -11800,7 +13972,17 @@
         }
       },
       "lat": 54.961292,
-      "lng": -1.849842
+      "lng": -1.849842,
+      "id": 10250,
+      "name": "Your Move (NE42)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 37
     },
     {
       "office_id": 10311,
@@ -11851,7 +14033,17 @@
         }
       },
       "lat": 55.412803,
-      "lng": -1.705257
+      "lng": -1.705257,
+      "id": 10311,
+      "name": "Your Move (NE66)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 15
     },
     {
       "office_id": 10348,
@@ -11897,7 +14089,17 @@
         }
       },
       "lat": 52.95544,
-      "lng": -1.14839
+      "lng": -1.14839,
+      "id": 10348,
+      "name": "Your Move (NG1)",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 163,
+        "replyRate": null
+      },
+      "totalReviews": 163,
+      "replyRate": null,
+      "score": 77
     },
     {
       "office_id": 10401,
@@ -11952,7 +14154,17 @@
         }
       },
       "lat": 53.037525,
-      "lng": -1.201881
+      "lng": -1.201881,
+      "id": 10401,
+      "name": "Your Move (NG15)",
+      "va": {
+        "overallRating": 4.11,
+        "totalReviews": 9,
+        "replyRate": null
+      },
+      "totalReviews": 9,
+      "replyRate": null,
+      "score": 41
     },
     {
       "office_id": 10405,
@@ -11998,7 +14210,17 @@
         }
       },
       "lat": 52.99722,
-      "lng": -1.256412
+      "lng": -1.256412,
+      "id": 10405,
+      "name": "Your Move (NG16)",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 37,
+        "replyRate": null
+      },
+      "totalReviews": 37,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 10582,
@@ -12049,7 +14271,17 @@
         }
       },
       "lat": 52.928178,
-      "lng": -1.277886
+      "lng": -1.277886,
+      "id": 10582,
+      "name": "Your Move (NG9)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 11769,
@@ -12100,7 +14332,17 @@
         }
       },
       "lat": 52.572512,
-      "lng": -0.245685
+      "lng": -0.245685,
+      "id": 11769,
+      "name": "Your Move (PE1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 13,
+        "replyRate": null
+      },
+      "totalReviews": 13,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 12131,
@@ -12151,7 +14393,17 @@
         }
       },
       "lat": 50.338159,
-      "lng": -4.792583
+      "lng": -4.792583,
+      "id": 12131,
+      "name": "Your Move (PL25)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 0
     },
     {
       "office_id": 12496,
@@ -12202,7 +14454,17 @@
         }
       },
       "lat": 50.851461,
-      "lng": -0.982841
+      "lng": -0.982841,
+      "id": 12496,
+      "name": "Your Move (PO9)",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 34,
+        "replyRate": null
+      },
+      "totalReviews": 34,
+      "replyRate": null,
+      "score": 61
     },
     {
       "office_id": 12751,
@@ -12253,7 +14515,17 @@
         }
       },
       "lat": 51.263018,
-      "lng": -1.088731
+      "lng": -1.088731,
+      "id": 12751,
+      "name": "Your Move (RG21)",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 47,
+        "replyRate": null
+      },
+      "totalReviews": 47,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 13243,
@@ -12304,7 +14576,17 @@
         }
       },
       "lat": 53.361457,
-      "lng": -1.508002
+      "lng": -1.508002,
+      "id": 13243,
+      "name": "Your Move (S11)",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 298,
+        "replyRate": 27.27272727272727
+      },
+      "totalReviews": 298,
+      "replyRate": 27.27272727272727,
+      "score": 74
     },
     {
       "office_id": 13273,
@@ -12355,7 +14637,17 @@
         }
       },
       "lat": 53.369044,
-      "lng": -1.210128
+      "lng": -1.210128,
+      "id": 13273,
+      "name": "Your Move (S25)",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 16,
+        "replyRate": null
+      },
+      "totalReviews": 16,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 13318,
@@ -12406,7 +14698,17 @@
         }
       },
       "lat": 53.236997,
-      "lng": -1.429152
+      "lng": -1.429152,
+      "id": 13318,
+      "name": "Your Move (S40)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 14321,
@@ -12469,7 +14771,18 @@
         }
       },
       "lat": 51.503415,
-      "lng": -0.541948
+      "lng": -0.541948,
+      "id": 14321,
+      "name": "Your Move (SL3)",
+      "va": {
+        "overallRating": 4.13,
+        "totalReviews": 16,
+        "replyRate": null
+      },
+      "totalReviews": 16,
+      "replyRate": null,
+      "googleScore": 3.9,
+      "score": 66
     },
     {
       "office_id": 14532,
@@ -12520,7 +14833,17 @@
         }
       },
       "lat": 51.439879,
-      "lng": -2.004944
+      "lng": -2.004944,
+      "id": 14532,
+      "name": "Your Move (SN11)",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 20,
+        "replyRate": null
+      },
+      "totalReviews": 20,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 14708,
@@ -12571,7 +14894,17 @@
         }
       },
       "lat": 51.063432,
-      "lng": -1.317772
+      "lng": -1.317772,
+      "id": 14708,
+      "name": "Your Move (SO23)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 5,
+        "replyRate": null
+      },
+      "totalReviews": 5,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 14749,
@@ -12622,7 +14955,17 @@
         }
       },
       "lat": 50.872356,
-      "lng": -1.26798
+      "lng": -1.26798,
+      "id": 14749,
+      "name": "Your Move (SO31)",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 41
     },
     {
       "office_id": 22258,
@@ -12673,7 +15016,17 @@
         }
       },
       "lat": 50.919426,
-      "lng": -1.489898
+      "lng": -1.489898,
+      "id": 22258,
+      "name": "Your Move (SO40)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 254452,
@@ -12731,7 +15084,18 @@
         }
       },
       "lat": 52.9878,
-      "lng": -2.13667
+      "lng": -2.13667,
+      "id": 254452,
+      "name": "Your Move (ST3)",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 147,
+        "replyRate": null
+      },
+      "totalReviews": 147,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 15424,
@@ -12782,7 +15146,17 @@
         }
       },
       "lat": 51.435207,
-      "lng": -0.160201
+      "lng": -0.160201,
+      "id": 15424,
+      "name": "Your Move (SW17)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 11,
+        "replyRate": null
+      },
+      "totalReviews": 11,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 16122,
@@ -12833,7 +15207,17 @@
         }
       },
       "lat": 51.17934,
-      "lng": 0.387008
+      "lng": 0.387008,
+      "id": 16122,
+      "name": "Your Move (TN12)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 16178,
@@ -12884,7 +15268,17 @@
         }
       },
       "lat": 51.143054,
-      "lng": 0.320283
+      "lng": 0.320283,
+      "id": 16178,
+      "name": "Your Move (TN2)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 5,
+        "replyRate": null
+      },
+      "totalReviews": 5,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 254453,
@@ -12938,7 +15332,18 @@
         }
       },
       "lat": 51.149,
-      "lng": 0.872356
+      "lng": 0.872356,
+      "id": 254453,
+      "name": "Your Move (TN24)",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 170,
+        "replyRate": 100.0
+      },
+      "totalReviews": 170,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 16722,
@@ -12984,7 +15389,17 @@
         }
       },
       "lat": 51.434044,
-      "lng": -0.464729
+      "lng": -0.464729,
+      "id": 16722,
+      "name": "Your Move (TW15)",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 185,
+        "replyRate": 100.0
+      },
+      "totalReviews": 185,
+      "replyRate": 100.0,
+      "score": 80
     },
     {
       "office_id": 16739,
@@ -13035,7 +15450,17 @@
         }
       },
       "lat": 51.392355,
-      "lng": -0.449035
+      "lng": -0.449035,
+      "id": 16739,
+      "name": "Your Move (TW17)",
+      "va": {
+        "overallRating": 2.5,
+        "totalReviews": 4,
+        "replyRate": null
+      },
+      "totalReviews": 4,
+      "replyRate": null,
+      "score": 13
     },
     {
       "office_id": 16774,
@@ -13093,7 +15518,18 @@
         }
       },
       "lat": 51.431899,
-      "lng": -0.548383
+      "lng": -0.548383,
+      "id": 16774,
+      "name": "Your Move (TW20)",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 337,
+        "replyRate": 100.0
+      },
+      "totalReviews": 337,
+      "replyRate": 100.0,
+      "googleScore": 4.2,
+      "score": 78
     },
     {
       "office_id": 17625,
@@ -13139,7 +15575,17 @@
         }
       },
       "lat": 53.342569,
-      "lng": -2.732454
+      "lng": -2.732454,
+      "id": 17625,
+      "name": "Your Move (WA7)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 12,
+        "replyRate": null
+      },
+      "totalReviews": 12,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 17719,
@@ -13190,7 +15636,17 @@
         }
       },
       "lat": 51.689049,
-      "lng": -0.386776
+      "lng": -0.386776,
+      "id": 17719,
+      "name": "Your Move (WD25)",
+      "va": {
+        "overallRating": 3.89,
+        "totalReviews": 9,
+        "replyRate": null
+      },
+      "totalReviews": 9,
+      "replyRate": null,
+      "score": 32
     },
     {
       "office_id": 17743,
@@ -13241,7 +15697,17 @@
         }
       },
       "lat": 51.706413,
-      "lng": -0.417217
+      "lng": -0.417217,
+      "id": 17743,
+      "name": "Your Move (WD5)",
+      "va": {
+        "overallRating": 4.29,
+        "totalReviews": 17,
+        "replyRate": null
+      },
+      "totalReviews": 17,
+      "replyRate": null,
+      "score": 67
     },
     {
       "office_id": 17902,
@@ -13292,7 +15758,17 @@
         }
       },
       "lat": 52.194328,
-      "lng": -2.221827
+      "lng": -2.221827,
+      "id": 17902,
+      "name": "Your Move (WR1)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 22259,
@@ -13343,7 +15819,17 @@
         }
       },
       "lat": 52.266928,
-      "lng": -2.151325
+      "lng": -2.151325,
+      "id": 22259,
+      "name": "Your Move (WR9)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "score": 44
     },
     {
       "office_id": 13797,
@@ -13401,7 +15887,18 @@
         }
       },
       "lat": 51.4903,
-      "lng": 0.121127
+      "lng": 0.121127,
+      "id": 13797,
+      "name": "Your Move Abbey Wood",
+      "va": {
+        "overallRating": 4.48,
+        "totalReviews": 147,
+        "replyRate": 50.0
+      },
+      "totalReviews": 147,
+      "replyRate": 50.0,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 14891,
@@ -13458,7 +15955,18 @@
         }
       },
       "lat": 51.206358,
-      "lng": -1.477618
+      "lng": -1.477618,
+      "id": 14891,
+      "name": "Your Move Andover",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 120,
+        "replyRate": 100.0
+      },
+      "totalReviews": 120,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 75
     },
     {
       "office_id": 258621,
@@ -13509,7 +16017,17 @@
         }
       },
       "lat": 53.9597,
-      "lng": -1.07943
+      "lng": -1.07943,
+      "id": 258621,
+      "name": "Your Move Anscombs",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 251,
+        "replyRate": null
+      },
+      "totalReviews": 251,
+      "replyRate": null,
+      "score": 76
     },
     {
       "office_id": 16215,
@@ -13563,7 +16081,18 @@
         }
       },
       "lat": 51.148929,
-      "lng": 0.872876
+      "lng": 0.872876,
+      "id": 16215,
+      "name": "Your Move Ashford",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 189,
+        "replyRate": 100.0
+      },
+      "totalReviews": 189,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 80
     },
     {
       "office_id": 259196,
@@ -13626,7 +16155,18 @@
         }
       },
       "lat": 53.0242,
-      "lng": -1.48461
+      "lng": -1.48461,
+      "id": 259196,
+      "name": "Your Move Attenborough & Co",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 127,
+        "replyRate": 0.0
+      },
+      "totalReviews": 127,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 13381,
@@ -13683,7 +16223,18 @@
         }
       },
       "lat": 53.552796,
-      "lng": -1.480338
+      "lng": -1.480338,
+      "id": 13381,
+      "name": "Your Move Barnsley",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 280,
+        "replyRate": 100.0
+      },
+      "totalReviews": 280,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 9492,
@@ -13740,7 +16291,18 @@
         }
       },
       "lat": 52.13798,
-      "lng": -0.470015
+      "lng": -0.470015,
+      "id": 9492,
+      "name": "Your Move Bedford",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 50,
+        "replyRate": null
+      },
+      "totalReviews": 50,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 70
     },
     {
       "office_id": 3628,
@@ -13798,7 +16360,18 @@
         }
       },
       "lat": 52.479341,
-      "lng": -1.471161
+      "lng": -1.471161,
+      "id": 3628,
+      "name": "Your Move Bedworth",
+      "va": {
+        "overallRating": 4.47,
+        "totalReviews": 121,
+        "replyRate": 100.0
+      },
+      "totalReviews": 121,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 72
     },
     {
       "office_id": 10576,
@@ -13853,7 +16426,17 @@
         }
       },
       "lat": 52.929206,
-      "lng": -1.211758
+      "lng": -1.211758,
+      "id": 10576,
+      "name": "Your Move Beeston",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 19,
+        "replyRate": null
+      },
+      "totalReviews": 19,
+      "replyRate": null,
+      "score": 58
     },
     {
       "office_id": 3939,
@@ -13912,7 +16495,18 @@
         }
       },
       "lat": 51.4567,
-      "lng": 0.145453
+      "lng": 0.145453,
+      "id": 3939,
+      "name": "Your Move Bexleyheath",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 154,
+        "replyRate": 14.285714285714285
+      },
+      "totalReviews": 154,
+      "replyRate": 14.285714285714285,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 8511,
@@ -13974,7 +16568,18 @@
         }
       },
       "lat": 52.57609,
-      "lng": -1.163593
+      "lng": -1.163593,
+      "id": 8511,
+      "name": "Your Move Blaby",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 156,
+        "replyRate": 60.0
+      },
+      "totalReviews": 156,
+      "replyRate": 60.0,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 13902,
@@ -14027,7 +16632,18 @@
         }
       },
       "lat": 51.478,
-      "lng": 0.018983
+      "lng": 0.018983,
+      "id": 13902,
+      "name": "Your Move Blackheath",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 126,
+        "replyRate": 100.0
+      },
+      "totalReviews": 126,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 72
     },
     {
       "office_id": 12351,
@@ -14090,7 +16706,18 @@
         }
       },
       "lat": 50.783249,
-      "lng": -0.673009
+      "lng": -0.673009,
+      "id": 12351,
+      "name": "Your Move Bognor Regis",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 233,
+        "replyRate": 50.0
+      },
+      "totalReviews": 233,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 243989,
@@ -14154,7 +16781,18 @@
           "count": 1,
           "rating": 5.0
         }
-      }
+      },
+      "id": 243989,
+      "name": "Your Move Bothwell",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 44,
+        "replyRate": null
+      },
+      "totalReviews": 44,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 68
     },
     {
       "office_id": 3431,
@@ -14208,7 +16846,18 @@
         }
       },
       "lat": 51.359872,
-      "lng": 1.436547
+      "lng": 1.436547,
+      "id": 3431,
+      "name": "Your Move Broadstairs",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 35,
+        "replyRate": 100.0
+      },
+      "totalReviews": 35,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 4047,
@@ -14275,7 +16924,18 @@
         }
       },
       "lat": 52.802739,
-      "lng": -1.629566
+      "lng": -1.629566,
+      "id": 4047,
+      "name": "Your Move Burton On Trent",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 131,
+        "replyRate": 60.0
+      },
+      "totalReviews": 131,
+      "replyRate": 60.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 16512,
@@ -14338,7 +16998,18 @@
         }
       },
       "lat": 50.213356,
-      "lng": -5.300655
+      "lng": -5.300655,
+      "id": 16512,
+      "name": "Your Move Cambourne",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 211,
+        "replyRate": 0.0
+      },
+      "totalReviews": 211,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 3403,
@@ -14397,7 +17068,18 @@
         }
       },
       "lat": 51.2775,
-      "lng": 1.07885
+      "lng": 1.07885,
+      "id": 3403,
+      "name": "Your Move Canterbury",
+      "va": {
+        "overallRating": 3.49,
+        "totalReviews": 102,
+        "replyRate": null
+      },
+      "totalReviews": 102,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 55
     },
     {
       "office_id": 13200,
@@ -14465,7 +17147,18 @@
         }
       },
       "lat": 51.571197,
-      "lng": 0.131732
+      "lng": 0.131732,
+      "id": 13200,
+      "name": "Your Move Chadwell Heath",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 222,
+        "replyRate": 0.0
+      },
+      "totalReviews": 222,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 13291,
@@ -14529,7 +17222,18 @@
         }
       },
       "lat": 53.462082,
-      "lng": -1.46548
+      "lng": -1.46548,
+      "id": 13291,
+      "name": "Your Move Chapeltown",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 172,
+        "replyRate": 58.82352941176471
+      },
+      "totalReviews": 172,
+      "replyRate": 58.82352941176471,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 9359,
@@ -14586,7 +17290,18 @@
         }
       },
       "lat": 51.3837,
-      "lng": 0.524439
+      "lng": 0.524439,
+      "id": 9359,
+      "name": "Your Move Chatham",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 41,
+        "replyRate": null
+      },
+      "totalReviews": 41,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 4218,
@@ -14644,7 +17359,18 @@
         }
       },
       "lat": 54.856945,
-      "lng": -1.57419
+      "lng": -1.57419,
+      "id": 4218,
+      "name": "Your Move Chester Le Street",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 306,
+        "replyRate": 100.0
+      },
+      "totalReviews": 306,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 8488,
@@ -14701,7 +17427,18 @@
         }
       },
       "lat": 52.724763,
-      "lng": -1.374754
+      "lng": -1.374754,
+      "id": 8488,
+      "name": "Your Move Coalville",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 106,
+        "replyRate": null
+      },
+      "totalReviews": 106,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 3792,
@@ -14755,7 +17492,18 @@
         }
       },
       "lat": 53.087024,
-      "lng": -2.44653
+      "lng": -2.44653,
+      "id": 3792,
+      "name": "Your Move Crewe",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 60,
+        "replyRate": 100.0
+      },
+      "totalReviews": 60,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 70
     },
     {
       "office_id": 8010,
@@ -14808,7 +17556,18 @@
         }
       },
       "lat": 56.037009,
-      "lng": -3.356627
+      "lng": -3.356627,
+      "id": 8010,
+      "name": "Your Move Dalgety Bay",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 230,
+        "replyRate": 92.3076923076923
+      },
+      "totalReviews": 230,
+      "replyRate": 92.3076923076923,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 5194,
@@ -14871,7 +17630,18 @@
         }
       },
       "lat": 55.894497,
-      "lng": -3.070331
+      "lng": -3.070331,
+      "id": 5194,
+      "name": "Your Move Dalkeith",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 136,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 136,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 227360,
@@ -14924,7 +17694,18 @@
         }
       },
       "lat": 54.525269,
-      "lng": -1.557909
+      "lng": -1.557909,
+      "id": 227360,
+      "name": "Your Move Darlington",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 323,
+        "replyRate": 96.7741935483871
+      },
+      "totalReviews": 323,
+      "replyRate": 96.7741935483871,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 224919,
@@ -14986,7 +17767,18 @@
         }
       },
       "lat": 51.4446,
-      "lng": 0.215686
+      "lng": 0.215686,
+      "id": 224919,
+      "name": "Your Move Dartford",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 366,
+        "replyRate": 0.0
+      },
+      "totalReviews": 366,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 3467,
@@ -15048,7 +17840,18 @@
         }
       },
       "lat": 51.2238,
-      "lng": 1.40299
+      "lng": 1.40299,
+      "id": 3467,
+      "name": "Your Move Deal",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 16,
+        "replyRate": null
+      },
+      "totalReviews": 16,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 45
     },
     {
       "office_id": 4352,
@@ -15106,7 +17909,18 @@
         }
       },
       "lat": 53.522421,
-      "lng": -1.131393
+      "lng": -1.131393,
+      "id": 4352,
+      "name": "Your Move Doncaster",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 400,
+        "replyRate": 97.05882352941177
+      },
+      "totalReviews": 400,
+      "replyRate": 97.05882352941177,
+      "googleScore": 4.7,
+      "score": 81
     },
     {
       "office_id": 4540,
@@ -15163,7 +17977,18 @@
         }
       },
       "lat": 52.510025,
-      "lng": -2.083602
+      "lng": -2.083602,
+      "id": 4540,
+      "name": "Your Move Dudley",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 474,
+        "replyRate": 100.0
+      },
+      "totalReviews": 474,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 4150,
@@ -15215,7 +18040,18 @@
         }
       },
       "lat": 55.068595,
-      "lng": -3.609877
+      "lng": -3.609877,
+      "id": 4150,
+      "name": "Your Move Dumfries",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 202,
+        "replyRate": 92.85714285714286
+      },
+      "totalReviews": 202,
+      "replyRate": 92.85714285714286,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 3968,
@@ -15273,7 +18109,18 @@
         }
       },
       "lat": 56.459227,
-      "lng": -2.969165
+      "lng": -2.969165,
+      "id": 3968,
+      "name": "Your Move Dundee",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 164,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 164,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 8014,
@@ -15334,7 +18181,18 @@
         }
       },
       "lat": 56.071004,
-      "lng": -3.458836
+      "lng": -3.458836,
+      "id": 8014,
+      "name": "Your Move Dunfermline",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 215,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 215,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 243996,
@@ -15386,7 +18244,18 @@
           "count": 274,
           "rating": 4.12
         }
-      }
+      },
+      "id": 243996,
+      "name": "Your Move Egham",
+      "va": {
+        "overallRating": 4.12,
+        "totalReviews": 274,
+        "replyRate": 100.0
+      },
+      "totalReviews": 274,
+      "replyRate": 100.0,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 7618,
@@ -15449,7 +18318,18 @@
         }
       },
       "lat": 57.649076,
-      "lng": -3.312089
+      "lng": -3.312089,
+      "id": 7618,
+      "name": "Your Move Elgin",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 150,
+        "replyRate": 76.92307692307693
+      },
+      "totalReviews": 150,
+      "replyRate": 76.92307692307693,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 13980,
@@ -15507,7 +18387,18 @@
         }
       },
       "lat": 51.4516,
-      "lng": 0.052405
+      "lng": 0.052405,
+      "id": 13980,
+      "name": "Your Move Eltham",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 215,
+        "replyRate": 60.0
+      },
+      "totalReviews": 215,
+      "replyRate": 60.0,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 5662,
@@ -15566,7 +18457,18 @@
         }
       },
       "lat": 50.618891,
-      "lng": -3.412402
+      "lng": -3.412402,
+      "id": 5662,
+      "name": "Your Move Exmouth",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 80,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 80,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 5687,
@@ -15620,7 +18522,18 @@
         }
       },
       "lat": 56.000062,
-      "lng": -3.783438
+      "lng": -3.783438,
+      "id": 5687,
+      "name": "Your Move Falkirk",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 212,
+        "replyRate": 92.0
+      },
+      "totalReviews": 212,
+      "replyRate": 92.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 9278,
@@ -15678,7 +18591,18 @@
         }
       },
       "lat": 51.316,
-      "lng": 0.89097
+      "lng": 0.89097,
+      "id": 9278,
+      "name": "Your Move Faversham",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 4,
+        "replyRate": null
+      },
+      "totalReviews": 4,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 45
     },
     {
       "office_id": 260092,
@@ -15743,7 +18667,18 @@
         }
       },
       "lat": 55.674,
-      "lng": -3.77483
+      "lng": -3.77483,
+      "id": 260092,
+      "name": "Your Move First, Lanark",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 111,
+        "replyRate": 65.38461538461539
+      },
+      "totalReviews": 111,
+      "replyRate": 65.38461538461539,
+      "googleScore": 4.8,
+      "score": 71
     },
     {
       "office_id": 258795,
@@ -15817,7 +18752,18 @@
         }
       },
       "lat": 51.5014,
-      "lng": -0.542488
+      "lng": -0.542488,
+      "id": 258795,
+      "name": "Your Move Frank Farr Langley",
+      "va": {
+        "overallRating": 4.15,
+        "totalReviews": 73,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 73,
+      "replyRate": 55.00000000000001,
+      "googleScore": 3.9,
+      "score": 68
     },
     {
       "office_id": 9386,
@@ -15875,7 +18821,18 @@
         }
       },
       "lat": 51.3864,
-      "lng": 0.551334
+      "lng": 0.551334,
+      "id": 9386,
+      "name": "Your Move Gillingham",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 52,
+        "replyRate": null
+      },
+      "totalReviews": 52,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 64
     },
     {
       "office_id": 8048,
@@ -15928,7 +18885,18 @@
         }
       },
       "lat": 56.196572,
-      "lng": -3.168418
+      "lng": -3.168418,
+      "id": 8048,
+      "name": "Your Move Glenrothes",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 200,
+        "replyRate": 100.0
+      },
+      "totalReviews": 200,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 4378,
@@ -15986,7 +18954,18 @@
         }
       },
       "lat": 53.705994,
-      "lng": -0.875336
+      "lng": -0.875336,
+      "id": 4378,
+      "name": "Your Move Goole",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 321,
+        "replyRate": 100.0
+      },
+      "totalReviews": 321,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 224927,
@@ -16040,7 +19019,18 @@
         }
       },
       "lat": 51.4416,
-      "lng": 0.369595
+      "lng": 0.369595,
+      "id": 224927,
+      "name": "Your Move Gravesend",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 249,
+        "replyRate": 100.0
+      },
+      "totalReviews": 249,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 16272,
@@ -16098,7 +19088,18 @@
         }
       },
       "lat": 50.8566,
-      "lng": 0.578616
+      "lng": 0.578616,
+      "id": 16272,
+      "name": "Your Move Hastings",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 151,
+        "replyRate": 50.0
+      },
+      "totalReviews": 151,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 8341,
@@ -16155,7 +19156,18 @@
         }
       },
       "lat": 52.542152,
-      "lng": -1.367929
+      "lng": -1.367929,
+      "id": 8341,
+      "name": "Your Move Hinckley",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 196,
+        "replyRate": null
+      },
+      "totalReviews": 196,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 14056,
@@ -16212,7 +19224,18 @@
         }
       },
       "lat": 51.949093,
-      "lng": -0.27524
+      "lng": -0.27524,
+      "id": 14056,
+      "name": "Your Move Hitchin",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 166,
+        "replyRate": 100.0
+      },
+      "totalReviews": 166,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 78
     },
     {
       "office_id": 9353,
@@ -16265,7 +19288,18 @@
         }
       },
       "lat": 51.42,
-      "lng": 0.560614
+      "lng": 0.560614,
+      "id": 9353,
+      "name": "Your Move Hoo",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 53,
+        "replyRate": null
+      },
+      "totalReviews": 53,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 78
     },
     {
       "office_id": 243997,
@@ -16318,7 +19352,17 @@
           "count": 24,
           "rating": 4.67
         }
-      }
+      },
+      "id": 243997,
+      "name": "Your Move Hornchurch",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 27,
+        "replyRate": null
+      },
+      "totalReviews": 27,
+      "replyRate": null,
+      "score": 66
     },
     {
       "office_id": 4228,
@@ -16377,7 +19421,18 @@
         }
       },
       "lat": 54.841249,
-      "lng": -1.469827
+      "lng": -1.469827,
+      "id": 4228,
+      "name": "Your Move Houghton le Spring",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 26,
+        "replyRate": 100.0
+      },
+      "totalReviews": 26,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 4125,
@@ -16434,7 +19489,18 @@
         }
       },
       "lat": 52.972735,
-      "lng": -1.309041
+      "lng": -1.309041,
+      "id": 4125,
+      "name": "Your Move Ilkeston",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 247,
+        "replyRate": 100.0
+      },
+      "totalReviews": 247,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 227342,
@@ -16487,7 +19553,18 @@
         }
       },
       "lat": 57.479893,
-      "lng": -4.225531
+      "lng": -4.225531,
+      "id": 227342,
+      "name": "Your Move Inverness",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 145,
+        "replyRate": 100.0
+      },
+      "totalReviews": 145,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 259041,
@@ -16549,7 +19626,17 @@
         }
       },
       "lat": 51.8869,
-      "lng": -0.521798
+      "lng": -0.521798,
+      "id": 259041,
+      "name": "Your Move Jameson Owen",
+      "va": {
+        "overallRating": 3.89,
+        "totalReviews": 63,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 63,
+      "replyRate": 55.00000000000001,
+      "score": 58
     },
     {
       "office_id": 258054,
@@ -16612,7 +19699,18 @@
         }
       },
       "lat": 53.0988,
-      "lng": -1.24516
+      "lng": -1.24516,
+      "id": 258054,
+      "name": "Your Move Kirkby-in-Ashfield",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 219,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 219,
+      "replyRate": 55.00000000000001,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 258448,
@@ -16676,7 +19774,18 @@
         }
       },
       "lat": 52.5865,
-      "lng": -2.13204
+      "lng": -2.13204,
+      "id": 258448,
+      "name": "Your Move Land & New Homes - West Midlands",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 36,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 36,
+      "replyRate": 55.00000000000001,
+      "googleScore": 4.5,
+      "score": 57
     },
     {
       "office_id": 8320,
@@ -16733,7 +19842,18 @@
         }
       },
       "lat": 52.63481,
-      "lng": -1.13072
+      "lng": -1.13072,
+      "id": 8320,
+      "name": "Your Move Leicester",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 381,
+        "replyRate": 100.0
+      },
+      "totalReviews": 381,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 5311,
@@ -16786,7 +19906,18 @@
         }
       },
       "lat": 55.965491,
-      "lng": -3.175749
+      "lng": -3.175749,
+      "id": 5311,
+      "name": "Your Move Leith Walk",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 137,
+        "replyRate": 100.0
+      },
+      "totalReviews": 137,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 254480,
@@ -16838,7 +19969,17 @@
         }
       },
       "lat": 50.8782,
-      "lng": -1.03405
+      "lng": -1.03405,
+      "id": 254480,
+      "name": "Your Move Lettings",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 179,
+        "replyRate": 0.0
+      },
+      "totalReviews": 179,
+      "replyRate": 0.0,
+      "score": 74
     },
     {
       "office_id": 22249,
@@ -16896,7 +20037,18 @@
         }
       },
       "lat": 53.230025,
-      "lng": -0.538515
+      "lng": -0.538515,
+      "id": 22249,
+      "name": "Your Move Lincoln",
+      "va": {
+        "overallRating": 3.98,
+        "totalReviews": 181,
+        "replyRate": 100.0
+      },
+      "totalReviews": 181,
+      "replyRate": 100.0,
+      "googleScore": 4.1,
+      "score": 62
     },
     {
       "office_id": 3920,
@@ -16954,7 +20106,18 @@
         }
       },
       "lat": 51.3964,
-      "lng": 0.300735
+      "lng": 0.300735,
+      "id": 3920,
+      "name": "Your Move Longfield",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 10,
+        "replyRate": null
+      },
+      "totalReviews": 10,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 42
     },
     {
       "office_id": 15150,
@@ -17012,7 +20175,18 @@
         }
       },
       "lat": 52.988223,
-      "lng": -2.133683
+      "lng": -2.133683,
+      "id": 15150,
+      "name": "Your Move Longton",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 83,
+        "replyRate": null
+      },
+      "totalReviews": 83,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 8348,
@@ -17065,7 +20239,18 @@
         }
       },
       "lat": 52.772155,
-      "lng": -1.204681
+      "lng": -1.204681,
+      "id": 8348,
+      "name": "Your Move Loughborough",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 105,
+        "replyRate": null
+      },
+      "totalReviews": 105,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 78
     },
     {
       "office_id": 10325,
@@ -17122,7 +20307,18 @@
         }
       },
       "lat": 54.936578,
-      "lng": -1.599305
+      "lng": -1.599305,
+      "id": 10325,
+      "name": "Your Move Low Fell",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 53,
+        "replyRate": null
+      },
+      "totalReviews": 53,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 9291,
@@ -17175,7 +20371,18 @@
         }
       },
       "lat": 51.2932,
-      "lng": 0.573647
+      "lng": 0.573647,
+      "id": 9291,
+      "name": "Your Move Maidstone",
+      "va": {
+        "overallRating": 4.17,
+        "totalReviews": 54,
+        "replyRate": null
+      },
+      "totalReviews": 54,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 257876,
@@ -17238,7 +20445,18 @@
         }
       },
       "lat": 53.4561,
-      "lng": -2.1164
+      "lng": -2.1164,
+      "id": 257876,
+      "name": "Your Move Mary Ashton, Denton",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 99,
+        "replyRate": 0.0
+      },
+      "totalReviews": 99,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 76
     },
     {
       "office_id": 3975,
@@ -17291,7 +20509,18 @@
         }
       },
       "lat": 56.714732,
-      "lng": -2.467426
+      "lng": -2.467426,
+      "id": 3975,
+      "name": "Your Move Montrose",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 105,
+        "replyRate": 100.0
+      },
+      "totalReviews": 105,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 257828,
@@ -17354,7 +20583,18 @@
         }
       },
       "lat": 52.5013,
-      "lng": -1.76736
+      "lng": -1.76736,
+      "id": 257828,
+      "name": "Your Move Murray Rogers, Bromwich",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 1029,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 1029,
+      "replyRate": 55.00000000000001,
+      "googleScore": null,
+      "score": 72
     },
     {
       "office_id": 257829,
@@ -17410,7 +20650,17 @@
         }
       },
       "lat": 52.4843,
-      "lng": -1.81035
+      "lng": -1.81035,
+      "id": 257829,
+      "name": "Your Move Murray Rogers, Stechford",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 184,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 184,
+      "replyRate": 55.00000000000001,
+      "score": 71
     },
     {
       "office_id": 13707,
@@ -17467,7 +20717,18 @@
         }
       },
       "lat": 51.4749,
-      "lng": -0.046357
+      "lng": -0.046357,
+      "id": 13707,
+      "name": "Your Move New Cross",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 283,
+        "replyRate": 42.857142857142854
+      },
+      "totalReviews": 283,
+      "replyRate": 42.857142857142854,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 16375,
@@ -17529,7 +20790,18 @@
         }
       },
       "lat": 50.530434,
-      "lng": -3.610343
+      "lng": -3.610343,
+      "id": 16375,
+      "name": "Your Move Newton Abbot",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 411,
+        "replyRate": 100.0
+      },
+      "totalReviews": 411,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 22253,
@@ -17591,7 +20863,18 @@
         }
       },
       "lat": 53.194111,
-      "lng": -0.580197
+      "lng": -0.580197,
+      "id": 22253,
+      "name": "Your Move North Hykeham",
+      "va": {
+        "overallRating": 3.83,
+        "totalReviews": 92,
+        "replyRate": null
+      },
+      "totalReviews": 92,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 62
     },
     {
       "office_id": 22256,
@@ -17648,7 +20931,18 @@
         }
       },
       "lat": 52.236259,
-      "lng": -0.896975
+      "lng": -0.896975,
+      "id": 22256,
+      "name": "Your Move Northampton",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 858,
+        "replyRate": 89.47368421052632
+      },
+      "totalReviews": 858,
+      "replyRate": 89.47368421052632,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 3955,
@@ -17707,7 +21001,18 @@
         }
       },
       "lat": 51.473326,
-      "lng": 0.162763
+      "lng": 0.162763,
+      "id": 3955,
+      "name": "Your Move Northumberland Heath",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 14,
+        "replyRate": 0.0
+      },
+      "totalReviews": 14,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 70
     },
     {
       "office_id": 10869,
@@ -17769,7 +21074,18 @@
         }
       },
       "lat": 52.636811,
-      "lng": 1.326634
+      "lng": 1.326634,
+      "id": 10869,
+      "name": "Your Move Norwich",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 90,
+        "replyRate": null
+      },
+      "totalReviews": 90,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 68
     },
     {
       "office_id": 3613,
@@ -17822,7 +21138,18 @@
         }
       },
       "lat": 52.523551,
-      "lng": -1.466415
+      "lng": -1.466415,
+      "id": 3613,
+      "name": "Your Move Nuneaton",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 219,
+        "replyRate": 100.0
+      },
+      "totalReviews": 219,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 260081,
@@ -17885,7 +21212,18 @@
         }
       },
       "lat": 52.4575,
-      "lng": 1.56245
+      "lng": 1.56245,
+      "id": 260081,
+      "name": "Your Move Oliver James, Beccles",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 163,
+        "replyRate": 42.30769230769231
+      },
+      "totalReviews": 163,
+      "replyRate": 42.30769230769231,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 15843,
@@ -17951,7 +21289,18 @@
         }
       },
       "lat": 52.860363,
-      "lng": -3.051532
+      "lng": -3.051532,
+      "id": 15843,
+      "name": "Your Move Oswestry",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 178,
+        "replyRate": 40.0
+      },
+      "totalReviews": 178,
+      "replyRate": 40.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 18101,
@@ -18008,7 +21357,18 @@
         }
       },
       "lat": 52.594808,
-      "lng": -2.202795
+      "lng": -2.202795,
+      "id": 18101,
+      "name": "Your Move Perton",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 159,
+        "replyRate": null
+      },
+      "totalReviews": 159,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 12178,
@@ -18066,7 +21426,18 @@
         }
       },
       "lat": 50.384312,
-      "lng": -4.133823
+      "lng": -4.133823,
+      "id": 12178,
+      "name": "Your Move Plymouth",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 332,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 332,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.4,
+      "score": 77
     },
     {
       "office_id": 9086,
@@ -18123,7 +21494,18 @@
         }
       },
       "lat": 53.559592,
-      "lng": -2.32636
+      "lng": -2.32636,
+      "id": 9086,
+      "name": "Your Move Radcliffe",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 202,
+        "replyRate": 100.0
+      },
+      "totalReviews": 202,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 9398,
@@ -18184,7 +21566,18 @@
         }
       },
       "lat": 51.3633,
-      "lng": 0.607731
+      "lng": 0.607731,
+      "id": 9398,
+      "name": "Your Move Rainham",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 127,
+        "replyRate": null
+      },
+      "totalReviews": 127,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 3451,
@@ -18241,7 +21634,18 @@
         }
       },
       "lat": 51.332605,
-      "lng": 1.41759
+      "lng": 1.41759,
+      "id": 3451,
+      "name": "Your Move Ramsgate",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 96,
+        "replyRate": null
+      },
+      "totalReviews": 96,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 243991,
@@ -18298,7 +21702,18 @@
           "count": 118,
           "rating": 4.69
         }
-      }
+      },
+      "id": 243991,
+      "name": "Your Move Rochester",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 118,
+        "replyRate": 0.0
+      },
+      "totalReviews": 118,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 233987,
@@ -18365,7 +21780,18 @@
         }
       },
       "lat": 51.574491,
-      "lng": 0.184533
+      "lng": 0.184533,
+      "id": 233987,
+      "name": "Your Move Romford",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 165,
+        "replyRate": 0.0
+      },
+      "totalReviews": 165,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 258055,
@@ -18413,7 +21839,17 @@
         }
       },
       "lat": 52.9463,
-      "lng": -1.23252
+      "lng": -1.23252,
+      "id": 258055,
+      "name": "Your Move SDS Wollaton",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 91,
+        "replyRate": null
+      },
+      "totalReviews": 91,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 11459,
@@ -18480,7 +21916,18 @@
         }
       },
       "lat": 53.577033,
-      "lng": -2.093945
+      "lng": -2.093945,
+      "id": 11459,
+      "name": "Your Move Shaw",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 177,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 177,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 9273,
@@ -18537,7 +21984,18 @@
         }
       },
       "lat": 51.440171,
-      "lng": 0.764481
+      "lng": 0.764481,
+      "id": 9273,
+      "name": "Your Move Sheerness",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 74,
+        "replyRate": null
+      },
+      "totalReviews": 74,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 5489,
@@ -18602,7 +22060,18 @@
         }
       },
       "lat": 50.681789,
-      "lng": -3.237679
+      "lng": -3.237679,
+      "id": 5489,
+      "name": "Your Move Sidmouth",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 187,
+        "replyRate": 28.947368421052634
+      },
+      "totalReviews": 187,
+      "replyRate": 28.947368421052634,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 9259,
@@ -18664,7 +22133,18 @@
         }
       },
       "lat": 51.340785,
-      "lng": 0.732043
+      "lng": 0.732043,
+      "id": 9259,
+      "name": "Your Move Sittingbourne",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 127,
+        "replyRate": 0.0
+      },
+      "totalReviews": 127,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 78
     },
     {
       "office_id": 17887,
@@ -18717,7 +22197,18 @@
         }
       },
       "lat": 53.549881,
-      "lng": -2.774292
+      "lng": -2.774292,
+      "id": 17887,
+      "name": "Your Move Skelmersdale",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 222,
+        "replyRate": 100.0
+      },
+      "totalReviews": 222,
+      "replyRate": 100.0,
+      "googleScore": 4.1,
+      "score": 78
     },
     {
       "office_id": 14643,
@@ -18784,7 +22275,18 @@
         }
       },
       "lat": 50.911572,
-      "lng": -1.403844
+      "lng": -1.403844,
+      "id": 14643,
+      "name": "Your Move Southampton",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 111,
+        "replyRate": 50.0
+      },
+      "totalReviews": 111,
+      "replyRate": 50.0,
+      "googleScore": 4.3,
+      "score": 72
     },
     {
       "office_id": 12440,
@@ -18847,7 +22349,18 @@
         }
       },
       "lat": 50.786259,
-      "lng": -1.086708
+      "lng": -1.086708,
+      "id": 12440,
+      "name": "Your Move Southsea",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 363,
+        "replyRate": 25.0
+      },
+      "totalReviews": 363,
+      "replyRate": 25.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 22260,
@@ -18909,7 +22422,18 @@
         }
       },
       "lat": 52.804884,
-      "lng": -2.118642
+      "lng": -2.118642,
+      "id": 22260,
+      "name": "Your Move Stafford",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 15,
+        "replyRate": null
+      },
+      "totalReviews": 15,
+      "replyRate": null,
+      "googleScore": 4.0,
+      "score": 47
     },
     {
       "office_id": 243988,
@@ -18969,7 +22493,18 @@
           "count": 134,
           "rating": 4.88
         }
-      }
+      },
+      "id": 243988,
+      "name": "Your Move Stirling",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 145,
+        "replyRate": 75.0
+      },
+      "totalReviews": 145,
+      "replyRate": 75.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 7944,
@@ -19022,7 +22557,18 @@
         }
       },
       "lat": 51.3937,
-      "lng": -0.304076
+      "lng": -0.304076,
+      "id": 7944,
+      "name": "Your Move Surbiton",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 220,
+        "replyRate": 100.0
+      },
+      "totalReviews": 220,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 14440,
@@ -19085,7 +22631,18 @@
         }
       },
       "lat": 51.3585,
-      "lng": -0.191361
+      "lng": -0.191361,
+      "id": 14440,
+      "name": "Your Move Sutton",
+      "va": {
+        "overallRating": 3.95,
+        "totalReviews": 80,
+        "replyRate": null
+      },
+      "totalReviews": 80,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 63
     },
     {
       "office_id": 14434,
@@ -19148,7 +22705,18 @@
         }
       },
       "lat": 51.3589,
-      "lng": -0.191055
+      "lng": -0.191055,
+      "id": 14434,
+      "name": "Your Move Sutton Lettings",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 81,
+        "replyRate": null
+      },
+      "totalReviews": 81,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 63
     },
     {
       "office_id": 8669,
@@ -19206,7 +22774,18 @@
         }
       },
       "lat": 53.3131,
-      "lng": 0.280768
+      "lng": 0.280768,
+      "id": 8669,
+      "name": "Your Move Sutton on Sea",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 41,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 41,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 4022,
@@ -19259,7 +22838,18 @@
         }
       },
       "lat": 52.773252,
-      "lng": -1.556027
+      "lng": -1.556027,
+      "id": 4022,
+      "name": "Your Move Swadlincote",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 179,
+        "replyRate": 100.0
+      },
+      "totalReviews": 179,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 9091,
@@ -19322,7 +22912,18 @@
         }
       },
       "lat": 53.503862,
-      "lng": -2.355376
+      "lng": -2.355376,
+      "id": 9091,
+      "name": "Your Move Swinton",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 205,
+        "replyRate": 84.21052631578947
+      },
+      "totalReviews": 205,
+      "replyRate": 84.21052631578947,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 16102,
@@ -19380,7 +22981,18 @@
         }
       },
       "lat": 51.1291,
-      "lng": 0.262553
+      "lng": 0.262553,
+      "id": 16102,
+      "name": "Your Move Tunbridge wells",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 302,
+        "replyRate": 73.07692307692307
+      },
+      "totalReviews": 302,
+      "replyRate": 73.07692307692307,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 15186,
@@ -19437,7 +23049,18 @@
         }
       },
       "lat": 53.060535,
-      "lng": -2.212021
+      "lng": -2.212021,
+      "id": 15186,
+      "name": "Your Move Tunstall",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 166,
+        "replyRate": 100.0
+      },
+      "totalReviews": 166,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 80
     },
     {
       "office_id": 9371,
@@ -19502,7 +23125,18 @@
         }
       },
       "lat": 51.3399,
-      "lng": 0.527201
+      "lng": 0.527201,
+      "id": 9371,
+      "name": "Your Move Walderslade",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 80,
+        "replyRate": null
+      },
+      "totalReviews": 80,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 77
     },
     {
       "office_id": 9107,
@@ -19555,7 +23189,18 @@
         }
       },
       "lat": 53.522864,
-      "lng": -2.398024
+      "lng": -2.398024,
+      "id": 9107,
+      "name": "Your Move Walkden",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 184,
+        "replyRate": 100.0
+      },
+      "totalReviews": 184,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 14483,
@@ -19613,7 +23258,18 @@
         }
       },
       "lat": 51.3581,
-      "lng": -0.149189
+      "lng": -0.149189,
+      "id": 14483,
+      "name": "Your Move Wallington",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 94,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 94,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 4881,
@@ -19667,7 +23323,18 @@
         }
       },
       "lat": 51.584406,
-      "lng": -0.019563
+      "lng": -0.019563,
+      "id": 4881,
+      "name": "Your Move Walthamstow",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 696,
+        "replyRate": 94.44444444444444
+      },
+      "totalReviews": 696,
+      "replyRate": 94.44444444444444,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 10234,
@@ -19724,7 +23391,18 @@
         }
       },
       "lat": 54.900099,
-      "lng": -1.532724
+      "lng": -1.532724,
+      "id": 10234,
+      "name": "Your Move Washington",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 45,
+        "replyRate": null
+      },
+      "totalReviews": 45,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 243995,
@@ -19773,7 +23451,17 @@
           "count": 182,
           "rating": 4.89
         }
-      }
+      },
+      "id": 243995,
+      "name": "Your Move Waterlooville",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 182,
+        "replyRate": 0.0
+      },
+      "totalReviews": 182,
+      "replyRate": 0.0,
+      "score": 74
     },
     {
       "office_id": 17673,
@@ -19834,7 +23522,18 @@
         }
       },
       "lat": 51.658414,
-      "lng": -0.399965
+      "lng": -0.399965,
+      "id": 17673,
+      "name": "Your Move Watford",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 114,
+        "replyRate": null
+      },
+      "totalReviews": 114,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 18071,
@@ -19891,7 +23590,18 @@
         }
       },
       "lat": 52.600212,
-      "lng": -2.082342
+      "lng": -2.082342,
+      "id": 18071,
+      "name": "Your Move Wednesfield",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 282,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 282,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 16052,
@@ -19948,7 +23658,18 @@
         }
       },
       "lat": 52.700846,
-      "lng": -2.519898
+      "lng": -2.519898,
+      "id": 16052,
+      "name": "Your Move Wellington",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 163,
+        "replyRate": 100.0
+      },
+      "totalReviews": 163,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 16763,
@@ -20005,7 +23726,18 @@
         }
       },
       "lat": 51.4499,
-      "lng": -0.357686
+      "lng": -0.357686,
+      "id": 16763,
+      "name": "Your Move Whitton",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 228,
+        "replyRate": 100.0
+      },
+      "totalReviews": 228,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 18055,
@@ -20063,7 +23795,18 @@
         }
       },
       "lat": 52.586879,
-      "lng": -2.132781
+      "lng": -2.132781,
+      "id": 18055,
+      "name": "Your Move Wolverhampton",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 77,
+        "replyRate": null
+      },
+      "totalReviews": 77,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 781,
@@ -20129,7 +23872,18 @@
         }
       },
       "lat": 53.750216,
-      "lng": -2.484942
+      "lng": -2.484942,
+      "id": 781,
+      "name": "Your Move, Blackburn",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 153,
+        "replyRate": 0.0
+      },
+      "totalReviews": 153,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 1337,
@@ -20186,7 +23940,18 @@
         }
       },
       "lat": 50.826879,
-      "lng": -0.142274
+      "lng": -0.142274,
+      "id": 1337,
+      "name": "Your Move, Brighton",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 193,
+        "replyRate": 100.0
+      },
+      "totalReviews": 193,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 1659,
@@ -20248,7 +24013,18 @@
         }
       },
       "lat": 51.4072,
-      "lng": 0.014296
+      "lng": 0.014296,
+      "id": 1659,
+      "name": "Your Move, Bromley",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 181,
+        "replyRate": 25.0
+      },
+      "totalReviews": 181,
+      "replyRate": 25.0,
+      "googleScore": 4.2,
+      "score": 76
     },
     {
       "office_id": 440,
@@ -20315,7 +24091,18 @@
         }
       },
       "lat": 52.334275,
-      "lng": -2.060933
+      "lng": -2.060933,
+      "id": 440,
+      "name": "Your Move, Bromsgrove",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 210,
+        "replyRate": 0.0
+      },
+      "totalReviews": 210,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 2413,
@@ -20370,7 +24157,18 @@
         }
       },
       "lat": 54.8952,
-      "lng": -2.93646
+      "lng": -2.93646,
+      "id": 2413,
+      "name": "Your Move, Carlisle",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 261,
+        "replyRate": 59.154929577464785
+      },
+      "totalReviews": 261,
+      "replyRate": 59.154929577464785,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 815,
@@ -20423,7 +24221,18 @@
         }
       },
       "lat": 53.6962,
-      "lng": -2.4679
+      "lng": -2.4679,
+      "id": 815,
+      "name": "Your Move, Darwen",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 190,
+        "replyRate": 75.0
+      },
+      "totalReviews": 190,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 1520,
@@ -20480,7 +24289,18 @@
         }
       },
       "lat": 50.785378,
-      "lng": 0.318077
+      "lng": 0.318077,
+      "id": 1520,
+      "name": "Your Move, Eastbourne",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 112,
+        "replyRate": 100.0
+      },
+      "totalReviews": 112,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 947,
@@ -20543,7 +24363,18 @@
         }
       },
       "lat": 53.866371,
-      "lng": -1.909439
+      "lng": -1.909439,
+      "id": 947,
+      "name": "Your Move, Keighley",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 76,
+        "replyRate": 45.83333333333333
+      },
+      "totalReviews": 76,
+      "replyRate": 45.83333333333333,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 225161,
@@ -20601,7 +24432,18 @@
         }
       },
       "lat": 51.413279,
-      "lng": -2.497749
+      "lng": -2.497749,
+      "id": 225161,
+      "name": "Your Move, Keynsham",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 104,
+        "replyRate": null
+      },
+      "totalReviews": 104,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 243984,
@@ -20657,7 +24499,18 @@
           "count": 3,
           "rating": 2.33
         }
-      }
+      },
+      "id": 243984,
+      "name": "Your Move, Midsomer Norton",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 202,
+        "replyRate": 100.0
+      },
+      "totalReviews": 202,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 1738,
@@ -20716,7 +24569,18 @@
         }
       },
       "lat": 51.375093,
-      "lng": 0.098642
+      "lng": 0.098642,
+      "id": 1738,
+      "name": "Your Move, Orpington",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 12,
+        "replyRate": 100.0
+      },
+      "totalReviews": 12,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 1537,
@@ -20780,7 +24644,18 @@
         }
       },
       "lat": 50.822927,
-      "lng": 0.244085
+      "lng": 0.244085,
+      "id": 1537,
+      "name": "Your Move, Polegate",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 86,
+        "replyRate": 48.148148148148145
+      },
+      "totalReviews": 86,
+      "replyRate": 48.148148148148145,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 1770,
@@ -20833,7 +24708,18 @@
         }
       },
       "lat": 51.3952,
-      "lng": 0.17808
+      "lng": 0.17808,
+      "id": 1770,
+      "name": "Your Move, Swanley",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 131,
+        "replyRate": 100.0
+      },
+      "totalReviews": 131,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 2400,
@@ -20897,7 +24783,18 @@
         }
       },
       "lat": 54.547539,
-      "lng": -3.586643
+      "lng": -3.586643,
+      "id": 2400,
+      "name": "Your Move, Whitehaven",
+      "va": {
+        "overallRating": 4.44,
+        "totalReviews": 104,
+        "replyRate": 33.92857142857143
+      },
+      "totalReviews": 104,
+      "replyRate": 33.92857142857143,
+      "googleScore": 4.6,
+      "score": 68
     },
     {
       "office_id": 2421,
@@ -20953,7 +24850,17 @@
         }
       },
       "lat": 54.825041,
-      "lng": -3.160537
+      "lng": -3.160537,
+      "id": 2421,
+      "name": "Your Move, Wigton",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 97,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 97,
+      "replyRate": 33.33333333333333,
+      "score": 70
     }
   ],
   "google_summary": {

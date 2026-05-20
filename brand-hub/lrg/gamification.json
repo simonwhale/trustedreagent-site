@@ -53,7 +53,18 @@
         }
       },
       "lat": 51.6566,
-      "lng": -0.202052
+      "lng": -0.202052,
+      "id": 248992,
+      "name": "Chancellors (EN5)",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 115,
+        "replyRate": null
+      },
+      "totalReviews": 115,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 248994,
@@ -104,7 +115,17 @@
         }
       },
       "lat": 51.2832,
-      "lng": -0.839882
+      "lng": -0.839882,
+      "id": 248994,
+      "name": "Chancellors (GU51)",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 11,
+        "replyRate": null
+      },
+      "totalReviews": 11,
+      "replyRate": null,
+      "score": 62
     },
     {
       "office_id": 7042,
@@ -158,7 +179,17 @@
         }
       },
       "lat": 51.675728,
-      "lng": -0.607897
+      "lng": -0.607897,
+      "id": 7042,
+      "name": "Chancellors (HP6)",
+      "va": {
+        "overallRating": 4.02,
+        "totalReviews": 410,
+        "replyRate": null
+      },
+      "totalReviews": 410,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 248998,
@@ -209,7 +240,17 @@
         }
       },
       "lat": 52.2412,
-      "lng": -3.37821
+      "lng": -3.37821,
+      "id": 248998,
+      "name": "Chancellors (LD1)",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 35,
+        "replyRate": null
+      },
+      "totalReviews": 35,
+      "replyRate": null,
+      "score": 65
     },
     {
       "office_id": 11568,
@@ -261,7 +302,18 @@
         }
       },
       "lat": 51.7515,
-      "lng": -1.29753
+      "lng": -1.29753,
+      "id": 11568,
+      "name": "Chancellors (OX2)",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 605,
+        "replyRate": 100.0
+      },
+      "totalReviews": 605,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 78
     },
     {
       "office_id": 11597,
@@ -311,7 +363,17 @@
         }
       },
       "lat": 51.847414,
-      "lng": -1.354112
+      "lng": -1.354112,
+      "id": 11597,
+      "name": "Chancellors (OX20)",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 774,
+        "replyRate": null
+      },
+      "totalReviews": 774,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 11608,
@@ -369,7 +431,18 @@
         }
       },
       "lat": 51.896875,
-      "lng": -1.150421
+      "lng": -1.150421,
+      "id": 11608,
+      "name": "Chancellors (OX26)",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 899,
+        "replyRate": 100.0
+      },
+      "totalReviews": 899,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 11673,
@@ -427,7 +500,18 @@
         }
       },
       "lat": 51.941503,
-      "lng": -1.546125
+      "lng": -1.546125,
+      "id": 11673,
+      "name": "Chancellors (OX7)",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 471,
+        "replyRate": 90.0
+      },
+      "totalReviews": 471,
+      "replyRate": 90.0,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 12716,
@@ -488,7 +572,18 @@
         }
       },
       "lat": 51.399606,
-      "lng": -1.322214
+      "lng": -1.322214,
+      "id": 12716,
+      "name": "Chancellors (RG14)",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 1028,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1028,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 16731,
@@ -545,7 +640,18 @@
         }
       },
       "lat": 51.419758,
-      "lng": -0.420322
+      "lng": -0.420322,
+      "id": 16731,
+      "name": "Chancellors (TW16)",
+      "va": {
+        "overallRating": 4.03,
+        "totalReviews": 649,
+        "replyRate": 100.0
+      },
+      "totalReviews": 649,
+      "replyRate": 100.0,
+      "googleScore": 4.1,
+      "score": 78
     },
     {
       "office_id": 259084,
@@ -607,7 +713,18 @@
         }
       },
       "lat": 51.67,
-      "lng": -1.28288
+      "lng": -1.28288,
+      "id": 259084,
+      "name": "Chancellors Abingdon",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 370,
+        "replyRate": 81.3953488372093
+      },
+      "totalReviews": 370,
+      "replyRate": 81.3953488372093,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 259957,
@@ -666,7 +783,17 @@
         }
       },
       "lat": 51.6758,
-      "lng": -0.607901
+      "lng": -0.607901,
+      "id": 259957,
+      "name": "Chancellors Amersham",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 112,
+        "replyRate": 60.0
+      },
+      "totalReviews": 112,
+      "replyRate": 60.0,
+      "score": 73
     },
     {
       "office_id": 259390,
@@ -720,7 +847,18 @@
         }
       },
       "lat": 51.4108,
-      "lng": -0.674087
+      "lng": -0.674087,
+      "id": 259390,
+      "name": "Chancellors Ascot",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 128,
+        "replyRate": null
+      },
+      "totalReviews": 128,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 257468,
@@ -782,7 +920,18 @@
         }
       },
       "lat": 51.8162,
-      "lng": -0.812974
+      "lng": -0.812974,
+      "id": 257468,
+      "name": "Chancellors Aylesbury",
+      "va": {
+        "overallRating": 4.42,
+        "totalReviews": 338,
+        "replyRate": 71.875
+      },
+      "totalReviews": 338,
+      "replyRate": 71.875,
+      "googleScore": 4.4,
+      "score": 74
     },
     {
       "office_id": 258972,
@@ -844,7 +993,18 @@
         }
       },
       "lat": 52.0601,
-      "lng": -1.33954
+      "lng": -1.33954,
+      "id": 258972,
+      "name": "Chancellors Banbury",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 327,
+        "replyRate": 100.0
+      },
+      "totalReviews": 327,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 78
     },
     {
       "office_id": 258893,
@@ -902,7 +1062,18 @@
         }
       },
       "lat": 51.2626,
-      "lng": -1.08784
+      "lng": -1.08784,
+      "id": 258893,
+      "name": "Chancellors Basingstoke New Homes Sales",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 196,
+        "replyRate": 85.45454545454545
+      },
+      "totalReviews": 196,
+      "replyRate": 85.45454545454545,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 259022,
@@ -965,7 +1136,18 @@
         }
       },
       "lat": 51.8978,
-      "lng": -1.1502
+      "lng": -1.1502,
+      "id": 259022,
+      "name": "Chancellors Bicester",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 387,
+        "replyRate": 60.0
+      },
+      "totalReviews": 387,
+      "replyRate": 60.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 258650,
@@ -1020,7 +1202,17 @@
         }
       },
       "lat": 51.7517,
-      "lng": -1.29724
+      "lng": -1.29724,
+      "id": 258650,
+      "name": "Chancellors Botley",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 255,
+        "replyRate": 71.875
+      },
+      "totalReviews": 255,
+      "replyRate": 71.875,
+      "score": 75
     },
     {
       "office_id": 257531,
@@ -1083,7 +1275,18 @@
         }
       },
       "lat": 51.4134,
-      "lng": -0.753319
+      "lng": -0.753319,
+      "id": 257531,
+      "name": "Chancellors Bracknell",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 484,
+        "replyRate": 78.94736842105263
+      },
+      "totalReviews": 484,
+      "replyRate": 78.94736842105263,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 259376,
@@ -1138,7 +1341,17 @@
         }
       },
       "lat": 51.9479,
-      "lng": -3.39173
+      "lng": -3.39173,
+      "id": 259376,
+      "name": "Chancellors Brecon",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 116,
+        "replyRate": 76.66666666666667
+      },
+      "totalReviews": 116,
+      "replyRate": 76.66666666666667,
+      "score": 74
     },
     {
       "office_id": 259031,
@@ -1198,7 +1411,18 @@
         }
       },
       "lat": 51.338,
-      "lng": -0.744625
+      "lng": -0.744625,
+      "id": 259031,
+      "name": "Chancellors Camberley New Homes Sales",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 188,
+        "replyRate": 84.61538461538461
+      },
+      "totalReviews": 188,
+      "replyRate": 84.61538461538461,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 259948,
@@ -1265,7 +1489,18 @@
         }
       },
       "lat": 51.7588,
-      "lng": -1.59438
+      "lng": -1.59438,
+      "id": 259948,
+      "name": "Chancellors Carterton",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 217,
+        "replyRate": 43.75
+      },
+      "totalReviews": 217,
+      "replyRate": 43.75,
+      "googleScore": 4.8,
+      "score": 78
     },
     {
       "office_id": 259869,
@@ -1330,7 +1565,18 @@
         }
       },
       "lat": 51.7064,
-      "lng": -0.612692
+      "lng": -0.612692,
+      "id": 259869,
+      "name": "Chancellors Chesham New Homes",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 384,
+        "replyRate": 75.86206896551724
+      },
+      "totalReviews": 384,
+      "replyRate": 75.86206896551724,
+      "googleScore": 4.7,
+      "score": 78
     },
     {
       "office_id": 259111,
@@ -1389,7 +1635,18 @@
         }
       },
       "lat": 51.6066,
-      "lng": -1.24533
+      "lng": -1.24533,
+      "id": 259111,
+      "name": "Chancellors Didcot",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 56,
+        "replyRate": 56.09756097560976
+      },
+      "totalReviews": 56,
+      "replyRate": 56.09756097560976,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 258651,
@@ -1447,7 +1704,18 @@
         }
       },
       "lat": 51.7461,
-      "lng": -1.2318
+      "lng": -1.2318,
+      "id": 258651,
+      "name": "Chancellors East Oxford",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 387,
+        "replyRate": 74.19354838709677
+      },
+      "totalReviews": 387,
+      "replyRate": 74.19354838709677,
+      "googleScore": 4.3,
+      "score": 82
     },
     {
       "office_id": 255800,
@@ -1510,7 +1778,18 @@
         }
       },
       "lat": 51.5573,
-      "lng": -0.178473
+      "lng": -0.178473,
+      "id": 255800,
+      "name": "Chancellors Hampstead",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 222,
+        "replyRate": 60.0
+      },
+      "totalReviews": 222,
+      "replyRate": 60.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 257623,
@@ -1576,7 +1855,18 @@
         }
       },
       "lat": 52.0738,
-      "lng": -3.12733
+      "lng": -3.12733,
+      "id": 257623,
+      "name": "Chancellors Hay-on-Wye",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 737,
+        "replyRate": 60.0
+      },
+      "totalReviews": 737,
+      "replyRate": 60.0,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 258653,
@@ -1636,7 +1926,18 @@
         }
       },
       "lat": 51.7605,
-      "lng": -1.21033
+      "lng": -1.21033,
+      "id": 258653,
+      "name": "Chancellors Headington New Homes",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 355,
+        "replyRate": 89.1891891891892
+      },
+      "totalReviews": 355,
+      "replyRate": 89.1891891891892,
+      "googleScore": 4.4,
+      "score": 78
     },
     {
       "office_id": 257419,
@@ -1691,7 +1992,17 @@
         }
       },
       "lat": 51.7504,
-      "lng": -0.472969
+      "lng": -0.472969,
+      "id": 257419,
+      "name": "Chancellors Hemel Hempstead",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 158,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 158,
+      "replyRate": 55.00000000000001,
+      "score": 73
     },
     {
       "office_id": 258353,
@@ -1754,7 +2065,18 @@
         }
       },
       "lat": 51.5378,
-      "lng": -0.903109
+      "lng": -0.903109,
+      "id": 258353,
+      "name": "Chancellors Henley-on-Thames",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 212,
+        "replyRate": 65.21739130434783
+      },
+      "totalReviews": 212,
+      "replyRate": 65.21739130434783,
+      "googleScore": 4.7,
+      "score": 78
     },
     {
       "office_id": 257624,
@@ -1817,7 +2139,18 @@
         }
       },
       "lat": 52.0545,
-      "lng": -2.71846
+      "lng": -2.71846,
+      "id": 257624,
+      "name": "Chancellors Hereford",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 256,
+        "replyRate": 37.5
+      },
+      "totalReviews": 256,
+      "replyRate": 37.5,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 258736,
@@ -1875,7 +2208,18 @@
         }
       },
       "lat": 51.6286,
-      "lng": -0.747815
+      "lng": -0.747815,
+      "id": 258736,
+      "name": "Chancellors High Wycombe",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 315,
+        "replyRate": 100.0
+      },
+      "totalReviews": 315,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 255801,
@@ -1931,7 +2275,17 @@
         }
       },
       "lat": 51.5703,
-      "lng": -0.148242
+      "lng": -0.148242,
+      "id": 255801,
+      "name": "Chancellors Highgate",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 168,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 168,
+      "replyRate": 55.00000000000001,
+      "score": 74
     },
     {
       "office_id": 259336,
@@ -1990,7 +2344,18 @@
         }
       },
       "lat": 51.8236,
-      "lng": -1.28926
+      "lng": -1.28926,
+      "id": 259336,
+      "name": "Chancellors Kidlington",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 36,
+        "replyRate": 16.666666666666664
+      },
+      "totalReviews": 36,
+      "replyRate": 16.666666666666664,
+      "googleScore": 4.4,
+      "score": 84
     },
     {
       "office_id": 260021,
@@ -2054,7 +2419,18 @@
         }
       },
       "lat": 52.2287,
-      "lng": -2.73881
+      "lng": -2.73881,
+      "id": 260021,
+      "name": "Chancellors Leominster New Homes Sales",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 192,
+        "replyRate": 53.70370370370371
+      },
+      "totalReviews": 192,
+      "replyRate": 53.70370370370371,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 6381,
@@ -2113,7 +2489,18 @@
         }
       },
       "lat": 51.3515,
-      "lng": -0.664599
+      "lng": -0.664599,
+      "id": 6381,
+      "name": "Chancellors Lightwater",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 922,
+        "replyRate": 89.39393939393939
+      },
+      "totalReviews": 922,
+      "replyRate": 89.39393939393939,
+      "googleScore": 4.4,
+      "score": 78
     },
     {
       "office_id": 258773,
@@ -2175,7 +2562,18 @@
         }
       },
       "lat": 51.522,
-      "lng": -0.720301
+      "lng": -0.720301,
+      "id": 258773,
+      "name": "Chancellors Maidenhead",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 316,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 316,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 255802,
@@ -2226,7 +2624,17 @@
         }
       },
       "lat": 51.6118,
-      "lng": -0.426309
+      "lng": -0.426309,
+      "id": 255802,
+      "name": "Chancellors Northwood",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 66,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 66,
+      "replyRate": 55.00000000000001,
+      "score": 72
     },
     {
       "office_id": 255803,
@@ -2288,7 +2696,18 @@
         }
       },
       "lat": 51.5092,
-      "lng": -0.194536
+      "lng": -0.194536,
+      "id": 255803,
+      "name": "Chancellors Notting Hill",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 349,
+        "replyRate": 44.11764705882353
+      },
+      "totalReviews": 349,
+      "replyRate": 44.11764705882353,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 258354,
@@ -2346,7 +2765,18 @@
         }
       },
       "lat": 51.4553,
-      "lng": -0.969431
+      "lng": -0.969431,
+      "id": 258354,
+      "name": "Chancellors Reading",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 427,
+        "replyRate": 88.75
+      },
+      "totalReviews": 427,
+      "replyRate": 88.75,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 255804,
@@ -2404,7 +2834,18 @@
         }
       },
       "lat": 51.4619,
-      "lng": -0.303277
+      "lng": -0.303277,
+      "id": 255804,
+      "name": "Chancellors Richmond",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 326,
+        "replyRate": 85.0
+      },
+      "totalReviews": 326,
+      "replyRate": 85.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 258774,
@@ -2467,7 +2908,18 @@
         }
       },
       "lat": 51.5097,
-      "lng": -0.596287
+      "lng": -0.596287,
+      "id": 258774,
+      "name": "Chancellors Slough",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 371,
+        "replyRate": 75.55555555555556
+      },
+      "totalReviews": 371,
+      "replyRate": 75.55555555555556,
+      "googleScore": 4.3,
+      "score": 74
     },
     {
       "office_id": 255805,
@@ -2525,7 +2977,18 @@
         }
       },
       "lat": 51.5329,
-      "lng": -0.169616
+      "lng": -0.169616,
+      "id": 255805,
+      "name": "Chancellors St John's Wood",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 243,
+        "replyRate": 100.0
+      },
+      "totalReviews": 243,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 255806,
@@ -2588,7 +3051,18 @@
         }
       },
       "lat": 51.6179,
-      "lng": -0.309265
+      "lng": -0.309265,
+      "id": 255806,
+      "name": "Chancellors Stanmore",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 242,
+        "replyRate": 75.0
+      },
+      "totalReviews": 242,
+      "replyRate": 75.0,
+      "googleScore": 4.2,
+      "score": 73
     },
     {
       "office_id": 258654,
@@ -2646,7 +3120,18 @@
         }
       },
       "lat": 51.7778,
-      "lng": -1.26536
+      "lng": -1.26536,
+      "id": 258654,
+      "name": "Chancellors Summertown",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 234,
+        "replyRate": 58.139534883720934
+      },
+      "totalReviews": 234,
+      "replyRate": 58.139534883720934,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 259392,
@@ -2704,7 +3189,17 @@
         }
       },
       "lat": 51.3929,
-      "lng": -0.627933
+      "lng": -0.627933,
+      "id": 259392,
+      "name": "Chancellors Sunningdale New Homes",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 152,
+        "replyRate": 72.0
+      },
+      "totalReviews": 152,
+      "replyRate": 72.0,
+      "score": 78
     },
     {
       "office_id": 255807,
@@ -2762,7 +3257,18 @@
         }
       },
       "lat": 51.3934,
-      "lng": -0.303981
+      "lng": -0.303981,
+      "id": 255807,
+      "name": "Chancellors Surbiton",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 203,
+        "replyRate": 100.0
+      },
+      "totalReviews": 203,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 257469,
@@ -2819,7 +3325,18 @@
         }
       },
       "lat": 51.7474,
-      "lng": -0.97805
+      "lng": -0.97805,
+      "id": 257469,
+      "name": "Chancellors Thame Sales",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 63,
+        "replyRate": null
+      },
+      "totalReviews": 63,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 258355,
@@ -2882,7 +3399,18 @@
         }
       },
       "lat": 51.4028,
-      "lng": -1.25711
+      "lng": -1.25711,
+      "id": 258355,
+      "name": "Chancellors Thatcham",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 316,
+        "replyRate": 78.94736842105263
+      },
+      "totalReviews": 316,
+      "replyRate": 78.94736842105263,
+      "googleScore": 4.7,
+      "score": 78
     },
     {
       "office_id": 255808,
@@ -2938,7 +3466,17 @@
         }
       },
       "lat": 51.6303,
-      "lng": -0.178298
+      "lng": -0.178298,
+      "id": 255808,
+      "name": "Chancellors Totteridge",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 99,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 99,
+      "replyRate": 55.00000000000001,
+      "score": 72
     },
     {
       "office_id": 259320,
@@ -2989,7 +3527,17 @@
         }
       },
       "lat": 51.402,
-      "lng": -0.563664
+      "lng": -0.563664,
+      "id": 259320,
+      "name": "Chancellors Virginia Water",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 56,
+        "replyRate": 60.0
+      },
+      "totalReviews": 56,
+      "replyRate": 60.0,
+      "score": 70
     },
     {
       "office_id": 259366,
@@ -3046,7 +3594,17 @@
         }
       },
       "lat": 51.5991,
-      "lng": -1.12533
+      "lng": -1.12533,
+      "id": 259366,
+      "name": "Chancellors Wallingford New Homes",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 621,
+        "replyRate": 62.5
+      },
+      "totalReviews": 621,
+      "replyRate": 62.5,
+      "score": 78
     },
     {
       "office_id": 259731,
@@ -3099,7 +3657,17 @@
         }
       },
       "lat": 51.4812,
-      "lng": -0.60645
+      "lng": -0.60645,
+      "id": 259731,
+      "name": "Chancellors Windsor New Homes Sales",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 55,
+        "replyRate": 60.0
+      },
+      "totalReviews": 55,
+      "replyRate": 60.0,
+      "score": 75
     },
     {
       "office_id": 259767,
@@ -3162,7 +3730,18 @@
         }
       },
       "lat": 51.7838,
-      "lng": -1.48669
+      "lng": -1.48669,
+      "id": 259767,
+      "name": "Chancellors Witney",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 266,
+        "replyRate": 82.6086956521739
+      },
+      "totalReviews": 266,
+      "replyRate": 82.6086956521739,
+      "googleScore": 4.6,
+      "score": 78
     },
     {
       "office_id": 6425,
@@ -3216,7 +3795,18 @@
         }
       },
       "lat": 51.3193,
-      "lng": -0.557733
+      "lng": -0.557733,
+      "id": 6425,
+      "name": "Chancellors Woking",
+      "va": {
+        "overallRating": 4.52,
+        "totalReviews": 252,
+        "replyRate": 82.92682926829268
+      },
+      "totalReviews": 252,
+      "replyRate": 82.92682926829268,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 258962,
@@ -3273,7 +3863,17 @@
         }
       },
       "lat": 51.4112,
-      "lng": -0.836098
+      "lng": -0.836098,
+      "id": 258962,
+      "name": "Chancellors Wokingham",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 240,
+        "replyRate": 40.0
+      },
+      "totalReviews": 240,
+      "replyRate": 40.0,
+      "score": 75
     },
     {
       "office_id": 257375,
@@ -3328,7 +3928,17 @@
         }
       },
       "lat": 52.1948,
-      "lng": -2.222
+      "lng": -2.222,
+      "id": 257375,
+      "name": "Chancellors Worcester",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 120,
+        "replyRate": 0.0
+      },
+      "totalReviews": 120,
+      "replyRate": 0.0,
+      "score": 74
     },
     {
       "office_id": 6682,
@@ -3385,7 +3995,18 @@
         }
       },
       "lat": 51.572436,
-      "lng": -0.412885
+      "lng": -0.412885,
+      "id": 6682,
+      "name": "Gibbs Gillespie (HA4)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 372,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 372,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 6693,
@@ -3438,7 +4059,18 @@
         }
       },
       "lat": 51.572763,
-      "lng": -0.423162
+      "lng": -0.423162,
+      "id": 6693,
+      "name": "Gibbs Gillespie (HA4)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 483,
+        "replyRate": 87.5
+      },
+      "totalReviews": 483,
+      "replyRate": 87.5,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 250228,
@@ -3495,7 +4127,18 @@
         }
       },
       "lat": 51.5721,
-      "lng": -0.407227
+      "lng": -0.407227,
+      "id": 250228,
+      "name": "Gibbs Gillespie (HA4)",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 687,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 687,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 6703,
@@ -3548,7 +4191,18 @@
         }
       },
       "lat": 51.59295,
-      "lng": -0.384076
+      "lng": -0.384076,
+      "id": 6703,
+      "name": "Gibbs Gillespie (HA5)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 467,
+        "replyRate": 100.0
+      },
+      "totalReviews": 467,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 250229,
@@ -3610,7 +4264,18 @@
         }
       },
       "lat": 51.5755,
-      "lng": -0.371157
+      "lng": -0.371157,
+      "id": 250229,
+      "name": "Gibbs Gillespie (HA5)",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 980,
+        "replyRate": 76.19047619047619
+      },
+      "totalReviews": 980,
+      "replyRate": 76.19047619047619,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 250230,
@@ -3672,7 +4337,18 @@
         }
       },
       "lat": 51.5875,
-      "lng": -0.553806
+      "lng": -0.553806,
+      "id": 250230,
+      "name": "Gibbs Gillespie (SL9)",
+      "va": {
+        "overallRating": 4.08,
+        "totalReviews": 624,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 624,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 250232,
@@ -3729,7 +4405,18 @@
         }
       },
       "lat": 51.5448,
-      "lng": -0.476732
+      "lng": -0.476732,
+      "id": 250232,
+      "name": "Gibbs Gillespie (UB8)",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 989,
+        "replyRate": 80.0
+      },
+      "totalReviews": 989,
+      "replyRate": 80.0,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 250233,
@@ -3795,7 +4482,18 @@
         }
       },
       "lat": 51.5028,
-      "lng": -0.316938
+      "lng": -0.316938,
+      "id": 250233,
+      "name": "Gibbs Gillespie (W13)",
+      "va": {
+        "overallRating": 3.96,
+        "totalReviews": 518,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 518,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 64
     },
     {
       "office_id": 250234,
@@ -3852,7 +4550,18 @@
         }
       },
       "lat": 51.5133,
-      "lng": -0.306225
+      "lng": -0.306225,
+      "id": 250234,
+      "name": "Gibbs Gillespie (W5)",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 925,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 925,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 250231,
@@ -3914,7 +4623,18 @@
         }
       },
       "lat": 51.6387,
-      "lng": -0.468926
+      "lng": -0.468926,
+      "id": 250231,
+      "name": "Gibbs Gillespie (WD3)",
+      "va": {
+        "overallRating": 4.24,
+        "totalReviews": 819,
+        "replyRate": 62.5
+      },
+      "totalReviews": 819,
+      "replyRate": 62.5,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 242702,
@@ -3971,7 +4691,18 @@
         }
       },
       "lat": 51.5255,
-      "lng": -0.315872
+      "lng": -0.315872,
+      "id": 242702,
+      "name": "Gibbs Gillespie Pitshanger Lane",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 734,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 734,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 250235,
@@ -4025,7 +4756,18 @@
         }
       },
       "lat": 51.4853,
-      "lng": -0.300034
+      "lng": -0.300034,
+      "id": 250235,
+      "name": "Gibbs Gillespie together with Thorgills",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 857,
+        "replyRate": 88.46153846153845
+      },
+      "totalReviews": 857,
+      "replyRate": 88.46153846153845,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 20467,
@@ -4075,7 +4817,17 @@
         }
       },
       "lat": 51.750325,
-      "lng": -0.338105
+      "lng": -0.338105,
+      "id": 20467,
+      "name": "Leaders (AL1)",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 791,
+        "replyRate": 80.0
+      },
+      "totalReviews": 791,
+      "replyRate": 80.0,
+      "score": 82
     },
     {
       "office_id": 225323,
@@ -4128,7 +4880,18 @@
         }
       },
       "lat": 52.406898,
-      "lng": -1.879499
+      "lng": -1.879499,
+      "id": 225323,
+      "name": "Leaders (B14)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 103,
+        "replyRate": 100.0
+      },
+      "totalReviews": 103,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 1674,
@@ -4181,7 +4944,18 @@
         }
       },
       "lat": 51.405405,
-      "lng": 0.012723
+      "lng": 0.012723,
+      "id": 1674,
+      "name": "Leaders (BR2)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 305,
+        "replyRate": 86.66666666666667
+      },
+      "totalReviews": 305,
+      "replyRate": 86.66666666666667,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 20473,
@@ -4232,7 +5006,17 @@
         }
       },
       "lat": 51.380769,
-      "lng": -0.087931
+      "lng": -0.087931,
+      "id": 20473,
+      "name": "Leaders (CR0)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 44
     },
     {
       "office_id": 20476,
@@ -4291,7 +5075,18 @@
         }
       },
       "lat": 51.318501,
-      "lng": -0.558824
+      "lng": -0.558824,
+      "id": 20476,
+      "name": "Leaders (GU21)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 42
     },
     {
       "office_id": 6549,
@@ -4337,7 +5132,17 @@
         }
       },
       "lat": 51.142557,
-      "lng": -0.494147
+      "lng": -0.494147,
+      "id": 6549,
+      "name": "Leaders (GU6)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 75,
+        "replyRate": null
+      },
+      "totalReviews": 75,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 7774,
@@ -4391,7 +5196,18 @@
         }
       },
       "lat": 51.37215,
-      "lng": -0.457936
+      "lng": -0.457936,
+      "id": 7774,
+      "name": "Leaders (KT13)",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 272,
+        "replyRate": 100.0
+      },
+      "totalReviews": 272,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 87
     },
     {
       "office_id": 7942,
@@ -4449,7 +5265,18 @@
         }
       },
       "lat": 51.393717,
-      "lng": -0.304573
+      "lng": -0.304573,
+      "id": 7942,
+      "name": "Leaders (KT6)",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 178,
+        "replyRate": 50.0
+      },
+      "totalReviews": 178,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 80
     },
     {
       "office_id": 18283,
@@ -4500,7 +5327,17 @@
         }
       },
       "lat": 52.298018,
-      "lng": -0.065211
+      "lng": -0.065211,
+      "id": 18283,
+      "name": "Leaders (PE28)",
+      "va": {
+        "overallRating": 2.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "score": 42
     },
     {
       "office_id": 20491,
@@ -4558,7 +5395,18 @@
         }
       },
       "lat": 50.8782,
-      "lng": -1.034041
+      "lng": -1.034041,
+      "id": 20491,
+      "name": "Leaders (PO7)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 42
     },
     {
       "office_id": 20503,
@@ -4616,7 +5464,18 @@
         }
       },
       "lat": 51.359095,
-      "lng": -0.192079
+      "lng": -0.192079,
+      "id": 20503,
+      "name": "Leaders (SM2)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 42
     },
     {
       "office_id": 20504,
@@ -4671,7 +5530,17 @@
         }
       },
       "lat": 50.897172,
-      "lng": -1.394387
+      "lng": -1.394387,
+      "id": 20504,
+      "name": "Leaders (SO14)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "score": 0
     },
     {
       "office_id": 20506,
@@ -4729,7 +5598,18 @@
         }
       },
       "lat": 50.914689,
-      "lng": -1.360631
+      "lng": -1.360631,
+      "id": 20506,
+      "name": "Leaders (SO18)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 0
     },
     {
       "office_id": 20511,
@@ -4787,7 +5667,18 @@
         }
       },
       "lat": 50.968827,
-      "lng": -1.353167
+      "lng": -1.353167,
+      "id": 20511,
+      "name": "Leaders (SO50)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 0
     },
     {
       "office_id": 20512,
@@ -4844,7 +5735,18 @@
           "count": 1,
           "rating": 5.0
         }
-      }
+      },
+      "id": 20512,
+      "name": "Leaders (SOUT)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 45
     },
     {
       "office_id": 20513,
@@ -4897,7 +5799,18 @@
         }
       },
       "lat": 51.272542,
-      "lng": 0.192489
+      "lng": 0.192489,
+      "id": 20513,
+      "name": "Leaders (TN13)",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 246,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 246,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 228001,
@@ -4943,7 +5856,17 @@
         }
       },
       "lat": 52.267348,
-      "lng": -2.150682
+      "lng": -2.150682,
+      "id": 228001,
+      "name": "Leaders (WR9)",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 90,
+        "replyRate": null
+      },
+      "totalReviews": 90,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 243656,
@@ -5002,7 +5925,18 @@
         }
       },
       "lat": 52.138,
-      "lng": -0.467005
+      "lng": -0.467005,
+      "id": 243656,
+      "name": "Leaders Bedford",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 19,
+        "replyRate": 0.0
+      },
+      "totalReviews": 19,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 243658,
@@ -5060,7 +5994,18 @@
         }
       },
       "lat": 51.8722,
-      "lng": 0.158255
+      "lng": 0.158255,
+      "id": 243658,
+      "name": "Leaders Bishops Stortford",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 0
     },
     {
       "office_id": 243660,
@@ -5114,7 +6059,18 @@
         }
       },
       "lat": 50.7827,
-      "lng": -0.675224
+      "lng": -0.675224,
+      "id": 243660,
+      "name": "Leaders Bognor Regis",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 2,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 243655,
@@ -5165,7 +6121,17 @@
         }
       },
       "lat": 51.4166,
-      "lng": -0.751937
+      "lng": -0.751937,
+      "id": 243655,
+      "name": "Leaders Bracknell",
+      "va": {
+        "overallRating": 3.98,
+        "totalReviews": 5260,
+        "replyRate": 30.081300813008134
+      },
+      "totalReviews": 5260,
+      "replyRate": 30.081300813008134,
+      "score": 64
     },
     {
       "office_id": 243662,
@@ -5219,7 +6185,18 @@
         }
       },
       "lat": 52.0003,
-      "lng": -0.987547
+      "lng": -0.987547,
+      "id": 243662,
+      "name": "Leaders Buckingham",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 243663,
@@ -5277,7 +6254,18 @@
         }
       },
       "lat": 51.8878,
-      "lng": 0.896507
+      "lng": 0.896507,
+      "id": 243663,
+      "name": "Leaders Colchester",
+      "va": {
+        "overallRating": 1.67,
+        "totalReviews": 6,
+        "replyRate": null
+      },
+      "totalReviews": 6,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 0
     },
     {
       "office_id": 243664,
@@ -5331,7 +6319,18 @@
         }
       },
       "lat": 51.3681,
-      "lng": -0.099466
+      "lng": -0.099466,
+      "id": 243664,
+      "name": "Leaders Croydon",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 79
     },
     {
       "office_id": 243665,
@@ -5385,7 +6384,18 @@
         }
       },
       "lat": 50.8488,
-      "lng": -0.936873
+      "lng": -0.936873,
+      "id": 243665,
+      "name": "Leaders Emsworth",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 2,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251524,
@@ -5445,7 +6455,18 @@
         }
       },
       "lat": 50.8124,
-      "lng": -0.370735
+      "lng": -0.370735,
+      "id": 251524,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 443,
+        "replyRate": 74.07407407407408
+      },
+      "totalReviews": 443,
+      "replyRate": 74.07407407407408,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 251527,
@@ -5499,7 +6520,18 @@
         }
       },
       "lat": 50.8402,
-      "lng": -0.778877
+      "lng": -0.778877,
+      "id": 251527,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 286,
+        "replyRate": 100.0
+      },
+      "totalReviews": 286,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 251532,
@@ -5553,7 +6585,18 @@
         }
       },
       "lat": 51.4396,
-      "lng": -0.053606
+      "lng": -0.053606,
+      "id": 251532,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 341,
+        "replyRate": 80.0
+      },
+      "totalReviews": 341,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 251533,
@@ -5611,7 +6654,18 @@
         }
       },
       "lat": 50.9111,
-      "lng": -1.40497
+      "lng": -1.40497,
+      "id": 251533,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 428,
+        "replyRate": 84.61538461538461
+      },
+      "totalReviews": 428,
+      "replyRate": 84.61538461538461,
+      "googleScore": 4.2,
+      "score": 73
     },
     {
       "office_id": 251526,
@@ -5667,7 +6721,17 @@
         }
       },
       "lat": 52.993,
-      "lng": -1.13072
+      "lng": -1.13072,
+      "id": 251526,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 735,
+        "replyRate": 0.0
+      },
+      "totalReviews": 735,
+      "replyRate": 0.0,
+      "score": 74
     },
     {
       "office_id": 251554,
@@ -5725,7 +6789,18 @@
         }
       },
       "lat": 51.7713,
-      "lng": 0.094794
+      "lng": 0.094794,
+      "id": 251554,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 300,
+        "replyRate": 87.27272727272727
+      },
+      "totalReviews": 300,
+      "replyRate": 87.27272727272727,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251542,
@@ -5779,7 +6854,18 @@
         }
       },
       "lat": 52.7432,
-      "lng": -1.17157
+      "lng": -1.17157,
+      "id": 251542,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 225,
+        "replyRate": 100.0
+      },
+      "totalReviews": 225,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 251539,
@@ -5838,7 +6924,18 @@
         }
       },
       "lat": 51.7453,
-      "lng": -2.2163
+      "lng": -2.2163,
+      "id": 251539,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 236,
+        "replyRate": 0.0
+      },
+      "totalReviews": 236,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 246709,
@@ -5900,7 +6997,18 @@
         }
       },
       "lat": 51.7515,
-      "lng": -0.340293
+      "lng": -0.340293,
+      "id": 246709,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 654,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 654,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 246710,
@@ -5953,7 +7061,18 @@
         }
       },
       "lat": 52.3331,
-      "lng": -2.06252
+      "lng": -2.06252,
+      "id": 246710,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 278,
+        "replyRate": 100.0
+      },
+      "totalReviews": 278,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 246711,
@@ -6011,7 +7130,18 @@
         }
       },
       "lat": 50.7174,
-      "lng": -1.98287
+      "lng": -1.98287,
+      "id": 246711,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 406,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 406,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 246712,
@@ -6069,7 +7199,18 @@
         }
       },
       "lat": 50.7352,
-      "lng": -1.77694
+      "lng": -1.77694,
+      "id": 246712,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 144,
+        "replyRate": 0.0
+      },
+      "totalReviews": 144,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 246713,
@@ -6120,7 +7261,17 @@
         }
       },
       "lat": 50.8092,
-      "lng": -0.5413
+      "lng": -0.5413,
+      "id": 246713,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 246714,
@@ -6173,7 +7324,18 @@
         }
       },
       "lat": 50.8186,
-      "lng": -0.121975
+      "lng": -0.121975,
+      "id": 246714,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 235,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 235,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 246715,
@@ -6226,7 +7388,18 @@
         }
       },
       "lat": 50.8739,
-      "lng": 0.009866
+      "lng": 0.009866,
+      "id": 246715,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 142,
+        "replyRate": 100.0
+      },
+      "totalReviews": 142,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 246716,
@@ -6272,7 +7445,17 @@
         }
       },
       "lat": 51.8782,
-      "lng": 0.550205
+      "lng": 0.550205,
+      "id": 246716,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 106,
+        "replyRate": null
+      },
+      "totalReviews": 106,
+      "replyRate": null,
+      "score": 74
     },
     {
       "office_id": 246717,
@@ -6325,7 +7508,18 @@
         }
       },
       "lat": 52.2932,
-      "lng": -1.53634
+      "lng": -1.53634,
+      "id": 246717,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.17,
+        "totalReviews": 336,
+        "replyRate": 100.0
+      },
+      "totalReviews": 336,
+      "replyRate": 100.0,
+      "googleScore": 4.2,
+      "score": 73
     },
     {
       "office_id": 246718,
@@ -6378,7 +7572,18 @@
         }
       },
       "lat": 53.0675,
-      "lng": -2.52356
+      "lng": -2.52356,
+      "id": 246718,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 163,
+        "replyRate": null
+      },
+      "totalReviews": 163,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 246719,
@@ -6440,7 +7645,18 @@
         }
       },
       "lat": 53.0221,
-      "lng": -1.48433
+      "lng": -1.48433,
+      "id": 246719,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 246,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 246,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 251525,
@@ -6493,7 +7709,18 @@
         }
       },
       "lat": 51.9632,
-      "lng": 1.35179
+      "lng": 1.35179,
+      "id": 251525,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 263,
+        "replyRate": 100.0
+      },
+      "totalReviews": 263,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251529,
@@ -6551,7 +7778,18 @@
         }
       },
       "lat": 51.2386,
-      "lng": -0.169172
+      "lng": -0.169172,
+      "id": 251529,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 278,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 278,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251530,
@@ -6609,7 +7847,18 @@
         }
       },
       "lat": 51.1147,
-      "lng": -0.190005
+      "lng": -0.190005,
+      "id": 251530,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 277,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 277,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251531,
@@ -6666,7 +7915,18 @@
         }
       },
       "lat": 51.0626,
-      "lng": -0.327319
+      "lng": -0.327319,
+      "id": 251531,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 537,
+        "replyRate": 100.0
+      },
+      "totalReviews": 537,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251534,
@@ -6724,7 +7984,18 @@
         }
       },
       "lat": 50.912,
-      "lng": -1.30303
+      "lng": -1.30303,
+      "id": 251534,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 241,
+        "replyRate": 70.0
+      },
+      "totalReviews": 241,
+      "replyRate": 70.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 251535,
@@ -6777,7 +8048,18 @@
         }
       },
       "lat": 51.5488,
-      "lng": 0.704373
+      "lng": 0.704373,
+      "id": 251535,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 328,
+        "replyRate": 100.0
+      },
+      "totalReviews": 328,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 251537,
@@ -6835,7 +8117,18 @@
         }
       },
       "lat": 53.3889,
-      "lng": -2.59755
+      "lng": -2.59755,
+      "id": 251537,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.18,
+        "totalReviews": 265,
+        "replyRate": 75.0
+      },
+      "totalReviews": 265,
+      "replyRate": 75.0,
+      "googleScore": 4.2,
+      "score": 74
     },
     {
       "office_id": 251538,
@@ -6888,7 +8181,18 @@
         }
       },
       "lat": 52.1958,
-      "lng": -2.22286
+      "lng": -2.22286,
+      "id": 251538,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 432,
+        "replyRate": 92.85714285714286
+      },
+      "totalReviews": 432,
+      "replyRate": 92.85714285714286,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 251540,
@@ -6941,7 +8245,18 @@
         }
       },
       "lat": 51.3847,
-      "lng": -0.418462
+      "lng": -0.418462,
+      "id": 251540,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 269,
+        "replyRate": 100.0
+      },
+      "totalReviews": 269,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251541,
@@ -6999,7 +8314,18 @@
         }
       },
       "lat": 51.3328,
-      "lng": -0.270761
+      "lng": -0.270761,
+      "id": 251541,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 269,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 269,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 251543,
@@ -7057,7 +8383,18 @@
         }
       },
       "lat": 51.8858,
-      "lng": -0.52213
+      "lng": -0.52213,
+      "id": 251543,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.44,
+        "totalReviews": 274,
+        "replyRate": 50.0
+      },
+      "totalReviews": 274,
+      "replyRate": 50.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 251544,
@@ -7110,7 +8447,18 @@
         }
       },
       "lat": 50.9543,
-      "lng": -0.128825
+      "lng": -0.128825,
+      "id": 251544,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 308,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 308,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251545,
@@ -7167,7 +8515,18 @@
         }
       },
       "lat": 51.2338,
-      "lng": -0.327838
+      "lng": -0.327838,
+      "id": 251545,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 83,
+        "replyRate": null
+      },
+      "totalReviews": 83,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 251546,
@@ -7218,7 +8577,17 @@
         }
       },
       "lat": 52.5865,
-      "lng": -2.12352
+      "lng": -2.12352,
+      "id": 251546,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 56,
+        "replyRate": 0.0
+      },
+      "totalReviews": 56,
+      "replyRate": 0.0,
+      "score": 70
     },
     {
       "office_id": 251547,
@@ -7271,7 +8640,18 @@
         }
       },
       "lat": 50.722,
-      "lng": -1.87448
+      "lng": -1.87448,
+      "id": 251547,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 353,
+        "replyRate": 87.5
+      },
+      "totalReviews": 353,
+      "replyRate": 87.5,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 251548,
@@ -7329,7 +8709,18 @@
         }
       },
       "lat": 50.7527,
-      "lng": -1.65674
+      "lng": -1.65674,
+      "id": 251548,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 210,
+        "replyRate": 50.0
+      },
+      "totalReviews": 210,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 251549,
@@ -7382,7 +8773,18 @@
         }
       },
       "lat": 50.8108,
-      "lng": -0.508785
+      "lng": -0.508785,
+      "id": 251549,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 143,
+        "replyRate": 100.0
+      },
+      "totalReviews": 143,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 251550,
@@ -7435,7 +8837,18 @@
         }
       },
       "lat": 50.8129,
-      "lng": -0.102132
+      "lng": -0.102132,
+      "id": 251550,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 261,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 261,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251551,
@@ -7493,7 +8906,18 @@
         }
       },
       "lat": 50.7681,
-      "lng": 0.279726
+      "lng": 0.279726,
+      "id": 251551,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 51,
+        "replyRate": null
+      },
+      "totalReviews": 51,
+      "replyRate": null,
+      "googleScore": null,
+      "score": 48
     },
     {
       "office_id": 251552,
@@ -7546,7 +8970,18 @@
         }
       },
       "lat": 50.8276,
-      "lng": -0.17158
+      "lng": -0.17158,
+      "id": 251552,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 469,
+        "replyRate": 90.32258064516128
+      },
+      "totalReviews": 469,
+      "replyRate": 90.32258064516128,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251553,
@@ -7604,7 +9039,18 @@
         }
       },
       "lat": 51.7352,
-      "lng": 0.471258
+      "lng": 0.471258,
+      "id": 251553,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 212,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 212,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 251555,
@@ -7657,7 +9103,18 @@
         }
       },
       "lat": 52.0381,
-      "lng": 0.73041
+      "lng": 0.73041,
+      "id": 251555,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 349,
+        "replyRate": 100.0
+      },
+      "totalReviews": 349,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251556,
@@ -7711,7 +9168,18 @@
         }
       },
       "lat": 52.3424,
-      "lng": -1.57874
+      "lng": -1.57874,
+      "id": 251556,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.16,
+        "totalReviews": 190,
+        "replyRate": null
+      },
+      "totalReviews": 190,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 251557,
@@ -7768,7 +9236,18 @@
         }
       },
       "lat": 53.2605,
-      "lng": -2.51546
+      "lng": -2.51546,
+      "id": 251557,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 210,
+        "replyRate": 100.0
+      },
+      "totalReviews": 210,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 251558,
@@ -7821,7 +9300,18 @@
         }
       },
       "lat": 51.2376,
-      "lng": -0.56732
+      "lng": -0.56732,
+      "id": 251558,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 446,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 446,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 251559,
@@ -7880,7 +9370,18 @@
         }
       },
       "lat": 51.3196,
-      "lng": -0.557206
+      "lng": -0.557206,
+      "id": 251559,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 404,
+        "replyRate": 0.0
+      },
+      "totalReviews": 404,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 251560,
@@ -7926,7 +9427,17 @@
         }
       },
       "lat": 51.1416,
-      "lng": -0.489888
+      "lng": -0.489888,
+      "id": 251560,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 63,
+        "replyRate": null
+      },
+      "totalReviews": 63,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 251561,
@@ -7979,7 +9490,18 @@
         }
       },
       "lat": 51.8176,
-      "lng": -0.81322
+      "lng": -0.81322,
+      "id": 251561,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 140,
+        "replyRate": null
+      },
+      "totalReviews": 140,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 251562,
@@ -8037,7 +9559,18 @@
         }
       },
       "lat": 51.9464,
-      "lng": -0.278478
+      "lng": -0.278478,
+      "id": 251562,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 221,
+        "replyRate": 50.0
+      },
+      "totalReviews": 221,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 251563,
@@ -8090,7 +9623,18 @@
         }
       },
       "lat": 50.8766,
-      "lng": -1.28838
+      "lng": -1.28838,
+      "id": 251563,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 254,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 254,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251564,
@@ -8143,7 +9687,18 @@
         }
       },
       "lat": 53.027,
-      "lng": -2.17856
+      "lng": -2.17856,
+      "id": 251564,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 124,
+        "replyRate": null
+      },
+      "totalReviews": 124,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 72
     },
     {
       "office_id": 251565,
@@ -8200,7 +9755,18 @@
         }
       },
       "lat": 53.0095,
-      "lng": -2.20816
+      "lng": -2.20816,
+      "id": 251565,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 193,
+        "replyRate": 100.0
+      },
+      "totalReviews": 193,
+      "replyRate": 100.0,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 251566,
@@ -8253,7 +9819,18 @@
         }
       },
       "lat": 53.4519,
-      "lng": -2.74371
+      "lng": -2.74371,
+      "id": 251566,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 204,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 204,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.1,
+      "score": 73
     },
     {
       "office_id": 251567,
@@ -8315,7 +9892,18 @@
         }
       },
       "lat": 52.0559,
-      "lng": 1.15326
+      "lng": 1.15326,
+      "id": 251567,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 562,
+        "replyRate": 79.16666666666666
+      },
+      "totalReviews": 562,
+      "replyRate": 79.16666666666666,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 251568,
@@ -8373,7 +9961,18 @@
         }
       },
       "lat": 51.8788,
-      "lng": -0.418086
+      "lng": -0.418086,
+      "id": 251568,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 500,
+        "replyRate": 75.0
+      },
+      "totalReviews": 500,
+      "replyRate": 75.0,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 251569,
@@ -8435,7 +10034,18 @@
         }
       },
       "lat": 53.4406,
-      "lng": -2.21879
+      "lng": -2.21879,
+      "id": 251569,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 2.76,
+        "totalReviews": 187,
+        "replyRate": 100.0
+      },
+      "totalReviews": 187,
+      "replyRate": 100.0,
+      "googleScore": 3.0,
+      "score": 22
     },
     {
       "office_id": 251570,
@@ -8488,7 +10098,18 @@
         }
       },
       "lat": 53.4763,
-      "lng": -2.25048
+      "lng": -2.25048,
+      "id": 251570,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 629,
+        "replyRate": 95.45454545454545
+      },
+      "totalReviews": 629,
+      "replyRate": 95.45454545454545,
+      "googleScore": 4.1,
+      "score": 73
     },
     {
       "office_id": 251571,
@@ -8546,7 +10167,18 @@
         }
       },
       "lat": 52.8998,
-      "lng": -1.27266
+      "lng": -1.27266,
+      "id": 251571,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 355,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 355,
+      "replyRate": 77.77777777777779,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251572,
@@ -8599,7 +10231,18 @@
         }
       },
       "lat": 52.7681,
-      "lng": -0.379005
+      "lng": -0.379005,
+      "id": 251572,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 469,
+        "replyRate": 90.0
+      },
+      "totalReviews": 469,
+      "replyRate": 90.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 251573,
@@ -8656,7 +10299,18 @@
         }
       },
       "lat": 51.0004,
-      "lng": -0.105705
+      "lng": -0.105705,
+      "id": 251573,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 309,
+        "replyRate": 92.85714285714286
+      },
+      "totalReviews": 309,
+      "replyRate": 92.85714285714286,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251574,
@@ -8709,7 +10363,18 @@
         }
       },
       "lat": 51.4618,
-      "lng": -0.009489
+      "lng": -0.009489,
+      "id": 251574,
+      "name": "Leaders Lettings",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 374,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 374,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 246720,
@@ -8762,7 +10427,18 @@
         }
       },
       "lat": 51.9457,
-      "lng": 0.638435
+      "lng": 0.638435,
+      "id": 246720,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 184,
+        "replyRate": 100.0
+      },
+      "totalReviews": 184,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 251575,
@@ -8820,7 +10496,18 @@
         }
       },
       "lat": 52.4153,
-      "lng": -1.9293
+      "lng": -1.9293,
+      "id": 251575,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 490,
+        "replyRate": 0.0
+      },
+      "totalReviews": 490,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 251576,
@@ -8878,7 +10565,18 @@
         }
       },
       "lat": 51.4075,
-      "lng": -0.025979
+      "lng": -0.025979,
+      "id": 251576,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 180,
+        "replyRate": 58.333333333333336
+      },
+      "totalReviews": 180,
+      "replyRate": 58.333333333333336,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 251577,
@@ -8940,7 +10638,18 @@
         }
       },
       "lat": 53.1879,
-      "lng": -2.89034
+      "lng": -2.89034,
+      "id": 251577,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 346,
+        "replyRate": 20.0
+      },
+      "totalReviews": 346,
+      "replyRate": 20.0,
+      "googleScore": 4.3,
+      "score": 74
     },
     {
       "office_id": 251578,
@@ -8998,7 +10707,18 @@
         }
       },
       "lat": 51.791,
-      "lng": 1.15339
+      "lng": 1.15339,
+      "id": 251578,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 313,
+        "replyRate": 75.0
+      },
+      "totalReviews": 313,
+      "replyRate": 75.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 251579,
@@ -9051,7 +10771,18 @@
         }
       },
       "lat": 52.9221,
-      "lng": -1.47716
+      "lng": -1.47716,
+      "id": 251579,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.05,
+        "totalReviews": 423,
+        "replyRate": 85.0
+      },
+      "totalReviews": 423,
+      "replyRate": 85.0,
+      "googleScore": 4.2,
+      "score": 73
     },
     {
       "office_id": 251580,
@@ -9104,7 +10835,18 @@
         }
       },
       "lat": 51.4121,
-      "lng": -0.301894
+      "lng": -0.301894,
+      "id": 251580,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.48,
+        "totalReviews": 298,
+        "replyRate": 100.0
+      },
+      "totalReviews": 298,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 251582,
@@ -9150,7 +10892,17 @@
         }
       },
       "lat": 52.0353,
-      "lng": -0.760497
+      "lng": -0.760497,
+      "id": 251582,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 427,
+        "replyRate": 84.61538461538461
+      },
+      "totalReviews": 427,
+      "replyRate": 84.61538461538461,
+      "score": 74
     },
     {
       "office_id": 251583,
@@ -9203,7 +10955,18 @@
         }
       },
       "lat": 52.6312,
-      "lng": 1.29515
+      "lng": 1.29515,
+      "id": 251583,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 423,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 423,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.3,
+      "score": 74
     },
     {
       "office_id": 251585,
@@ -9256,7 +11019,18 @@
         }
       },
       "lat": 50.7955,
-      "lng": -1.12109
+      "lng": -1.12109,
+      "id": 251585,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 485,
+        "replyRate": 100.0
+      },
+      "totalReviews": 485,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251586,
@@ -9309,7 +11083,18 @@
         }
       },
       "lat": 51.6584,
-      "lng": -1.58432
+      "lng": -1.58432,
+      "id": 251586,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 161,
+        "replyRate": null
+      },
+      "totalReviews": 161,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 251587,
@@ -9362,7 +11147,18 @@
         }
       },
       "lat": 50.7139,
-      "lng": -1.98658
+      "lng": -1.98658,
+      "id": 251587,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 80,
+        "replyRate": 100.0
+      },
+      "totalReviews": 80,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 251589,
@@ -9420,7 +11216,18 @@
         }
       },
       "lat": 50.8251,
-      "lng": -0.153375
+      "lng": -0.153375,
+      "id": 251589,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 400,
+        "replyRate": 62.5
+      },
+      "totalReviews": 400,
+      "replyRate": 62.5,
+      "googleScore": 4.3,
+      "score": 74
     },
     {
       "office_id": 251590,
@@ -9483,7 +11290,18 @@
         }
       },
       "lat": 52.189,
-      "lng": 0.135722
+      "lng": 0.135722,
+      "id": 251590,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 3.96,
+        "totalReviews": 560,
+        "replyRate": 64.70588235294117
+      },
+      "totalReviews": 560,
+      "replyRate": 64.70588235294117,
+      "googleScore": 4.0,
+      "score": 64
     },
     {
       "office_id": 251591,
@@ -9540,7 +11358,18 @@
         }
       },
       "lat": 51.7994,
-      "lng": 0.639847
+      "lng": 0.639847,
+      "id": 251591,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 217,
+        "replyRate": 100.0
+      },
+      "totalReviews": 217,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 251593,
@@ -9598,7 +11427,18 @@
         }
       },
       "lat": 53.087,
-      "lng": -2.44734
+      "lng": -2.44734,
+      "id": 251593,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 3.91,
+        "totalReviews": 257,
+        "replyRate": 100.0
+      },
+      "totalReviews": 257,
+      "replyRate": 100.0,
+      "googleScore": 3.9,
+      "score": 63
     },
     {
       "office_id": 251594,
@@ -9651,7 +11491,18 @@
         }
       },
       "lat": 50.8176,
-      "lng": -1.07901
+      "lng": -1.07901,
+      "id": 251594,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.48,
+        "totalReviews": 555,
+        "replyRate": 88.23529411764706
+      },
+      "totalReviews": 555,
+      "replyRate": 88.23529411764706,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 251595,
@@ -9709,7 +11560,18 @@
         }
       },
       "lat": 51.3729,
-      "lng": -0.458111
+      "lng": -0.458111,
+      "id": 251595,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 246,
+        "replyRate": 100.0
+      },
+      "totalReviews": 246,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 251597,
@@ -9767,7 +11629,18 @@
         }
       },
       "lat": 52.7733,
-      "lng": -1.20539
+      "lng": -1.20539,
+      "id": 251597,
+      "name": "Leaders Sales",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 415,
+        "replyRate": 60.0
+      },
+      "totalReviews": 415,
+      "replyRate": 60.0,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 243673,
@@ -9825,7 +11698,18 @@
         }
       },
       "lat": 52.3242,
-      "lng": -0.074648
+      "lng": -0.074648,
+      "id": 243673,
+      "name": "Leaders St Ives",
+      "va": {
+        "overallRating": 2.33,
+        "totalReviews": 6,
+        "replyRate": null
+      },
+      "totalReviews": 6,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 2
     },
     {
       "office_id": 243675,
@@ -9884,7 +11768,18 @@
         }
       },
       "lat": 51.1972,
-      "lng": 0.275623
+      "lng": 0.275623,
+      "id": 243675,
+      "name": "Leaders Tonbridge",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 1,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 1,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 251598,
@@ -9942,7 +11837,18 @@
         }
       },
       "lat": 50.7939,
-      "lng": 0.326345
+      "lng": 0.326345,
+      "id": 251598,
+      "name": "Leaders Waterside Properties Lettings",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 182,
+        "replyRate": 50.0
+      },
+      "totalReviews": 182,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 251599,
@@ -10002,7 +11908,18 @@
         }
       },
       "lat": 50.8968,
-      "lng": -1.39169
+      "lng": -1.39169,
+      "id": 251599,
+      "name": "Leaders Waterside Properties Lettings",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 294,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 294,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 243678,
@@ -10060,7 +11977,18 @@
         }
       },
       "lat": 52.0932,
-      "lng": 1.31546
+      "lng": 1.31546,
+      "id": 243678,
+      "name": "Leaders Woodbridge",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 39
     },
     {
       "office_id": 243682,
@@ -10118,7 +12046,18 @@
         }
       },
       "lat": 52.8043,
-      "lng": 0.012704
+      "lng": 0.012704,
+      "id": 243682,
+      "name": "Leaders, Holbeach",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 38
     },
     {
       "office_id": 251848,
@@ -10175,7 +12114,18 @@
         }
       },
       "lat": 53.832,
-      "lng": -1.64202
+      "lng": -1.64202,
+      "id": 251848,
+      "name": "Manning Stainton (LS18)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 2241,
+        "replyRate": 47.524752475247524
+      },
+      "totalReviews": 2241,
+      "replyRate": 47.524752475247524,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 244000,
@@ -10228,7 +12178,18 @@
         }
       },
       "lat": 53.855,
-      "lng": -1.59156
+      "lng": -1.59156,
+      "id": 244000,
+      "name": "Manning Stainton Adel",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 166,
+        "replyRate": 73.91304347826086
+      },
+      "totalReviews": 166,
+      "replyRate": 73.91304347826086,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 244001,
@@ -10276,7 +12237,18 @@
         }
       },
       "lat": 53.7741,
-      "lng": -1.56358
+      "lng": -1.56358,
+      "id": 244001,
+      "name": "Manning Stainton Beeston",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 132,
+        "replyRate": 87.5
+      },
+      "totalReviews": 132,
+      "replyRate": 87.5,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 244002,
@@ -10324,7 +12296,18 @@
         }
       },
       "lat": 53.8072,
-      "lng": -1.45006
+      "lng": -1.45006,
+      "id": 244002,
+      "name": "Manning Stainton Crossgates",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 191,
+        "replyRate": 80.0
+      },
+      "totalReviews": 191,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 244003,
@@ -10377,7 +12360,18 @@
         }
       },
       "lat": 53.7949,
-      "lng": -1.388
+      "lng": -1.388,
+      "id": 244003,
+      "name": "Manning Stainton Garforth",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 130,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 130,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8790,
@@ -10430,7 +12424,18 @@
         }
       },
       "lat": 53.872,
-      "lng": -1.70706
+      "lng": -1.70706,
+      "id": 8790,
+      "name": "Manning Stainton Guiseley",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 124,
+        "replyRate": 50.0
+      },
+      "totalReviews": 124,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8867,
@@ -10483,7 +12488,18 @@
         }
       },
       "lat": 53.8208,
-      "lng": -1.57703
+      "lng": -1.57703,
+      "id": 8867,
+      "name": "Manning Stainton Headingley",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 180,
+        "replyRate": 57.14285714285714
+      },
+      "totalReviews": 180,
+      "replyRate": 57.14285714285714,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 8764,
@@ -10540,7 +12556,18 @@
         }
       },
       "lat": 53.8449,
-      "lng": -1.53257
+      "lng": -1.53257,
+      "id": 8764,
+      "name": "Manning Stainton Moortown",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 166,
+        "replyRate": 80.0
+      },
+      "totalReviews": 166,
+      "replyRate": 80.0,
+      "googleScore": 4.3,
+      "score": 80
     },
     {
       "office_id": 241635,
@@ -10597,7 +12624,18 @@
         }
       },
       "lat": 53.8441,
-      "lng": -1.5325
+      "lng": -1.5325,
+      "id": 241635,
+      "name": "Manning Stainton Moortown Lettings",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 2057,
+        "replyRate": 37.362637362637365
+      },
+      "totalReviews": 2057,
+      "replyRate": 37.362637362637365,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 8832,
@@ -10643,7 +12681,17 @@
         }
       },
       "lat": 53.7465,
-      "lng": -1.60231
+      "lng": -1.60231,
+      "id": 8832,
+      "name": "Manning Stainton Morley",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 336,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 336,
+      "replyRate": 66.66666666666666,
+      "score": 75
     },
     {
       "office_id": 8891,
@@ -10696,7 +12744,18 @@
         }
       },
       "lat": 53.8265,
-      "lng": -1.5068
+      "lng": -1.5068,
+      "id": 8891,
+      "name": "Manning Stainton Oakwood",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 388,
+        "replyRate": 60.0
+      },
+      "totalReviews": 388,
+      "replyRate": 60.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 8843,
@@ -10749,7 +12808,18 @@
         }
       },
       "lat": 53.7974,
-      "lng": -1.66344
+      "lng": -1.66344,
+      "id": 8843,
+      "name": "Manning Stainton Pudsey",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 703,
+        "replyRate": 71.05263157894737
+      },
+      "totalReviews": 703,
+      "replyRate": 71.05263157894737,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 244004,
@@ -10802,7 +12872,18 @@
         }
       },
       "lat": 53.748,
-      "lng": -1.47712
+      "lng": -1.47712,
+      "id": 244004,
+      "name": "Manning Stainton Rothwell",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 129,
+        "replyRate": 75.0
+      },
+      "totalReviews": 129,
+      "replyRate": 75.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 241638,
@@ -10855,7 +12936,18 @@
         }
       },
       "lat": 53.6842,
-      "lng": -1.49909
+      "lng": -1.49909,
+      "id": 241638,
+      "name": "Manning Stainton Wakefield",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 293,
+        "replyRate": 62.5
+      },
+      "totalReviews": 293,
+      "replyRate": 62.5,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 241639,
@@ -10912,7 +13004,18 @@
         }
       },
       "lat": 53.9286,
-      "lng": -1.38648
+      "lng": -1.38648,
+      "id": 241639,
+      "name": "Manning Stainton Wetherby",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 150,
+        "replyRate": 100.0
+      },
+      "totalReviews": 150,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8740,
@@ -10960,7 +13063,18 @@
         }
       },
       "lat": 53.7842,
-      "lng": -1.59519
+      "lng": -1.59519,
+      "id": 8740,
+      "name": "Manning Stainton Wortley",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 183,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 183,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 2577,
@@ -11027,7 +13141,18 @@
         }
       },
       "lat": 51.524678,
-      "lng": -3.165496
+      "lng": -3.165496,
+      "id": 2577,
+      "name": "Moginie James Estate Agents",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 399,
+        "replyRate": 0.0
+      },
+      "totalReviews": 399,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 88
     },
     {
       "office_id": 2588,
@@ -11088,7 +13213,18 @@
         }
       },
       "lat": 51.493737,
-      "lng": -3.166363
+      "lng": -3.166363,
+      "id": 2588,
+      "name": "Moginie James Estate Agents",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 642,
+        "replyRate": 75.0
+      },
+      "totalReviews": 642,
+      "replyRate": 75.0,
+      "googleScore": 4.5,
+      "score": 90
     },
     {
       "office_id": 222777,
@@ -11143,7 +13279,17 @@
         }
       },
       "lat": 51.4917443,
-      "lng": -3.1812503
+      "lng": -3.1812503,
+      "id": 222777,
+      "name": "Moginie James Estate Agents",
+      "va": {
+        "overallRating": 3.61,
+        "totalReviews": 41,
+        "replyRate": null
+      },
+      "totalReviews": 41,
+      "replyRate": null,
+      "score": 56
     },
     {
       "office_id": 222778,
@@ -11204,7 +13350,18 @@
         }
       },
       "lat": 51.4863809,
-      "lng": -3.1993212
+      "lng": -3.1993212,
+      "id": 222778,
+      "name": "Moginie James Estate Agents",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 479,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 479,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.7,
+      "score": 90
     },
     {
       "office_id": 223230,
@@ -11266,7 +13423,18 @@
         }
       },
       "lat": 51.538593,
-      "lng": -3.130121
+      "lng": -3.130121,
+      "id": 223230,
+      "name": "Moginie James Estate Agents",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 130,
+        "replyRate": null
+      },
+      "totalReviews": 130,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 83
     },
     {
       "office_id": 225471,
@@ -11314,7 +13482,18 @@
         }
       },
       "lat": 53.7503,
-      "lng": -2.48511
+      "lng": -2.48511,
+      "id": 225471,
+      "name": "Mortimers (BB1)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 312,
+        "replyRate": 100.0
+      },
+      "totalReviews": 312,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 829,
@@ -11362,7 +13541,18 @@
         }
       },
       "lat": 53.7528,
-      "lng": -2.36298
+      "lng": -2.36298,
+      "id": 829,
+      "name": "Mortimers (BB5)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 389,
+        "replyRate": 100.0
+      },
+      "totalReviews": 389,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 841,
@@ -11410,7 +13600,18 @@
         }
       },
       "lat": 53.8721,
-      "lng": -2.392
+      "lng": -2.392,
+      "id": 841,
+      "name": "Mortimers (BB7)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 174,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 174,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 252691,
@@ -11460,7 +13661,17 @@
         }
       },
       "lat": 51.5593,
-      "lng": -0.008217
+      "lng": -0.008217,
+      "id": 252691,
+      "name": "Portico (E10)",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 1533,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1533,
+      "replyRate": 100.0,
+      "score": 73
     },
     {
       "office_id": 247139,
@@ -11513,7 +13724,18 @@
         }
       },
       "lat": 51.5418,
-      "lng": 0.004242
+      "lng": 0.004242,
+      "id": 247139,
+      "name": "Portico (E15)",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 361,
+        "replyRate": 100.0
+      },
+      "totalReviews": 361,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 247140,
@@ -11570,7 +13792,18 @@
         }
       },
       "lat": 51.5076,
-      "lng": 0.021229
+      "lng": 0.021229,
+      "id": 247140,
+      "name": "Portico (E16)",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 1332,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 1332,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 252692,
@@ -11627,7 +13860,18 @@
         }
       },
       "lat": 51.5011,
-      "lng": 0.072439
+      "lng": 0.072439,
+      "id": 252692,
+      "name": "Portico (E16)",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 1133,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1133,
+      "replyRate": 100.0,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 252693,
@@ -11689,7 +13933,18 @@
         }
       },
       "lat": 51.5843,
-      "lng": -0.01909
+      "lng": -0.01909,
+      "id": 252693,
+      "name": "Portico (E17)",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 1266,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 1266,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.4,
+      "score": 74
     },
     {
       "office_id": 252695,
@@ -11751,7 +14006,18 @@
         }
       },
       "lat": 51.5634,
-      "lng": 0.067229
+      "lng": 0.067229,
+      "id": 252695,
+      "name": "Portico (IG1)",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 1261,
+        "replyRate": 62.5
+      },
+      "totalReviews": 1261,
+      "replyRate": 62.5,
+      "googleScore": 4.1,
+      "score": 73
     },
     {
       "office_id": 252696,
@@ -11802,7 +14068,17 @@
         }
       },
       "lat": 51.6195,
-      "lng": 0.075082
+      "lng": 0.075082,
+      "id": 252696,
+      "name": "Portico (IG7)",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 30,
+        "replyRate": null
+      },
+      "totalReviews": 30,
+      "replyRate": null,
+      "score": 62
     },
     {
       "office_id": 252697,
@@ -11859,7 +14135,18 @@
         }
       },
       "lat": 51.6101,
-      "lng": 0.021795
+      "lng": 0.021795,
+      "id": 252697,
+      "name": "Portico (IG8)",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 1259,
+        "replyRate": null
+      },
+      "totalReviews": 1259,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 9664,
@@ -11912,7 +14199,18 @@
         }
       },
       "lat": 51.537399,
-      "lng": -0.104907
+      "lng": -0.104907,
+      "id": 9664,
+      "name": "Portico (N1)",
+      "va": {
+        "overallRating": 4.16,
+        "totalReviews": 258,
+        "replyRate": 100.0
+      },
+      "totalReviews": 258,
+      "replyRate": 100.0,
+      "googleScore": 4.2,
+      "score": 72
     },
     {
       "office_id": 223165,
@@ -11965,7 +14263,18 @@
         }
       },
       "lat": 51.557629,
-      "lng": -0.098051
+      "lng": -0.098051,
+      "id": 223165,
+      "name": "Portico (N5)",
+      "va": {
+        "overallRating": 4.52,
+        "totalReviews": 288,
+        "replyRate": 100.0
+      },
+      "totalReviews": 288,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 11083,
@@ -12023,7 +14332,18 @@
         }
       },
       "lat": 51.53858,
-      "lng": -0.143331
+      "lng": -0.143331,
+      "id": 11083,
+      "name": "Portico (NW1)",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 320,
+        "replyRate": 50.0
+      },
+      "totalReviews": 320,
+      "replyRate": 50.0,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 252698,
@@ -12084,7 +14404,18 @@
         }
       },
       "lat": 51.4575,
-      "lng": -0.075687
+      "lng": -0.075687,
+      "id": 252698,
+      "name": "Portico (SE22)",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 1264,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1264,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 15268,
@@ -12146,7 +14477,18 @@
         }
       },
       "lat": 51.456318,
-      "lng": -0.165124
+      "lng": -0.165124,
+      "id": 15268,
+      "name": "Portico (SW11)",
+      "va": {
+        "overallRating": 4.12,
+        "totalReviews": 224,
+        "replyRate": 14.285714285714285
+      },
+      "totalReviews": 224,
+      "replyRate": 14.285714285714285,
+      "googleScore": 4.3,
+      "score": 72
     },
     {
       "office_id": 252699,
@@ -12203,7 +14545,18 @@
         }
       },
       "lat": 51.4598,
-      "lng": -0.189677
+      "lng": -0.189677,
+      "id": 252699,
+      "name": "Portico (SW18)",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 1177,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1177,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 252694,
@@ -12269,7 +14622,18 @@
         }
       },
       "lat": 51.4616,
-      "lng": -0.137836
+      "lng": -0.137836,
+      "id": 252694,
+      "name": "Portico (SW4)",
+      "va": {
+        "overallRating": 4.18,
+        "totalReviews": 1366,
+        "replyRate": 75.0
+      },
+      "totalReviews": 1366,
+      "replyRate": 75.0,
+      "googleScore": 4.1,
+      "score": 73
     },
     {
       "office_id": 252700,
@@ -12326,7 +14690,18 @@
         }
       },
       "lat": 51.4745,
-      "lng": -0.206513
+      "lng": -0.206513,
+      "id": 252700,
+      "name": "Portico (SW6)",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 1253,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1253,
+      "replyRate": 100.0,
+      "googleScore": 4.1,
+      "score": 73
     },
     {
       "office_id": 252701,
@@ -12388,7 +14763,18 @@
         }
       },
       "lat": 51.4931,
-      "lng": -0.235777
+      "lng": -0.235777,
+      "id": 252701,
+      "name": "Portico (W6)",
+      "va": {
+        "overallRating": 4.24,
+        "totalReviews": 1290,
+        "replyRate": 60.0
+      },
+      "totalReviews": 1290,
+      "replyRate": 60.0,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 17639,
@@ -12441,7 +14827,18 @@
         }
       },
       "lat": 51.517599,
-      "lng": -0.125663
+      "lng": -0.125663,
+      "id": 17639,
+      "name": "Portico (WC1A)",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 377,
+        "replyRate": null
+      },
+      "totalReviews": 377,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 253064,
@@ -12498,7 +14895,18 @@
         }
       },
       "lat": 51.2376,
-      "lng": -0.56732
+      "lng": -0.56732,
+      "id": 253064,
+      "name": "Romans (GU1)",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1500,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 1500,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 6327,
@@ -12556,7 +14964,18 @@
         }
       },
       "lat": 51.248439,
-      "lng": -0.766468
+      "lng": -0.766468,
+      "id": 6327,
+      "name": "Romans (GU11)",
+      "va": {
+        "overallRating": 4.44,
+        "totalReviews": 302,
+        "replyRate": 40.0
+      },
+      "totalReviews": 302,
+      "replyRate": 40.0,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 253059,
@@ -12619,7 +15038,18 @@
         }
       },
       "lat": 51.2935,
-      "lng": -0.758473
+      "lng": -0.758473,
+      "id": 253059,
+      "name": "Romans (GU14)",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 1568,
+        "replyRate": 62.06896551724138
+      },
+      "totalReviews": 1568,
+      "replyRate": 62.06896551724138,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 253060,
@@ -12681,7 +15111,18 @@
         }
       },
       "lat": 51.3415,
-      "lng": -0.7408
+      "lng": -0.7408,
+      "id": 253060,
+      "name": "Romans (GU15)",
+      "va": {
+        "overallRating": 4.17,
+        "totalReviews": 1731,
+        "replyRate": 80.0
+      },
+      "totalReviews": 1731,
+      "replyRate": 80.0,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 6526,
@@ -12734,7 +15175,18 @@
         }
       },
       "lat": 51.2801,
-      "lng": -0.843318
+      "lng": -0.843318,
+      "id": 6526,
+      "name": "Romans (GU51)",
+      "va": {
+        "overallRating": 4.13,
+        "totalReviews": 1659,
+        "replyRate": 95.34883720930233
+      },
+      "totalReviews": 1659,
+      "replyRate": 95.34883720930233,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 253065,
@@ -12801,7 +15253,18 @@
         }
       },
       "lat": 51.2808,
-      "lng": -0.842395
+      "lng": -0.842395,
+      "id": 253065,
+      "name": "Romans (GU51)",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 1596,
+        "replyRate": 57.14285714285714
+      },
+      "totalReviews": 1596,
+      "replyRate": 57.14285714285714,
+      "googleScore": 4.6,
+      "score": 73
     },
     {
       "office_id": 21535,
@@ -12854,7 +15317,18 @@
         }
       },
       "lat": 51.215683,
-      "lng": -0.797826
+      "lng": -0.797826,
+      "id": 21535,
+      "name": "Romans (GU9)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 78,
+        "replyRate": null
+      },
+      "totalReviews": 78,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 253066,
@@ -12916,7 +15390,18 @@
         }
       },
       "lat": 51.6287,
-      "lng": -0.748164
+      "lng": -0.748164,
+      "id": 253066,
+      "name": "Romans (HP13)",
+      "va": {
+        "overallRating": 4.18,
+        "totalReviews": 1788,
+        "replyRate": 76.92307692307693
+      },
+      "totalReviews": 1788,
+      "replyRate": 76.92307692307693,
+      "googleScore": 4.5,
+      "score": 73
     },
     {
       "office_id": 253061,
@@ -12983,7 +15468,18 @@
         }
       },
       "lat": 51.4556,
-      "lng": -0.969949
+      "lng": -0.969949,
+      "id": 253061,
+      "name": "Romans (RG1)",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 1795,
+        "replyRate": 75.86206896551724
+      },
+      "totalReviews": 1795,
+      "replyRate": 75.86206896551724,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 12687,
@@ -13045,7 +15541,18 @@
         }
       },
       "lat": 51.416899,
-      "lng": -0.74615
+      "lng": -0.74615,
+      "id": 12687,
+      "name": "Romans (RG12)",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 618,
+        "replyRate": 60.71428571428571
+      },
+      "totalReviews": 618,
+      "replyRate": 60.71428571428571,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 12772,
@@ -13098,7 +15605,18 @@
         }
       },
       "lat": 51.261992,
-      "lng": -1.089783
+      "lng": -1.089783,
+      "id": 12772,
+      "name": "Romans (RG21)",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 458,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 458,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.2,
+      "score": 73
     },
     {
       "office_id": 12813,
@@ -13146,7 +15664,18 @@
         }
       },
       "lat": 51.459633,
-      "lng": -1.038819
+      "lng": -1.038819,
+      "id": 12813,
+      "name": "Romans (RG31)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 623,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 623,
+      "replyRate": 91.66666666666666,
+      "googleScore": 3.0,
+      "score": 76
     },
     {
       "office_id": 12825,
@@ -13199,7 +15728,18 @@
         }
       },
       "lat": 51.466879,
-      "lng": -0.977022
+      "lng": -0.977022,
+      "id": 12825,
+      "name": "Romans (RG4)",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 372,
+        "replyRate": 100.0
+      },
+      "totalReviews": 372,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 253056,
@@ -13257,7 +15797,18 @@
         }
       },
       "lat": 51.4099,
-      "lng": -0.83372
+      "lng": -0.83372,
+      "id": 253056,
+      "name": "Romans (RG40)",
+      "va": {
+        "overallRating": 4.12,
+        "totalReviews": 1794,
+        "replyRate": 97.05882352941177
+      },
+      "totalReviews": 1794,
+      "replyRate": 97.05882352941177,
+      "googleScore": 4.3,
+      "score": 73
     },
     {
       "office_id": 253057,
@@ -13313,7 +15864,17 @@
         }
       },
       "lat": 51.3831,
-      "lng": -0.784005
+      "lng": -0.784005,
+      "id": 253057,
+      "name": "Romans (RG40)",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 1449,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1449,
+      "replyRate": 0.0,
+      "score": 73
     },
     {
       "office_id": 12871,
@@ -13375,7 +15936,18 @@
         }
       },
       "lat": 51.453288,
-      "lng": -0.898185
+      "lng": -0.898185,
+      "id": 12871,
+      "name": "Romans (RG5)",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 291,
+        "replyRate": 60.0
+      },
+      "totalReviews": 291,
+      "replyRate": 60.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 12887,
@@ -13428,7 +16000,18 @@
         }
       },
       "lat": 51.426082,
-      "lng": -0.933589
+      "lng": -0.933589,
+      "id": 12887,
+      "name": "Romans (RG6)",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 420,
+        "replyRate": 87.5
+      },
+      "totalReviews": 420,
+      "replyRate": 87.5,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 21536,
@@ -13474,7 +16057,17 @@
         }
       },
       "lat": 51.537524,
-      "lng": -0.903044
+      "lng": -0.903044,
+      "id": 21536,
+      "name": "Romans (RG9)",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 50,
+        "replyRate": null
+      },
+      "totalReviews": 50,
+      "replyRate": null,
+      "score": 71
     },
     {
       "office_id": 253062,
@@ -13527,7 +16120,18 @@
         }
       },
       "lat": 51.5351,
-      "lng": -0.658743
+      "lng": -0.658743,
+      "id": 253062,
+      "name": "Romans (SL1)",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 1726,
+        "replyRate": 95.83333333333334
+      },
+      "totalReviews": 1726,
+      "replyRate": 95.83333333333334,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 21538,
@@ -13580,7 +16184,18 @@
         }
       },
       "lat": 51.479897,
-      "lng": -0.612772
+      "lng": -0.612772,
+      "id": 21538,
+      "name": "Romans (SL4)",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 300,
+        "replyRate": 100.0
+      },
+      "totalReviews": 300,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 21539,
@@ -13631,7 +16246,17 @@
         }
       },
       "lat": 51.391248,
-      "lng": -0.633866
+      "lng": -0.633866,
+      "id": 21539,
+      "name": "Romans (SL5)",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 132,
+        "replyRate": 20.0
+      },
+      "totalReviews": 132,
+      "replyRate": 20.0,
+      "score": 75
     },
     {
       "office_id": 21540,
@@ -13688,7 +16313,18 @@
         }
       },
       "lat": 51.522064,
-      "lng": -0.719885
+      "lng": -0.719885,
+      "id": 21540,
+      "name": "Romans (SL6)",
+      "va": {
+        "overallRating": 4.47,
+        "totalReviews": 311,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 311,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.5,
+      "score": 74
     },
     {
       "office_id": 230382,
@@ -13739,7 +16375,17 @@
         }
       },
       "lat": 51.064347,
-      "lng": -1.315677
+      "lng": -1.315677,
+      "id": 230382,
+      "name": "Romans (SO23)",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 320,
+        "replyRate": 44.44444444444444
+      },
+      "totalReviews": 320,
+      "replyRate": 44.44444444444444,
+      "score": 76
     },
     {
       "office_id": 253068,
@@ -13796,7 +16442,18 @@
         }
       },
       "lat": 51.5106,
-      "lng": -0.473912
+      "lng": -0.473912,
+      "id": 253068,
+      "name": "Romans (UB7)",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 1736,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 1736,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 243775,
@@ -13847,7 +16504,17 @@
         }
       },
       "lat": 51.6099,
-      "lng": -0.644888
+      "lng": -0.644888,
+      "id": 243775,
+      "name": "Romans Beaconsfield",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1379,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1379,
+      "replyRate": 0.0,
+      "score": 73
     },
     {
       "office_id": 243777,
@@ -13901,7 +16568,18 @@
         }
       },
       "lat": 51.5454,
-      "lng": -0.478342
+      "lng": -0.478342,
+      "id": 243777,
+      "name": "Romans Uxbridge",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 451,
+        "replyRate": 94.73684210526315
+      },
+      "totalReviews": 451,
+      "replyRate": 94.73684210526315,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 253069,
@@ -13963,7 +16641,18 @@
         }
       },
       "lat": 51.5027,
-      "lng": -0.019348
+      "lng": -0.019348,
+      "id": 253069,
+      "name": "Romans and Partners",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 115,
+        "replyRate": 0.0
+      },
+      "totalReviews": 115,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 243778,
@@ -14017,7 +16706,18 @@
         }
       },
       "lat": 51.3668,
-      "lng": -0.794778
+      "lng": -0.794778,
+      "id": 243778,
+      "name": "Romans, Crowthorne",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": 100.0
+      },
+      "totalReviews": 3,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 243779,
@@ -14071,7 +16771,18 @@
         }
       },
       "lat": 51.3455,
-      "lng": -0.798282
+      "lng": -0.798282,
+      "id": 243779,
+      "name": "Romans, Sandhurst",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 73
     },
     {
       "office_id": 243782,
@@ -14128,7 +16839,18 @@
         }
       },
       "lat": 51.5944,
-      "lng": -1.82464
+      "lng": -1.82464,
+      "id": 243782,
+      "name": "Romans, Swindon",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 284,
+        "replyRate": 100.0
+      },
+      "totalReviews": 284,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 243838,
@@ -14183,7 +16905,18 @@
         }
       },
       "lat": 51.3417,
-      "lng": -0.820578
+      "lng": -0.820578,
+      "id": 243838,
+      "name": "Romans, Yateley",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": 100.0
+      },
+      "totalReviews": 15,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 259714,
@@ -14245,7 +16978,18 @@
         }
       },
       "lat": 53.4431,
-      "lng": -1.94954
+      "lng": -1.94954,
+      "id": 259714,
+      "name": "Ryder & Dutton Glossop",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 1697,
+        "replyRate": 16.666666666666664
+      },
+      "totalReviews": 1697,
+      "replyRate": 16.666666666666664,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 241791,
@@ -14293,7 +17037,18 @@
         }
       },
       "lat": 53.5706,
-      "lng": -1.78706
+      "lng": -1.78706,
+      "id": 241791,
+      "name": "Ryder & Dutton Holmfirth",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 184,
+        "replyRate": 80.0
+      },
+      "totalReviews": 184,
+      "replyRate": 80.0,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 241793,
@@ -14341,7 +17096,18 @@
         }
       },
       "lat": 53.6531,
-      "lng": -1.81648
+      "lng": -1.81648,
+      "id": 241793,
+      "name": "Ryder & Dutton Huddersfield",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 285,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 285,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 241794,
@@ -14394,7 +17160,18 @@
         }
       },
       "lat": 53.7039,
-      "lng": -2.28529
+      "lng": -2.28529,
+      "id": 241794,
+      "name": "Ryder & Dutton Rawtenstall",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 397,
+        "replyRate": 31.25
+      },
+      "totalReviews": 397,
+      "replyRate": 31.25,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 241796,
@@ -14442,7 +17219,18 @@
         }
       },
       "lat": 53.5665,
-      "lng": -2.12232
+      "lng": -2.12232,
+      "id": 241796,
+      "name": "Ryder & Dutton Royton",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 186,
+        "replyRate": 100.0
+      },
+      "totalReviews": 186,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 258632,
@@ -14500,7 +17288,18 @@
         }
       },
       "lat": 53.6228,
-      "lng": -1.8806
+      "lng": -1.8806,
+      "id": 258632,
+      "name": "Ryder & Dutton Slaithwaite",
+      "va": {
+        "overallRating": 4.98,
+        "totalReviews": 228,
+        "replyRate": 0.0
+      },
+      "totalReviews": 228,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 9071,
@@ -14558,7 +17357,18 @@
         }
       },
       "lat": 53.5485,
-      "lng": -2.1988
+      "lng": -2.1988,
+      "id": 9071,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 2786,
+        "replyRate": 39.66942148760331
+      },
+      "totalReviews": 2786,
+      "replyRate": 39.66942148760331,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11417,
@@ -14612,7 +17422,18 @@
         }
       },
       "lat": 53.5399,
-      "lng": -2.11572
+      "lng": -2.11572,
+      "id": 11417,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 605,
+        "replyRate": 69.0909090909091
+      },
+      "totalReviews": 605,
+      "replyRate": 69.0909090909091,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 253137,
@@ -14670,7 +17491,18 @@
         }
       },
       "lat": 53.5937,
-      "lng": -2.21998
+      "lng": -2.21998,
+      "id": 253137,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 2341,
+        "replyRate": 32.038834951456316
+      },
+      "totalReviews": 2341,
+      "replyRate": 32.038834951456316,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11452,
@@ -14724,7 +17556,18 @@
         }
       },
       "lat": 53.6196,
-      "lng": -2.15425
+      "lng": -2.15425,
+      "id": 11452,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 198,
+        "replyRate": 28.947368421052634
+      },
+      "totalReviews": 198,
+      "replyRate": 28.947368421052634,
+      "googleScore": 4.7,
+      "score": 80
     },
     {
       "office_id": 11464,
@@ -14782,7 +17625,18 @@
         }
       },
       "lat": 53.5484,
-      "lng": -2.00574
+      "lng": -2.00574,
+      "id": 11464,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 359,
+        "replyRate": 78.57142857142857
+      },
+      "totalReviews": 359,
+      "replyRate": 78.57142857142857,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 253138,
@@ -14840,7 +17694,18 @@
         }
       },
       "lat": 53.4889,
-      "lng": -2.09174
+      "lng": -2.09174,
+      "id": 253138,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 2438,
+        "replyRate": 46.09375
+      },
+      "totalReviews": 2438,
+      "replyRate": 46.09375,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11491,
@@ -14894,7 +17759,18 @@
         }
       },
       "lat": 53.5215,
-      "lng": -2.16537
+      "lng": -2.16537,
+      "id": 11491,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 343,
+        "replyRate": 51.21951219512195
+      },
+      "totalReviews": 343,
+      "replyRate": 51.21951219512195,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 253139,
@@ -14949,7 +17825,17 @@
         }
       },
       "lat": 53.7231,
-      "lng": -1.86254
+      "lng": -1.86254,
+      "id": 253139,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 2043,
+        "replyRate": 23.308270676691727
+      },
+      "totalReviews": 2043,
+      "replyRate": 23.308270676691727,
+      "score": 76
     },
     {
       "office_id": 253140,
@@ -15006,7 +17892,18 @@
         }
       },
       "lat": 53.5608,
-      "lng": -2.1108
+      "lng": -2.1108,
+      "id": 253140,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 2041,
+        "replyRate": 35.44303797468354
+      },
+      "totalReviews": 2041,
+      "replyRate": 35.44303797468354,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 253566,
@@ -15059,7 +17956,18 @@
         }
       },
       "lat": 51.5085,
-      "lng": -0.029816
+      "lng": -0.029816,
+      "id": 253566,
+      "name": "Stirling Ackroyd (E14)",
+      "va": {
+        "overallRating": 4.41,
+        "totalReviews": 159,
+        "replyRate": 81.25
+      },
+      "totalReviews": 159,
+      "replyRate": 81.25,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 253586,
@@ -15110,7 +18018,17 @@
         }
       },
       "lat": 51.3196,
-      "lng": -0.557206
+      "lng": -0.557206,
+      "id": 253586,
+      "name": "Stirling Ackroyd (GU21)",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 258,
+        "replyRate": 70.0
+      },
+      "totalReviews": 258,
+      "replyRate": 70.0,
+      "score": 75
     },
     {
       "office_id": 253573,
@@ -15163,7 +18081,18 @@
         }
       },
       "lat": 51.5016,
-      "lng": -0.082016
+      "lng": -0.082016,
+      "id": 253573,
+      "name": "Stirling Ackroyd (SE1)",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 211,
+        "replyRate": 100.0
+      },
+      "totalReviews": 211,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 253578,
@@ -15220,7 +18149,18 @@
         }
       },
       "lat": 51.4594,
-      "lng": -0.125354
+      "lng": -0.125354,
+      "id": 253578,
+      "name": "Stirling Ackroyd (SW2)",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 336,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 336,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 253580,
@@ -15273,7 +18213,18 @@
         }
       },
       "lat": 51.4353,
-      "lng": -0.506855
+      "lng": -0.506855,
+      "id": 253580,
+      "name": "Stirling Ackroyd (TW18)",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 293,
+        "replyRate": 100.0
+      },
+      "totalReviews": 293,
+      "replyRate": 100.0,
+      "googleScore": 4.5,
+      "score": 75
     },
     {
       "office_id": 253581,
@@ -15330,7 +18281,18 @@
         }
       },
       "lat": 51.4313,
-      "lng": -0.54978
+      "lng": -0.54978,
+      "id": 253581,
+      "name": "Stirling Ackroyd (TW20)",
+      "va": {
+        "overallRating": 4.06,
+        "totalReviews": 209,
+        "replyRate": 100.0
+      },
+      "totalReviews": 209,
+      "replyRate": 100.0,
+      "googleScore": 4.3,
+      "score": 72
     },
     {
       "office_id": 256503,
@@ -15393,7 +18355,18 @@
         }
       },
       "lat": 51.493,
-      "lng": -0.268083
+      "lng": -0.268083,
+      "id": 256503,
+      "name": "Stirling Ackroyd Chiswick",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1484,
+        "replyRate": 20.0
+      },
+      "totalReviews": 1484,
+      "replyRate": 20.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256504,
@@ -15451,7 +18424,18 @@
         }
       },
       "lat": 51.5533,
-      "lng": -0.04499
+      "lng": -0.04499,
+      "id": 256504,
+      "name": "Stirling Ackroyd Clapton",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 1332,
+        "replyRate": 80.0
+      },
+      "totalReviews": 1332,
+      "replyRate": 80.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 256505,
@@ -15513,7 +18497,18 @@
         }
       },
       "lat": 51.5221,
-      "lng": -0.101663
+      "lng": -0.101663,
+      "id": 256505,
+      "name": "Stirling Ackroyd Clerkenwell",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 1471,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1471,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256506,
@@ -15577,7 +18572,18 @@
         }
       },
       "lat": 51.3795,
-      "lng": -0.101436
+      "lng": -0.101436,
+      "id": 256506,
+      "name": "Stirling Ackroyd Croydon",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1506,
+        "replyRate": 45.45454545454545
+      },
+      "totalReviews": 1506,
+      "replyRate": 45.45454545454545,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 256507,
@@ -15635,7 +18641,18 @@
         }
       },
       "lat": 51.5456,
-      "lng": -0.076126
+      "lng": -0.076126,
+      "id": 256507,
+      "name": "Stirling Ackroyd Dalston",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1434,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 1434,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256508,
@@ -15698,7 +18715,18 @@
         }
       },
       "lat": 51.5141,
-      "lng": -0.30244
+      "lng": -0.30244,
+      "id": 256508,
+      "name": "Stirling Ackroyd Ealing",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1478,
+        "replyRate": 50.0
+      },
+      "totalReviews": 1478,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256509,
@@ -15761,7 +18789,18 @@
         }
       },
       "lat": 51.4418,
-      "lng": -0.187867
+      "lng": -0.187867,
+      "id": 256509,
+      "name": "Stirling Ackroyd Earlsfield",
+      "va": {
+        "overallRating": 4.41,
+        "totalReviews": 1430,
+        "replyRate": 23.52941176470588
+      },
+      "totalReviews": 1430,
+      "replyRate": 23.52941176470588,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 259733,
@@ -15827,7 +18866,18 @@
         }
       },
       "lat": 51.4277,
-      "lng": -0.572405
+      "lng": -0.572405,
+      "id": 259733,
+      "name": "Stirling Ackroyd Englefield Green",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 1394,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1394,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 259509,
@@ -15890,7 +18940,18 @@
         }
       },
       "lat": 51.2378,
-      "lng": -0.565422
+      "lng": -0.565422,
+      "id": 259509,
+      "name": "Stirling Ackroyd Guildford",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1272,
+        "replyRate": 42.5
+      },
+      "totalReviews": 1272,
+      "replyRate": 42.5,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 256510,
@@ -15957,7 +19018,18 @@
         }
       },
       "lat": 51.5465,
-      "lng": -0.054858
+      "lng": -0.054858,
+      "id": 256510,
+      "name": "Stirling Ackroyd Hackney",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 1508,
+        "replyRate": 70.0
+      },
+      "totalReviews": 1508,
+      "replyRate": 70.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 247389,
@@ -16015,7 +19087,18 @@
         }
       },
       "lat": 51.3741,
-      "lng": -0.098596
+      "lng": -0.098596,
+      "id": 247389,
+      "name": "Stirling Ackroyd Lettings",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1481,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 1481,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 253588,
@@ -16067,7 +19150,17 @@
         }
       },
       "lat": 51.3185,
-      "lng": -0.558875
+      "lng": -0.558875,
+      "id": 253588,
+      "name": "Stirling Ackroyd Lettings",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 234,
+        "replyRate": 35.0
+      },
+      "totalReviews": 234,
+      "replyRate": 35.0,
+      "score": 75
     },
     {
       "office_id": 253589,
@@ -16120,7 +19213,18 @@
         }
       },
       "lat": 51.4998,
-      "lng": -0.221688
+      "lng": -0.221688,
+      "id": 253589,
+      "name": "Stirling Ackroyd Lettings",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 158,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 158,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256511,
@@ -16173,7 +19277,18 @@
         }
       },
       "lat": 51.504,
-      "lng": -0.091409
+      "lng": -0.091409,
+      "id": 256511,
+      "name": "Stirling Ackroyd London Bridge",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 211,
+        "replyRate": 82.35294117647058
+      },
+      "totalReviews": 211,
+      "replyRate": 82.35294117647058,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 256513,
@@ -16236,7 +19351,18 @@
         }
       },
       "lat": 51.4894,
-      "lng": -0.12339
+      "lng": -0.12339,
+      "id": 256513,
+      "name": "Stirling Ackroyd Nine Elms and Westminster",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 1400,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 1400,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256514,
@@ -16290,7 +19416,18 @@
         }
       },
       "lat": 51.4612,
-      "lng": -0.2166
+      "lng": -0.2166,
+      "id": 256514,
+      "name": "Stirling Ackroyd Putney",
+      "va": {
+        "overallRating": 3.06,
+        "totalReviews": 34,
+        "replyRate": 100.0
+      },
+      "totalReviews": 34,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 256515,
@@ -16358,7 +19495,18 @@
         }
       },
       "lat": 51.5248,
-      "lng": -0.080708
+      "lng": -0.080708,
+      "id": 256515,
+      "name": "Stirling Ackroyd Shoreditch",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 1543,
+        "replyRate": 54.54545454545454
+      },
+      "totalReviews": 1543,
+      "replyRate": 54.54545454545454,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256516,
@@ -16425,7 +19573,18 @@
         }
       },
       "lat": 51.3993,
-      "lng": -0.0753
+      "lng": -0.0753,
+      "id": 256516,
+      "name": "Stirling Ackroyd South Norwood",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 1517,
+        "replyRate": 11.76470588235294
+      },
+      "totalReviews": 1517,
+      "replyRate": 11.76470588235294,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256517,
@@ -16483,7 +19642,18 @@
         }
       },
       "lat": 51.4375,
-      "lng": -0.127015
+      "lng": -0.127015,
+      "id": 256517,
+      "name": "Stirling Ackroyd Streatham",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1498,
+        "replyRate": null
+      },
+      "totalReviews": 1498,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 256518,
@@ -16549,7 +19719,18 @@
         }
       },
       "lat": 51.3986,
-      "lng": -0.096636
+      "lng": -0.096636,
+      "id": 256518,
+      "name": "Stirling Ackroyd Thornton Heath",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1343,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1343,
+      "replyRate": 0.0,
+      "googleScore": 3.9,
+      "score": 74
     },
     {
       "office_id": 256519,
@@ -16611,7 +19792,18 @@
         }
       },
       "lat": 51.4474,
-      "lng": -0.328698
+      "lng": -0.328698,
+      "id": 256519,
+      "name": "Stirling Ackroyd Twickenham",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 1442,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1442,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 259604,
@@ -16674,7 +19866,18 @@
         }
       },
       "lat": 51.3387,
-      "lng": -0.506062
+      "lng": -0.506062,
+      "id": 259604,
+      "name": "Stirling Ackroyd West Byfleet",
+      "va": {
+        "overallRating": 4.41,
+        "totalReviews": 1443,
+        "replyRate": 40.0
+      },
+      "totalReviews": 1443,
+      "replyRate": 40.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256520,
@@ -16724,7 +19927,17 @@
         }
       },
       "lat": 51.5113,
-      "lng": -0.12695
+      "lng": -0.12695,
+      "id": 256520,
+      "name": "Stirling Ackroyd West End",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 1445,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1445,
+      "replyRate": 100.0,
+      "score": 74
     },
     {
       "office_id": 256521,
@@ -16785,7 +19998,18 @@
         }
       },
       "lat": 51.4492,
-      "lng": -0.357968
+      "lng": -0.357968,
+      "id": 256521,
+      "name": "Stirling Ackroyd Whitton",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 1445,
+        "replyRate": 80.0
+      },
+      "totalReviews": 1445,
+      "replyRate": 80.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 259734,
@@ -16841,7 +20065,17 @@
         }
       },
       "lat": 51.4791,
-      "lng": -0.612349
+      "lng": -0.612349,
+      "id": 259734,
+      "name": "Stirling Ackroyd Windsor",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 1328,
+        "replyRate": 28.57142857142857
+      },
+      "totalReviews": 1328,
+      "replyRate": 28.57142857142857,
+      "score": 74
     },
     {
       "office_id": 245515,
@@ -16894,7 +20128,18 @@
         }
       },
       "lat": 51.4438,
-      "lng": 0.218212
+      "lng": 0.218212,
+      "id": 245515,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 320,
+        "replyRate": 100.0
+      },
+      "totalReviews": 320,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 245516,
@@ -16940,7 +20185,17 @@
         }
       },
       "lat": 51.4506,
-      "lng": 0.101638
+      "lng": 0.101638,
+      "id": 245516,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 127,
+        "replyRate": null
+      },
+      "totalReviews": 127,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 245517,
@@ -16999,7 +20254,18 @@
         }
       },
       "lat": 51.4545,
-      "lng": 0.137727
+      "lng": 0.137727,
+      "id": 245517,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 3.43,
+        "totalReviews": 452,
+        "replyRate": null
+      },
+      "totalReviews": 452,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 55
     },
     {
       "office_id": 245518,
@@ -17057,7 +20323,18 @@
         }
       },
       "lat": 51.4781,
-      "lng": 0.170162
+      "lng": 0.170162,
+      "id": 245518,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 148,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 148,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 247788,
@@ -17115,7 +20392,18 @@
         }
       },
       "lat": 51.4627,
-      "lng": 0.107035
+      "lng": 0.107035,
+      "id": 247788,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 222,
+        "replyRate": 57.14285714285714
+      },
+      "totalReviews": 222,
+      "replyRate": 57.14285714285714,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 247789,
@@ -17173,7 +20461,18 @@
         }
       },
       "lat": 51.482,
-      "lng": 0.145801
+      "lng": 0.145801,
+      "id": 247789,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 162,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 162,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 247790,
@@ -17226,7 +20525,18 @@
         }
       },
       "lat": 51.4301,
-      "lng": 0.021559
+      "lng": 0.021559,
+      "id": 247790,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 248,
+        "replyRate": null
+      },
+      "totalReviews": 248,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 247791,
@@ -17279,7 +20589,18 @@
         }
       },
       "lat": 51.4179,
-      "lng": -0.081927
+      "lng": -0.081927,
+      "id": 247791,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 193,
+        "replyRate": 100.0
+      },
+      "totalReviews": 193,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 247792,
@@ -17337,7 +20658,18 @@
         }
       },
       "lat": 51.4265,
-      "lng": -0.055641
+      "lng": -0.055641,
+      "id": 247792,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 180,
+        "replyRate": 0.0
+      },
+      "totalReviews": 180,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 247793,
@@ -17395,7 +20727,18 @@
         }
       },
       "lat": 51.4545,
-      "lng": -0.037052
+      "lng": -0.037052,
+      "id": 247793,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 187,
+        "replyRate": 50.0
+      },
+      "totalReviews": 187,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 247794,
@@ -17453,7 +20796,18 @@
         }
       },
       "lat": 51.4462,
-      "lng": -0.019676
+      "lng": -0.019676,
+      "id": 247794,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 223,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 223,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 247795,
@@ -17506,7 +20860,18 @@
         }
       },
       "lat": 51.3647,
-      "lng": 0.604826
+      "lng": 0.604826,
+      "id": 247795,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 98,
+        "replyRate": 80.0
+      },
+      "totalReviews": 98,
+      "replyRate": 80.0,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 247797,
@@ -17559,7 +20924,18 @@
         }
       },
       "lat": 51.4876,
-      "lng": -0.110919
+      "lng": -0.110919,
+      "id": 247797,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 233,
+        "replyRate": 100.0
+      },
+      "totalReviews": 233,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 247798,
@@ -17621,7 +20997,18 @@
         }
       },
       "lat": 51.4603,
-      "lng": -0.010807
+      "lng": -0.010807,
+      "id": 247798,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 244,
+        "replyRate": 50.0
+      },
+      "totalReviews": 244,
+      "replyRate": 50.0,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 247799,
@@ -17679,7 +21066,18 @@
         }
       },
       "lat": 51.4654,
-      "lng": -0.06676
+      "lng": -0.06676,
+      "id": 247799,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.54,
+        "totalReviews": 320,
+        "replyRate": 0.0
+      },
+      "totalReviews": 320,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 247800,
@@ -17737,7 +21135,18 @@
         }
       },
       "lat": 51.4575,
-      "lng": -0.075687
+      "lng": -0.075687,
+      "id": 247800,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 203,
+        "replyRate": 60.0
+      },
+      "totalReviews": 203,
+      "replyRate": 60.0,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 247801,
@@ -17795,7 +21204,18 @@
         }
       },
       "lat": 51.4396,
-      "lng": -0.055188
+      "lng": -0.055188,
+      "id": 247801,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 138,
+        "replyRate": 0.0
+      },
+      "totalReviews": 138,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 247802,
@@ -17848,7 +21268,18 @@
         }
       },
       "lat": 51.4718,
-      "lng": -0.092754
+      "lng": -0.092754,
+      "id": 247802,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 375,
+        "replyRate": 100.0
+      },
+      "totalReviews": 375,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 247803,
@@ -17894,7 +21325,17 @@
         }
       },
       "lat": 51.4376,
-      "lng": -0.127673
+      "lng": -0.127673,
+      "id": 247803,
+      "name": "Acorn",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 116,
+        "replyRate": null
+      },
+      "totalReviews": 116,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 243785,
@@ -17953,7 +21394,18 @@
         }
       },
       "lat": 51.4576,
-      "lng": 0.139376
+      "lng": 0.139376,
+      "id": 243785,
+      "name": "Acorn - Bexleyheath",
+      "va": {
+        "overallRating": 3.4,
+        "totalReviews": 465,
+        "replyRate": null
+      },
+      "totalReviews": 465,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 55
     },
     {
       "office_id": 241977,
@@ -18016,7 +21468,18 @@
         }
       },
       "lat": 54.561,
-      "lng": -1.32172
+      "lng": -1.32172,
+      "id": 241977,
+      "name": "Acorn Lettings & Sales - Stockton-On-Tees",
+      "va": {
+        "overallRating": 4.4,
+        "totalReviews": 97,
+        "replyRate": 0.0
+      },
+      "totalReviews": 97,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 58
     },
     {
       "office_id": 245519,
@@ -18079,7 +21542,18 @@
         }
       },
       "lat": 51.3993,
-      "lng": 0.018693
+      "lng": 0.018693,
+      "id": 245519,
+      "name": "Acorn New Homes",
+      "va": {
+        "overallRating": 3.73,
+        "totalReviews": 573,
+        "replyRate": null
+      },
+      "totalReviews": 573,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 62
     },
     {
       "office_id": 247805,
@@ -18142,7 +21616,18 @@
         }
       },
       "lat": 51.5001,
-      "lng": -0.08193
+      "lng": -0.08193,
+      "id": 247805,
+      "name": "Acorn New Homes",
+      "va": {
+        "overallRating": 3.45,
+        "totalReviews": 480,
+        "replyRate": 50.0
+      },
+      "totalReviews": 480,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 247806,
@@ -18200,7 +21685,18 @@
         }
       },
       "lat": 51.5884,
-      "lng": -0.252846
+      "lng": -0.252846,
+      "id": 247806,
+      "name": "Acorn Properties Nwl",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 178,
+        "replyRate": 0.0
+      },
+      "totalReviews": 178,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 71
     },
     {
       "office_id": 243104,
@@ -18258,7 +21754,18 @@
         }
       },
       "lat": 51.6138,
-      "lng": -3.40833
+      "lng": -3.40833,
+      "id": 243104,
+      "name": "Acorn Property",
+      "va": {
+        "overallRating": 3.13,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "googleScore": 3.1,
+      "score": 15
     },
     {
       "office_id": 245520,
@@ -18320,7 +21827,18 @@
         }
       },
       "lat": 50.6986,
-      "lng": -3.53307
+      "lng": -3.53307,
+      "id": 245520,
+      "name": "Acorn Property Group",
+      "va": {
+        "overallRating": 3.72,
+        "totalReviews": 99,
+        "replyRate": null
+      },
+      "totalReviews": 99,
+      "replyRate": null,
+      "googleScore": 2.3,
+      "score": 58
     },
     {
       "office_id": 245521,
@@ -18371,7 +21889,17 @@
         }
       },
       "lat": 50.6146,
-      "lng": -3.40432
+      "lng": -3.40432,
+      "id": 245521,
+      "name": "Acorn Property Group",
+      "va": {
+        "overallRating": 3.75,
+        "totalReviews": 92,
+        "replyRate": null
+      },
+      "totalReviews": 92,
+      "replyRate": null,
+      "score": 58
     },
     {
       "office_id": 247807,
@@ -18422,7 +21950,17 @@
         }
       },
       "lat": 51.3145,
-      "lng": -1.94909
+      "lng": -1.94909,
+      "id": 247807,
+      "name": "Acorn Property Group",
+      "va": {
+        "overallRating": 3.74,
+        "totalReviews": 99,
+        "replyRate": null
+      },
+      "totalReviews": 99,
+      "replyRate": null,
+      "score": 58
     },
     {
       "office_id": 247808,
@@ -18480,7 +22018,18 @@
         }
       },
       "lat": 51.3078,
-      "lng": -0.8987
+      "lng": -0.8987,
+      "id": 247808,
+      "name": "Acorn Property Management",
+      "va": {
+        "overallRating": 4.22,
+        "totalReviews": 9,
+        "replyRate": null
+      },
+      "totalReviews": 9,
+      "replyRate": null,
+      "googleScore": 4.2,
+      "score": 36
     },
     {
       "office_id": 243833,
@@ -18536,7 +22085,17 @@
         }
       },
       "lat": 52.2649,
-      "lng": -0.752805
+      "lng": -0.752805,
+      "id": 243833,
+      "name": "Acorn Sales & Lettings",
+      "va": {
+        "overallRating": 3.7,
+        "totalReviews": 107,
+        "replyRate": null
+      },
+      "totalReviews": 107,
+      "replyRate": null,
+      "score": 54
     },
     {
       "office_id": 14616,
@@ -18587,7 +22146,17 @@
         }
       },
       "lat": 51.407545,
-      "lng": -1.784539
+      "lng": -1.784539,
+      "id": 14616,
+      "name": "Acorns Lettings",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 11,
+        "replyRate": null
+      },
+      "totalReviews": 11,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 242861,
@@ -18649,7 +22218,18 @@
         }
       },
       "lat": 51.745,
-      "lng": -1.22924
+      "lng": -1.22924,
+      "id": 242861,
+      "name": "Scottfraser - East Oxford",
+      "va": {
+        "overallRating": 4.23,
+        "totalReviews": 429,
+        "replyRate": 0.0
+      },
+      "totalReviews": 429,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 242863,
@@ -18712,7 +22292,18 @@
         }
       },
       "lat": 51.7599,
-      "lng": -1.21291
+      "lng": -1.21291,
+      "id": 242863,
+      "name": "Scottfraser - Headington",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 425,
+        "replyRate": 0.0
+      },
+      "totalReviews": 425,
+      "replyRate": 0.0,
+      "googleScore": 4.4,
+      "score": 69
     },
     {
       "office_id": 242865,
@@ -18770,7 +22361,18 @@
         }
       },
       "lat": 51.7768,
-      "lng": -1.26497
+      "lng": -1.26497,
+      "id": 242865,
+      "name": "Scottfraser - Summertown",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 337,
+        "replyRate": 0.0
+      },
+      "totalReviews": 337,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 242864,
@@ -18828,7 +22430,18 @@
         }
       },
       "lat": 51.7834,
-      "lng": -1.48575
+      "lng": -1.48575,
+      "id": 242864,
+      "name": "Scottfraser - Witney",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 269,
+        "replyRate": 0.0
+      },
+      "totalReviews": 269,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 242862,
@@ -18886,7 +22499,18 @@
         }
       },
       "lat": 51.7585,
-      "lng": -1.21435
+      "lng": -1.21435,
+      "id": 242862,
+      "name": "scottfraser Property Management Centre",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 118,
+        "replyRate": 0.0
+      },
+      "totalReviews": 118,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 73
     }
   ],
   "google_summary": {

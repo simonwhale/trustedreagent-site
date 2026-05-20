@@ -57,7 +57,18 @@
         }
       },
       "lat": 51.8008,
-      "lng": -0.205682
+      "lng": -0.205682,
+      "id": 249107,
+      "name": "Chewton Rose (AL8)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 93,
+        "replyRate": null
+      },
+      "totalReviews": 93,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 72
     },
     {
       "office_id": 19103,
@@ -108,7 +119,17 @@
         }
       },
       "lat": 51.889864,
-      "lng": 0.897381
+      "lng": 0.897381,
+      "id": 19103,
+      "name": "Chewton Rose (CO1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 42
     },
     {
       "office_id": 249105,
@@ -166,7 +187,18 @@
         }
       },
       "lat": 52.245,
-      "lng": 0.71179
+      "lng": 0.71179,
+      "id": 249105,
+      "name": "Chewton Rose (IP33)",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 40,
+        "replyRate": null
+      },
+      "totalReviews": 40,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 65
     },
     {
       "office_id": 249106,
@@ -212,7 +244,17 @@
         }
       },
       "lat": 52.047,
-      "lng": -0.751875
+      "lng": -0.751875,
+      "id": 249106,
+      "name": "Chewton Rose (MK9)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 109,
+        "replyRate": 100.0
+      },
+      "totalReviews": 109,
+      "replyRate": 100.0,
+      "score": 75
     },
     {
       "office_id": 4648,
@@ -271,7 +313,18 @@
         }
       },
       "lat": 51.510423,
-      "lng": -0.068572
+      "lng": -0.068572,
+      "id": 4648,
+      "name": "Felicity J Lord (E1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 36
     },
     {
       "office_id": 4786,
@@ -329,7 +382,18 @@
         }
       },
       "lat": 51.500559,
-      "lng": -0.017437
+      "lng": -0.017437,
+      "id": 4786,
+      "name": "Felicity J Lord (E14)",
+      "va": {
+        "overallRating": 4.61,
+        "totalReviews": 324,
+        "replyRate": 100.0
+      },
+      "totalReviews": 324,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 249941,
@@ -392,7 +456,18 @@
         }
       },
       "lat": 51.4988,
-      "lng": -0.014574
+      "lng": -0.014574,
+      "id": 249941,
+      "name": "Felicity J Lord (E14)",
+      "va": {
+        "overallRating": 4.39,
+        "totalReviews": 1528,
+        "replyRate": 72.72727272727273
+      },
+      "totalReviews": 1528,
+      "replyRate": 72.72727272727273,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 249942,
@@ -455,7 +530,18 @@
         }
       },
       "lat": 51.506,
-      "lng": -0.053757
+      "lng": -0.053757,
+      "id": 249942,
+      "name": "Felicity J Lord (E1W)",
+      "va": {
+        "overallRating": 4.27,
+        "totalReviews": 1221,
+        "replyRate": 75.0
+      },
+      "totalReviews": 1221,
+      "replyRate": 75.0,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 4959,
@@ -512,7 +598,18 @@
         }
       },
       "lat": 51.525874,
-      "lng": -0.030335
+      "lng": -0.030335,
+      "id": 4959,
+      "name": "Felicity J Lord (E3)",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 955,
+        "replyRate": 70.58823529411765
+      },
+      "totalReviews": 955,
+      "replyRate": 70.58823529411765,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 5038,
@@ -560,7 +657,18 @@
         }
       },
       "lat": 51.546112,
-      "lng": -0.055408
+      "lng": -0.055408,
+      "id": 5038,
+      "name": "Felicity J Lord (E8)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 646,
+        "replyRate": 95.45454545454545
+      },
+      "totalReviews": 646,
+      "replyRate": 95.45454545454545,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 5089,
@@ -617,7 +725,18 @@
         }
       },
       "lat": 51.524552,
-      "lng": -0.099516
+      "lng": -0.099516,
+      "id": 5089,
+      "name": "Felicity J Lord (EC1V)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 444,
+        "replyRate": 100.0
+      },
+      "totalReviews": 444,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 9690,
@@ -674,7 +793,18 @@
         }
       },
       "lat": 51.537373,
-      "lng": -0.102745
+      "lng": -0.102745,
+      "id": 9690,
+      "name": "Felicity J Lord (N1)",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 849,
+        "replyRate": 100.0
+      },
+      "totalReviews": 849,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 9816,
@@ -727,7 +857,18 @@
         }
       },
       "lat": 51.561973,
-      "lng": -0.076574
+      "lng": -0.076574,
+      "id": 9816,
+      "name": "Felicity J Lord (N16)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 594,
+        "replyRate": 94.44444444444444
+      },
+      "totalReviews": 594,
+      "replyRate": 94.44444444444444,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 13613,
@@ -785,7 +926,18 @@
         }
       },
       "lat": 51.503519,
-      "lng": -0.075319
+      "lng": -0.075319,
+      "id": 13613,
+      "name": "Felicity J Lord (SE1)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 494,
+        "replyRate": 100.0
+      },
+      "totalReviews": 494,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 249945,
@@ -839,7 +991,18 @@
         }
       },
       "lat": 51.5033,
-      "lng": -0.076249
+      "lng": -0.076249,
+      "id": 249945,
+      "name": "Felicity J Lord (SE1)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 464,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 464,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 13655,
@@ -896,7 +1059,18 @@
         }
       },
       "lat": 51.476158,
-      "lng": -0.012475
+      "lng": -0.012475,
+      "id": 13655,
+      "name": "Felicity J Lord (SE10)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 344,
+        "replyRate": 100.0
+      },
+      "totalReviews": 344,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 13744,
@@ -942,7 +1116,17 @@
         }
       },
       "lat": 51.495398,
-      "lng": -0.046964
+      "lng": -0.046964,
+      "id": 13744,
+      "name": "Felicity J Lord (SE16)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 240,
+        "replyRate": null
+      },
+      "totalReviews": 240,
+      "replyRate": null,
+      "score": 81
     },
     {
       "office_id": 13888,
@@ -1004,7 +1188,18 @@
         }
       },
       "lat": 51.466202,
-      "lng": 0.008184
+      "lng": 0.008184,
+      "id": 13888,
+      "name": "Felicity J Lord (SE3)",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 747,
+        "replyRate": 70.0
+      },
+      "totalReviews": 747,
+      "replyRate": 70.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 13903,
@@ -1053,7 +1248,18 @@
         }
       },
       "lat": 51.476783,
-      "lng": 0.019363
+      "lng": 0.019363,
+      "id": 13903,
+      "name": "Felicity J Lord (SE3)",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 383,
+        "replyRate": 93.54838709677419
+      },
+      "totalReviews": 383,
+      "replyRate": 93.54838709677419,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 249944,
@@ -1114,7 +1320,18 @@
         }
       },
       "lat": 51.4807,
-      "lng": -0.178997
+      "lng": -0.178997,
+      "id": 249944,
+      "name": "Felicity J Lord (SW10)",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 1226,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 1226,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.8,
+      "score": 73
     },
     {
       "office_id": 19544,
@@ -1165,7 +1382,17 @@
         }
       },
       "lat": 51.474521,
-      "lng": -0.206498
+      "lng": -0.206498,
+      "id": 19544,
+      "name": "Felicity J Lord (SW6)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 25
     },
     {
       "office_id": 249947,
@@ -1227,7 +1454,18 @@
         }
       },
       "lat": 51.4616,
-      "lng": -0.116397
+      "lng": -0.116397,
+      "id": 249947,
+      "name": "Felicity J Lord (SW9)",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 1545,
+        "replyRate": 40.0
+      },
+      "totalReviews": 1545,
+      "replyRate": 40.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 19545,
@@ -1278,7 +1516,17 @@
         }
       },
       "lat": 51.492225,
-      "lng": -0.261869
+      "lng": -0.261869,
+      "id": 19545,
+      "name": "Felicity J Lord (W4)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 30,
+        "replyRate": null
+      },
+      "totalReviews": 30,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 174,
@@ -1340,7 +1588,18 @@
         }
       },
       "lat": 51.802219,
-      "lng": -0.204894
+      "lng": -0.204894,
+      "id": 174,
+      "name": "haart (AL8)",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 336,
+        "replyRate": 0.0
+      },
+      "totalReviews": 336,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 19815,
@@ -1397,7 +1656,18 @@
         }
       },
       "lat": 52.459807,
-      "lng": -1.946812
+      "lng": -1.946812,
+      "id": 19815,
+      "name": "haart (B17)",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 852,
+        "replyRate": 100.0
+      },
+      "totalReviews": 852,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 1740,
@@ -1449,7 +1719,18 @@
         }
       },
       "lat": 51.374553,
-      "lng": 0.098128
+      "lng": 0.098128,
+      "id": 1740,
+      "name": "haart (BR6)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 410,
+        "replyRate": 97.77777777777777
+      },
+      "totalReviews": 410,
+      "replyRate": 97.77777777777777,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 1777,
@@ -1499,7 +1780,17 @@
         }
       },
       "lat": 51.489707,
-      "lng": -2.676964
+      "lng": -2.676964,
+      "id": 1777,
+      "name": "haart (BS11)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 1009,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1009,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 1805,
@@ -1545,7 +1836,17 @@
         }
       },
       "lat": 51.480431,
-      "lng": -2.529398
+      "lng": -2.529398,
+      "id": 1805,
+      "name": "haart (BS16)",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 1052,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 1052,
+      "replyRate": 93.33333333333333,
+      "score": 82
     },
     {
       "office_id": 1855,
@@ -1606,7 +1907,18 @@
         }
       },
       "lat": 51.350473,
-      "lng": -2.976029
+      "lng": -2.976029,
+      "id": 1855,
+      "name": "haart (BS23)",
+      "va": {
+        "overallRating": 4.67,
+        "totalReviews": 134,
+        "replyRate": null
+      },
+      "totalReviews": 134,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 1877,
@@ -1647,7 +1959,17 @@
         }
       },
       "lat": 51.440523,
-      "lng": -2.60978
+      "lng": -2.60978,
+      "id": 1877,
+      "name": "haart (BS3)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 985,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 985,
+      "replyRate": 93.33333333333333,
+      "score": 82
     },
     {
       "office_id": 250409,
@@ -1704,7 +2026,18 @@
         }
       },
       "lat": 51.4675,
-      "lng": -2.6129
+      "lng": -2.6129,
+      "id": 250409,
+      "name": "haart (BS8)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 622,
+        "replyRate": 100.0
+      },
+      "totalReviews": 622,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 2426,
@@ -1758,7 +2091,17 @@
         }
       },
       "lat": 52.198018,
-      "lng": 0.143631
+      "lng": 0.143631,
+      "id": 2426,
+      "name": "haart (CB1)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 375,
+        "replyRate": null
+      },
+      "totalReviews": 375,
+      "replyRate": null,
+      "score": 82
     },
     {
       "office_id": 2442,
@@ -1815,7 +2158,18 @@
         }
       },
       "lat": 52.200173,
-      "lng": 0.126379
+      "lng": 0.126379,
+      "id": 2442,
+      "name": "haart (CB2)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 1727,
+        "replyRate": 97.77777777777777
+      },
+      "totalReviews": 1727,
+      "replyRate": 97.77777777777777,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 2456,
@@ -1872,7 +2226,18 @@
         }
       },
       "lat": 52.146606,
-      "lng": 0.134949
+      "lng": 0.134949,
+      "id": 2456,
+      "name": "haart (CB22)",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 134,
+        "replyRate": null
+      },
+      "totalReviews": 134,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 80
     },
     {
       "office_id": 2463,
@@ -1938,7 +2303,18 @@
         }
       },
       "lat": 52.253475,
-      "lng": 0.018442
+      "lng": 0.018442,
+      "id": 2463,
+      "name": "haart (CB23)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 381,
+        "replyRate": 0.0
+      },
+      "totalReviews": 381,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 2486,
@@ -1990,7 +2366,18 @@
         }
       },
       "lat": 52.398368,
-      "lng": 0.267723
+      "lng": 0.267723,
+      "id": 2486,
+      "name": "haart (CB7)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 640,
+        "replyRate": 96.66666666666667
+      },
+      "totalReviews": 640,
+      "replyRate": 96.66666666666667,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 250432,
@@ -2041,7 +2428,17 @@
         }
       },
       "lat": 52.2442,
-      "lng": 0.406703
+      "lng": 0.406703,
+      "id": 250432,
+      "name": "haart (CB8)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 23,
+        "replyRate": null
+      },
+      "totalReviews": 23,
+      "replyRate": null,
+      "score": 66
     },
     {
       "office_id": 19816,
@@ -2094,7 +2491,18 @@
         }
       },
       "lat": 51.735756,
-      "lng": 0.469147
+      "lng": 0.469147,
+      "id": 19816,
+      "name": "haart (CM1)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 1039,
+        "replyRate": 86.66666666666667
+      },
+      "totalReviews": 1039,
+      "replyRate": 86.66666666666667,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 3014,
@@ -2150,7 +2558,18 @@
         }
       },
       "lat": 51.770356,
-      "lng": 0.091737
+      "lng": 0.091737,
+      "id": 3014,
+      "name": "haart (CM20)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 847,
+        "replyRate": 100.0
+      },
+      "totalReviews": 847,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 246422,
@@ -2200,7 +2619,17 @@
         }
       },
       "lat": 51.7705,
-      "lng": 0.093742
+      "lng": 0.093742,
+      "id": 246422,
+      "name": "haart (CM20)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 642,
+        "replyRate": 92.3076923076923
+      },
+      "totalReviews": 642,
+      "replyRate": 92.3076923076923,
+      "score": 76
     },
     {
       "office_id": 19817,
@@ -2257,7 +2686,18 @@
         }
       },
       "lat": 51.878796,
-      "lng": 0.551795
+      "lng": 0.551795,
+      "id": 19817,
+      "name": "haart (CM7)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 892,
+        "replyRate": 100.0
+      },
+      "totalReviews": 892,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 19818,
@@ -2314,7 +2754,18 @@
         }
       },
       "lat": 51.799058,
-      "lng": 0.638799
+      "lng": 0.638799,
+      "id": 19818,
+      "name": "haart (CM8)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 772,
+        "replyRate": 100.0
+      },
+      "totalReviews": 772,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 3131,
@@ -2372,7 +2823,18 @@
         }
       },
       "lat": 51.889239,
-      "lng": 0.896439
+      "lng": 0.896439,
+      "id": 3131,
+      "name": "haart (CO1)",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 387,
+        "replyRate": null
+      },
+      "totalReviews": 387,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 3132,
@@ -2430,7 +2892,18 @@
         }
       },
       "lat": 51.889864,
-      "lng": 0.897381
+      "lng": 0.897381,
+      "id": 3132,
+      "name": "haart (CO1)",
+      "va": {
+        "overallRating": 4.57,
+        "totalReviews": 358,
+        "replyRate": null
+      },
+      "totalReviews": 358,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 19819,
@@ -2474,7 +2947,17 @@
           "count": 102,
           "rating": 4.68
         }
-      }
+      },
+      "id": 19819,
+      "name": "haart (CO11)",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 102,
+        "replyRate": 100.0
+      },
+      "totalReviews": 102,
+      "replyRate": 100.0,
+      "score": 79
     },
     {
       "office_id": 250418,
@@ -2524,7 +3007,17 @@
         }
       },
       "lat": 51.9455,
-      "lng": 1.06308
+      "lng": 1.06308,
+      "id": 250418,
+      "name": "haart (CO11)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 84,
+        "replyRate": 100.0
+      },
+      "totalReviews": 84,
+      "replyRate": 100.0,
+      "score": 73
     },
     {
       "office_id": 250426,
@@ -2574,7 +3067,17 @@
         }
       },
       "lat": 51.9365,
-      "lng": 1.27803
+      "lng": 1.27803,
+      "id": 250426,
+      "name": "haart (CO12)",
+      "va": {
+        "overallRating": 4.49,
+        "totalReviews": 51,
+        "replyRate": null
+      },
+      "totalReviews": 51,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 19820,
@@ -2631,7 +3134,18 @@
         }
       },
       "lat": 51.79121,
-      "lng": 1.154143
+      "lng": 1.154143,
+      "id": 19820,
+      "name": "haart (CO15)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 1171,
+        "replyRate": 95.65217391304348
+      },
+      "totalReviews": 1171,
+      "replyRate": 95.65217391304348,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 19821,
@@ -2681,7 +3195,17 @@
         }
       },
       "lat": 51.856319,
-      "lng": 0.959058
+      "lng": 0.959058,
+      "id": 19821,
+      "name": "haart (CO7)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 74,
+        "replyRate": null
+      },
+      "totalReviews": 74,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 3272,
@@ -2743,7 +3267,18 @@
         }
       },
       "lat": 51.363856,
-      "lng": -0.098031
+      "lng": -0.098031,
+      "id": 3272,
+      "name": "haart (CR0)",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 885,
+        "replyRate": 92.3076923076923
+      },
+      "totalReviews": 885,
+      "replyRate": 92.3076923076923,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 3377,
@@ -2805,7 +3340,18 @@
         }
       },
       "lat": 51.398196,
-      "lng": -0.10171
+      "lng": -0.10171,
+      "id": 3377,
+      "name": "haart (CR7)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 375,
+        "replyRate": 70.0
+      },
+      "totalReviews": 375,
+      "replyRate": 70.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 250408,
@@ -2856,7 +3402,17 @@
         }
       },
       "lat": 51.2722,
-      "lng": 1.09953
+      "lng": 1.09953,
+      "id": 250408,
+      "name": "haart (CT1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 13,
+        "replyRate": null
+      },
+      "totalReviews": 13,
+      "replyRate": null,
+      "score": 66
     },
     {
       "office_id": 3443,
@@ -2910,7 +3466,17 @@
         }
       },
       "lat": 51.358777,
-      "lng": 1.439525
+      "lng": 1.439525,
+      "id": 3443,
+      "name": "haart (CT10)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 129,
+        "replyRate": 100.0
+      },
+      "totalReviews": 129,
+      "replyRate": 100.0,
+      "score": 80
     },
     {
       "office_id": 3851,
@@ -2971,7 +3537,18 @@
         }
       },
       "lat": 51.444636,
-      "lng": 0.216338
+      "lng": 0.216338,
+      "id": 3851,
+      "name": "haart (DA1)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 1110,
+        "replyRate": 87.8048780487805
+      },
+      "totalReviews": 1110,
+      "replyRate": 87.8048780487805,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 4005,
@@ -3030,7 +3607,18 @@
         }
       },
       "lat": 52.922449,
-      "lng": -1.478171
+      "lng": -1.478171,
+      "id": 4005,
+      "name": "haart (DE1)",
+      "va": {
+        "overallRating": 1.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 0
     },
     {
       "office_id": 250397,
@@ -3084,7 +3672,18 @@
         }
       },
       "lat": 52.9219,
-      "lng": -1.47655
+      "lng": -1.47655,
+      "id": 250397,
+      "name": "haart (DE1)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 713,
+        "replyRate": 88.0
+      },
+      "totalReviews": 713,
+      "replyRate": 88.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 250407,
@@ -3134,7 +3733,17 @@
         }
       },
       "lat": 52.7625,
-      "lng": -1.72032
+      "lng": -1.72032,
+      "id": 250407,
+      "name": "haart (DE13)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 216,
+        "replyRate": 100.0
+      },
+      "totalReviews": 216,
+      "replyRate": 100.0,
+      "score": 76
     },
     {
       "office_id": 250414,
@@ -3189,7 +3798,17 @@
         }
       },
       "lat": 52.9697,
-      "lng": -1.36692
+      "lng": -1.36692,
+      "id": 250414,
+      "name": "haart (DE7)",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 47,
+        "replyRate": 100.0
+      },
+      "totalReviews": 47,
+      "replyRate": 100.0,
+      "score": 68
     },
     {
       "office_id": 4357,
@@ -3250,7 +3869,18 @@
         }
       },
       "lat": 53.522171,
-      "lng": -1.130357
+      "lng": -1.130357,
+      "id": 4357,
+      "name": "haart (DN1)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 1037,
+        "replyRate": 96.66666666666667
+      },
+      "totalReviews": 1037,
+      "replyRate": 96.66666666666667,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 250398,
@@ -3303,7 +3933,18 @@
         }
       },
       "lat": 51.5685,
-      "lng": 0.00914
+      "lng": 0.00914,
+      "id": 250398,
+      "name": "haart (E11)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 715,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 715,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 250433,
@@ -3350,7 +3991,17 @@
         }
       },
       "lat": 51.5205,
-      "lng": 0.018007
+      "lng": 0.018007,
+      "id": 250433,
+      "name": "haart (E13)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 125,
+        "replyRate": 100.0
+      },
+      "totalReviews": 125,
+      "replyRate": 100.0,
+      "score": 75
     },
     {
       "office_id": 250399,
@@ -3403,7 +4054,18 @@
         }
       },
       "lat": 51.547,
-      "lng": 0.006447
+      "lng": 0.006447,
+      "id": 250399,
+      "name": "haart (E15)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 720,
+        "replyRate": 92.3076923076923
+      },
+      "totalReviews": 720,
+      "replyRate": 92.3076923076923,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 250400,
@@ -3460,7 +4122,18 @@
         }
       },
       "lat": 51.5843,
-      "lng": -0.01909
+      "lng": -0.01909,
+      "id": 250400,
+      "name": "haart (E17)",
+      "va": {
+        "overallRating": 4.75,
+        "totalReviews": 469,
+        "replyRate": 100.0
+      },
+      "totalReviews": 469,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 246423,
@@ -3511,7 +4184,17 @@
         }
       },
       "lat": 51.5927,
-      "lng": 0.02671
+      "lng": 0.02671,
+      "id": 246423,
+      "name": "haart (E18)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 377,
+        "replyRate": 50.0
+      },
+      "totalReviews": 377,
+      "replyRate": 50.0,
+      "score": 76
     },
     {
       "office_id": 5363,
@@ -3577,7 +4260,18 @@
         }
       },
       "lat": 51.652159,
-      "lng": -0.080464
+      "lng": -0.080464,
+      "id": 5363,
+      "name": "haart (EN2)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 791,
+        "replyRate": 50.0
+      },
+      "totalReviews": 791,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 5481,
@@ -3627,7 +4321,17 @@
         }
       },
       "lat": 50.7252,
-      "lng": -3.525924
+      "lng": -3.525924,
+      "id": 5481,
+      "name": "haart (EX1)",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 330,
+        "replyRate": null
+      },
+      "totalReviews": 330,
+      "replyRate": null,
+      "score": 82
     },
     {
       "office_id": 250402,
@@ -3673,7 +4377,17 @@
         }
       },
       "lat": 50.7268,
-      "lng": -3.52733
+      "lng": -3.52733,
+      "id": 250402,
+      "name": "haart (EX4)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 233,
+        "replyRate": null
+      },
+      "totalReviews": 233,
+      "replyRate": null,
+      "score": 76
     },
     {
       "office_id": 250403,
@@ -3726,7 +4440,18 @@
         }
       },
       "lat": 51.2375,
-      "lng": -0.56609
+      "lng": -0.56609,
+      "id": 250403,
+      "name": "haart (GU1)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 337,
+        "replyRate": 89.47368421052632
+      },
+      "totalReviews": 337,
+      "replyRate": 89.47368421052632,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 6353,
@@ -3776,7 +4501,17 @@
         }
       },
       "lat": 51.294678,
-      "lng": -0.754602
+      "lng": -0.754602,
+      "id": 6353,
+      "name": "haart (GU14)",
+      "va": {
+        "overallRating": 4.47,
+        "totalReviews": 34,
+        "replyRate": null
+      },
+      "totalReviews": 34,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 6448,
@@ -3822,7 +4557,17 @@
         }
       },
       "lat": 51.11046,
-      "lng": -0.752102
+      "lng": -0.752102,
+      "id": 6448,
+      "name": "haart (GU26)",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 123,
+        "replyRate": null
+      },
+      "totalReviews": 123,
+      "replyRate": null,
+      "score": 80
     },
     {
       "office_id": 6488,
@@ -3872,7 +4617,17 @@
         }
       },
       "lat": 51.003524,
-      "lng": -0.935095
+      "lng": -0.935095,
+      "id": 6488,
+      "name": "haart (GU32)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 28,
+        "replyRate": null
+      },
+      "totalReviews": 28,
+      "replyRate": null,
+      "score": 71
     },
     {
       "office_id": 6527,
@@ -3933,7 +4688,18 @@
         }
       },
       "lat": 51.279638,
-      "lng": -0.843616
+      "lng": -0.843616,
+      "id": 6527,
+      "name": "haart (GU51)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 539,
+        "replyRate": 100.0
+      },
+      "totalReviews": 539,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 6680,
@@ -3990,7 +4756,18 @@
         }
       },
       "lat": 51.595954,
-      "lng": -0.295812
+      "lng": -0.295812,
+      "id": 6680,
+      "name": "haart (HA3)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 855,
+        "replyRate": 100.0
+      },
+      "totalReviews": 855,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 6690,
@@ -4031,7 +4808,17 @@
         }
       },
       "lat": 51.577019,
-      "lng": -0.427388
+      "lng": -0.427388,
+      "id": 6690,
+      "name": "haart (HA4)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 604,
+        "replyRate": 95.83333333333334
+      },
+      "totalReviews": 604,
+      "replyRate": 95.83333333333334,
+      "score": 82
     },
     {
       "office_id": 6800,
@@ -4083,7 +4870,18 @@
         }
       },
       "lat": 51.564453,
-      "lng": -0.277858
+      "lng": -0.277858,
+      "id": 6800,
+      "name": "haart (HA9)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 1469,
+        "replyRate": 90.32258064516128
+      },
+      "totalReviews": 1469,
+      "replyRate": 90.32258064516128,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 19822,
@@ -4136,7 +4934,18 @@
         }
       },
       "lat": 51.757724,
-      "lng": -0.472497
+      "lng": -0.472497,
+      "id": 19822,
+      "name": "haart (HP1)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 597,
+        "replyRate": null
+      },
+      "totalReviews": 597,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 250404,
@@ -4194,7 +5003,18 @@
         }
       },
       "lat": 51.8357,
-      "lng": -0.851394
+      "lng": -0.851394,
+      "id": 250404,
+      "name": "haart (HP18)",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 239,
+        "replyRate": 60.0
+      },
+      "totalReviews": 239,
+      "replyRate": 60.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 19823,
@@ -4251,7 +5071,18 @@
         }
       },
       "lat": 51.56387,
-      "lng": 0.067298
+      "lng": 0.067298,
+      "id": 19823,
+      "name": "haart (IG1)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 1024,
+        "replyRate": 96.55172413793103
+      },
+      "totalReviews": 1024,
+      "replyRate": 96.55172413793103,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 7285,
@@ -4302,7 +5133,17 @@
         }
       },
       "lat": 51.648034,
-      "lng": 0.055384
+      "lng": 0.055384,
+      "id": 7285,
+      "name": "haart (IG10)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 65
     },
     {
       "office_id": 250417,
@@ -4357,7 +5198,17 @@
         }
       },
       "lat": 51.6464,
-      "lng": 0.081918
+      "lng": 0.081918,
+      "id": 250417,
+      "name": "haart (IG10)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 7,
+        "replyRate": null
+      },
+      "totalReviews": 7,
+      "replyRate": null,
+      "score": 60
     },
     {
       "office_id": 7353,
@@ -4414,7 +5265,18 @@
         }
       },
       "lat": 51.589539,
-      "lng": 0.081832
+      "lng": 0.081832,
+      "id": 7353,
+      "name": "haart (IG6)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 720,
+        "replyRate": 100.0
+      },
+      "totalReviews": 720,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 19824,
@@ -4480,7 +5342,18 @@
         }
       },
       "lat": 52.058984,
-      "lng": 1.153026
+      "lng": 1.153026,
+      "id": 19824,
+      "name": "haart (IP1)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 1112,
+        "replyRate": 75.0
+      },
+      "totalReviews": 1112,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 7419,
@@ -4531,7 +5404,17 @@
         }
       },
       "lat": 52.093197,
-      "lng": 1.315464
+      "lng": 1.315464,
+      "id": 7419,
+      "name": "haart (IP12)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 106,
+        "replyRate": null
+      },
+      "totalReviews": 106,
+      "replyRate": null,
+      "score": 79
     },
     {
       "office_id": 250411,
@@ -4582,7 +5465,17 @@
         }
       },
       "lat": 52.3855,
-      "lng": 0.970178
+      "lng": 0.970178,
+      "id": 250411,
+      "name": "haart (IP22)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 39
     },
     {
       "office_id": 7484,
@@ -4639,7 +5532,18 @@
         }
       },
       "lat": 52.41365,
-      "lng": 0.747601
+      "lng": 0.747601,
+      "id": 7484,
+      "name": "haart (IP24)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 291,
+        "replyRate": null
+      },
+      "totalReviews": 291,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 7518,
@@ -4700,7 +5604,18 @@
         }
       },
       "lat": 52.24483,
-      "lng": 0.711751
+      "lng": 0.711751,
+      "id": 7518,
+      "name": "haart (IP33)",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 1037,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1037,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 19825,
@@ -4754,7 +5669,17 @@
         }
       },
       "lat": 52.062451,
-      "lng": 1.237057
+      "lng": 1.237057,
+      "id": 19825,
+      "name": "haart (IP5)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 150,
+        "replyRate": null
+      },
+      "totalReviews": 150,
+      "replyRate": null,
+      "score": 80
     },
     {
       "office_id": 8314,
@@ -4811,7 +5736,18 @@
         }
       },
       "lat": 52.634431,
-      "lng": -1.13055
+      "lng": -1.13055,
+      "id": 8314,
+      "name": "haart (LE1)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 1626,
+        "replyRate": 90.0
+      },
+      "totalReviews": 1626,
+      "replyRate": 90.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 250430,
@@ -4857,7 +5793,17 @@
         }
       },
       "lat": 52.5568,
-      "lng": -1.36592
+      "lng": -1.36592,
+      "id": 250430,
+      "name": "haart (LE10)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 55,
+        "replyRate": 100.0
+      },
+      "totalReviews": 55,
+      "replyRate": 100.0,
+      "score": 73
     },
     {
       "office_id": 250416,
@@ -4909,7 +5855,17 @@
         }
       },
       "lat": 52.7718,
-      "lng": -1.20608
+      "lng": -1.20608,
+      "id": 250416,
+      "name": "haart (LE11)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 295,
+        "replyRate": 75.0
+      },
+      "totalReviews": 295,
+      "replyRate": 75.0,
+      "score": 79
     },
     {
       "office_id": 8507,
@@ -4964,7 +5920,17 @@
         }
       },
       "lat": 52.575533,
-      "lng": -1.163678
+      "lng": -1.163678,
+      "id": 8507,
+      "name": "haart (LE8)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 429,
+        "replyRate": 100.0
+      },
+      "totalReviews": 429,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 8679,
@@ -5017,7 +5983,18 @@
         }
       },
       "lat": 53.230025,
-      "lng": -0.538515
+      "lng": -0.538515,
+      "id": 8679,
+      "name": "haart (LN2)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 1819,
+        "replyRate": 90.0
+      },
+      "totalReviews": 1819,
+      "replyRate": 90.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 8905,
@@ -5079,7 +6056,18 @@
         }
       },
       "lat": 51.878797,
-      "lng": -0.418014
+      "lng": -0.418014,
+      "id": 8905,
+      "name": "haart (LU1)",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 987,
+        "replyRate": 46.15384615384615
+      },
+      "totalReviews": 987,
+      "replyRate": 46.15384615384615,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 8923,
@@ -5140,7 +6128,18 @@
         }
       },
       "lat": 51.901863,
-      "lng": -0.39697
+      "lng": -0.39697,
+      "id": 8923,
+      "name": "haart (LU2)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 392,
+        "replyRate": 97.2972972972973
+      },
+      "totalReviews": 392,
+      "replyRate": 97.2972972972973,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 8935,
@@ -5197,7 +6196,18 @@
         }
       },
       "lat": 51.904544,
-      "lng": -0.452796
+      "lng": -0.452796,
+      "id": 8935,
+      "name": "haart (LU3)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 39,
+        "replyRate": null
+      },
+      "totalReviews": 39,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 9274,
@@ -5254,7 +6264,18 @@
         }
       },
       "lat": 51.439453,
-      "lng": 0.762149
+      "lng": 0.762149,
+      "id": 9274,
+      "name": "haart (ME12)",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 584,
+        "replyRate": 100.0
+      },
+      "totalReviews": 584,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 9284,
@@ -5311,7 +6332,18 @@
         }
       },
       "lat": 51.273669,
-      "lng": 0.52772
+      "lng": 0.52772,
+      "id": 9284,
+      "name": "haart (ME14)",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 911,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 911,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 9340,
@@ -5368,7 +6400,18 @@
         }
       },
       "lat": 51.395694,
-      "lng": 0.494189
+      "lng": 0.494189,
+      "id": 9340,
+      "name": "haart (ME2)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 1001,
+        "replyRate": 88.23529411764706
+      },
+      "totalReviews": 1001,
+      "replyRate": 88.23529411764706,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 9368,
@@ -5425,7 +6468,18 @@
         }
       },
       "lat": 51.339745,
-      "lng": 0.527306
+      "lng": 0.527306,
+      "id": 9368,
+      "name": "haart (ME5)",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 109,
+        "replyRate": null
+      },
+      "totalReviews": 109,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 9484,
@@ -5478,7 +6532,18 @@
         }
       },
       "lat": 52.138448,
-      "lng": -0.470773
+      "lng": -0.470773,
+      "id": 9484,
+      "name": "haart (MK40)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 864,
+        "replyRate": 100.0
+      },
+      "totalReviews": 864,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 9584,
@@ -5536,7 +6601,18 @@
         }
       },
       "lat": 52.047002,
-      "lng": -0.751954
+      "lng": -0.751954,
+      "id": 9584,
+      "name": "haart (MK9)",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 1219,
+        "replyRate": 77.5
+      },
+      "totalReviews": 1219,
+      "replyRate": 77.5,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 9790,
@@ -5589,7 +6665,18 @@
         }
       },
       "lat": 51.632648,
-      "lng": -0.129608
+      "lng": -0.129608,
+      "id": 9790,
+      "name": "haart (N14)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 792,
+        "replyRate": 100.0
+      },
+      "totalReviews": 792,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 10336,
@@ -5655,7 +6742,18 @@
         }
       },
       "lat": 52.955307,
-      "lng": -1.148631
+      "lng": -1.148631,
+      "id": 10336,
+      "name": "haart (NG1)",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 1353,
+        "replyRate": 73.33333333333333
+      },
+      "totalReviews": 1353,
+      "replyRate": 73.33333333333333,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 250421,
@@ -5705,7 +6803,17 @@
         }
       },
       "lat": 52.8922,
-      "lng": -1.15006
+      "lng": -1.15006,
+      "id": 250421,
+      "name": "haart (NG11)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 122,
+        "replyRate": null
+      },
+      "totalReviews": 122,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 10398,
@@ -5762,7 +6870,18 @@
         }
       },
       "lat": 53.037956,
-      "lng": -1.201813
+      "lng": -1.201813,
+      "id": 10398,
+      "name": "haart (NG15)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 653,
+        "replyRate": 87.5
+      },
+      "totalReviews": 653,
+      "replyRate": 87.5,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 10451,
@@ -5812,7 +6931,17 @@
         }
       },
       "lat": 52.931309,
-      "lng": -1.125626
+      "lng": -1.125626,
+      "id": 10451,
+      "name": "haart (NG2)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 157,
+        "replyRate": null
+      },
+      "totalReviews": 157,
+      "replyRate": null,
+      "score": 80
     },
     {
       "office_id": 10466,
@@ -5858,7 +6987,17 @@
         }
       },
       "lat": 53.07592,
-      "lng": -0.810227
+      "lng": -0.810227,
+      "id": 10466,
+      "name": "haart (NG24)",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 81,
+        "replyRate": null
+      },
+      "totalReviews": 81,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 10502,
@@ -5914,7 +7053,17 @@
         }
       },
       "lat": 52.913821,
-      "lng": -0.643604
+      "lng": -0.643604,
+      "id": 10502,
+      "name": "haart (NG31)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 505,
+        "replyRate": 50.0
+      },
+      "totalReviews": 505,
+      "replyRate": 50.0,
+      "score": 82
     },
     {
       "office_id": 10541,
@@ -5969,7 +7118,17 @@
         }
       },
       "lat": 53.003715,
-      "lng": -1.128739
+      "lng": -1.128739,
+      "id": 10541,
+      "name": "haart (NG5)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 221,
+        "replyRate": 50.0
+      },
+      "totalReviews": 221,
+      "replyRate": 50.0,
+      "score": 82
     },
     {
       "office_id": 250423,
@@ -6028,7 +7187,17 @@
         }
       },
       "lat": 53.0051,
-      "lng": -1.1268
+      "lng": -1.1268,
+      "id": 250423,
+      "name": "haart (NG5)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 182,
+        "replyRate": 0.0
+      },
+      "totalReviews": 182,
+      "replyRate": 0.0,
+      "score": 75
     },
     {
       "office_id": 10593,
@@ -6085,7 +7254,18 @@
         }
       },
       "lat": 52.236356,
-      "lng": -0.897646
+      "lng": -0.897646,
+      "id": 10593,
+      "name": "haart (NN1)",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 267,
+        "replyRate": null
+      },
+      "totalReviews": 267,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 10619,
@@ -6135,7 +7315,17 @@
         }
       },
       "lat": 52.293102,
-      "lng": -0.598756
+      "lng": -0.598756,
+      "id": 10619,
+      "name": "haart (NN10)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 232,
+        "replyRate": null
+      },
+      "totalReviews": 232,
+      "replyRate": null,
+      "score": 82
     },
     {
       "office_id": 250410,
@@ -6186,7 +7376,17 @@
         }
       },
       "lat": 52.4934,
-      "lng": -0.622504
+      "lng": -0.622504,
+      "id": 250410,
+      "name": "haart (NN17)",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 40
     },
     {
       "office_id": 250393,
@@ -6240,7 +7440,18 @@
         }
       },
       "lat": 51.5876,
-      "lng": -2.9978
+      "lng": -2.9978,
+      "id": 250393,
+      "name": "haart (NP20)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 917,
+        "replyRate": 87.5
+      },
+      "totalReviews": 917,
+      "replyRate": 87.5,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 250419,
@@ -6290,7 +7501,17 @@
         }
       },
       "lat": 51.8105,
-      "lng": -2.71843
+      "lng": -2.71843,
+      "id": 250419,
+      "name": "haart (NP25)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 85,
+        "replyRate": null
+      },
+      "totalReviews": 85,
+      "replyRate": null,
+      "score": 73
     },
     {
       "office_id": 10912,
@@ -6344,7 +7565,18 @@
         }
       },
       "lat": 52.679773,
-      "lng": 0.940945
+      "lng": 0.940945,
+      "id": 10912,
+      "name": "haart (NR19)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 327,
+        "replyRate": null
+      },
+      "totalReviews": 327,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 10925,
@@ -6402,7 +7634,18 @@
         }
       },
       "lat": 52.629126,
-      "lng": 1.269013
+      "lng": 1.269013,
+      "id": 10925,
+      "name": "haart (NR2)",
+      "va": {
+        "overallRating": 4.55,
+        "totalReviews": 159,
+        "replyRate": null
+      },
+      "totalReviews": 159,
+      "replyRate": null,
+      "googleScore": 4.6,
+      "score": 80
     },
     {
       "office_id": 10938,
@@ -6461,7 +7704,18 @@
         }
       },
       "lat": 52.630412,
-      "lng": 1.297562
+      "lng": 1.297562,
+      "id": 10938,
+      "name": "haart (NR2)",
+      "va": {
+        "overallRating": 4.52,
+        "totalReviews": 855,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 855,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 11006,
@@ -6507,7 +7761,17 @@
         }
       },
       "lat": 52.47772,
-      "lng": 1.754392
+      "lng": 1.754392,
+      "id": 11006,
+      "name": "haart (NR32)",
+      "va": {
+        "overallRating": 4.98,
+        "totalReviews": 46,
+        "replyRate": null
+      },
+      "totalReviews": 46,
+      "replyRate": null,
+      "score": 76
     },
     {
       "office_id": 11178,
@@ -6553,7 +7817,17 @@
         }
       },
       "lat": 51.548227,
-      "lng": -0.222121
+      "lng": -0.222121,
+      "id": 11178,
+      "name": "haart (NW2)",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 57,
+        "replyRate": null
+      },
+      "totalReviews": 57,
+      "replyRate": null,
+      "score": 75
     },
     {
       "office_id": 11406,
@@ -6606,7 +7880,18 @@
         }
       },
       "lat": 51.587353,
-      "lng": -0.250893
+      "lng": -0.250893,
+      "id": 11406,
+      "name": "haart (NW9)",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 276,
+        "replyRate": 100.0
+      },
+      "totalReviews": 276,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 11767,
@@ -6663,7 +7948,18 @@
         }
       },
       "lat": 52.572512,
-      "lng": -0.245685
+      "lng": -0.245685,
+      "id": 11767,
+      "name": "haart (PE1)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 759,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 759,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 19827,
@@ -6720,7 +8016,18 @@
         }
       },
       "lat": 52.664244,
-      "lng": 0.159442
+      "lng": 0.159442,
+      "id": 19827,
+      "name": "haart (PE13)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 706,
+        "replyRate": 94.11764705882352
+      },
+      "totalReviews": 706,
+      "replyRate": 94.11764705882352,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 19828,
@@ -6777,7 +8084,18 @@
         }
       },
       "lat": 52.549396,
-      "lng": 0.087778
+      "lng": 0.087778,
+      "id": 19828,
+      "name": "haart (PE15)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 442,
+        "replyRate": 100.0
+      },
+      "totalReviews": 442,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 11842,
@@ -6834,7 +8152,18 @@
         }
       },
       "lat": 52.227939,
-      "lng": -0.27094
+      "lng": -0.27094,
+      "id": 11842,
+      "name": "haart (PE19)",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 479,
+        "replyRate": 100.0
+      },
+      "totalReviews": 479,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 250431,
@@ -6884,7 +8213,17 @@
         }
       },
       "lat": 52.7549,
-      "lng": 0.395056
+      "lng": 0.395056,
+      "id": 250431,
+      "name": "haart (PE30)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 66,
+        "replyRate": null
+      },
+      "totalReviews": 66,
+      "replyRate": null,
+      "score": 73
     },
     {
       "office_id": 12165,
@@ -6946,7 +8285,18 @@
         }
       },
       "lat": 50.381773,
-      "lng": -4.133484
+      "lng": -4.133484,
+      "id": 12165,
+      "name": "haart (PL4)",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 861,
+        "replyRate": 75.0
+      },
+      "totalReviews": 861,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 12685,
@@ -7007,7 +8357,18 @@
         }
       },
       "lat": 51.416265,
-      "lng": -0.74831
+      "lng": -0.74831,
+      "id": 12685,
+      "name": "haart (RG12)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 515,
+        "replyRate": 94.73684210526315
+      },
+      "totalReviews": 515,
+      "replyRate": 94.73684210526315,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 19829,
@@ -7069,7 +8430,18 @@
         }
       },
       "lat": 51.442963,
-      "lng": -0.931944
+      "lng": -0.931944,
+      "id": 19829,
+      "name": "haart (RG6)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 517,
+        "replyRate": 42.30769230769231
+      },
+      "totalReviews": 517,
+      "replyRate": 42.30769230769231,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 13073,
@@ -7115,7 +8487,17 @@
         }
       },
       "lat": 51.233725,
-      "lng": -0.327979
+      "lng": -0.327979,
+      "id": 13073,
+      "name": "haart (RH4)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 17,
+        "replyRate": null
+      },
+      "totalReviews": 17,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 13100,
@@ -7172,7 +8554,18 @@
         }
       },
       "lat": 51.574497,
-      "lng": 0.184059
+      "lng": 0.184059,
+      "id": 13100,
+      "name": "haart (RM1)",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 1097,
+        "replyRate": 95.0
+      },
+      "totalReviews": 1097,
+      "replyRate": 95.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 19830,
@@ -7229,7 +8622,18 @@
         }
       },
       "lat": 51.54292,
-      "lng": 0.149174
+      "lng": 0.149174,
+      "id": 19830,
+      "name": "haart (RM10)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 585,
+        "replyRate": 86.95652173913044
+      },
+      "totalReviews": 585,
+      "replyRate": 86.95652173913044,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 13128,
@@ -7282,7 +8686,18 @@
         }
       },
       "lat": 51.563116,
-      "lng": 0.219758
+      "lng": 0.219758,
+      "id": 13128,
+      "name": "haart (RM11)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 470,
+        "replyRate": 98.0
+      },
+      "totalReviews": 470,
+      "replyRate": 98.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 250420,
@@ -7328,7 +8743,17 @@
         }
       },
       "lat": 51.5282,
-      "lng": 0.218129
+      "lng": 0.218129,
+      "id": 250420,
+      "name": "haart (RM13)",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 49,
+        "replyRate": null
+      },
+      "totalReviews": 49,
+      "replyRate": null,
+      "score": 71
     },
     {
       "office_id": 250429,
@@ -7378,7 +8803,17 @@
         }
       },
       "lat": 51.5013,
-      "lng": 0.254547
+      "lng": 0.254547,
+      "id": 250429,
+      "name": "haart (RM15)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 68,
+        "replyRate": null
+      },
+      "totalReviews": 68,
+      "replyRate": null,
+      "score": 73
     },
     {
       "office_id": 13165,
@@ -7444,7 +8879,18 @@
         }
       },
       "lat": 51.47901,
-      "lng": 0.324392
+      "lng": 0.324392,
+      "id": 13165,
+      "name": "haart (RM17)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 740,
+        "replyRate": 78.57142857142857
+      },
+      "totalReviews": 740,
+      "replyRate": 78.57142857142857,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 13179,
@@ -7494,7 +8940,17 @@
         }
       },
       "lat": 51.587013,
-      "lng": 0.20051
+      "lng": 0.20051,
+      "id": 13179,
+      "name": "haart (RM2)",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 127,
+        "replyRate": 100.0
+      },
+      "totalReviews": 127,
+      "replyRate": 100.0,
+      "score": 79
     },
     {
       "office_id": 13185,
@@ -7555,7 +9011,18 @@
         }
       },
       "lat": 51.593882,
-      "lng": 0.234411
+      "lng": 0.234411,
+      "id": 13185,
+      "name": "haart (RM3)",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 199,
+        "replyRate": 100.0
+      },
+      "totalReviews": 199,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 80
     },
     {
       "office_id": 19831,
@@ -7606,7 +9073,17 @@
         }
       },
       "lat": 51.570855,
-      "lng": 0.131716
+      "lng": 0.131716,
+      "id": 19831,
+      "name": "haart (RM6)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 1106,
+        "replyRate": 95.0
+      },
+      "totalReviews": 1106,
+      "replyRate": 95.0,
+      "score": 82
     },
     {
       "office_id": 13780,
@@ -7668,7 +9145,18 @@
         }
       },
       "lat": 51.419889,
-      "lng": -0.080359
+      "lng": -0.080359,
+      "id": 13780,
+      "name": "haart (SE19)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 221,
+        "replyRate": 0.0
+      },
+      "totalReviews": 221,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 81
     },
     {
       "office_id": 250435,
@@ -7725,7 +9213,18 @@
         }
       },
       "lat": 51.4572,
-      "lng": -0.075298
+      "lng": -0.075298,
+      "id": 250435,
+      "name": "haart (SE22)",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 336,
+        "replyRate": 100.0
+      },
+      "totalReviews": 336,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 76
     },
     {
       "office_id": 13986,
@@ -7786,7 +9285,18 @@
         }
       },
       "lat": 51.901064,
-      "lng": -0.19991
+      "lng": -0.19991,
+      "id": 13986,
+      "name": "haart (SG1)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 408,
+        "replyRate": 100.0
+      },
+      "totalReviews": 408,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 14282,
@@ -7840,7 +9350,17 @@
         }
       },
       "lat": 51.509719,
-      "lng": -0.596505
+      "lng": -0.596505,
+      "id": 14282,
+      "name": "haart (SL1)",
+      "va": {
+        "overallRating": 4.65,
+        "totalReviews": 530,
+        "replyRate": 100.0
+      },
+      "totalReviews": 530,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 14306,
@@ -7886,7 +9406,17 @@
         }
       },
       "lat": 51.534015,
-      "lng": -0.658735
+      "lng": -0.658735,
+      "id": 14306,
+      "name": "haart (SL1)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 25,
+        "replyRate": null
+      },
+      "totalReviews": 25,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 250406,
@@ -7936,7 +9466,17 @@
         }
       },
       "lat": 51.5112,
-      "lng": -0.601097
+      "lng": -0.601097,
+      "id": 250406,
+      "name": "haart (SL1)",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 453,
+        "replyRate": 100.0
+      },
+      "totalReviews": 453,
+      "replyRate": 100.0,
+      "score": 76
     },
     {
       "office_id": 14369,
@@ -7994,7 +9534,18 @@
         }
       },
       "lat": 51.521871,
-      "lng": -0.720294
+      "lng": -0.720294,
+      "id": 14369,
+      "name": "haart (SL6)",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 784,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 784,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 14426,
@@ -8051,7 +9602,18 @@
         }
       },
       "lat": 51.360888,
-      "lng": -0.191722
+      "lng": -0.191722,
+      "id": 14426,
+      "name": "haart (SM1)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 1096,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1096,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 14508,
@@ -8097,7 +9659,17 @@
         }
       },
       "lat": 51.558338,
-      "lng": -1.782674
+      "lng": -1.782674,
+      "id": 14508,
+      "name": "haart (SN1)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 812,
+        "replyRate": 100.0
+      },
+      "totalReviews": 812,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 14572,
@@ -8154,7 +9726,18 @@
         }
       },
       "lat": 51.581507,
-      "lng": -1.749977
+      "lng": -1.749977,
+      "id": 14572,
+      "name": "haart (SN3)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 330,
+        "replyRate": 100.0
+      },
+      "totalReviews": 330,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 14958,
@@ -8215,7 +9798,18 @@
         }
       },
       "lat": 51.541232,
-      "lng": 0.696254
+      "lng": 0.696254,
+      "id": 14958,
+      "name": "haart (SS0)",
+      "va": {
+        "overallRating": 4.85,
+        "totalReviews": 549,
+        "replyRate": 100.0
+      },
+      "totalReviews": 549,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 14979,
@@ -8265,7 +9859,17 @@
         }
       },
       "lat": 51.536081,
-      "lng": 0.7607
+      "lng": 0.7607,
+      "id": 14979,
+      "name": "haart (SS1)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 276,
+        "replyRate": null
+      },
+      "totalReviews": 276,
+      "replyRate": null,
+      "score": 82
     },
     {
       "office_id": 14996,
@@ -8318,7 +9922,18 @@
         }
       },
       "lat": 51.570204,
-      "lng": 0.461722
+      "lng": 0.461722,
+      "id": 14996,
+      "name": "haart (SS14)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 611,
+        "replyRate": 100.0
+      },
+      "totalReviews": 611,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 15034,
@@ -8364,7 +9979,17 @@
         }
       },
       "lat": 51.600946,
-      "lng": 0.65222
+      "lng": 0.65222,
+      "id": 15034,
+      "name": "haart (SS5)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 114,
+        "replyRate": null
+      },
+      "totalReviews": 114,
+      "replyRate": null,
+      "score": 80
     },
     {
       "office_id": 15042,
@@ -8421,7 +10046,18 @@
         }
       },
       "lat": 51.585255,
-      "lng": 0.605542
+      "lng": 0.605542,
+      "id": 15042,
+      "name": "haart (SS6)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 231,
+        "replyRate": null
+      },
+      "totalReviews": 231,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 19832,
@@ -8471,7 +10107,17 @@
         }
       },
       "lat": 51.551502,
-      "lng": 0.562282
+      "lng": 0.562282,
+      "id": 19832,
+      "name": "haart (SS7)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 192,
+        "replyRate": 100.0
+      },
+      "totalReviews": 192,
+      "replyRate": 100.0,
+      "score": 80
     },
     {
       "office_id": 19833,
@@ -8521,7 +10167,17 @@
         }
       },
       "lat": 51.541486,
-      "lng": 0.660313
+      "lng": 0.660313,
+      "id": 19833,
+      "name": "haart (SS9)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 96,
+        "replyRate": null
+      },
+      "totalReviews": 96,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 250415,
@@ -8571,7 +10227,17 @@
         }
       },
       "lat": 51.5476,
-      "lng": 0.664393
+      "lng": 0.664393,
+      "id": 250415,
+      "name": "haart (SS9)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 38,
+        "replyRate": null
+      },
+      "totalReviews": 38,
+      "replyRate": null,
+      "score": 71
     },
     {
       "office_id": 15367,
@@ -8624,7 +10290,18 @@
         }
       },
       "lat": 51.437606,
-      "lng": -0.127673
+      "lng": -0.127673,
+      "id": 15367,
+      "name": "haart (SW16)",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 35,
+        "replyRate": null
+      },
+      "totalReviews": 35,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 15422,
@@ -8670,7 +10347,17 @@
         }
       },
       "lat": 51.43199,
-      "lng": -0.163754
+      "lng": -0.163754,
+      "id": 15422,
+      "name": "haart (SW17)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 196,
+        "replyRate": null
+      },
+      "totalReviews": 196,
+      "replyRate": null,
+      "score": 79
     },
     {
       "office_id": 15461,
@@ -8716,7 +10403,17 @@
         }
       },
       "lat": 51.442605,
-      "lng": -0.188841
+      "lng": -0.188841,
+      "id": 15461,
+      "name": "haart (SW18)",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 12,
+        "replyRate": null
+      },
+      "totalReviews": 12,
+      "replyRate": null,
+      "score": 70
     },
     {
       "office_id": 15519,
@@ -8762,7 +10459,17 @@
         }
       },
       "lat": 51.444089,
-      "lng": -0.206971
+      "lng": -0.206971,
+      "id": 15519,
+      "name": "haart (SW19)",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 72,
+        "replyRate": null
+      },
+      "totalReviews": 72,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 15525,
@@ -8815,7 +10522,18 @@
         }
       },
       "lat": 51.422309,
-      "lng": -0.20932
+      "lng": -0.20932,
+      "id": 15525,
+      "name": "haart (SW19)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 486,
+        "replyRate": 100.0
+      },
+      "totalReviews": 486,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 15626,
@@ -8866,7 +10584,17 @@
         }
       },
       "lat": 51.409671,
-      "lng": -0.231037
+      "lng": -0.231037,
+      "id": 15626,
+      "name": "haart (SW20)",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 28,
+        "replyRate": null
+      },
+      "totalReviews": 28,
+      "replyRate": null,
+      "score": 68
     },
     {
       "office_id": 250436,
@@ -8933,7 +10661,18 @@
         }
       },
       "lat": 51.4609,
-      "lng": -0.138629
+      "lng": -0.138629,
+      "id": 250436,
+      "name": "haart (SW4)",
+      "va": {
+        "overallRating": 3.74,
+        "totalReviews": 1849,
+        "replyRate": 45.45454545454545
+      },
+      "totalReviews": 1849,
+      "replyRate": 45.45454545454545,
+      "googleScore": 4.7,
+      "score": 64
     },
     {
       "office_id": 15815,
@@ -8984,7 +10723,17 @@
         }
       },
       "lat": 51.46199,
-      "lng": -0.115648
+      "lng": -0.115648,
+      "id": 15815,
+      "name": "haart (SW9)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 36
     },
     {
       "office_id": 15930,
@@ -9042,7 +10791,18 @@
         }
       },
       "lat": 51.013055,
-      "lng": -3.103625
+      "lng": -3.103625,
+      "id": 15930,
+      "name": "haart (TA1)",
+      "va": {
+        "overallRating": 4.71,
+        "totalReviews": 469,
+        "replyRate": null
+      },
+      "totalReviews": 469,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 16161,
@@ -9095,7 +10855,18 @@
         }
       },
       "lat": 51.308348,
-      "lng": 0.038489
+      "lng": 0.038489,
+      "id": 16161,
+      "name": "haart (TN16)",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 445,
+        "replyRate": 100.0
+      },
+      "totalReviews": 445,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 82
     },
     {
       "office_id": 16221,
@@ -9156,7 +10927,18 @@
         }
       },
       "lat": 51.149251,
-      "lng": 0.872238
+      "lng": 0.872238,
+      "id": 16221,
+      "name": "haart (TN24)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 445,
+        "replyRate": 100.0
+      },
+      "totalReviews": 445,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 16407,
@@ -9213,7 +10995,18 @@
         }
       },
       "lat": 50.467785,
-      "lng": -3.53167
+      "lng": -3.53167,
+      "id": 16407,
+      "name": "haart (TQ2)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 112,
+        "replyRate": null
+      },
+      "totalReviews": 112,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 19834,
@@ -9264,7 +11057,17 @@
         }
       },
       "lat": 51.447542,
-      "lng": -0.327434
+      "lng": -0.327434,
+      "id": 19834,
+      "name": "haart (TW1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": null
+      },
+      "totalReviews": 3,
+      "replyRate": null,
+      "score": 59
     },
     {
       "office_id": 16721,
@@ -9314,7 +11117,17 @@
         }
       },
       "lat": 51.434044,
-      "lng": -0.464729
+      "lng": -0.464729,
+      "id": 16721,
+      "name": "haart (TW15)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 979,
+        "replyRate": 100.0
+      },
+      "totalReviews": 979,
+      "replyRate": 100.0,
+      "score": 82
     },
     {
       "office_id": 16734,
@@ -9368,7 +11181,18 @@
         }
       },
       "lat": 51.395469,
-      "lng": -0.449203
+      "lng": -0.449203,
+      "id": 16734,
+      "name": "haart (TW17)",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 500,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 500,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 16884,
@@ -9418,7 +11242,17 @@
         }
       },
       "lat": 51.552031,
-      "lng": -0.449755
+      "lng": -0.449755,
+      "id": 16884,
+      "name": "haart (UB10)",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 86,
+        "replyRate": null
+      },
+      "totalReviews": 86,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 16913,
@@ -9480,7 +11314,18 @@
         }
       },
       "lat": 51.518372,
-      "lng": -0.408682
+      "lng": -0.408682,
+      "id": 16913,
+      "name": "haart (UB4)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 740,
+        "replyRate": 78.57142857142857
+      },
+      "totalReviews": 740,
+      "replyRate": 78.57142857142857,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 16938,
@@ -9542,7 +11387,18 @@
         }
       },
       "lat": 51.528205,
-      "lng": -0.355561
+      "lng": -0.355561,
+      "id": 16938,
+      "name": "haart (UB6)",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 568,
+        "replyRate": 0.0
+      },
+      "totalReviews": 568,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 16953,
@@ -9592,7 +11448,17 @@
         }
       },
       "lat": 51.544676,
-      "lng": -0.476555
+      "lng": -0.476555,
+      "id": 16953,
+      "name": "haart (UB8)",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 86,
+        "replyRate": null
+      },
+      "totalReviews": 86,
+      "replyRate": null,
+      "score": 78
     },
     {
       "office_id": 17337,
@@ -9651,7 +11517,18 @@
         }
       },
       "lat": 51.514149,
-      "lng": -0.30244
+      "lng": -0.30244,
+      "id": 17337,
+      "name": "haart (W5)",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 28,
+        "replyRate": null
+      },
+      "totalReviews": 28,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 68
     },
     {
       "office_id": 19835,
@@ -9713,7 +11590,18 @@
         }
       },
       "lat": 51.706413,
-      "lng": -0.417217
+      "lng": -0.417217,
+      "id": 19835,
+      "name": "haart (WD5)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 315,
+        "replyRate": 0.0
+      },
+      "totalReviews": 315,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 17748,
@@ -9763,7 +11651,17 @@
         }
       },
       "lat": 51.655377,
-      "lng": -0.276279
+      "lng": -0.276279,
+      "id": 17748,
+      "name": "haart (WD6)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 137,
+        "replyRate": null
+      },
+      "totalReviews": 137,
+      "replyRate": null,
+      "score": 80
     }
   ],
   "google_summary": {

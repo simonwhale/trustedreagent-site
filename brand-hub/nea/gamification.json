@@ -57,7 +57,18 @@
         }
       },
       "lat": 53.832,
-      "lng": -1.64202
+      "lng": -1.64202,
+      "id": 251848,
+      "name": "Manning Stainton (LS18)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 2241,
+        "replyRate": 47.524752475247524
+      },
+      "totalReviews": 2241,
+      "replyRate": 47.524752475247524,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 244000,
@@ -110,7 +121,18 @@
         }
       },
       "lat": 53.855,
-      "lng": -1.59156
+      "lng": -1.59156,
+      "id": 244000,
+      "name": "Manning Stainton Adel",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 166,
+        "replyRate": 73.91304347826086
+      },
+      "totalReviews": 166,
+      "replyRate": 73.91304347826086,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 244001,
@@ -158,7 +180,18 @@
         }
       },
       "lat": 53.7741,
-      "lng": -1.56358
+      "lng": -1.56358,
+      "id": 244001,
+      "name": "Manning Stainton Beeston",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 132,
+        "replyRate": 87.5
+      },
+      "totalReviews": 132,
+      "replyRate": 87.5,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 244002,
@@ -206,7 +239,18 @@
         }
       },
       "lat": 53.8072,
-      "lng": -1.45006
+      "lng": -1.45006,
+      "id": 244002,
+      "name": "Manning Stainton Crossgates",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 191,
+        "replyRate": 80.0
+      },
+      "totalReviews": 191,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 244003,
@@ -259,7 +303,18 @@
         }
       },
       "lat": 53.7949,
-      "lng": -1.388
+      "lng": -1.388,
+      "id": 244003,
+      "name": "Manning Stainton Garforth",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 130,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 130,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8790,
@@ -312,7 +367,18 @@
         }
       },
       "lat": 53.872,
-      "lng": -1.70706
+      "lng": -1.70706,
+      "id": 8790,
+      "name": "Manning Stainton Guiseley",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 124,
+        "replyRate": 50.0
+      },
+      "totalReviews": 124,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8867,
@@ -365,7 +431,18 @@
         }
       },
       "lat": 53.8208,
-      "lng": -1.57703
+      "lng": -1.57703,
+      "id": 8867,
+      "name": "Manning Stainton Headingley",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 180,
+        "replyRate": 57.14285714285714
+      },
+      "totalReviews": 180,
+      "replyRate": 57.14285714285714,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 8764,
@@ -422,7 +499,18 @@
         }
       },
       "lat": 53.8449,
-      "lng": -1.53257
+      "lng": -1.53257,
+      "id": 8764,
+      "name": "Manning Stainton Moortown",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 166,
+        "replyRate": 80.0
+      },
+      "totalReviews": 166,
+      "replyRate": 80.0,
+      "googleScore": 4.3,
+      "score": 80
     },
     {
       "office_id": 241635,
@@ -479,7 +567,18 @@
         }
       },
       "lat": 53.8441,
-      "lng": -1.5325
+      "lng": -1.5325,
+      "id": 241635,
+      "name": "Manning Stainton Moortown Lettings",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 2057,
+        "replyRate": 37.362637362637365
+      },
+      "totalReviews": 2057,
+      "replyRate": 37.362637362637365,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 8832,
@@ -525,7 +624,17 @@
         }
       },
       "lat": 53.7465,
-      "lng": -1.60231
+      "lng": -1.60231,
+      "id": 8832,
+      "name": "Manning Stainton Morley",
+      "va": {
+        "overallRating": 4.51,
+        "totalReviews": 336,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 336,
+      "replyRate": 66.66666666666666,
+      "score": 75
     },
     {
       "office_id": 8891,
@@ -578,7 +687,18 @@
         }
       },
       "lat": 53.8265,
-      "lng": -1.5068
+      "lng": -1.5068,
+      "id": 8891,
+      "name": "Manning Stainton Oakwood",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 388,
+        "replyRate": 60.0
+      },
+      "totalReviews": 388,
+      "replyRate": 60.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 8843,
@@ -631,7 +751,18 @@
         }
       },
       "lat": 53.7974,
-      "lng": -1.66344
+      "lng": -1.66344,
+      "id": 8843,
+      "name": "Manning Stainton Pudsey",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 703,
+        "replyRate": 71.05263157894737
+      },
+      "totalReviews": 703,
+      "replyRate": 71.05263157894737,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 244004,
@@ -684,7 +815,18 @@
         }
       },
       "lat": 53.748,
-      "lng": -1.47712
+      "lng": -1.47712,
+      "id": 244004,
+      "name": "Manning Stainton Rothwell",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 129,
+        "replyRate": 75.0
+      },
+      "totalReviews": 129,
+      "replyRate": 75.0,
+      "googleScore": 4.6,
+      "score": 74
     },
     {
       "office_id": 241638,
@@ -737,7 +879,18 @@
         }
       },
       "lat": 53.6842,
-      "lng": -1.49909
+      "lng": -1.49909,
+      "id": 241638,
+      "name": "Manning Stainton Wakefield",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 293,
+        "replyRate": 62.5
+      },
+      "totalReviews": 293,
+      "replyRate": 62.5,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 241639,
@@ -794,7 +947,18 @@
         }
       },
       "lat": 53.9286,
-      "lng": -1.38648
+      "lng": -1.38648,
+      "id": 241639,
+      "name": "Manning Stainton Wetherby",
+      "va": {
+        "overallRating": 4.94,
+        "totalReviews": 150,
+        "replyRate": 100.0
+      },
+      "totalReviews": 150,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 8740,
@@ -842,7 +1006,18 @@
         }
       },
       "lat": 53.7842,
-      "lng": -1.59519
+      "lng": -1.59519,
+      "id": 8740,
+      "name": "Manning Stainton Wortley",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 183,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 183,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 225471,
@@ -890,7 +1065,18 @@
         }
       },
       "lat": 53.7503,
-      "lng": -2.48511
+      "lng": -2.48511,
+      "id": 225471,
+      "name": "Mortimers (BB1)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 312,
+        "replyRate": 100.0
+      },
+      "totalReviews": 312,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 829,
@@ -938,7 +1124,18 @@
         }
       },
       "lat": 53.7528,
-      "lng": -2.36298
+      "lng": -2.36298,
+      "id": 829,
+      "name": "Mortimers (BB5)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 389,
+        "replyRate": 100.0
+      },
+      "totalReviews": 389,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 841,
@@ -986,7 +1183,18 @@
         }
       },
       "lat": 53.8721,
-      "lng": -2.392
+      "lng": -2.392,
+      "id": 841,
+      "name": "Mortimers (BB7)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 174,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 174,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 259714,
@@ -1048,7 +1256,18 @@
         }
       },
       "lat": 53.4431,
-      "lng": -1.94954
+      "lng": -1.94954,
+      "id": 259714,
+      "name": "Ryder & Dutton Glossop",
+      "va": {
+        "overallRating": 4.83,
+        "totalReviews": 1697,
+        "replyRate": 16.666666666666664
+      },
+      "totalReviews": 1697,
+      "replyRate": 16.666666666666664,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 241791,
@@ -1096,7 +1315,18 @@
         }
       },
       "lat": 53.5706,
-      "lng": -1.78706
+      "lng": -1.78706,
+      "id": 241791,
+      "name": "Ryder & Dutton Holmfirth",
+      "va": {
+        "overallRating": 4.96,
+        "totalReviews": 184,
+        "replyRate": 80.0
+      },
+      "totalReviews": 184,
+      "replyRate": 80.0,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 241793,
@@ -1144,7 +1374,18 @@
         }
       },
       "lat": 53.6531,
-      "lng": -1.81648
+      "lng": -1.81648,
+      "id": 241793,
+      "name": "Ryder & Dutton Huddersfield",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 285,
+        "replyRate": 91.66666666666666
+      },
+      "totalReviews": 285,
+      "replyRate": 91.66666666666666,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 241794,
@@ -1197,7 +1438,18 @@
         }
       },
       "lat": 53.7039,
-      "lng": -2.28529
+      "lng": -2.28529,
+      "id": 241794,
+      "name": "Ryder & Dutton Rawtenstall",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 397,
+        "replyRate": 31.25
+      },
+      "totalReviews": 397,
+      "replyRate": 31.25,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 241796,
@@ -1245,7 +1497,18 @@
         }
       },
       "lat": 53.5665,
-      "lng": -2.12232
+      "lng": -2.12232,
+      "id": 241796,
+      "name": "Ryder & Dutton Royton",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 186,
+        "replyRate": 100.0
+      },
+      "totalReviews": 186,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 74
     },
     {
       "office_id": 258632,
@@ -1303,7 +1566,18 @@
         }
       },
       "lat": 53.6228,
-      "lng": -1.8806
+      "lng": -1.8806,
+      "id": 258632,
+      "name": "Ryder & Dutton Slaithwaite",
+      "va": {
+        "overallRating": 4.98,
+        "totalReviews": 228,
+        "replyRate": 0.0
+      },
+      "totalReviews": 228,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 75
     },
     {
       "office_id": 9071,
@@ -1361,7 +1635,18 @@
         }
       },
       "lat": 53.5485,
-      "lng": -2.1988
+      "lng": -2.1988,
+      "id": 9071,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 2786,
+        "replyRate": 39.66942148760331
+      },
+      "totalReviews": 2786,
+      "replyRate": 39.66942148760331,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11417,
@@ -1415,7 +1700,18 @@
         }
       },
       "lat": 53.5399,
-      "lng": -2.11572
+      "lng": -2.11572,
+      "id": 11417,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 605,
+        "replyRate": 69.0909090909091
+      },
+      "totalReviews": 605,
+      "replyRate": 69.0909090909091,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 253137,
@@ -1473,7 +1769,18 @@
         }
       },
       "lat": 53.5937,
-      "lng": -2.21998
+      "lng": -2.21998,
+      "id": 253137,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 2341,
+        "replyRate": 32.038834951456316
+      },
+      "totalReviews": 2341,
+      "replyRate": 32.038834951456316,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11452,
@@ -1527,7 +1834,18 @@
         }
       },
       "lat": 53.6196,
-      "lng": -2.15425
+      "lng": -2.15425,
+      "id": 11452,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 198,
+        "replyRate": 28.947368421052634
+      },
+      "totalReviews": 198,
+      "replyRate": 28.947368421052634,
+      "googleScore": 4.7,
+      "score": 80
     },
     {
       "office_id": 11464,
@@ -1585,7 +1903,18 @@
         }
       },
       "lat": 53.5484,
-      "lng": -2.00574
+      "lng": -2.00574,
+      "id": 11464,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 359,
+        "replyRate": 78.57142857142857
+      },
+      "totalReviews": 359,
+      "replyRate": 78.57142857142857,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 253138,
@@ -1643,7 +1972,18 @@
         }
       },
       "lat": 53.4889,
-      "lng": -2.09174
+      "lng": -2.09174,
+      "id": 253138,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 2438,
+        "replyRate": 46.09375
+      },
+      "totalReviews": 2438,
+      "replyRate": 46.09375,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 11491,
@@ -1697,7 +2037,18 @@
         }
       },
       "lat": 53.5215,
-      "lng": -2.16537
+      "lng": -2.16537,
+      "id": 11491,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 343,
+        "replyRate": 51.21951219512195
+      },
+      "totalReviews": 343,
+      "replyRate": 51.21951219512195,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 253139,
@@ -1752,7 +2103,17 @@
         }
       },
       "lat": 53.7231,
-      "lng": -1.86254
+      "lng": -1.86254,
+      "id": 253139,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.79,
+        "totalReviews": 2043,
+        "replyRate": 23.308270676691727
+      },
+      "totalReviews": 2043,
+      "replyRate": 23.308270676691727,
+      "score": 76
     },
     {
       "office_id": 253140,
@@ -1809,7 +2170,18 @@
         }
       },
       "lat": 53.5608,
-      "lng": -2.1108
+      "lng": -2.1108,
+      "id": 253140,
+      "name": "Ryder and Dutton",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 2041,
+        "replyRate": 35.44303797468354
+      },
+      "totalReviews": 2041,
+      "replyRate": 35.44303797468354,
+      "googleScore": 4.7,
+      "score": 76
     }
   ],
   "google_summary": {

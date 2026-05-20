@@ -2808,6 +2808,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 
 
 
+
 <!-- BRAND-AGNOSTIC RENDER INJECTED -->
 <script>
 // ======================================================
@@ -3214,24 +3215,25 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
         reply = '\u2014';
       }
       var loc = esc(o.postcode || '');
+      // Trend indicator: simple comparison reviews_30d vs avg per month (totalReviews/12 as rough baseline)
+      var monthlyBaseline = totalReviews > 0 ? totalReviews / 12 : 0;
+      var trendArrow = '\u2014';
+      if (reviews30 > monthlyBaseline * 1.2) trendArrow = '<span style="color:#10b981;">\u2191</span>';
+      else if (reviews30 < monthlyBaseline * 0.8 && monthlyBaseline > 0) trendArrow = '<span style="color:#ef4444;">\u2193</span>';
+      else if (reviews30 > 0) trendArrow = '<span style="color:#7088a4;">\u2192</span>';
+
+      // 7 columns to match static <thead>: Rank | Office Name | Postcode | Score | Reviews | Reply Rate | Trend
       return '<tr>' +
-        '<td>' + (i+1) + '</td>' +
-        '<td class="name-cell"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'+dotColor+';margin-right:8px;"></span>' + esc(o.branch) + '</td>' +
+        '<td class="num-cell">' + (i+1) + '</td>' +
+        '<td class="name-cell"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:'+dotColor+';margin-right:8px;vertical-align:middle;"></span>' + esc(o.branch) + '</td>' +
         '<td>' + loc + '</td>' +
         '<td class="num-cell">' + score + '</td>' +
-        '<td class="num-cell">' + rating + '</td>' +
-        '<td class="num-cell">' + fmt(totalReviews) + '</td>' +
-        '<td class="num-cell">' + fmt(reviews30) + '</td>' +
+        '<td class="num-cell">' + fmt(totalReviews) + ' <span style="color:#7088a4;font-size:11px;">(' + rating + ')</span></td>' +
         '<td class="num-cell">' + reply + '</td>' +
+        '<td class="num-cell">' + trendArrow + '</td>' +
         '</tr>';
     }).join('');
     tbody.innerHTML = rows;
-
-    // Also fix the table header — strip the 'TIER' column if static
-    var theadCells = document.querySelectorAll('#offices table thead th');
-    theadCells.forEach(function(th){
-      if (/^\s*tier\s*$/i.test(th.textContent)) th.remove();
-    });
   }
 
   // ---------- REGIONAL BREAKDOWN ----------

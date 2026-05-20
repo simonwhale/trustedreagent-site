@@ -63,7 +63,18 @@
         }
       },
       "lat": 50.8006,
-      "lng": -1.89075
+      "lng": -1.89075,
+      "id": 254321,
+      "name": "Winkworth (BH22)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 47,
+        "replyRate": 0.0
+      },
+      "totalReviews": 47,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 46
     },
     {
       "office_id": 247680,
@@ -130,7 +141,18 @@
         }
       },
       "lat": 50.7288,
-      "lng": -1.73963
+      "lng": -1.73963,
+      "id": 247680,
+      "name": "Winkworth (BH23)",
+      "va": {
+        "overallRating": 3.92,
+        "totalReviews": 849,
+        "replyRate": 50.0
+      },
+      "totalReviews": 849,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 62
     },
     {
       "office_id": 254312,
@@ -192,7 +214,18 @@
         }
       },
       "lat": 50.9023,
-      "lng": -3.48799
+      "lng": -3.48799,
+      "id": 254312,
+      "name": "Winkworth (EX16)",
+      "va": {
+        "overallRating": 4.99,
+        "totalReviews": 219,
+        "replyRate": 0.0
+      },
+      "totalReviews": 219,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 74
     },
     {
       "office_id": 254323,
@@ -255,7 +288,18 @@
         }
       },
       "lat": 50.7909,
-      "lng": -3.65987
+      "lng": -3.65987,
+      "id": 254323,
+      "name": "Winkworth (EX17)",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 110,
+        "replyRate": 0.0
+      },
+      "totalReviews": 110,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 48
     },
     {
       "office_id": 254313,
@@ -313,7 +357,18 @@
         }
       },
       "lat": 51.3614,
-      "lng": -0.693387
+      "lng": -0.693387,
+      "id": 254313,
+      "name": "Winkworth (GU19)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 11,
+        "replyRate": null
+      },
+      "totalReviews": 11,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 65
     },
     {
       "office_id": 254317,
@@ -371,7 +426,18 @@
         }
       },
       "lat": 52.3271,
-      "lng": 1.67733
+      "lng": 1.67733,
+      "id": 254317,
+      "name": "Winkworth (IP18)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 48,
+        "replyRate": null
+      },
+      "totalReviews": 48,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 46
     },
     {
       "office_id": 254351,
@@ -429,7 +495,18 @@
         }
       },
       "lat": 51.3928,
-      "lng": -0.628834
+      "lng": -0.628834,
+      "id": 254351,
+      "name": "Winkworth (SL5)",
+      "va": {
+        "overallRating": 4.88,
+        "totalReviews": 48,
+        "replyRate": null
+      },
+      "totalReviews": 48,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 65
     },
     {
       "office_id": 254326,
@@ -482,7 +559,18 @@
         }
       },
       "lat": 51.5429,
-      "lng": 0.663971
+      "lng": 0.663971,
+      "id": 254326,
+      "name": "Winkworth (SS9)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 148,
+        "replyRate": 100.0
+      },
+      "totalReviews": 148,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 254352,
@@ -544,7 +632,18 @@
         }
       },
       "lat": 51.4733,
-      "lng": -0.248166
+      "lng": -0.248166,
+      "id": 254352,
+      "name": "Winkworth (SW13)",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 16,
+        "replyRate": null
+      },
+      "totalReviews": 16,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 61
     },
     {
       "office_id": 16105,
@@ -595,7 +694,17 @@
         }
       },
       "lat": 51.127462,
-      "lng": 0.26096
+      "lng": 0.26096,
+      "id": 16105,
+      "name": "Winkworth (TN1)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 21,
+        "replyRate": null
+      },
+      "totalReviews": 21,
+      "replyRate": null,
+      "score": 49
     },
     {
       "office_id": 254330,
@@ -653,7 +762,18 @@
         }
       },
       "lat": 50.352,
-      "lng": -3.57999
+      "lng": -3.57999,
+      "id": 254330,
+      "name": "Winkworth (TQ6)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": null
+      },
+      "totalReviews": 8,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 59
     },
     {
       "office_id": 259319,
@@ -712,7 +832,18 @@
         }
       },
       "lat": 51.3228,
-      "lng": -0.19972
+      "lng": -0.19972,
+      "id": 259319,
+      "name": "Winkworth Banstead",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 824,
+        "replyRate": 0.0
+      },
+      "totalReviews": 824,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 72
     },
     {
       "office_id": 5413,
@@ -771,7 +902,18 @@
         }
       },
       "lat": 51.652771,
-      "lng": -0.199688
+      "lng": -0.199688,
+      "id": 5413,
+      "name": "Winkworth Barnet",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 106,
+        "replyRate": 100.0
+      },
+      "totalReviews": 106,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 74
     },
     {
       "office_id": 12766,
@@ -832,7 +974,18 @@
         }
       },
       "lat": 51.263115,
-      "lng": -1.087282
+      "lng": -1.087282,
+      "id": 12766,
+      "name": "Winkworth Basingstoke",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 86,
+        "replyRate": null
+      },
+      "totalReviews": 86,
+      "replyRate": null,
+      "googleScore": 4.8,
+      "score": 70
     },
     {
       "office_id": 660,
@@ -885,7 +1038,18 @@
         }
       },
       "lat": 51.383363,
-      "lng": -2.362494
+      "lng": -2.362494,
+      "id": 660,
+      "name": "Winkworth Bath",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 146,
+        "replyRate": 100.0
+      },
+      "totalReviews": 146,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 22195,
@@ -942,7 +1106,18 @@
         }
       },
       "lat": 51.601861,
-      "lng": -0.634747
+      "lng": -0.634747,
+      "id": 22195,
+      "name": "Winkworth Beaconsfield",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 87,
+        "replyRate": null
+      },
+      "totalReviews": 87,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 78
     },
     {
       "office_id": 1689,
@@ -995,7 +1170,18 @@
         }
       },
       "lat": 51.4066,
-      "lng": -0.028118
+      "lng": -0.028118,
+      "id": 1689,
+      "name": "Winkworth Beckenham",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 183,
+        "replyRate": 13.793103448275861
+      },
+      "totalReviews": 183,
+      "replyRate": 13.793103448275861,
+      "googleScore": 4.8,
+      "score": 79
     },
     {
       "office_id": 13907,
@@ -1048,7 +1234,18 @@
         }
       },
       "lat": 51.465613,
-      "lng": 0.009469
+      "lng": 0.009469,
+      "id": 13907,
+      "name": "Winkworth Blackheath",
+      "va": {
+        "overallRating": 4.69,
+        "totalReviews": 253,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 253,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 259091,
@@ -1107,7 +1304,18 @@
         }
       },
       "lat": 51.6548,
-      "lng": -0.277325
+      "lng": -0.277325,
+      "id": 259091,
+      "name": "Winkworth Borehamwood & Elstree",
+      "va": {
+        "overallRating": 4.06,
+        "totalReviews": 1059,
+        "replyRate": 47.368421052631575
+      },
+      "totalReviews": 1059,
+      "replyRate": 47.368421052631575,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 11791,
@@ -1162,7 +1370,18 @@
         }
       },
       "lat": 52.768204,
-      "lng": -0.378898
+      "lng": -0.378898,
+      "id": 11791,
+      "name": "Winkworth Bourne",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 115,
+        "replyRate": 100.0
+      },
+      "totalReviews": 115,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 76
     },
     {
       "office_id": 4821,
@@ -1213,7 +1432,17 @@
         }
       },
       "lat": 51.544221,
-      "lng": 0.004046
+      "lng": 0.004046,
+      "id": 4821,
+      "name": "Winkworth Bow",
+      "va": {
+        "overallRating": 3.14,
+        "totalReviews": 36,
+        "replyRate": null
+      },
+      "totalReviews": 36,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 257352,
@@ -1282,7 +1511,18 @@
         }
       },
       "lat": 51.5322,
-      "lng": -0.03442
+      "lng": -0.03442,
+      "id": 257352,
+      "name": "Winkworth Bow",
+      "va": {
+        "overallRating": 3.87,
+        "totalReviews": 858,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 858,
+      "replyRate": 69.23076923076923,
+      "googleScore": 3.1,
+      "score": 62
     },
     {
       "office_id": 257353,
@@ -1338,7 +1578,17 @@
         }
       },
       "lat": 51.4831,
-      "lng": -0.309347
+      "lng": -0.309347,
+      "id": 257353,
+      "name": "Winkworth Brentford",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 802,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 802,
+      "replyRate": 69.23076923076923,
+      "score": 62
     },
     {
       "office_id": 257407,
@@ -1407,7 +1657,18 @@
         }
       },
       "lat": 50.8272,
-      "lng": -0.167623
+      "lng": -0.167623,
+      "id": 257407,
+      "name": "Winkworth Brighton & Hove",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 900,
+        "replyRate": 0.0
+      },
+      "totalReviews": 900,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 67
     },
     {
       "office_id": 259630,
@@ -1476,7 +1737,18 @@
         }
       },
       "lat": 51.2766,
-      "lng": 1.07779
+      "lng": 1.07779,
+      "id": 259630,
+      "name": "Winkworth Canterbury",
+      "va": {
+        "overallRating": 3.91,
+        "totalReviews": 824,
+        "replyRate": 0.0
+      },
+      "totalReviews": 824,
+      "replyRate": 0.0,
+      "googleScore": 4.1,
+      "score": 62
     },
     {
       "office_id": 14456,
@@ -1539,7 +1811,18 @@
         }
       },
       "lat": 51.35681,
-      "lng": -0.216012
+      "lng": -0.216012,
+      "id": 14456,
+      "name": "Winkworth Cheam",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 119,
+        "replyRate": 0.0
+      },
+      "totalReviews": 119,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 68
     },
     {
       "office_id": 237496,
@@ -1601,7 +1884,18 @@
         }
       },
       "lat": 51.899183,
-      "lng": -2.077969
+      "lng": -2.077969,
+      "id": 237496,
+      "name": "Winkworth Cheltenham",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 77,
+        "replyRate": null
+      },
+      "totalReviews": 77,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 68
     },
     {
       "office_id": 256572,
@@ -1664,7 +1958,18 @@
         }
       },
       "lat": 51.4922,
-      "lng": -0.261869
+      "lng": -0.261869,
+      "id": 256572,
+      "name": "Winkworth Chiswick",
+      "va": {
+        "overallRating": 4.03,
+        "totalReviews": 979,
+        "replyRate": 0.0
+      },
+      "totalReviews": 979,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256573,
@@ -1724,7 +2029,18 @@
         }
       },
       "lat": 51.5263,
-      "lng": -0.107996
+      "lng": -0.107996,
+      "id": 256573,
+      "name": "Winkworth Clerkenwell & City",
+      "va": {
+        "overallRating": 4.02,
+        "totalReviews": 934,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 934,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 256574,
@@ -1787,7 +2103,18 @@
         }
       },
       "lat": 51.5804,
-      "lng": -0.122593
+      "lng": -0.122593,
+      "id": 256574,
+      "name": "Winkworth Crouch End",
+      "va": {
+        "overallRating": 3.92,
+        "totalReviews": 810,
+        "replyRate": 100.0
+      },
+      "totalReviews": 810,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 62
     },
     {
       "office_id": 13776,
@@ -1845,7 +2172,18 @@
         }
       },
       "lat": 51.419889,
-      "lng": -0.080359
+      "lng": -0.080359,
+      "id": 13776,
+      "name": "Winkworth Crystal Palace",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 150,
+        "replyRate": 0.0
+      },
+      "totalReviews": 150,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 256575,
@@ -1908,7 +2246,18 @@
         }
       },
       "lat": 51.5139,
-      "lng": -0.151727
+      "lng": -0.151727,
+      "id": 256575,
+      "name": "Winkworth Crystal Palace",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 801,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 801,
+      "replyRate": 69.23076923076923,
+      "googleScore": null,
+      "score": 62
     },
     {
       "office_id": 14527,
@@ -1961,7 +2310,18 @@
         }
       },
       "lat": 51.352615,
-      "lng": -1.996476
+      "lng": -1.996476,
+      "id": 14527,
+      "name": "Winkworth Devizes",
+      "va": {
+        "overallRating": 4.95,
+        "totalReviews": 20,
+        "replyRate": null
+      },
+      "totalReviews": 20,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 70
     },
     {
       "office_id": 256576,
@@ -2028,7 +2388,18 @@
         }
       },
       "lat": 51.4572,
-      "lng": -0.075298
+      "lng": -0.075298,
+      "id": 256576,
+      "name": "Winkworth Dulwich",
+      "va": {
+        "overallRating": 4.04,
+        "totalReviews": 1004,
+        "replyRate": 20.0
+      },
+      "totalReviews": 1004,
+      "replyRate": 20.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 256577,
@@ -2091,7 +2462,18 @@
         }
       },
       "lat": 51.5103,
-      "lng": -0.288437
+      "lng": -0.288437,
+      "id": 256577,
+      "name": "Winkworth Ealing & Acton",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 1051,
+        "replyRate": 44.827586206896555
+      },
+      "totalReviews": 1051,
+      "replyRate": 44.827586206896555,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 5472,
@@ -2153,7 +2535,18 @@
         }
       },
       "lat": 50.722,
-      "lng": -3.52752
+      "lng": -3.52752,
+      "id": 5472,
+      "name": "Winkworth Exeter",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 560,
+        "replyRate": 0.0
+      },
+      "totalReviews": 560,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 6566,
@@ -2219,7 +2612,18 @@
         }
       },
       "lat": 51.21385,
-      "lng": -0.803272
+      "lng": -0.803272,
+      "id": 6566,
+      "name": "Winkworth Farnham",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 295,
+        "replyRate": 27.27272727272727
+      },
+      "totalReviews": 295,
+      "replyRate": 27.27272727272727,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 256578,
@@ -2287,7 +2691,18 @@
         }
       },
       "lat": 51.6008,
-      "lng": -0.194052
+      "lng": -0.194052,
+      "id": 256578,
+      "name": "Winkworth Finchley",
+      "va": {
+        "overallRating": 3.89,
+        "totalReviews": 838,
+        "replyRate": 0.0
+      },
+      "totalReviews": 838,
+      "replyRate": 0.0,
+      "googleScore": 3.9,
+      "score": 62
     },
     {
       "office_id": 256579,
@@ -2351,7 +2766,18 @@
         }
       },
       "lat": 51.4389,
-      "lng": -0.054444
+      "lng": -0.054444,
+      "id": 256579,
+      "name": "Winkworth Forest Hill",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1024,
+        "replyRate": 51.85185185185185
+      },
+      "totalReviews": 1024,
+      "replyRate": 51.85185185185185,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 256612,
@@ -2418,7 +2844,18 @@
         }
       },
       "lat": 51.4848,
-      "lng": -0.220411
+      "lng": -0.220411,
+      "id": 256612,
+      "name": "Winkworth Fulham & Barons Court",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 199,
+        "replyRate": 75.0
+      },
+      "totalReviews": 199,
+      "replyRate": 75.0,
+      "googleScore": 5.0,
+      "score": 62
     },
     {
       "office_id": 256580,
@@ -2480,7 +2917,18 @@
         }
       },
       "lat": 51.5712,
-      "lng": -0.195674
+      "lng": -0.195674,
+      "id": 256580,
+      "name": "Winkworth Golders Green",
+      "va": {
+        "overallRating": 3.92,
+        "totalReviews": 906,
+        "replyRate": 80.0
+      },
+      "totalReviews": 906,
+      "replyRate": 80.0,
+      "googleScore": 4.2,
+      "score": 64
     },
     {
       "office_id": 10508,
@@ -2538,7 +2986,18 @@
         }
       },
       "lat": 52.912464,
-      "lng": -0.641326
+      "lng": -0.641326,
+      "id": 10508,
+      "name": "Winkworth Grantham",
+      "va": {
+        "overallRating": 3.84,
+        "totalReviews": 89,
+        "replyRate": null
+      },
+      "totalReviews": 89,
+      "replyRate": null,
+      "googleScore": 3.9,
+      "score": 64
     },
     {
       "office_id": 256581,
@@ -2601,7 +3060,18 @@
         }
       },
       "lat": 51.479,
-      "lng": -0.011287
+      "lng": -0.011287,
+      "id": 256581,
+      "name": "Winkworth Greenwich",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 1041,
+        "replyRate": 70.0
+      },
+      "totalReviews": 1041,
+      "replyRate": 70.0,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256582,
@@ -2660,7 +3130,18 @@
         }
       },
       "lat": 51.5509,
-      "lng": -0.052781
+      "lng": -0.052781,
+      "id": 256582,
+      "name": "Winkworth Hackney",
+      "va": {
+        "overallRating": 4.09,
+        "totalReviews": 1025,
+        "replyRate": 93.10344827586206
+      },
+      "totalReviews": 1025,
+      "replyRate": 93.10344827586206,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 257354,
@@ -2723,7 +3204,18 @@
         }
       },
       "lat": 51.4977,
-      "lng": -0.222316
+      "lng": -0.222316,
+      "id": 257354,
+      "name": "Winkworth Hammersmith",
+      "va": {
+        "overallRating": 4.02,
+        "totalReviews": 949,
+        "replyRate": 60.0
+      },
+      "totalReviews": 949,
+      "replyRate": 60.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256583,
@@ -2785,7 +3277,18 @@
         }
       },
       "lat": 51.5819,
-      "lng": -0.099392
+      "lng": -0.099392,
+      "id": 256583,
+      "name": "Winkworth Harringay",
+      "va": {
+        "overallRating": 4.04,
+        "totalReviews": 1045,
+        "replyRate": 58.82352941176471
+      },
+      "totalReviews": 1045,
+      "replyRate": 58.82352941176471,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 6612,
@@ -2843,7 +3346,18 @@
         }
       },
       "lat": 51.5846,
-      "lng": -0.33254
+      "lng": -0.33254,
+      "id": 6612,
+      "name": "Winkworth Harrow",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 304,
+        "replyRate": 0.0
+      },
+      "totalReviews": 304,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 70
     },
     {
       "office_id": 256584,
@@ -2906,7 +3420,18 @@
         }
       },
       "lat": 51.586,
-      "lng": -0.220386
+      "lng": -0.220386,
+      "id": 256584,
+      "name": "Winkworth Hendon",
+      "va": {
+        "overallRating": 3.95,
+        "totalReviews": 882,
+        "replyRate": 0.0
+      },
+      "totalReviews": 882,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 256585,
@@ -2969,7 +3494,18 @@
         }
       },
       "lat": 51.453,
-      "lng": -0.102634
+      "lng": -0.102634,
+      "id": 256585,
+      "name": "Winkworth Herne Hill",
+      "va": {
+        "overallRating": 3.95,
+        "totalReviews": 911,
+        "replyRate": 35.13513513513514
+      },
+      "totalReviews": 911,
+      "replyRate": 35.13513513513514,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 256586,
@@ -3027,7 +3563,18 @@
         }
       },
       "lat": 51.5576,
-      "lng": -0.098051
+      "lng": -0.098051,
+      "id": 256586,
+      "name": "Winkworth Highbury",
+      "va": {
+        "overallRating": 4.06,
+        "totalReviews": 998,
+        "replyRate": 88.67924528301887
+      },
+      "totalReviews": 998,
+      "replyRate": 88.67924528301887,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 1126,
@@ -3089,7 +3636,18 @@
         }
       },
       "lat": 50.740964,
-      "lng": -1.701386
+      "lng": -1.701386,
+      "id": 1126,
+      "name": "Winkworth Highcliffe",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 135,
+        "replyRate": 16.666666666666664
+      },
+      "totalReviews": 135,
+      "replyRate": 16.666666666666664,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 256587,
@@ -3157,7 +3715,18 @@
         }
       },
       "lat": 51.5706,
-      "lng": -0.146571
+      "lng": -0.146571,
+      "id": 256587,
+      "name": "Winkworth Highgate",
+      "va": {
+        "overallRating": 3.92,
+        "totalReviews": 853,
+        "replyRate": 0.0
+      },
+      "totalReviews": 853,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 67
     },
     {
       "office_id": 257355,
@@ -3214,7 +3783,18 @@
         }
       },
       "lat": 51.5359,
-      "lng": -0.103976
+      "lng": -0.103976,
+      "id": 257355,
+      "name": "Winkworth Islington",
+      "va": {
+        "overallRating": 4.05,
+        "totalReviews": 1015,
+        "replyRate": null
+      },
+      "totalReviews": 1015,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 73
     },
     {
       "office_id": 256588,
@@ -3276,7 +3856,18 @@
         }
       },
       "lat": 51.4876,
-      "lng": -0.110919
+      "lng": -0.110919,
+      "id": 256588,
+      "name": "Winkworth Kennington",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1046,
+        "replyRate": 89.47368421052632
+      },
+      "totalReviews": 1046,
+      "replyRate": 89.47368421052632,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 256589,
@@ -3338,7 +3929,18 @@
         }
       },
       "lat": 51.5347,
-      "lng": -0.219334
+      "lng": -0.219334,
+      "id": 256589,
+      "name": "Winkworth Kensal Rise & Queen's Park",
+      "va": {
+        "overallRating": 4.12,
+        "totalReviews": 1068,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1068,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256590,
@@ -3401,7 +4003,18 @@
         }
       },
       "lat": 51.507,
-      "lng": -0.194403
+      "lng": -0.194403,
+      "id": 256590,
+      "name": "Winkworth Kensington",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 902,
+        "replyRate": 84.61538461538461
+      },
+      "totalReviews": 902,
+      "replyRate": 84.61538461538461,
+      "googleScore": 4.9,
+      "score": 65
     },
     {
       "office_id": 256591,
@@ -3464,7 +4077,18 @@
         }
       },
       "lat": 51.5516,
-      "lng": -0.140782
+      "lng": -0.140782,
+      "id": 256591,
+      "name": "Winkworth Kentish Town",
+      "va": {
+        "overallRating": 3.94,
+        "totalReviews": 923,
+        "replyRate": null
+      },
+      "totalReviews": 923,
+      "replyRate": null,
+      "googleScore": 4.3,
+      "score": 65
     },
     {
       "office_id": 256592,
@@ -3527,7 +4151,18 @@
         }
       },
       "lat": 51.5853,
-      "lng": -0.27749
+      "lng": -0.27749,
+      "id": 256592,
+      "name": "Winkworth Kingsbury",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 1129,
+        "replyRate": 51.724137931034484
+      },
+      "totalReviews": 1129,
+      "replyRate": 51.724137931034484,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 256593,
@@ -3595,7 +4230,18 @@
         }
       },
       "lat": 51.4941,
-      "lng": -0.168553
+      "lng": -0.168553,
+      "id": 256593,
+      "name": "Winkworth Knightsbridge & Chelsea",
+      "va": {
+        "overallRating": 3.93,
+        "totalReviews": 843,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 843,
+      "replyRate": 69.23076923076923,
+      "googleScore": 4.9,
+      "score": 65
     },
     {
       "office_id": 256594,
@@ -3658,7 +4304,18 @@
         }
       },
       "lat": 51.5279,
-      "lng": -0.181853
+      "lng": -0.181853,
+      "id": 256594,
+      "name": "Winkworth Maida Vale",
+      "va": {
+        "overallRating": 3.99,
+        "totalReviews": 889,
+        "replyRate": 73.33333333333333
+      },
+      "totalReviews": 889,
+      "replyRate": 73.33333333333333,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 11982,
@@ -3715,7 +4372,18 @@
         }
       },
       "lat": 52.674599,
-      "lng": -0.313528
+      "lng": -0.313528,
+      "id": 11982,
+      "name": "Winkworth Market Deeping",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 150,
+        "replyRate": null
+      },
+      "totalReviews": 150,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 79
     },
     {
       "office_id": 259333,
@@ -3769,7 +4437,18 @@
         }
       },
       "lat": 50.7259,
-      "lng": -1.58877
+      "lng": -1.58877,
+      "id": 259333,
+      "name": "Winkworth Milford-on-Sea",
+      "va": {
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 71
     },
     {
       "office_id": 256595,
@@ -3836,7 +4515,18 @@
         }
       },
       "lat": 51.4749,
-      "lng": -0.046357
+      "lng": -0.046357,
+      "id": 256595,
+      "name": "Winkworth New Cross",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 268,
+        "replyRate": 60.71428571428571
+      },
+      "totalReviews": 268,
+      "replyRate": 60.71428571428571,
+      "googleScore": 4.4,
+      "score": 73
     },
     {
       "office_id": 254360,
@@ -3887,7 +4577,17 @@
         }
       },
       "lat": 51.5083,
-      "lng": -0.132908
+      "lng": -0.132908,
+      "id": 254360,
+      "name": "Winkworth New Homes",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
+      },
+      "totalReviews": 1,
+      "replyRate": null,
+      "score": 32
     },
     {
       "office_id": 10468,
@@ -3949,7 +4649,18 @@
         }
       },
       "lat": 53.076087,
-      "lng": -0.808088
+      "lng": -0.808088,
+      "id": 10468,
+      "name": "Winkworth Newark",
+      "va": {
+        "overallRating": 4.53,
+        "totalReviews": 38,
+        "replyRate": null
+      },
+      "totalReviews": 38,
+      "replyRate": null,
+      "googleScore": 4.4,
+      "score": 68
     },
     {
       "office_id": 12705,
@@ -4007,7 +4718,18 @@
         }
       },
       "lat": 51.404753,
-      "lng": -1.324395
+      "lng": -1.324395,
+      "id": 12705,
+      "name": "Winkworth Newbury",
+      "va": {
+        "overallRating": 4.77,
+        "totalReviews": 204,
+        "replyRate": 0.0
+      },
+      "totalReviews": 204,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 77
     },
     {
       "office_id": 256596,
@@ -4070,7 +4792,18 @@
         }
       },
       "lat": 51.5174,
-      "lng": -0.210263
+      "lng": -0.210263,
+      "id": 256596,
+      "name": "Winkworth North Kensington",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1007,
+        "replyRate": 33.33333333333333
+      },
+      "totalReviews": 1007,
+      "replyRate": 33.33333333333333,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 10586,
@@ -4133,7 +4866,18 @@
         }
       },
       "lat": 52.236757,
-      "lng": -0.896391
+      "lng": -0.896391,
+      "id": 10586,
+      "name": "Winkworth Northampton",
+      "va": {
+        "overallRating": 4.62,
+        "totalReviews": 131,
+        "replyRate": 0.0
+      },
+      "totalReviews": 131,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 74
     },
     {
       "office_id": 258494,
@@ -4196,7 +4940,18 @@
         }
       },
       "lat": 52.2421,
-      "lng": -0.877293
+      "lng": -0.877293,
+      "id": 258494,
+      "name": "Winkworth Northampton",
+      "va": {
+        "overallRating": 3.99,
+        "totalReviews": 905,
+        "replyRate": 0.0
+      },
+      "totalReviews": 905,
+      "replyRate": 0.0,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 256597,
@@ -4258,7 +5013,18 @@
         }
       },
       "lat": 51.5145,
-      "lng": -0.200459
+      "lng": -0.200459,
+      "id": 256597,
+      "name": "Winkworth Notting Hill",
+      "va": {
+        "overallRating": 4.0,
+        "totalReviews": 942,
+        "replyRate": 89.1891891891892
+      },
+      "totalReviews": 942,
+      "replyRate": 89.1891891891892,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 256598,
@@ -4313,7 +5079,17 @@
         }
       },
       "lat": 51.5118,
-      "lng": -0.183362
+      "lng": -0.183362,
+      "id": 256598,
+      "name": "Winkworth Paddington & Bayswater",
+      "va": {
+        "overallRating": 3.94,
+        "totalReviews": 860,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 860,
+      "replyRate": 83.33333333333334,
+      "score": 62
     },
     {
       "office_id": 9769,
@@ -4374,7 +5150,18 @@
         }
       },
       "lat": 51.619327,
-      "lng": -0.107549
+      "lng": -0.107549,
+      "id": 9769,
+      "name": "Winkworth Palmers Green",
+      "va": {
+        "overallRating": 4.84,
+        "totalReviews": 260,
+        "replyRate": 100.0
+      },
+      "totalReviews": 260,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 256599,
@@ -4437,7 +5224,18 @@
         }
       },
       "lat": 51.4733,
-      "lng": -0.198094
+      "lng": -0.198094,
+      "id": 256599,
+      "name": "Winkworth Parsons Green",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 1014,
+        "replyRate": 0.0
+      },
+      "totalReviews": 1014,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 259347,
@@ -4493,7 +5291,18 @@
         }
       },
       "lat": 51.004,
-      "lng": -0.935225
+      "lng": -0.935225,
+      "id": 259347,
+      "name": "Winkworth Petersfield",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 806,
+        "replyRate": null
+      },
+      "totalReviews": 806,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 78
     },
     {
       "office_id": 257356,
@@ -4551,7 +5360,18 @@
         }
       },
       "lat": 51.4924,
-      "lng": -0.141766
+      "lng": -0.141766,
+      "id": 257356,
+      "name": "Winkworth Pimlico",
+      "va": {
+        "overallRating": 4.01,
+        "totalReviews": 968,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 968,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 1044,
@@ -4614,7 +5434,18 @@
         }
       },
       "lat": 50.72315,
-      "lng": -1.928917
+      "lng": -1.928917,
+      "id": 1044,
+      "name": "Winkworth Poole",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 63,
+        "replyRate": 0.0
+      },
+      "totalReviews": 63,
+      "replyRate": 0.0,
+      "googleScore": 5.0,
+      "score": 53
     },
     {
       "office_id": 22199,
@@ -4672,7 +5503,18 @@
         }
       },
       "lat": 51.459875,
-      "lng": -2.547339
+      "lng": -2.547339,
+      "id": 22199,
+      "name": "Winkworth Properties",
+      "va": {
+        "overallRating": 3.63,
+        "totalReviews": 19,
+        "replyRate": null
+      },
+      "totalReviews": 19,
+      "replyRate": null,
+      "googleScore": 5.0,
+      "score": 38
     },
     {
       "office_id": 256600,
@@ -4735,7 +5577,18 @@
         }
       },
       "lat": 51.4607,
-      "lng": -0.215825
+      "lng": -0.215825,
+      "id": 256600,
+      "name": "Winkworth Putney",
+      "va": {
+        "overallRating": 3.99,
+        "totalReviews": 880,
+        "replyRate": 0.0
+      },
+      "totalReviews": 880,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 70
     },
     {
       "office_id": 258372,
@@ -4794,7 +5647,18 @@
         }
       },
       "lat": 51.4572,
-      "lng": -0.970574
+      "lng": -0.970574,
+      "id": 258372,
+      "name": "Winkworth Reading",
+      "va": {
+        "overallRating": 4.09,
+        "totalReviews": 1097,
+        "replyRate": 34.285714285714285
+      },
+      "totalReviews": 1097,
+      "replyRate": 34.285714285714285,
+      "googleScore": 4.6,
+      "score": 82
     },
     {
       "office_id": 14835,
@@ -4855,7 +5719,18 @@
         }
       },
       "lat": 50.989103,
-      "lng": -1.499236
+      "lng": -1.499236,
+      "id": 14835,
+      "name": "Winkworth Romsey",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 84,
+        "replyRate": 100.0
+      },
+      "totalReviews": 84,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 254361,
@@ -4913,7 +5788,18 @@
         }
       },
       "lat": 51.419,
-      "lng": -1.73354
+      "lng": -1.73354,
+      "id": 254361,
+      "name": "Winkworth Salisbury and Marlborough",
+      "va": {
+        "overallRating": 4.72,
+        "totalReviews": 36,
+        "replyRate": null
+      },
+      "totalReviews": 36,
+      "replyRate": null,
+      "googleScore": 4.7,
+      "score": 67
     },
     {
       "office_id": 256601,
@@ -4976,7 +5862,18 @@
         }
       },
       "lat": 51.5062,
-      "lng": -0.233165
+      "lng": -0.233165,
+      "id": 256601,
+      "name": "Winkworth Shepherd's Bush",
+      "va": {
+        "overallRating": 4.04,
+        "totalReviews": 1018,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 1018,
+      "replyRate": 69.23076923076923,
+      "googleScore": 4.5,
+      "score": 76
     },
     {
       "office_id": 256602,
@@ -5036,7 +5933,18 @@
         }
       },
       "lat": 51.5241,
-      "lng": -0.071411
+      "lng": -0.071411,
+      "id": 256602,
+      "name": "Winkworth Shoreditch",
+      "va": {
+        "overallRating": 4.12,
+        "totalReviews": 1025,
+        "replyRate": 84.375
+      },
+      "totalReviews": 1025,
+      "replyRate": 84.375,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 10511,
@@ -5095,7 +6003,18 @@
         }
       },
       "lat": 52.999846,
-      "lng": -0.410708
+      "lng": -0.410708,
+      "id": 10511,
+      "name": "Winkworth Sleaford",
+      "va": {
+        "overallRating": 4.63,
+        "totalReviews": 202,
+        "replyRate": 100.0
+      },
+      "totalReviews": 202,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 81
     },
     {
       "office_id": 256603,
@@ -5158,7 +6077,18 @@
         }
       },
       "lat": 51.4931,
-      "lng": -0.181381
+      "lng": -0.181381,
+      "id": 256603,
+      "name": "Winkworth South Kensington",
+      "va": {
+        "overallRating": 3.95,
+        "totalReviews": 869,
+        "replyRate": 0.0
+      },
+      "totalReviews": 869,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 70
     },
     {
       "office_id": 1183,
@@ -5215,7 +6145,18 @@
         }
       },
       "lat": 50.726048,
-      "lng": -1.816125
+      "lng": -1.816125,
+      "id": 1183,
+      "name": "Winkworth Southbourne",
+      "va": {
+        "overallRating": 4.56,
+        "totalReviews": 131,
+        "replyRate": null
+      },
+      "totalReviews": 131,
+      "replyRate": null,
+      "googleScore": 4.5,
+      "score": 78
     },
     {
       "office_id": 256604,
@@ -5279,7 +6220,18 @@
         }
       },
       "lat": 51.4452,
-      "lng": -0.205882
+      "lng": -0.205882,
+      "id": 256604,
+      "name": "Winkworth Southfields",
+      "va": {
+        "overallRating": 4.03,
+        "totalReviews": 978,
+        "replyRate": 72.72727272727273
+      },
+      "totalReviews": 978,
+      "replyRate": 72.72727272727273,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 256605,
@@ -5337,7 +6289,18 @@
         }
       },
       "lat": 51.5343,
-      "lng": -0.171101
+      "lng": -0.171101,
+      "id": 256605,
+      "name": "Winkworth St Johns Wood",
+      "va": {
+        "overallRating": 4.02,
+        "totalReviews": 938,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 938,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.9,
+      "score": 73
     },
     {
       "office_id": 15368,
@@ -5400,7 +6363,18 @@
         }
       },
       "lat": 51.437606,
-      "lng": -0.127673
+      "lng": -0.127673,
+      "id": 15368,
+      "name": "Winkworth Streatham",
+      "va": {
+        "overallRating": 4.7,
+        "totalReviews": 165,
+        "replyRate": 37.03703703703704
+      },
+      "totalReviews": 165,
+      "replyRate": 37.03703703703704,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 256606,
@@ -5464,7 +6438,18 @@
         }
       },
       "lat": 51.4413,
-      "lng": -0.125291
+      "lng": -0.125291,
+      "id": 256606,
+      "name": "Winkworth Streatham",
+      "va": {
+        "overallRating": 3.98,
+        "totalReviews": 922,
+        "replyRate": 7.6923076923076925
+      },
+      "totalReviews": 922,
+      "replyRate": 7.6923076923076925,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 256607,
@@ -5526,7 +6511,18 @@
         }
       },
       "lat": 51.3915,
-      "lng": -0.30939
+      "lng": -0.30939,
+      "id": 256607,
+      "name": "Winkworth Surbiton",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 230,
+        "replyRate": 0.0
+      },
+      "totalReviews": 230,
+      "replyRate": 0.0,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 256608,
@@ -5594,7 +6590,18 @@
         }
       },
       "lat": 51.4954,
-      "lng": -0.046963
+      "lng": -0.046963,
+      "id": 256608,
+      "name": "Winkworth Surrey Quays",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 61,
+        "replyRate": 0.0
+      },
+      "totalReviews": 61,
+      "replyRate": 0.0,
+      "googleScore": 4.5,
+      "score": 45
     },
     {
       "office_id": 256609,
@@ -5653,7 +6660,18 @@
         }
       },
       "lat": 51.4353,
-      "lng": -0.160144
+      "lng": -0.160144,
+      "id": 256609,
+      "name": "Winkworth Tooting",
+      "va": {
+        "overallRating": 4.03,
+        "totalReviews": 965,
+        "replyRate": 100.0
+      },
+      "totalReviews": 965,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 79
     },
     {
       "office_id": 256610,
@@ -5720,7 +6738,18 @@
         }
       },
       "lat": 51.5167,
-      "lng": -0.127099
+      "lng": -0.127099,
+      "id": 256610,
+      "name": "Winkworth West End",
+      "va": {
+        "overallRating": 3.99,
+        "totalReviews": 924,
+        "replyRate": 52.38095238095239
+      },
+      "totalReviews": 924,
+      "replyRate": 52.38095238095239,
+      "googleScore": 4.7,
+      "score": 71
     },
     {
       "office_id": 256611,
@@ -5783,7 +6812,18 @@
         }
       },
       "lat": 51.5479,
-      "lng": -0.190827
+      "lng": -0.190827,
+      "id": 256611,
+      "name": "Winkworth West Hampstead",
+      "va": {
+        "overallRating": 3.96,
+        "totalReviews": 862,
+        "replyRate": 76.47058823529412
+      },
+      "totalReviews": 862,
+      "replyRate": 76.47058823529412,
+      "googleScore": 4.8,
+      "score": 71
     },
     {
       "office_id": 13871,
@@ -5846,7 +6886,18 @@
         }
       },
       "lat": 51.43266,
-      "lng": -0.104166
+      "lng": -0.104166,
+      "id": 13871,
+      "name": "Winkworth West Norwood",
+      "va": {
+        "overallRating": 4.58,
+        "totalReviews": 43,
+        "replyRate": 0.0
+      },
+      "totalReviews": 43,
+      "replyRate": 0.0,
+      "googleScore": 4.6,
+      "score": 52
     },
     {
       "office_id": 1170,
@@ -5908,7 +6959,18 @@
         }
       },
       "lat": 50.722997,
-      "lng": -1.903374
+      "lng": -1.903374,
+      "id": 1170,
+      "name": "Winkworth Westbourne",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 545,
+        "replyRate": 12.5
+      },
+      "totalReviews": 545,
+      "replyRate": 12.5,
+      "googleScore": 4.9,
+      "score": 82
     },
     {
       "office_id": 7772,
@@ -5960,7 +7022,18 @@
         }
       },
       "lat": 51.3682,
-      "lng": -0.445837
+      "lng": -0.445837,
+      "id": 7772,
+      "name": "Winkworth Weybridge",
+      "va": {
+        "overallRating": 4.73,
+        "totalReviews": 86,
+        "replyRate": 100.0
+      },
+      "totalReviews": 86,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 83
     },
     {
       "office_id": 257357,
@@ -6011,7 +7084,17 @@
         }
       },
       "lat": 51.4224,
-      "lng": -0.209164
+      "lng": -0.209164,
+      "id": 257357,
+      "name": "Winkworth Wimbledon",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 887,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 887,
+      "replyRate": 81.81818181818183,
+      "score": 72
     },
     {
       "office_id": 14714,
@@ -6064,7 +7147,18 @@
         }
       },
       "lat": 51.062809,
-      "lng": -1.31731
+      "lng": -1.31731,
+      "id": 14714,
+      "name": "Winkworth Winchester",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 180,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 180,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 258965,
@@ -6127,7 +7221,18 @@
         }
       },
       "lat": 51.4109,
-      "lng": -0.834341
+      "lng": -0.834341,
+      "id": 258965,
+      "name": "Winkworth Wokingham",
+      "va": {
+        "overallRating": 3.93,
+        "totalReviews": 853,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 853,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 65
     },
     {
       "office_id": 259233,
@@ -6191,7 +7296,18 @@
         }
       },
       "lat": 51.377,
-      "lng": -0.238953
+      "lng": -0.238953,
+      "id": 259233,
+      "name": "Winkworth Worcester Park",
+      "va": {
+        "overallRating": 3.97,
+        "totalReviews": 947,
+        "replyRate": 69.23076923076923
+      },
+      "totalReviews": 947,
+      "replyRate": 69.23076923076923,
+      "googleScore": 4.7,
+      "score": 75
     },
     {
       "office_id": 1375,
@@ -6245,7 +7361,17 @@
         }
       },
       "lat": 50.8119,
-      "lng": -0.368155
+      "lng": -0.368155,
+      "id": 1375,
+      "name": "Winkworth Worthing",
+      "va": {
+        "overallRating": 4.91,
+        "totalReviews": 185,
+        "replyRate": null
+      },
+      "totalReviews": 185,
+      "replyRate": null,
+      "score": 80
     }
   ],
   "google_summary": {

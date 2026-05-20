@@ -62,7 +62,18 @@
         }
       },
       "lat": 51.5366,
-      "lng": -0.06161
+      "lng": -0.06161,
+      "id": 246155,
+      "name": "Dexters (E8)",
+      "va": {
+        "overallRating": 4.43,
+        "totalReviews": 2524,
+        "replyRate": 50.0
+      },
+      "totalReviews": 2524,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 7714,
@@ -111,7 +122,18 @@
         }
       },
       "lat": 51.4117,
-      "lng": -0.305015
+      "lng": -0.305015,
+      "id": 7714,
+      "name": "Dexters (KT1)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 1249,
+        "replyRate": 93.42105263157895
+      },
+      "totalReviews": 1249,
+      "replyRate": 93.42105263157895,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 249658,
@@ -170,7 +192,18 @@
         }
       },
       "lat": 51.4564,
-      "lng": -0.020199
+      "lng": -0.020199,
+      "id": 249658,
+      "name": "Dexters (SE13)",
+      "va": {
+        "overallRating": 4.86,
+        "totalReviews": 344,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 344,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 249659,
@@ -223,7 +256,18 @@
         }
       },
       "lat": 51.4661,
-      "lng": -0.056797
+      "lng": -0.056797,
+      "id": 249659,
+      "name": "Dexters (SE15)",
+      "va": {
+        "overallRating": 4.9,
+        "totalReviews": 427,
+        "replyRate": 84.48275862068965
+      },
+      "totalReviews": 427,
+      "replyRate": 84.48275862068965,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 15254,
@@ -286,7 +330,18 @@
         }
       },
       "lat": 51.465031,
-      "lng": -0.157576
+      "lng": -0.157576,
+      "id": 15254,
+      "name": "Dexters (SW11)",
+      "va": {
+        "overallRating": 4.07,
+        "totalReviews": 14,
+        "replyRate": null
+      },
+      "totalReviews": 14,
+      "replyRate": null,
+      "googleScore": 4.9,
+      "score": 41
     },
     {
       "office_id": 249683,
@@ -340,7 +395,18 @@
         }
       },
       "lat": 51.4647,
-      "lng": -0.161509
+      "lng": -0.161509,
+      "id": 249683,
+      "name": "Dexters (SW11)",
+      "va": {
+        "overallRating": 4.92,
+        "totalReviews": 490,
+        "replyRate": 100.0
+      },
+      "totalReviews": 490,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 15312,
@@ -386,7 +452,17 @@
         }
       },
       "lat": 51.473623,
-      "lng": -0.248249
+      "lng": -0.248249,
+      "id": 15312,
+      "name": "Dexters (SW13)",
+      "va": {
+        "overallRating": 4.99,
+        "totalReviews": 67,
+        "replyRate": null
+      },
+      "totalReviews": 67,
+      "replyRate": null,
+      "score": 73
     },
     {
       "office_id": 19362,
@@ -444,7 +520,18 @@
         }
       },
       "lat": 51.453418,
-      "lng": -0.146515
+      "lng": -0.146515,
+      "id": 19362,
+      "name": "Dexters (SW4)",
+      "va": {
+        "overallRating": 4.8,
+        "totalReviews": 380,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 380,
+      "replyRate": 66.66666666666666,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 15737,
@@ -498,7 +585,18 @@
         }
       },
       "lat": 51.47978,
-      "lng": -0.195261
+      "lng": -0.195261,
+      "id": 15737,
+      "name": "Dexters (SW6)",
+      "va": {
+        "overallRating": 4.81,
+        "totalReviews": 661,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 661,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 249668,
@@ -551,7 +649,18 @@
         }
       },
       "lat": 51.4831,
-      "lng": -0.309347
+      "lng": -0.309347,
+      "id": 249668,
+      "name": "Dexters (TW8)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 264,
+        "replyRate": 100.0
+      },
+      "totalReviews": 264,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 249687,
@@ -604,7 +713,18 @@
         }
       },
       "lat": 51.5085,
-      "lng": -0.198887
+      "lng": -0.198887,
+      "id": 249687,
+      "name": "Dexters (W11)",
+      "va": {
+        "overallRating": 4.74,
+        "totalReviews": 453,
+        "replyRate": 100.0
+      },
+      "totalReviews": 453,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 249672,
@@ -657,7 +777,18 @@
         }
       },
       "lat": 51.519,
-      "lng": -0.13699
+      "lng": -0.13699,
+      "id": 249672,
+      "name": "Dexters (W1T)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 582,
+        "replyRate": 90.0
+      },
+      "totalReviews": 582,
+      "replyRate": 90.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 17278,
@@ -711,7 +842,18 @@
         }
       },
       "lat": 51.50731,
-      "lng": -0.270719
+      "lng": -0.270719,
+      "id": 17278,
+      "name": "Dexters (W3)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 1017,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 1017,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 249673,
@@ -765,7 +907,18 @@
         }
       },
       "lat": 51.5069,
-      "lng": -0.270724
+      "lng": -0.270724,
+      "id": 249673,
+      "name": "Dexters (W3)",
+      "va": {
+        "overallRating": 4.82,
+        "totalReviews": 474,
+        "replyRate": 80.0
+      },
+      "totalReviews": 474,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255959,
@@ -829,7 +982,18 @@
         }
       },
       "lat": 51.4767,
-      "lng": 0.019319
+      "lng": 0.019319,
+      "id": 255959,
+      "name": "Dexters Blackheath",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2016,
+        "replyRate": 60.416666666666664
+      },
+      "totalReviews": 2016,
+      "replyRate": 60.416666666666664,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255896,
@@ -892,7 +1056,18 @@
         }
       },
       "lat": 51.4558,
-      "lng": -0.036044
+      "lng": -0.036044,
+      "id": 255896,
+      "name": "Dexters Brockley",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 2220,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 2220,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255897,
@@ -955,7 +1130,18 @@
         }
       },
       "lat": 51.5008,
-      "lng": -0.025725
+      "lng": -0.025725,
+      "id": 255897,
+      "name": "Dexters Canary Wharf",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 1996,
+        "replyRate": 70.0
+      },
+      "totalReviews": 1996,
+      "replyRate": 70.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255898,
@@ -1022,7 +1208,18 @@
         }
       },
       "lat": 51.492,
-      "lng": -0.165479
+      "lng": -0.165479,
+      "id": 255898,
+      "name": "Dexters Chelsea",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2043,
+        "replyRate": 52.083333333333336
+      },
+      "totalReviews": 2043,
+      "replyRate": 52.083333333333336,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255899,
@@ -1080,7 +1277,18 @@
         }
       },
       "lat": 51.4763,
-      "lng": -0.182695
+      "lng": -0.182695,
+      "id": 255899,
+      "name": "Dexters Chelsea Harbour",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1970,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 1970,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 255900,
@@ -1143,7 +1351,18 @@
         }
       },
       "lat": 51.4927,
-      "lng": -0.26501
+      "lng": -0.26501,
+      "id": 255900,
+      "name": "Dexters Chiswick",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2105,
+        "replyRate": 45.0
+      },
+      "totalReviews": 2105,
+      "replyRate": 45.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255901,
@@ -1201,7 +1420,18 @@
         }
       },
       "lat": 51.5182,
-      "lng": -0.077816
+      "lng": -0.077816,
+      "id": 255901,
+      "name": "Dexters City",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 2166,
+        "replyRate": 90.9090909090909
+      },
+      "totalReviews": 2166,
+      "replyRate": 90.9090909090909,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255902,
@@ -1259,7 +1489,18 @@
         }
       },
       "lat": 51.4542,
-      "lng": -0.139863
+      "lng": -0.139863,
+      "id": 255902,
+      "name": "Dexters Clapham",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 2146,
+        "replyRate": 80.76923076923077
+      },
+      "totalReviews": 2146,
+      "replyRate": 80.76923076923077,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255903,
@@ -1322,7 +1563,18 @@
         }
       },
       "lat": 51.4634,
-      "lng": -0.132784
+      "lng": -0.132784,
+      "id": 255903,
+      "name": "Dexters Clapham High Street",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2152,
+        "replyRate": 57.57575757575758
+      },
+      "totalReviews": 2152,
+      "replyRate": 57.57575757575758,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255904,
@@ -1384,7 +1636,18 @@
         }
       },
       "lat": 51.5221,
-      "lng": -0.10495
+      "lng": -0.10495,
+      "id": 255904,
+      "name": "Dexters Clerkenwell",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 2355,
+        "replyRate": 56.25
+      },
+      "totalReviews": 2355,
+      "replyRate": 56.25,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255905,
@@ -1446,7 +1709,18 @@
         }
       },
       "lat": 51.5582,
-      "lng": -0.14305
+      "lng": -0.14305,
+      "id": 255905,
+      "name": "Dexters Dartmouth Park",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 2000,
+        "replyRate": 20.833333333333336
+      },
+      "totalReviews": 2000,
+      "replyRate": 20.833333333333336,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 249692,
@@ -1509,7 +1783,18 @@
         }
       },
       "lat": 51.3937,
-      "lng": -0.304076
+      "lng": -0.304076,
+      "id": 249692,
+      "name": "Dexters Development and Investment",
+      "va": {
+        "overallRating": 4.93,
+        "totalReviews": 149,
+        "replyRate": 66.27906976744185
+      },
+      "totalReviews": 149,
+      "replyRate": 66.27906976744185,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255906,
@@ -1576,7 +1861,18 @@
         }
       },
       "lat": 51.515,
-      "lng": -0.301501
+      "lng": -0.301501,
+      "id": 255906,
+      "name": "Dexters Ealing",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2175,
+        "replyRate": 58.57142857142858
+      },
+      "totalReviews": 2175,
+      "replyRate": 58.57142857142858,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255907,
@@ -1634,7 +1930,18 @@
         }
       },
       "lat": 51.4929,
-      "lng": -0.192985
+      "lng": -0.192985,
+      "id": 255907,
+      "name": "Dexters Earls Court",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2183,
+        "replyRate": 93.75
+      },
+      "totalReviews": 2183,
+      "replyRate": 93.75,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255908,
@@ -1692,7 +1999,18 @@
         }
       },
       "lat": 51.4607,
-      "lng": -0.075698
+      "lng": -0.075698,
+      "id": 255908,
+      "name": "Dexters East Dulwich",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 1864,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1864,
+      "replyRate": 100.0,
+      "googleScore": 5.0,
+      "score": 76
     },
     {
       "office_id": 255909,
@@ -1754,7 +2072,18 @@
         }
       },
       "lat": 51.605,
-      "lng": -0.188046
+      "lng": -0.188046,
+      "id": 255909,
+      "name": "Dexters Finchley",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 2134,
+        "replyRate": 52.5
+      },
+      "totalReviews": 2134,
+      "replyRate": 52.5,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 241247,
@@ -1811,7 +2140,18 @@
         }
       },
       "lat": 51.569,
-      "lng": -0.112019
+      "lng": -0.112019,
+      "id": 241247,
+      "name": "Dexters Finsbury Park",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2503,
+        "replyRate": 93.33333333333333
+      },
+      "totalReviews": 2503,
+      "replyRate": 93.33333333333333,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255910,
@@ -1875,7 +2215,18 @@
         }
       },
       "lat": 51.4799,
-      "lng": -0.195204
+      "lng": -0.195204,
+      "id": 255910,
+      "name": "Dexters Fulham",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2153,
+        "replyRate": 67.85714285714286
+      },
+      "totalReviews": 2153,
+      "replyRate": 67.85714285714286,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255960,
@@ -1934,7 +2285,18 @@
         }
       },
       "lat": 51.4794,
-      "lng": -0.010332
+      "lng": -0.010332,
+      "id": 255960,
+      "name": "Dexters Greenwich",
+      "va": {
+        "overallRating": 4.29,
+        "totalReviews": 2008,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 2008,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.6,
+      "score": 75
     },
     {
       "office_id": 255911,
@@ -1992,7 +2354,18 @@
         }
       },
       "lat": 51.5485,
-      "lng": -0.055336
+      "lng": -0.055336,
+      "id": 255911,
+      "name": "Dexters Hackney Central",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1927,
+        "replyRate": 90.0
+      },
+      "totalReviews": 1927,
+      "replyRate": 90.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255912,
@@ -2055,7 +2428,18 @@
         }
       },
       "lat": 51.4929,
-      "lng": -0.233008
+      "lng": -0.233008,
+      "id": 255912,
+      "name": "Dexters Hammersmith",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2238,
+        "replyRate": 39.53488372093023
+      },
+      "totalReviews": 2238,
+      "replyRate": 39.53488372093023,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255913,
@@ -2117,7 +2501,18 @@
         }
       },
       "lat": 51.5569,
-      "lng": -0.178247
+      "lng": -0.178247,
+      "id": 255913,
+      "name": "Dexters Hampstead",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2134,
+        "replyRate": 39.39393939393939
+      },
+      "totalReviews": 2134,
+      "replyRate": 39.39393939393939,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255914,
@@ -2175,7 +2570,18 @@
         }
       },
       "lat": 51.4148,
-      "lng": -0.366952
+      "lng": -0.366952,
+      "id": 255914,
+      "name": "Dexters Hampton",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 2132,
+        "replyRate": 80.0
+      },
+      "totalReviews": 2132,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255961,
@@ -2243,7 +2649,18 @@
         }
       },
       "lat": 51.583,
-      "lng": -0.226655
+      "lng": -0.226655,
+      "id": 255961,
+      "name": "Dexters Hendon Estate Agents",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 2050,
+        "replyRate": 44.18604651162791
+      },
+      "totalReviews": 2050,
+      "replyRate": 44.18604651162791,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255915,
@@ -2306,7 +2723,18 @@
         }
       },
       "lat": 51.5705,
-      "lng": -0.147069
+      "lng": -0.147069,
+      "id": 255915,
+      "name": "Dexters Highgate",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 2153,
+        "replyRate": 65.07936507936508
+      },
+      "totalReviews": 2153,
+      "replyRate": 65.07936507936508,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255916,
@@ -2373,7 +2801,18 @@
         }
       },
       "lat": 51.4493,
-      "lng": -0.044614
+      "lng": -0.044614,
+      "id": 255916,
+      "name": "Dexters Honor Oak",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2088,
+        "replyRate": 24.137931034482758
+      },
+      "totalReviews": 2088,
+      "replyRate": 24.137931034482758,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 255917,
@@ -2436,7 +2875,18 @@
         }
       },
       "lat": 51.5145,
-      "lng": -0.175728
+      "lng": -0.175728,
+      "id": 255917,
+      "name": "Dexters Hyde Park & Bayswater",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2079,
+        "replyRate": 75.0
+      },
+      "totalReviews": 2079,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255918,
@@ -2503,7 +2953,18 @@
         }
       },
       "lat": 51.4744,
-      "lng": -0.344322
+      "lng": -0.344322,
+      "id": 255918,
+      "name": "Dexters Isleworth",
+      "va": {
+        "overallRating": 4.29,
+        "totalReviews": 2340,
+        "replyRate": 64.28571428571429
+      },
+      "totalReviews": 2340,
+      "replyRate": 64.28571428571429,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255919,
@@ -2569,7 +3030,18 @@
         }
       },
       "lat": 51.5365,
-      "lng": -0.103719
+      "lng": -0.103719,
+      "id": 255919,
+      "name": "Dexters Islington",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 2331,
+        "replyRate": 29.72972972972973
+      },
+      "totalReviews": 2331,
+      "replyRate": 29.72972972972973,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255920,
@@ -2628,7 +3100,18 @@
         }
       },
       "lat": 51.4876,
-      "lng": -0.110919
+      "lng": -0.110919,
+      "id": 255920,
+      "name": "Dexters Kennington",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 1809,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 1809,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255921,
@@ -2686,7 +3169,18 @@
         }
       },
       "lat": 51.5323,
-      "lng": -0.218039
+      "lng": -0.218039,
+      "id": 255921,
+      "name": "Dexters Kensal Rise & Queen's Park",
+      "va": {
+        "overallRating": 4.37,
+        "totalReviews": 2128,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2128,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255922,
@@ -2744,7 +3238,18 @@
         }
       },
       "lat": 51.5008,
-      "lng": -0.194778
+      "lng": -0.194778,
+      "id": 255922,
+      "name": "Dexters Kensington",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 1837,
+        "replyRate": 80.0
+      },
+      "totalReviews": 1837,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 75
     },
     {
       "office_id": 255923,
@@ -2806,7 +3311,18 @@
         }
       },
       "lat": 51.55,
-      "lng": -0.140445
+      "lng": -0.140445,
+      "id": 255923,
+      "name": "Dexters Kentish Town & Camden",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 1951,
+        "replyRate": 20.689655172413794
+      },
+      "totalReviews": 1951,
+      "replyRate": 20.689655172413794,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255924,
@@ -2864,7 +3380,18 @@
         }
       },
       "lat": 51.4827,
-      "lng": -0.286499
+      "lng": -0.286499,
+      "id": 255924,
+      "name": "Dexters Kew",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 2295,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 2295,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255925,
@@ -2927,7 +3454,18 @@
         }
       },
       "lat": 51.4123,
-      "lng": -0.303302
+      "lng": -0.303302,
+      "id": 255925,
+      "name": "Dexters Kingston",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 2337,
+        "replyRate": 50.0
+      },
+      "totalReviews": 2337,
+      "replyRate": 50.0,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255962,
@@ -2986,7 +3524,18 @@
         }
       },
       "lat": 51.4564,
-      "lng": 0.010518
+      "lng": 0.010518,
+      "id": 255962,
+      "name": "Dexters Lee",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 2210,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2210,
+      "replyRate": 100.0,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 255926,
@@ -3049,7 +3598,18 @@
         }
       },
       "lat": 51.4669,
-      "lng": -0.011148
+      "lng": -0.011148,
+      "id": 255926,
+      "name": "Dexters Lewisham",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2193,
+        "replyRate": 19.230769230769234
+      },
+      "totalReviews": 2193,
+      "replyRate": 19.230769230769234,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255927,
@@ -3112,7 +3672,18 @@
         }
       },
       "lat": 51.5042,
-      "lng": -0.091227
+      "lng": -0.091227,
+      "id": 255927,
+      "name": "Dexters London Bridge",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2287,
+        "replyRate": 37.83783783783784
+      },
+      "totalReviews": 2287,
+      "replyRate": 37.83783783783784,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255928,
@@ -3170,7 +3741,18 @@
         }
       },
       "lat": 51.53,
-      "lng": -0.185433
+      "lng": -0.185433,
+      "id": 255928,
+      "name": "Dexters Maida Vale",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2095,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 2095,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255929,
@@ -3232,7 +3814,18 @@
         }
       },
       "lat": 51.52,
-      "lng": -0.150429
+      "lng": -0.150429,
+      "id": 255929,
+      "name": "Dexters Marylebone",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2065,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 2065,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255931,
@@ -3289,7 +3882,18 @@
         }
       },
       "lat": 51.5916,
-      "lng": -0.142329
+      "lng": -0.142329,
+      "id": 255931,
+      "name": "Dexters Muswell Hill",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1992,
+        "replyRate": 85.0
+      },
+      "totalReviews": 1992,
+      "replyRate": 85.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255963,
@@ -3355,7 +3959,18 @@
         }
       },
       "lat": 51.4745,
-      "lng": -0.040901
+      "lng": -0.040901,
+      "id": 255963,
+      "name": "Dexters New Cross",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 2059,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 2059,
+      "replyRate": 77.77777777777779,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255932,
@@ -3420,7 +4035,18 @@
         }
       },
       "lat": 51.5117,
-      "lng": -0.146418
+      "lng": -0.146418,
+      "id": 255932,
+      "name": "Dexters New Homes North",
+      "va": {
+        "overallRating": 4.29,
+        "totalReviews": 1804,
+        "replyRate": 10.416666666666668
+      },
+      "totalReviews": 1804,
+      "replyRate": 10.416666666666668,
+      "googleScore": 4.8,
+      "score": 75
     },
     {
       "office_id": 255933,
@@ -3479,7 +4105,18 @@
         }
       },
       "lat": 51.4204,
-      "lng": -0.204521
+      "lng": -0.204521,
+      "id": 255933,
+      "name": "Dexters New Homes South",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 1885,
+        "replyRate": 92.5925925925926
+      },
+      "totalReviews": 1885,
+      "replyRate": 92.5925925925926,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255934,
@@ -3542,7 +4179,18 @@
         }
       },
       "lat": 51.4611,
-      "lng": -0.166968
+      "lng": -0.166968,
+      "id": 255934,
+      "name": "Dexters Northcote Road",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 2017,
+        "replyRate": 58.69565217391305
+      },
+      "totalReviews": 2017,
+      "replyRate": 58.69565217391305,
+      "googleScore": 5.0,
+      "score": 76
     },
     {
       "office_id": 255935,
@@ -3600,7 +4248,18 @@
         }
       },
       "lat": 51.5015,
-      "lng": -0.315955
+      "lng": -0.315955,
+      "id": 255935,
+      "name": "Dexters Northfields",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2257,
+        "replyRate": 84.21052631578947
+      },
+      "totalReviews": 2257,
+      "replyRate": 84.21052631578947,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255965,
@@ -3668,7 +4327,18 @@
         }
       },
       "lat": 51.4586,
-      "lng": -0.06607
+      "lng": -0.06607,
+      "id": 255965,
+      "name": "Dexters Peckham Rye",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1861,
+        "replyRate": 24.0
+      },
+      "totalReviews": 1861,
+      "replyRate": 24.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255936,
@@ -3730,7 +4400,18 @@
         }
       },
       "lat": 51.4915,
-      "lng": -0.139266
+      "lng": -0.139266,
+      "id": 255936,
+      "name": "Dexters Pimlico",
+      "va": {
+        "overallRating": 4.31,
+        "totalReviews": 1991,
+        "replyRate": 61.53846153846154
+      },
+      "totalReviews": 1991,
+      "replyRate": 61.53846153846154,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 255937,
@@ -3793,7 +4474,18 @@
         }
       },
       "lat": 51.4615,
-      "lng": -0.217157
+      "lng": -0.217157,
+      "id": 255937,
+      "name": "Dexters Putney",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2044,
+        "replyRate": 69.56521739130434
+      },
+      "totalReviews": 2044,
+      "replyRate": 69.56521739130434,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255938,
@@ -3859,7 +4551,18 @@
         }
       },
       "lat": 51.4611,
-      "lng": -0.302113
+      "lng": -0.302113,
+      "id": 255938,
+      "name": "Dexters Richmond",
+      "va": {
+        "overallRating": 4.6,
+        "totalReviews": 371,
+        "replyRate": 68.0
+      },
+      "totalReviews": 371,
+      "replyRate": 68.0,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255939,
@@ -3922,7 +4625,18 @@
         }
       },
       "lat": 51.5033,
-      "lng": -0.222492
+      "lng": -0.222492,
+      "id": 255939,
+      "name": "Dexters Shepherds Bush",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2072,
+        "replyRate": 73.52941176470588
+      },
+      "totalReviews": 2072,
+      "replyRate": 73.52941176470588,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255940,
@@ -3989,7 +4703,18 @@
         }
       },
       "lat": 51.5248,
-      "lng": -0.080708
+      "lng": -0.080708,
+      "id": 255940,
+      "name": "Dexters Shoreditch",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2035,
+        "replyRate": 50.0
+      },
+      "totalReviews": 2035,
+      "replyRate": 50.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255941,
@@ -4051,7 +4776,18 @@
         }
       },
       "lat": 51.4909,
-      "lng": -0.182293
+      "lng": -0.182293,
+      "id": 255941,
+      "name": "Dexters South Kensington",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2076,
+        "replyRate": 88.23529411764706
+      },
+      "totalReviews": 2076,
+      "replyRate": 88.23529411764706,
+      "googleScore": 4.8,
+      "score": 76
     },
     {
       "office_id": 255942,
@@ -4114,7 +4850,18 @@
         }
       },
       "lat": 51.4574,
-      "lng": -0.323177
+      "lng": -0.323177,
+      "id": 255942,
+      "name": "Dexters St Margarets",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 1982,
+        "replyRate": 59.57446808510638
+      },
+      "totalReviews": 1982,
+      "replyRate": 59.57446808510638,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255943,
@@ -4172,7 +4919,18 @@
         }
       },
       "lat": 51.4384,
-      "lng": -0.12639
+      "lng": -0.12639,
+      "id": 255943,
+      "name": "Dexters Streatham",
+      "va": {
+        "overallRating": 4.33,
+        "totalReviews": 2213,
+        "replyRate": 92.0
+      },
+      "totalReviews": 2213,
+      "replyRate": 92.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 259323,
@@ -4231,7 +4989,18 @@
         }
       },
       "lat": 51.406,
-      "lng": -0.406865
+      "lng": -0.406865,
+      "id": 259323,
+      "name": "Dexters Sunbury",
+      "va": {
+        "overallRating": 4.23,
+        "totalReviews": 1996,
+        "replyRate": 43.47826086956522
+      },
+      "totalReviews": 1996,
+      "replyRate": 43.47826086956522,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255945,
@@ -4295,7 +5064,18 @@
         }
       },
       "lat": 51.4274,
-      "lng": -0.331198
+      "lng": -0.331198,
+      "id": 255945,
+      "name": "Dexters Teddington",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 425,
+        "replyRate": 74.39024390243902
+      },
+      "totalReviews": 425,
+      "replyRate": 74.39024390243902,
+      "googleScore": null,
+      "score": 76
     },
     {
       "office_id": 255946,
@@ -4358,7 +5138,18 @@
         }
       },
       "lat": 51.4289,
-      "lng": -0.167465
+      "lng": -0.167465,
+      "id": 255946,
+      "name": "Dexters Tooting",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 2116,
+        "replyRate": 45.0
+      },
+      "totalReviews": 2116,
+      "replyRate": 45.0,
+      "googleScore": 5.0,
+      "score": 76
     },
     {
       "office_id": 255947,
@@ -4425,7 +5216,18 @@
         }
       },
       "lat": 51.5041,
-      "lng": -0.075066
+      "lng": -0.075066,
+      "id": 255947,
+      "name": "Dexters Tower Bridge",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 2074,
+        "replyRate": 62.5
+      },
+      "totalReviews": 2074,
+      "replyRate": 62.5,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255948,
@@ -4488,7 +5290,18 @@
         }
       },
       "lat": 51.4454,
-      "lng": -0.334605
+      "lng": -0.334605,
+      "id": 255948,
+      "name": "Dexters Twickenham",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2053,
+        "replyRate": 46.51162790697674
+      },
+      "totalReviews": 2053,
+      "replyRate": 46.51162790697674,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255949,
@@ -4542,7 +5355,18 @@
         }
       },
       "lat": 51.4862,
-      "lng": -0.119346
+      "lng": -0.119346,
+      "id": 255949,
+      "name": "Dexters Vauxhall",
+      "va": {
+        "overallRating": 4.34,
+        "totalReviews": 2118,
+        "replyRate": 80.0
+      },
+      "totalReviews": 2118,
+      "replyRate": 80.0,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255950,
@@ -4605,7 +5429,18 @@
         }
       },
       "lat": 51.5046,
-      "lng": -0.05624
+      "lng": -0.05624,
+      "id": 255950,
+      "name": "Dexters Wapping",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 2039,
+        "replyRate": 69.84126984126983
+      },
+      "totalReviews": 2039,
+      "replyRate": 69.84126984126983,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255951,
@@ -4663,7 +5498,18 @@
         }
       },
       "lat": 51.5107,
-      "lng": -0.322132
+      "lng": -0.322132,
+      "id": 255951,
+      "name": "Dexters West Ealing",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 1641,
+        "replyRate": null
+      },
+      "totalReviews": 1641,
+      "replyRate": null,
+      "googleScore": null,
+      "score": 76
     },
     {
       "office_id": 255952,
@@ -4729,7 +5575,18 @@
         }
       },
       "lat": 51.5524,
-      "lng": -0.191668
+      "lng": -0.191668,
+      "id": 255952,
+      "name": "Dexters West Hampstead",
+      "va": {
+        "overallRating": 4.3,
+        "totalReviews": 2061,
+        "replyRate": 35.8974358974359
+      },
+      "totalReviews": 2061,
+      "replyRate": 35.8974358974359,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 255953,
@@ -4791,7 +5648,18 @@
         }
       },
       "lat": 51.5467,
-      "lng": -0.190969
+      "lng": -0.190969,
+      "id": 255953,
+      "name": "Dexters West Hampstead (South)",
+      "va": {
+        "overallRating": 4.36,
+        "totalReviews": 2160,
+        "replyRate": 41.30434782608695
+      },
+      "totalReviews": 2160,
+      "replyRate": 41.30434782608695,
+      "googleScore": 5.0,
+      "score": 72
     },
     {
       "office_id": 255954,
@@ -4853,7 +5721,18 @@
         }
       },
       "lat": 51.49,
-      "lng": -0.206207
+      "lng": -0.206207,
+      "id": 255954,
+      "name": "Dexters West Kensington",
+      "va": {
+        "overallRating": 4.32,
+        "totalReviews": 2079,
+        "replyRate": 67.53246753246754
+      },
+      "totalReviews": 2079,
+      "replyRate": 67.53246753246754,
+      "googleScore": 4.7,
+      "score": 76
     },
     {
       "office_id": 255955,
@@ -4920,7 +5799,18 @@
         }
       },
       "lat": 51.5151,
-      "lng": -0.196315
+      "lng": -0.196315,
+      "id": 255955,
+      "name": "Dexters Westbourne Grove",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2077,
+        "replyRate": 76.19047619047619
+      },
+      "totalReviews": 2077,
+      "replyRate": 76.19047619047619,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255956,
@@ -4983,7 +5873,18 @@
         }
       },
       "lat": 51.4916,
-      "lng": -0.139496
+      "lng": -0.139496,
+      "id": 255956,
+      "name": "Dexters Westminster",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 2071,
+        "replyRate": 45.714285714285715
+      },
+      "totalReviews": 2071,
+      "replyRate": 45.714285714285715,
+      "googleScore": 4.9,
+      "score": 76
     },
     {
       "office_id": 255957,
@@ -5045,7 +5946,18 @@
         }
       },
       "lat": 51.5097,
-      "lng": -0.150372
+      "lng": -0.150372,
+      "id": 255957,
+      "name": "Dexters Wetherell",
+      "va": {
+        "overallRating": 4.35,
+        "totalReviews": 1970,
+        "replyRate": 100.0
+      },
+      "totalReviews": 1970,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 15272,
@@ -5107,7 +6019,18 @@
         }
       },
       "lat": 51.4566054,
-      "lng": -0.1656989
+      "lng": -0.1656989,
+      "id": 15272,
+      "name": "Marsh & Parsons (SW11)",
+      "va": {
+        "overallRating": 4.64,
+        "totalReviews": 199,
+        "replyRate": 100.0
+      },
+      "totalReviews": 199,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 15296,
@@ -5173,7 +6096,18 @@
         }
       },
       "lat": 51.4513957,
-      "lng": -0.1476299
+      "lng": -0.1476299,
+      "id": 15296,
+      "name": "Marsh & Parsons (SW12)",
+      "va": {
+        "overallRating": 4.76,
+        "totalReviews": 344,
+        "replyRate": 0.0
+      },
+      "totalReviews": 344,
+      "replyRate": 0.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 15307,
@@ -5234,7 +6168,18 @@
         }
       },
       "lat": 51.4742365,
-      "lng": -0.2440197
+      "lng": -0.2440197,
+      "id": 15307,
+      "name": "Marsh & Parsons (SW13)",
+      "va": {
+        "overallRating": 4.87,
+        "totalReviews": 270,
+        "replyRate": 100.0
+      },
+      "totalReviews": 270,
+      "replyRate": 100.0,
+      "googleScore": 4.9,
+      "score": 81
     },
     {
       "office_id": 222744,
@@ -5284,7 +6229,17 @@
         }
       },
       "lat": 51.4619187,
-      "lng": -0.3032866
+      "lng": -0.3032866,
+      "id": 222744,
+      "name": "Marsh & Parsons (TW9)",
+      "va": {
+        "overallRating": 4.89,
+        "totalReviews": 245,
+        "replyRate": 100.0
+      },
+      "totalReviews": 245,
+      "replyRate": 100.0,
+      "score": 81
     },
     {
       "office_id": 20766,
@@ -5341,7 +6296,18 @@
         }
       },
       "lat": 51.502547,
-      "lng": -0.2430446
+      "lng": -0.2430446,
+      "id": 20766,
+      "name": "Marsh & Parsons (W12)",
+      "va": {
+        "overallRating": 4.78,
+        "totalReviews": 194,
+        "replyRate": 86.66666666666667
+      },
+      "totalReviews": 194,
+      "replyRate": 86.66666666666667,
+      "googleScore": 4.9,
+      "score": 80
     },
     {
       "office_id": 222747,
@@ -5392,7 +6358,17 @@
         }
       },
       "lat": 51.4948004,
-      "lng": -0.2134705
+      "lng": -0.2134705,
+      "id": 222747,
+      "name": "Marsh & Parsons (W14)",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": null
+      },
+      "totalReviews": 2,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 256335,
@@ -5450,7 +6426,18 @@
         }
       },
       "lat": 51.476,
-      "lng": -0.215108
+      "lng": -0.215108,
+      "id": 256335,
+      "name": "Marsh & Parsons Bishops Park",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 868,
+        "replyRate": 88.88888888888889
+      },
+      "totalReviews": 868,
+      "replyRate": 88.88888888888889,
+      "googleScore": 4.8,
+      "score": 80
     },
     {
       "office_id": 256337,
@@ -5508,7 +6495,18 @@
         }
       },
       "lat": 51.4977,
-      "lng": -0.222316
+      "lng": -0.222316,
+      "id": 256337,
+      "name": "Marsh & Parsons Brook Green",
+      "va": {
+        "overallRating": 4.24,
+        "totalReviews": 1044,
+        "replyRate": 88.46153846153845
+      },
+      "totalReviews": 1044,
+      "replyRate": 88.46153846153845,
+      "googleScore": 4.7,
+      "score": 82
     },
     {
       "office_id": 256338,
@@ -5566,7 +6564,18 @@
         }
       },
       "lat": 51.5382,
-      "lng": -0.144198
+      "lng": -0.144198,
+      "id": 256338,
+      "name": "Marsh & Parsons Camden",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 1000,
+        "replyRate": 92.6829268292683
+      },
+      "totalReviews": 1000,
+      "replyRate": 92.6829268292683,
+      "googleScore": 4.8,
+      "score": 81
     },
     {
       "office_id": 256339,
@@ -5624,7 +6633,18 @@
         }
       },
       "lat": 51.4942,
-      "lng": -0.163776
+      "lng": -0.163776,
+      "id": 256339,
+      "name": "Marsh & Parsons Chelsea",
+      "va": {
+        "overallRating": 4.14,
+        "totalReviews": 847,
+        "replyRate": 83.33333333333334
+      },
+      "totalReviews": 847,
+      "replyRate": 83.33333333333334,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 256343,
@@ -5675,7 +6695,17 @@
         }
       },
       "lat": 51.4651,
-      "lng": -0.263509
+      "lng": -0.263509,
+      "id": 256343,
+      "name": "Marsh & Parsons East Sheen & Richmond",
+      "va": {
+        "overallRating": 3.5,
+        "totalReviews": 2405,
+        "replyRate": 100.0
+      },
+      "totalReviews": 2405,
+      "replyRate": 100.0,
+      "score": 81
     },
     {
       "office_id": 256344,
@@ -5738,7 +6768,18 @@
         }
       },
       "lat": 51.4787,
-      "lng": -0.193473
+      "lng": -0.193473,
+      "id": 256344,
+      "name": "Marsh & Parsons Fulham",
+      "va": {
+        "overallRating": 4.06,
+        "totalReviews": 829,
+        "replyRate": 55.00000000000001
+      },
+      "totalReviews": 829,
+      "replyRate": 55.00000000000001,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 256345,
@@ -5796,7 +6837,18 @@
         }
       },
       "lat": 51.5061,
-      "lng": -0.210647
+      "lng": -0.210647,
+      "id": 256345,
+      "name": "Marsh & Parsons Holland Park",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 895,
+        "replyRate": 85.71428571428571
+      },
+      "totalReviews": 895,
+      "replyRate": 85.71428571428571,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256347,
@@ -5854,7 +6906,18 @@
         }
       },
       "lat": 51.503,
-      "lng": -0.191837
+      "lng": -0.191837,
+      "id": 256347,
+      "name": "Marsh & Parsons Kensington",
+      "va": {
+        "overallRating": 4.16,
+        "totalReviews": 858,
+        "replyRate": 100.0
+      },
+      "totalReviews": 858,
+      "replyRate": 100.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256348,
@@ -5917,7 +6980,18 @@
         }
       },
       "lat": 51.5256,
-      "lng": -0.178529
+      "lng": -0.178529,
+      "id": 256348,
+      "name": "Marsh & Parsons Little Venice",
+      "va": {
+        "overallRating": 4.68,
+        "totalReviews": 304,
+        "replyRate": 75.0
+      },
+      "totalReviews": 304,
+      "replyRate": 75.0,
+      "googleScore": 4.8,
+      "score": 82
     },
     {
       "office_id": 256349,
@@ -5975,7 +7049,18 @@
         }
       },
       "lat": 51.5205,
-      "lng": -0.156526
+      "lng": -0.156526,
+      "id": 256349,
+      "name": "Marsh & Parsons Marylebone & Mayfair",
+      "va": {
+        "overallRating": 4.17,
+        "totalReviews": 880,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 880,
+      "replyRate": 81.81818181818183,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256350,
@@ -6025,7 +7110,17 @@
         }
       },
       "lat": 51.5169,
-      "lng": -0.128216
+      "lng": -0.128216,
+      "id": 256350,
+      "name": "Marsh & Parsons New Homes",
+      "va": {
+        "overallRating": 4.59,
+        "totalReviews": 197,
+        "replyRate": 81.81818181818183
+      },
+      "totalReviews": 197,
+      "replyRate": 81.81818181818183,
+      "score": 73
     },
     {
       "office_id": 256351,
@@ -6088,7 +7183,18 @@
         }
       },
       "lat": 51.5166,
-      "lng": -0.211519
+      "lng": -0.211519,
+      "id": 256351,
+      "name": "Marsh & Parsons North Kensington",
+      "va": {
+        "overallRating": 4.13,
+        "totalReviews": 824,
+        "replyRate": 64.0
+      },
+      "totalReviews": 824,
+      "replyRate": 64.0,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256352,
@@ -6151,7 +7257,18 @@
         }
       },
       "lat": 51.5103,
-      "lng": -0.198104
+      "lng": -0.198104,
+      "id": 256352,
+      "name": "Marsh & Parsons Notting Hill",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 961,
+        "replyRate": 75.0
+      },
+      "totalReviews": 961,
+      "replyRate": 75.0,
+      "googleScore": 4.7,
+      "score": 72
     },
     {
       "office_id": 256353,
@@ -6209,7 +7326,18 @@
         }
       },
       "lat": 51.4923,
-      "lng": -0.140357
+      "lng": -0.140357,
+      "id": 256353,
+      "name": "Marsh & Parsons Pimlico & Westminster",
+      "va": {
+        "overallRating": 4.1,
+        "totalReviews": 845,
+        "replyRate": 91.11111111111111
+      },
+      "totalReviews": 845,
+      "replyRate": 91.11111111111111,
+      "googleScore": 4.4,
+      "score": 75
     },
     {
       "office_id": 256354,
@@ -6272,7 +7400,18 @@
         }
       },
       "lat": 51.5358,
-      "lng": -0.205228
+      "lng": -0.205228,
+      "id": 256354,
+      "name": "Marsh & Parsons Queens Park",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 969,
+        "replyRate": 57.49999999999999
+      },
+      "totalReviews": 969,
+      "replyRate": 57.49999999999999,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 256355,
@@ -6335,7 +7474,18 @@
         }
       },
       "lat": 51.4353,
-      "lng": -0.160144
+      "lng": -0.160144,
+      "id": 256355,
+      "name": "Marsh & Parsons Tooting",
+      "va": {
+        "overallRating": 4.24,
+        "totalReviews": 962,
+        "replyRate": 69.6969696969697
+      },
+      "totalReviews": 962,
+      "replyRate": 69.6969696969697,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 256356,
@@ -6397,7 +7547,18 @@
         }
       },
       "lat": 51.5473,
-      "lng": -0.224482
+      "lng": -0.224482,
+      "id": 256356,
+      "name": "Marsh & Parsons Willesden Green",
+      "va": {
+        "overallRating": 4.19,
+        "totalReviews": 901,
+        "replyRate": 6.25
+      },
+      "totalReviews": 901,
+      "replyRate": 6.25,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 251889,
@@ -6461,7 +7622,18 @@
         }
       },
       "lat": 51.4898,
-      "lng": -0.189809
+      "lng": -0.189809,
+      "id": 251889,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.11,
+        "totalReviews": 814,
+        "replyRate": 68.18181818181817
+      },
+      "totalReviews": 814,
+      "replyRate": 68.18181818181817,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 251884,
@@ -6512,7 +7684,17 @@
         }
       },
       "lat": 51.4938,
-      "lng": -0.176885
+      "lng": -0.176885,
+      "id": 251884,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.23,
+        "totalReviews": 941,
+        "replyRate": null
+      },
+      "totalReviews": 941,
+      "replyRate": null,
+      "score": 72
     },
     {
       "office_id": 223221,
@@ -6566,7 +7748,17 @@
         }
       },
       "lat": 51.555492,
-      "lng": -0.139166
+      "lng": -0.139166,
+      "id": 223221,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.66,
+        "totalReviews": 272,
+        "replyRate": 94.73684210526315
+      },
+      "totalReviews": 272,
+      "replyRate": 94.73684210526315,
+      "score": 81
     },
     {
       "office_id": 251885,
@@ -6629,7 +7821,18 @@
         }
       },
       "lat": 51.4619,
-      "lng": -0.112921
+      "lng": -0.112921,
+      "id": 251885,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.28,
+        "totalReviews": 969,
+        "replyRate": 77.27272727272727
+      },
+      "totalReviews": 969,
+      "replyRate": 77.27272727272727,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 251886,
@@ -6692,7 +7895,18 @@
         }
       },
       "lat": 51.4876,
-      "lng": -0.110919
+      "lng": -0.110919,
+      "id": 251886,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.25,
+        "totalReviews": 931,
+        "replyRate": 71.42857142857143
+      },
+      "totalReviews": 931,
+      "replyRate": 71.42857142857143,
+      "googleScore": 4.9,
+      "score": 72
     },
     {
       "office_id": 251887,
@@ -6747,7 +7961,17 @@
         }
       },
       "lat": 51.4384,
-      "lng": -0.12639
+      "lng": -0.12639,
+      "id": 251887,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.2,
+        "totalReviews": 903,
+        "replyRate": 77.77777777777779
+      },
+      "totalReviews": 903,
+      "replyRate": 77.77777777777779,
+      "score": 72
     },
     {
       "office_id": 251888,
@@ -6805,7 +8029,18 @@
         }
       },
       "lat": 51.4642,
-      "lng": -0.141761
+      "lng": -0.141761,
+      "id": 251888,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 950,
+        "replyRate": 100.0
+      },
+      "totalReviews": 950,
+      "replyRate": 100.0,
+      "googleScore": 4.6,
+      "score": 72
     },
     {
       "office_id": 251890,
@@ -6868,7 +8103,18 @@
         }
       },
       "lat": 51.4936,
-      "lng": -0.255123
+      "lng": -0.255123,
+      "id": 251890,
+      "name": "Marsh and Parsons",
+      "va": {
+        "overallRating": 4.21,
+        "totalReviews": 881,
+        "replyRate": 74.19354838709677
+      },
+      "totalReviews": 881,
+      "replyRate": 74.19354838709677,
+      "googleScore": 4.8,
+      "score": 72
     },
     {
       "office_id": 240133,
@@ -6919,7 +8165,17 @@
         }
       },
       "lat": 55.6117,
-      "lng": -4.50238
+      "lng": -4.50238,
+      "id": 240133,
+      "name": "Marshall Inc Property - Kilmarnock",
+      "va": {
+        "overallRating": 3.67,
+        "totalReviews": 6,
+        "replyRate": null
+      },
+      "totalReviews": 6,
+      "replyRate": null,
+      "score": 45
     },
     {
       "office_id": 240134,
@@ -6975,7 +8231,17 @@
         }
       },
       "lat": 51.6642,
-      "lng": -0.399226
+      "lng": -0.399226,
+      "id": 240134,
+      "name": "Marshall Vizard - Watford",
+      "va": {
+        "overallRating": 4.45,
+        "totalReviews": 200,
+        "replyRate": null
+      },
+      "totalReviews": 200,
+      "replyRate": null,
+      "score": 68
     },
     {
       "office_id": 9557,
@@ -7026,7 +8292,17 @@
         }
       },
       "lat": 52.040162,
-      "lng": -0.764975
+      "lng": -0.764975,
+      "id": 9557,
+      "name": "Marshalls Estate Agents",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 4,
+        "replyRate": null
+      },
+      "totalReviews": 4,
+      "replyRate": null,
+      "score": 42
     },
     {
       "office_id": 251892,
@@ -7082,7 +8358,17 @@
         }
       },
       "lat": 50.1185,
-      "lng": -5.53791
+      "lng": -5.53791,
+      "id": 251892,
+      "name": "Marshalls Estate Agents",
+      "va": {
+        "overallRating": 3.9,
+        "totalReviews": 49,
+        "replyRate": 0.0
+      },
+      "totalReviews": 49,
+      "replyRate": 0.0,
+      "score": 34
     },
     {
       "office_id": 251893,
@@ -7133,7 +8419,17 @@
         }
       },
       "lat": 50.0821,
-      "lng": -5.53973
+      "lng": -5.53973,
+      "id": 251893,
+      "name": "Marshalls Estate Agents",
+      "va": {
+        "overallRating": 4.5,
+        "totalReviews": 12,
+        "replyRate": null
+      },
+      "totalReviews": 12,
+      "replyRate": null,
+      "score": 44
     },
     {
       "office_id": 14091,
@@ -7183,7 +8479,17 @@
         }
       },
       "lat": 52.047513,
-      "lng": -0.022646
+      "lng": -0.022646,
+      "id": 14091,
+      "name": "Marshalls Properties",
+      "va": {
+        "overallRating": 4.26,
+        "totalReviews": 92,
+        "replyRate": null
+      },
+      "totalReviews": 92,
+      "replyRate": null,
+      "score": 80
     },
     {
       "office_id": 251894,
@@ -7238,7 +8544,17 @@
         }
       },
       "lat": 51.4791,
-      "lng": -0.612349
+      "lng": -0.612349,
+      "id": 251894,
+      "name": "Marshalls Property Services",
+      "va": {
+        "overallRating": 4.38,
+        "totalReviews": 153,
+        "replyRate": 66.66666666666666
+      },
+      "totalReviews": 153,
+      "replyRate": 66.66666666666666,
+      "score": 71
     },
     {
       "office_id": 240135,
@@ -7289,7 +8605,17 @@
         }
       },
       "lat": 50.8094,
-      "lng": -2.7398
+      "lng": -2.7398,
+      "id": 240135,
+      "name": "Marshwood Lettings - Beaminster",
+      "va": {
+        "overallRating": 5.0,
+        "totalReviews": 5,
+        "replyRate": null
+      },
+      "totalReviews": 5,
+      "replyRate": null,
+      "score": 39
     }
   ],
   "google_summary": {
