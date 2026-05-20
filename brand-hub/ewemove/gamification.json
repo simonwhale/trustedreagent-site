@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T13:29:02.315596+00:00",
+  "updated": "2026-05-20T20:08:18.623542+00:00",
   "brand": "EweMove",
   "offices": [
     {
@@ -36,11 +36,7 @@
       "google": {
         "place_id": "ChIJq05P8qiv2EcRJ1u8nHZ2ZTs",
         "rating": 4.9,
-        "user_rating_count": 285,
-        "formatted_address": "22 The Pantiles, Bexleyheath DA7 5HD",
-        "google_maps_url": "https://maps.google.com/?cid=4279957272693332775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 4
+        "user_rating_count": 285
       },
       "platforms": {
         "View Agents": {
@@ -56,31 +52,28 @@
           "rating": 4.93
         }
       },
-      "lat": 51.4676,
-      "lng": 0.134856,
-      "id": 245253,
-      "name": "EweMove Abbey Wood & Belvedere",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 314,
-        "replyRate": 89.47368421052632,
         "platforms": {
-          "google": {
-            "reviews": 298,
-            "score": 4.93
+          "viewagents": {
+            "reviews": 2,
+            "score": 5.0
           },
           "facebook": {
             "reviews": 14,
             "score": 5.0
           },
-          "viewagents": {
-            "reviews": 2,
-            "score": 5.0
+          "google": {
+            "reviews": 298,
+            "score": 4.93
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 314,
+        "replyRate": 89.47368421052632
       },
+      "id": 245253,
+      "name": "EweMove Abbey Wood & Belvedere",
       "totalReviews": 314,
-      "replyRate": 89.47368421052632,
       "googleScore": 4.9,
       "score": 85
     },
@@ -101,7 +94,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-20T17:12:25.780000",
-      "days_since_review": 88,
+      "days_since_review": 89,
       "total_reviews": 39,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -116,7 +109,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 88d"
+          "No review for 89d"
         ]
       ],
       "overall_rag": "RED",
@@ -127,23 +120,20 @@
           "rating": 4.79
         }
       },
-      "lat": 57.1381,
-      "lng": -2.22058,
-      "id": 244050,
-      "name": "EweMove Aberdeen",
       "va": {
-        "overallRating": 4.79,
-        "totalReviews": 39,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 39,
             "score": 4.79
           }
-        }
+        },
+        "overallRating": 4.79,
+        "totalReviews": 39,
+        "replyRate": 100.0
       },
+      "id": 244050,
+      "name": "EweMove Aberdeen",
       "totalReviews": 39,
-      "replyRate": 100.0,
       "score": 80
     },
     {
@@ -163,7 +153,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-22T18:26:04.340000",
-      "days_since_review": 27,
+      "days_since_review": 28,
       "total_reviews": 33,
       "reviews_30d": 1,
       "reviews_90d": 1,
@@ -180,10 +170,7 @@
       "google": {
         "place_id": "ChIJDZTkMDcxdEgRdgeemBGWE5c",
         "rating": 5.0,
-        "user_rating_count": 26,
-        "formatted_address": "The Shed, Sargeants Yard, Bordon GU35 0DJ",
-        "google_maps_url": "https://maps.google.com/?cid=10886209726603724662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 26
       },
       "platforms": {
         "Facebook": {
@@ -195,27 +182,24 @@
           "rating": 4.82
         }
       },
-      "lat": 51.1241,
-      "lng": -0.851958,
-      "id": 244052,
-      "name": "EweMove Alton & Bordon",
       "va": {
-        "overallRating": 4.73,
-        "totalReviews": 33,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 28,
-            "score": 4.82
-          },
           "facebook": {
             "reviews": 5,
             "score": 4.2
+          },
+          "google": {
+            "reviews": 28,
+            "score": 4.82
           }
-        }
+        },
+        "overallRating": 4.73,
+        "totalReviews": 33,
+        "replyRate": 100.0
       },
+      "id": 244052,
+      "name": "EweMove Alton & Bordon",
       "totalReviews": 33,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 77
     },
@@ -250,7 +234,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 181d"
         ]
       ],
@@ -266,14 +250,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.3671,
-      "lng": -1.21403,
-      "id": 244029,
-      "name": "EweMove Anston",
       "va": {
-        "overallRating": 4.91,
-        "totalReviews": 45,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 38,
@@ -283,10 +260,14 @@
             "reviews": 7,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.91,
+        "totalReviews": 45,
+        "replyRate": null
       },
+      "id": 244029,
+      "name": "EweMove Anston",
       "totalReviews": 45,
-      "replyRate": null,
       "score": 79
     },
     {
@@ -306,7 +287,7 @@
       "last_user": "CatherinePotter",
       "last_email": "catherine.potter@ewemove.com",
       "last_review_at": "2026-05-16T16:25:38.943000",
-      "days_since_review": 3,
+      "days_since_review": 4,
       "total_reviews": 45,
       "reviews_30d": 2,
       "reviews_90d": 6,
@@ -323,10 +304,7 @@
       "google": {
         "place_id": "ChIJuz4dJpG8PaYRU998hQYmRP4",
         "rating": 4.9,
-        "user_rating_count": 42,
-        "formatted_address": "Marlborough Way, Ashby-de-la-Zouch LE65 2NN",
-        "google_maps_url": "https://maps.google.com/?cid=18321810993501232979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 42
       },
       "platforms": {
         "Facebook": {
@@ -338,27 +316,24 @@
           "rating": 4.91
         }
       },
-      "lat": 52.7688,
-      "lng": -1.45649,
-      "id": 245280,
-      "name": "EweMove Ashby de la Zouch",
       "va": {
-        "overallRating": 4.91,
-        "totalReviews": 45,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 44,
-            "score": 4.91
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 44,
+            "score": 4.91
           }
-        }
+        },
+        "overallRating": 4.91,
+        "totalReviews": 45,
+        "replyRate": 100.0
       },
+      "id": 245280,
+      "name": "EweMove Ashby de la Zouch",
       "totalReviews": 45,
-      "replyRate": 100.0,
       "googleScore": 4.9,
       "score": 89
     },
@@ -379,7 +354,7 @@
       "last_user": "LukeHiggins",
       "last_email": "luke.higgins@ewemove.com",
       "last_review_at": "2026-01-30T12:08:03.837000",
-      "days_since_review": 109,
+      "days_since_review": 110,
       "total_reviews": 8,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -393,8 +368,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 109d"
+          "no_review_90d",
+          "No review for 110d"
         ],
         [
           "AMBER",
@@ -406,10 +381,7 @@
       "google": {
         "place_id": "ChIJE6rmnsXUdSMRWD9fc8YF6lk",
         "rating": 5.0,
-        "user_rating_count": 6,
-        "formatted_address": "Astley, Hybrid M29 7EH",
-        "google_maps_url": "https://maps.google.com/?cid=6478997363823165272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 6
       },
       "platforms": {
         "Google": {
@@ -421,14 +393,7 @@
           "rating": 4.9
         }
       },
-      "lat": 53.4935,
-      "lng": -2.46877,
-      "id": 255637,
-      "name": "EweMove Astley & Worsley",
       "va": {
-        "overallRating": 4.97,
-        "totalReviews": 8,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 6,
@@ -438,10 +403,14 @@
             "reviews": 2,
             "score": 4.9
           }
-        }
+        },
+        "overallRating": 4.98,
+        "totalReviews": 8,
+        "replyRate": null
       },
+      "id": 255637,
+      "name": "EweMove Astley & Worsley",
       "totalReviews": 8,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 62
     },
@@ -462,12 +431,12 @@
       "last_user": "VictoriaSlyvester",
       "last_email": "victoria.sylvester@ewemove.com",
       "last_review_at": "2026-05-06T13:56:04.423000",
-      "days_since_review": 13,
+      "days_since_review": 14,
       "total_reviews": 144,
       "reviews_30d": 6,
-      "reviews_90d": 15,
-      "replies_90d": 14,
-      "reply_rate_90d": 93.33333333333333,
+      "reviews_90d": 14,
+      "replies_90d": 13,
+      "reply_rate_90d": 92.85714285714286,
       "flags": [
         [
           "RED",
@@ -479,10 +448,7 @@
       "google": {
         "place_id": "ChIJi1Wx63UHekgR7wRPPHtuMHA",
         "rating": 4.9,
-        "user_rating_count": 106,
-        "formatted_address": "24 Causer Rd, Burton-on-Trent DE13 8FB",
-        "google_maps_url": "https://maps.google.com/?cid=8084082806701884655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 106
       },
       "platforms": {
         "Google": {
@@ -498,31 +464,28 @@
           "rating": 5.0
         }
       },
-      "lat": 52.7973,
-      "lng": -1.72411,
-      "id": 244056,
-      "name": "EweMove Barton-Under-Needwood",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 144,
-        "replyRate": 93.33333333333333,
         "platforms": {
           "google": {
             "reviews": 110,
             "score": 4.93
           },
-          "facebook": {
-            "reviews": 33,
-            "score": 5.0
-          },
           "viewagents": {
             "reviews": 1,
             "score": 5.0
+          },
+          "facebook": {
+            "reviews": 33,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 144,
+        "replyRate": 92.85714285714286
       },
+      "id": 244056,
+      "name": "EweMove Barton-Under-Needwood",
       "totalReviews": 144,
-      "replyRate": 93.33333333333333,
       "googleScore": 4.9,
       "score": 88
     },
@@ -540,11 +503,11 @@
       "nps": 0,
       "last_login_raw": "19.06.2024 12:26:27",
       "last_login_iso": "2024-06-19T12:26:27",
-      "days_since_login": 699,
+      "days_since_login": 700,
       "last_user": "sasasaasasa",
       "last_email": "domenic@viewagents.com",
       "last_review_at": "2026-05-16T11:40:33.557000",
-      "days_since_review": 3,
+      "days_since_review": 4,
       "total_reviews": 1372,
       "reviews_30d": 22,
       "reviews_90d": 48,
@@ -554,18 +517,14 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 699d ago"
+          "Last login 700d ago"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJXUjfJQ4ndEgRSztgDb-VMq0",
         "rating": 5.0,
-        "user_rating_count": 637,
-        "formatted_address": "Grove House Business Park, Lutyens Cl, Lychpit, Basingstoke RG24 8AG",
-        "google_maps_url": "https://maps.google.com/?cid=12480202165192768331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 637
       },
       "platforms": {
         "Google": {
@@ -573,23 +532,20 @@
           "rating": 4.99
         }
       },
-      "lat": 51.2813,
-      "lng": -1.06022,
-      "id": 244205,
-      "name": "EweMove Basingstoke",
       "va": {
-        "overallRating": 4.99,
-        "totalReviews": 686,
-        "replyRate": 83.33333333333334,
         "platforms": {
           "google": {
             "reviews": 686,
             "score": 4.99
           }
-        }
+        },
+        "overallRating": 4.99,
+        "totalReviews": 686,
+        "replyRate": 83.33333333333334
       },
+      "id": 244205,
+      "name": "EweMove Basingstoke",
       "totalReviews": 686,
-      "replyRate": 83.33333333333334,
       "googleScore": 5.0,
       "score": 86
     },
@@ -607,7 +563,7 @@
       "nps": 0,
       "last_login_raw": "19.06.2024 12:26:27",
       "last_login_iso": "2024-06-19T12:26:27",
-      "days_since_login": 699,
+      "days_since_login": 700,
       "last_user": "sasasaasasa",
       "last_email": "domenic@viewagents.com",
       "last_review_at": "2026-05-01T10:45:44.940000",
@@ -621,7 +577,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 699d ago"
+          "Last login 700d ago"
         ],
         [
           "RED",
@@ -638,11 +594,7 @@
       "google": {
         "place_id": "ChIJBbuSaGqWlosR4nxonZ428qo",
         "rating": 5.0,
-        "user_rating_count": 20,
-        "formatted_address": "124 Bourne Vale, Bromley BR2 7NZ",
-        "google_maps_url": "https://maps.google.com/?cid=12317967985685331170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 20
       },
       "platforms": {
         "Google": {
@@ -650,23 +602,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244057,
-      "name": "EweMove Beckenham & Shortlands",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 21,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 21,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 21,
+        "replyRate": 0.0
       },
+      "id": 244057,
+      "name": "EweMove Beckenham & Shortlands",
       "totalReviews": 21,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 48
     },
@@ -687,7 +636,7 @@
       "last_user": "YvonneRay",
       "last_email": "yvonne.ray@ewemove.com",
       "last_review_at": "2026-05-03T12:23:46.943000",
-      "days_since_review": 16,
+      "days_since_review": 17,
       "total_reviews": 41,
       "reviews_30d": 1,
       "reviews_90d": 1,
@@ -712,14 +661,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.5664,
-      "lng": 0.550214,
-      "id": 244208,
-      "name": "EweMove Benfleet & Hadleigh",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 41,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 39,
@@ -729,10 +671,14 @@
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 41,
+        "replyRate": 100.0
       },
+      "id": 244208,
+      "name": "EweMove Benfleet & Hadleigh",
       "totalReviews": 41,
-      "replyRate": 100.0,
       "score": 88
     },
     {
@@ -769,10 +715,7 @@
       "google": {
         "place_id": "ChIJHTPjLF_HeEgRHs8iRQU9_EE",
         "rating": 4.9,
-        "user_rating_count": 91,
-        "formatted_address": "Beckside North, Beverley HU17 0PR",
-        "google_maps_url": "https://maps.google.com/?cid=4754742399440441118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 91
       },
       "platforms": {
         "Facebook": {
@@ -788,19 +731,8 @@
           "rating": 4.88
         }
       },
-      "lat": 53.8396,
-      "lng": -0.412313,
-      "id": 244045,
-      "name": "EweMove Beverley",
       "va": {
-        "overallRating": 4.78,
-        "totalReviews": 107,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 96,
-            "score": 4.88
-          },
           "facebook": {
             "reviews": 10,
             "score": 4.2
@@ -808,11 +740,19 @@
           "yell": {
             "reviews": 1,
             "score": 1.0
+          },
+          "google": {
+            "reviews": 96,
+            "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.78,
+        "totalReviews": 107,
+        "replyRate": 100.0
       },
+      "id": 244045,
+      "name": "EweMove Beverley",
       "totalReviews": 107,
-      "replyRate": 100.0,
       "googleScore": 4.9,
       "score": 92
     },
@@ -833,7 +773,7 @@
       "last_user": "SukhyDhillon",
       "last_email": "sukhy.dhillon@ewemove.com",
       "last_review_at": "2026-03-31T19:56:51.840000",
-      "days_since_review": 49,
+      "days_since_review": 50,
       "total_reviews": 20,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -848,7 +788,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 49d"
+          "No review for 50d"
         ],
         [
           "AMBER",
@@ -864,23 +804,20 @@
           "rating": 4.8
         }
       },
-      "lat": 51.4677,
-      "lng": 0.0175685,
-      "id": 247713,
-      "name": "EweMove Blackheath & Charlton",
       "va": {
-        "overallRating": 4.8,
-        "totalReviews": 20,
-        "replyRate": 66.66666666666666,
         "platforms": {
           "google": {
             "reviews": 20,
             "score": 4.8
           }
-        }
+        },
+        "overallRating": 4.8,
+        "totalReviews": 20,
+        "replyRate": 66.66666666666666
       },
+      "id": 247713,
+      "name": "EweMove Blackheath & Charlton",
       "totalReviews": 20,
-      "replyRate": 66.66666666666666,
       "score": 71
     },
     {
@@ -935,14 +872,7 @@
           "rating": 5.0
         }
       },
-      "lat": 52.9707,
-      "lng": -0.0123637,
-      "id": 244063,
-      "name": "EweMove Boston",
       "va": {
-        "overallRating": 4.84,
-        "totalReviews": 26,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 17,
@@ -952,10 +882,14 @@
             "reviews": 9,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.85,
+        "totalReviews": 26,
+        "replyRate": 0.0
       },
+      "id": 244063,
+      "name": "EweMove Boston",
       "totalReviews": 26,
-      "replyRate": 0.0,
       "score": 69
     },
     {
@@ -971,11 +905,11 @@
       "nps": 100,
       "last_login_raw": "07.05.2026 12:58:51",
       "last_login_iso": "2026-05-07T12:58:51",
-      "days_since_login": 12,
+      "days_since_login": 13,
       "last_user": "NickMallinder",
       "last_email": "nick.mallinder@ewemove.com",
       "last_review_at": "2026-05-08T13:47:34.023000",
-      "days_since_review": 11,
+      "days_since_review": 12,
       "total_reviews": 32,
       "reviews_30d": 2,
       "reviews_90d": 4,
@@ -990,23 +924,20 @@
           "rating": 4.97
         }
       },
-      "lat": 0.0,
-      "lng": 0.0,
-      "id": 255432,
-      "name": "EweMove Bramley & Maltby",
       "va": {
-        "overallRating": 4.97,
-        "totalReviews": 32,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 32,
             "score": 4.97
           }
-        }
+        },
+        "overallRating": 4.97,
+        "totalReviews": 32,
+        "replyRate": 100.0
       },
+      "id": 255432,
+      "name": "EweMove Bramley & Maltby",
       "totalReviews": 32,
-      "replyRate": 100.0,
       "score": 89
     },
     {
@@ -1047,23 +978,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.0442,
-      "lng": -3.10786,
-      "id": 244065,
-      "name": "EweMove Bridgwater",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 62,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 62,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 62,
+        "replyRate": 100.0
       },
+      "id": 244065,
+      "name": "EweMove Bridgwater",
       "totalReviews": 62,
-      "replyRate": 100.0,
       "score": 82
     },
     {
@@ -1105,10 +1033,7 @@
       "google": {
         "place_id": "ChIJPTd0zziHHSAREy1taHxPVmg",
         "rating": 5.0,
-        "user_rating_count": 81,
-        "formatted_address": "Suite 3, 47 Bethel St, Brighouse HD6 1JR",
-        "google_maps_url": "https://maps.google.com/?cid=7518284023688146195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 81
       },
       "platforms": {
         "Facebook": {
@@ -1120,27 +1045,24 @@
           "rating": 4.95
         }
       },
-      "lat": 53.7075,
-      "lng": -1.77565,
-      "id": 244066,
-      "name": "EweMove Brighouse",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 92,
-        "replyRate": 73.33333333333333,
         "platforms": {
-          "google": {
-            "reviews": 83,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 9,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 83,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 92,
+        "replyRate": 73.33333333333333
       },
+      "id": 244066,
+      "name": "EweMove Brighouse",
       "totalReviews": 92,
-      "replyRate": 73.33333333333333,
       "googleScore": 5.0,
       "score": 82
     },
@@ -1161,7 +1083,7 @@
       "last_user": "NeilBeglin",
       "last_email": "neil.beglin@ewemove.com",
       "last_review_at": "2026-05-14T12:31:24.017000",
-      "days_since_review": 5,
+      "days_since_review": 6,
       "total_reviews": 58,
       "reviews_30d": 1,
       "reviews_90d": 1,
@@ -1191,27 +1113,24 @@
           "rating": 4.79
         }
       },
-      "lat": 53.7375,
-      "lng": -2.94708,
-      "id": 244202,
-      "name": "EweMove Brighton & Hove",
       "va": {
-        "overallRating": 4.83,
-        "totalReviews": 58,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 47,
-            "score": 4.79
-          },
           "facebook": {
             "reviews": 11,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 47,
+            "score": 4.79
           }
-        }
+        },
+        "overallRating": 4.83,
+        "totalReviews": 58,
+        "replyRate": 0.0
       },
+      "id": 244202,
+      "name": "EweMove Brighton & Hove",
       "totalReviews": 58,
-      "replyRate": 0.0,
       "score": 81
     },
     {
@@ -1267,23 +1186,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.3706,
-      "lng": -0.0029175,
-      "id": 244067,
-      "name": "EweMove Bromley East & Chislehurst",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 20,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 20,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 0.0
       },
+      "id": 244067,
+      "name": "EweMove Bromley East & Chislehurst",
       "totalReviews": 20,
-      "replyRate": 0.0,
       "score": 58
     },
     {
@@ -1324,16 +1240,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261738,
-      "name": "EweMove Bury & Summerseat",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261738,
+      "name": "EweMove Bury & Summerseat",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -1355,7 +1270,7 @@
       "last_review_at": "2026-05-18T11:10:59.837000",
       "days_since_review": 2,
       "total_reviews": 159,
-      "reviews_30d": 11,
+      "reviews_30d": 10,
       "reviews_90d": 28,
       "replies_90d": 27,
       "reply_rate_90d": 96.42857142857143,
@@ -1368,23 +1283,20 @@
           "rating": 5.0
         }
       },
-      "lat": 52.2125,
-      "lng": -0.0240614,
-      "id": 244070,
-      "name": "EweMove Cambridge West",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 159,
-        "replyRate": 96.42857142857143,
         "platforms": {
           "google": {
             "reviews": 159,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 159,
+        "replyRate": 96.42857142857143
       },
+      "id": 244070,
+      "name": "EweMove Cambridge West",
       "totalReviews": 159,
-      "replyRate": 96.42857142857143,
       "score": 93
     },
     {
@@ -1434,27 +1346,24 @@
           "rating": 5.0
         }
       },
-      "lat": 52.7183,
-      "lng": -1.98588,
-      "id": 244071,
-      "name": "EweMove Cannock",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 32,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 29,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 3,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 29,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 32,
+        "replyRate": 100.0
       },
+      "id": 244071,
+      "name": "EweMove Cannock",
       "totalReviews": 32,
-      "replyRate": 100.0,
       "score": 78
     },
     {
@@ -1474,7 +1383,7 @@
       "last_user": "AdamWooding",
       "last_email": "adam.wooding@ewemove.com",
       "last_review_at": "2026-04-25T12:27:20.493000",
-      "days_since_review": 24,
+      "days_since_review": 25,
       "total_reviews": 20,
       "reviews_30d": 1,
       "reviews_90d": 4,
@@ -1505,23 +1414,20 @@
           "rating": 5.0
         }
       },
-      "lat": 0.0,
-      "lng": 0.0,
-      "id": 244075,
-      "name": "EweMove Castle Bromwich",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 20,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 20,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 0.0
       },
+      "id": 244075,
+      "name": "EweMove Castle Bromwich",
       "totalReviews": 20,
-      "replyRate": 0.0,
       "score": 69
     },
     {
@@ -1537,7 +1443,7 @@
       "nps": 0,
       "last_login_raw": "19.06.2024 12:26:27",
       "last_login_iso": "2024-06-19T12:26:27",
-      "days_since_login": 699,
+      "days_since_login": 700,
       "last_user": "sasasaasasa",
       "last_email": "domenic@viewagents.com",
       "last_review_at": "2026-05-16T02:00:47.957000",
@@ -1551,7 +1457,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 699d ago"
+          "Last login 700d ago"
         ],
         [
           "RED",
@@ -1568,10 +1474,7 @@
       "google": {
         "place_id": "ChIJ73KjlGNzdEgRpD-QwqG2DKk",
         "rating": 4.9,
-        "user_rating_count": 19,
-        "formatted_address": "Hursley Rd, Chandler's Ford, Eastleigh SO53 2FS",
-        "google_maps_url": "https://maps.google.com/?cid=12181311898000572324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 19
       },
       "platforms": {
         "Google": {
@@ -1579,23 +1482,20 @@
           "rating": 4.97
         }
       },
-      "lat": 50.9885,
-      "lng": -1.38395,
-      "id": 244076,
-      "name": "EweMove Chandlers Ford & Eastleigh",
       "va": {
-        "overallRating": 4.97,
-        "totalReviews": 39,
-        "replyRate": 15.789473684210526,
         "platforms": {
           "google": {
             "reviews": 39,
             "score": 4.97
           }
-        }
+        },
+        "overallRating": 4.97,
+        "totalReviews": 39,
+        "replyRate": 15.789473684210526
       },
+      "id": 244076,
+      "name": "EweMove Chandlers Ford & Eastleigh",
       "totalReviews": 39,
-      "replyRate": 15.789473684210526,
       "googleScore": 4.9,
       "score": 68
     },
@@ -1616,7 +1516,7 @@
       "last_user": "AndreaMarkham",
       "last_email": "andrea.markham@ewemove.com",
       "last_review_at": "2026-05-09T14:45:23.690000",
-      "days_since_review": 10,
+      "days_since_review": 11,
       "total_reviews": 43,
       "reviews_30d": 2,
       "reviews_90d": 5,
@@ -1637,23 +1537,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244078,
-      "name": "EweMove Cheadle Hulme & Wilmslow",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 43,
-        "replyRate": 80.0,
         "platforms": {
           "google": {
             "reviews": 43,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 43,
+        "replyRate": 80.0
       },
+      "id": 244078,
+      "name": "EweMove Cheadle Hulme & Wilmslow",
       "totalReviews": 43,
-      "replyRate": 80.0,
       "score": 84
     },
     {
@@ -1694,23 +1591,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.3731,
-      "lng": -0.192953,
-      "id": 244079,
-      "name": "EweMove Cheam & Sutton",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 65,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 65,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 65,
+        "replyRate": 100.0
       },
+      "id": 244079,
+      "name": "EweMove Cheam & Sutton",
       "totalReviews": 65,
-      "replyRate": 100.0,
       "score": 82
     },
     {
@@ -1744,7 +1638,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 529d"
         ]
       ],
@@ -1752,10 +1646,7 @@
       "google": {
         "place_id": "ChIJlaumZqAbcUgRWzED2TquOKU",
         "rating": 4.4,
-        "user_rating_count": 22,
-        "formatted_address": "First Floor, 71 Rodney Rd, Cheltenham GL50 1HT",
-        "google_maps_url": "https://maps.google.com/?cid=11905457182726107483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 22
       },
       "platforms": {
         "Google": {
@@ -1763,23 +1654,20 @@
           "rating": 4.26
         }
       },
-      "lat": 51.8976,
-      "lng": -2.07627,
-      "id": 244081,
-      "name": "EweMove Cheltenham",
       "va": {
-        "overallRating": 4.26,
-        "totalReviews": 23,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 23,
             "score": 4.26
           }
-        }
+        },
+        "overallRating": 4.41,
+        "totalReviews": 23,
+        "replyRate": null
       },
+      "id": 244081,
+      "name": "EweMove Cheltenham",
       "totalReviews": 23,
-      "replyRate": null,
       "googleScore": 4.4,
       "score": 81
     },
@@ -1814,7 +1702,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 304d"
         ]
       ],
@@ -1830,27 +1718,24 @@
           "rating": 4.95
         }
       },
-      "lat": 53.9237,
-      "lng": -3.01037,
-      "id": 244023,
-      "name": "EweMove Chester East",
       "va": {
-        "overallRating": 4.96,
-        "totalReviews": 24,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 20,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 20,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 24,
+        "replyRate": null
       },
+      "id": 244023,
+      "name": "EweMove Chester East",
       "totalReviews": 24,
-      "replyRate": null,
       "score": 75
     },
     {
@@ -1870,7 +1755,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-14T19:47:27.740000",
-      "days_since_review": 35,
+      "days_since_review": 36,
       "total_reviews": 4,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -1885,7 +1770,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 35d"
+          "No review for 36d"
         ],
         [
           "AMBER",
@@ -1901,21 +1786,20 @@
           "rating": 5.0
         }
       },
-      "id": 261717,
-      "name": "EweMove Chester West",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 4,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 4,
+        "replyRate": 100.0
       },
+      "id": 261717,
+      "name": "EweMove Chester West",
       "totalReviews": 4,
-      "replyRate": 100.0,
       "score": 65
     },
     {
@@ -1961,18 +1845,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 0.0,
-      "lng": 0.0,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 245276,
       "name": "EweMove Chesterfield West",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 53
     },
     {
@@ -2018,23 +1899,20 @@
           "rating": 4.67
         }
       },
-      "lat": 53.3963,
-      "lng": -2.88715,
-      "id": 244082,
-      "name": "EweMove Childwall & Woolton",
       "va": {
-        "overallRating": 4.67,
-        "totalReviews": 87,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 87,
             "score": 4.67
           }
-        }
+        },
+        "overallRating": 4.67,
+        "totalReviews": 87,
+        "replyRate": 100.0
       },
+      "id": 244082,
+      "name": "EweMove Childwall & Woolton",
       "totalReviews": 87,
-      "replyRate": 100.0,
       "score": 78
     },
     {
@@ -2068,7 +1946,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 124d"
         ]
       ],
@@ -2080,23 +1958,20 @@
           "rating": 4.7
         }
       },
-      "lat": 51.7128,
-      "lng": -0.726012,
-      "id": 244083,
-      "name": "EweMove Chilterns",
       "va": {
-        "overallRating": 4.7,
-        "totalReviews": 10,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 10,
             "score": 4.7
           }
-        }
+        },
+        "overallRating": 4.7,
+        "totalReviews": 10,
+        "replyRate": null
       },
+      "id": 244083,
+      "name": "EweMove Chilterns",
       "totalReviews": 10,
-      "replyRate": null,
       "score": 70
     },
     {
@@ -2112,11 +1987,11 @@
       "nps": 0,
       "last_login_raw": "13.01.2025 11:26:57",
       "last_login_iso": "2025-01-13T11:26:57",
-      "days_since_login": 491,
+      "days_since_login": 492,
       "last_user": "JoMoss",
       "last_email": "jo.moss@ewemove.com",
       "last_review_at": "2026-02-16T13:42:56.907000",
-      "days_since_review": 92,
+      "days_since_review": 93,
       "total_reviews": 157,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -2126,23 +2001,19 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 491d ago"
+          "Last login 492d ago"
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 92d"
+          "no_review_90d",
+          "No review for 93d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJ7WxzX1QVcUgRK9M7REW9vNs",
         "rating": 4.9,
-        "user_rating_count": 98,
-        "formatted_address": "Unit 1, The Laurels, Clarks Hay, South Cerney, Cirencester GL7 5UA",
-        "google_maps_url": "https://maps.google.com/?cid=15833738495122985771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 98
       },
       "platforms": {
         "Facebook": {
@@ -2158,19 +2029,8 @@
           "rating": 4.95
         }
       },
-      "lat": 51.709,
-      "lng": -1.97633,
-      "id": 244016,
-      "name": "EweMove Cirencester",
       "va": {
-        "overallRating": 4.92,
-        "totalReviews": 157,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 106,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 50,
             "score": 4.84
@@ -2178,11 +2038,19 @@
           "yell": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 106,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.92,
+        "totalReviews": 157,
+        "replyRate": null
       },
+      "id": 244016,
+      "name": "EweMove Cirencester",
       "totalReviews": 157,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 79
     },
@@ -2199,7 +2067,7 @@
       "nps": 60,
       "last_login_raw": "10.12.2025 12:24:16",
       "last_login_iso": "2025-12-10T12:24:16",
-      "days_since_login": 160,
+      "days_since_login": 161,
       "last_user": "PaulBottomley",
       "last_email": "paul.bottomley@ewemove.com",
       "last_review_at": "2026-04-12T20:31:05.720000",
@@ -2213,7 +2081,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 160d ago"
+          "Last login 161d ago"
         ],
         [
           "AMBER",
@@ -2233,14 +2101,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.745,
-      "lng": -1.8338,
-      "id": 244044,
-      "name": "EweMove Cleckheaton",
       "va": {
-        "overallRating": 4.81,
-        "totalReviews": 72,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 61,
@@ -2250,10 +2111,14 @@
             "reviews": 11,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.81,
+        "totalReviews": 72,
+        "replyRate": 100.0
       },
+      "id": 244044,
+      "name": "EweMove Cleckheaton",
       "totalReviews": 72,
-      "replyRate": 100.0,
       "score": 92
     },
     {
@@ -2277,8 +2142,8 @@
       "total_reviews": 28,
       "reviews_30d": 1,
       "reviews_90d": 5,
-      "replies_90d": 4,
-      "reply_rate_90d": 80.0,
+      "replies_90d": 5,
+      "reply_rate_90d": 100.0,
       "flags": [],
       "overall_rag": "GREEN",
       "google": null,
@@ -2292,14 +2157,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.9134,
-      "lng": 0.743339,
-      "id": 245281,
-      "name": "EweMove Coggeshall & Braintree South",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 28,
-        "replyRate": 80.0,
         "platforms": {
           "google": {
             "reviews": 25,
@@ -2309,10 +2167,14 @@
             "reviews": 3,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 28,
+        "replyRate": 100.0
       },
+      "id": 245281,
+      "name": "EweMove Coggeshall & Braintree South",
       "totalReviews": 28,
-      "replyRate": 80.0,
       "score": 71
     },
     {
@@ -2334,7 +2196,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-27T17:21:08.577000",
-      "days_since_review": 53,
+      "days_since_review": 54,
       "total_reviews": 136,
       "reviews_30d": 0,
       "reviews_90d": 2,
@@ -2349,7 +2211,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 53d"
+          "No review for 54d"
         ],
         [
           "AMBER",
@@ -2361,10 +2223,7 @@
       "google": {
         "place_id": "ChIJURPu72bDe0gRE8bb4F3oxf0",
         "rating": 4.9,
-        "user_rating_count": 49,
-        "formatted_address": "20 Acre St, Lindley, Huddersfield HD3 3DU",
-        "google_maps_url": "https://maps.google.com/?cid=18286277351909869075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 49
       },
       "platforms": {
         "Facebook": {
@@ -2376,27 +2235,24 @@
           "rating": 4.92
         }
       },
-      "lat": 53.6632,
-      "lng": -1.83836,
-      "id": 244085,
-      "name": "EweMove Colne Valley, Lindley & Barkisland",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 57,
-        "replyRate": 50.0,
         "platforms": {
-          "google": {
-            "reviews": 51,
-            "score": 4.92
-          },
           "facebook": {
             "reviews": 6,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 51,
+            "score": 4.92
           }
-        }
+        },
+        "overallRating": 4.93,
+        "totalReviews": 57,
+        "replyRate": 50.0
       },
+      "id": 244085,
+      "name": "EweMove Colne Valley, Lindley & Barkisland",
       "totalReviews": 57,
-      "replyRate": 50.0,
       "googleScore": 4.9,
       "score": 82
     },
@@ -2411,26 +2267,20 @@
       "reputation_score": 89,
       "rating": 5.0,
       "nps": 0,
-      "last_login_raw": "01.03.2026 10:21:49",
-      "last_login_iso": "2026-03-01T10:21:49",
-      "days_since_login": 80,
+      "last_login_raw": "20.05.2026 01:26:56",
+      "last_login_iso": "2026-05-20T01:26:56",
+      "days_since_login": 0,
       "last_user": "StephenToal",
       "last_email": "stephen.toal@ewemove.com",
       "last_review_at": "2026-05-08T19:57:33.873000",
-      "days_since_review": 11,
+      "days_since_review": 12,
       "total_reviews": 37,
       "reviews_30d": 3,
       "reviews_90d": 5,
       "replies_90d": 4,
       "reply_rate_90d": 80.0,
-      "flags": [
-        [
-          "AMBER",
-          "login_stale_30d",
-          "Last login 80d ago"
-        ]
-      ],
-      "overall_rag": "AMBER",
+      "flags": [],
+      "overall_rag": "GREEN",
       "google": null,
       "platforms": {
         "Google": {
@@ -2442,14 +2292,7 @@
           "rating": 5.0
         }
       },
-      "lat": 54.8352,
-      "lng": -1.96743,
-      "id": 255641,
-      "name": "EweMove Consett & Lanchester",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 37,
-        "replyRate": 80.0,
         "platforms": {
           "google": {
             "reviews": 35,
@@ -2459,10 +2302,14 @@
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 37,
+        "replyRate": 80.0
       },
+      "id": 255641,
+      "name": "EweMove Consett & Lanchester",
       "totalReviews": 37,
-      "replyRate": 80.0,
       "score": 89
     },
     {
@@ -2508,18 +2355,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 52.5074,
-      "lng": -0.858256,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 255435,
       "name": "EweMove Corby",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -2535,11 +2379,11 @@
       "nps": 0,
       "last_login_raw": "14.03.2025 12:03:26",
       "last_login_iso": "2025-03-14T12:03:26",
-      "days_since_login": 431,
+      "days_since_login": 432,
       "last_user": "SpencerGeorgiou",
       "last_email": "spencer.georgiou@ewemove.com",
       "last_review_at": "2025-10-10T13:25:57.790000",
-      "days_since_review": 221,
+      "days_since_review": 222,
       "total_reviews": 15,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -2549,12 +2393,12 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 431d ago"
+          "Last login 432d ago"
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 221d"
+          "no_review_90d",
+          "No review for 222d"
         ],
         [
           "AMBER",
@@ -2570,23 +2414,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.2998,
-      "lng": -0.145722,
-      "id": 244086,
-      "name": "EweMove Coulsdon",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 15,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 15,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": null
       },
+      "id": 244086,
+      "name": "EweMove Coulsdon",
       "totalReviews": 15,
-      "replyRate": null,
       "score": 52
     },
     {
@@ -2611,9 +2452,9 @@
       "days_since_review": 2,
       "total_reviews": 963,
       "reviews_30d": 42,
-      "reviews_90d": 56,
-      "replies_90d": 53,
-      "reply_rate_90d": 94.64285714285714,
+      "reviews_90d": 54,
+      "replies_90d": 51,
+      "reply_rate_90d": 94.44444444444444,
       "flags": [
         [
           "RED",
@@ -2625,11 +2466,7 @@
       "google": {
         "place_id": "ChIJq05P8qiv2EcRJ1u8nHZ2ZTs",
         "rating": 4.9,
-        "user_rating_count": 285,
-        "formatted_address": "22 The Pantiles, Bexleyheath DA7 5HD",
-        "google_maps_url": "https://maps.google.com/?cid=4279957272693332775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 4
+        "user_rating_count": 285
       },
       "platforms": {
         "Google": {
@@ -2641,14 +2478,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.4732,
-      "lng": 0.141373,
-      "id": 244048,
-      "name": "EweMove Dartford & Greenhithe",
       "va": {
-        "overallRating": 4.94,
-        "totalReviews": 324,
-        "replyRate": 94.64285714285714,
         "platforms": {
           "google": {
             "reviews": 311,
@@ -2658,10 +2488,14 @@
             "reviews": 13,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 324,
+        "replyRate": 94.44444444444444
       },
+      "id": 244048,
+      "name": "EweMove Dartford & Greenhithe",
       "totalReviews": 324,
-      "replyRate": 94.64285714285714,
       "googleScore": 4.9,
       "score": 90
     },
@@ -2703,16 +2537,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261739,
-      "name": "EweMove Denholme & Thornton",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261739,
+      "name": "EweMove Denholme & Thornton",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -2758,18 +2591,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 53.4504,
-      "lng": -1.09329,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 261676,
       "name": "EweMove Doncaster East",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -2790,7 +2620,7 @@
       "last_user": "RyanWebster",
       "last_email": "ryan.webster@ewemove.com",
       "last_review_at": "2026-05-15T20:05:33.547000",
-      "days_since_review": 4,
+      "days_since_review": 5,
       "total_reviews": 24,
       "reviews_30d": 1,
       "reviews_90d": 3,
@@ -2816,23 +2646,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.6118,
-      "lng": -1.19029,
-      "id": 245277,
-      "name": "EweMove Doncaster North",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 8,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 8,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": 0.0
       },
+      "id": 245277,
+      "name": "EweMove Doncaster North",
       "totalReviews": 8,
-      "replyRate": 0.0,
       "score": 73
     },
     {
@@ -2887,27 +2714,24 @@
           "rating": 4.84
         }
       },
-      "lat": 51.158,
-      "lng": -0.34871,
-      "id": 244088,
-      "name": "EweMove Dorking & Leatherhead",
       "va": {
-        "overallRating": 4.81,
-        "totalReviews": 82,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 74,
-            "score": 4.84
-          },
           "facebook": {
             "reviews": 8,
             "score": 4.5
+          },
+          "google": {
+            "reviews": 74,
+            "score": 4.84
           }
-        }
+        },
+        "overallRating": 4.8,
+        "totalReviews": 82,
+        "replyRate": 0.0
       },
+      "id": 244088,
+      "name": "EweMove Dorking & Leatherhead",
       "totalReviews": 82,
-      "replyRate": 0.0,
       "score": 93
     },
     {
@@ -2927,7 +2751,7 @@
       "last_user": "PhillipWaller",
       "last_email": "phillip.waller@ewemove.com",
       "last_review_at": "2026-04-29T16:39:42.687000",
-      "days_since_review": 20,
+      "days_since_review": 21,
       "total_reviews": 55,
       "reviews_30d": 5,
       "reviews_90d": 8,
@@ -2952,14 +2776,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.2843,
-      "lng": -1.48402,
-      "id": 244089,
-      "name": "EweMove Dronfield & Barlborough",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 55,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 54,
@@ -2969,10 +2786,14 @@
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 55,
+        "replyRate": 100.0
       },
+      "id": 244089,
+      "name": "EweMove Dronfield & Barlborough",
       "totalReviews": 55,
-      "replyRate": 100.0,
       "score": 82
     },
     {
@@ -3028,23 +2849,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 260103,
-      "name": "EweMove East Leeds",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 8,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 8,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": 0.0
       },
+      "id": 260103,
+      "name": "EweMove East Leeds",
       "totalReviews": 8,
-      "replyRate": 0.0,
       "score": 53
     },
     {
@@ -3064,7 +2882,7 @@
       "last_user": "SamirBelet",
       "last_email": "samir.belet@ewemove.com",
       "last_review_at": "2026-04-07T15:10:53.713000",
-      "days_since_review": 42,
+      "days_since_review": 43,
       "total_reviews": 43,
       "reviews_30d": 0,
       "reviews_90d": 4,
@@ -3079,7 +2897,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 42d"
+          "No review for 43d"
         ],
         [
           "AMBER",
@@ -3095,23 +2913,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.4437,
-      "lng": 0.308114,
-      "id": 255431,
-      "name": "EweMove Ebbsfleet Valley",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 43,
-        "replyRate": 75.0,
         "platforms": {
           "google": {
             "reviews": 43,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 43,
+        "replyRate": 75.0
       },
+      "id": 255431,
+      "name": "EweMove Ebbsfleet Valley",
       "totalReviews": 43,
-      "replyRate": 75.0,
       "score": 89
     },
     {
@@ -3127,7 +2942,7 @@
       "nps": 0,
       "last_login_raw": "28.04.2026 12:28:45",
       "last_login_iso": "2026-04-28T12:28:45",
-      "days_since_login": 21,
+      "days_since_login": 22,
       "last_user": "TadleyOffice",
       "last_email": "tadley@ewemove.com",
       "last_review_at": "2026-04-24T08:57:31.040000",
@@ -3142,10 +2957,7 @@
       "google": {
         "place_id": "ChIJ_8Ab682hdkgRxPdm7jvDDTo",
         "rating": 5.0,
-        "user_rating_count": 133,
-        "formatted_address": "Unit 3b, Juno House, Calleva Park, Aldermaston, Tadley, Reading RG7 8RA",
-        "google_maps_url": "https://maps.google.com/?cid=4183214291067271108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 133
       },
       "platforms": {
         "Facebook": {
@@ -3157,27 +2969,24 @@
           "rating": 5.0
         }
       },
-      "lat": 51.3615,
-      "lng": -1.1612,
-      "id": 244036,
-      "name": "EweMove Estate & Lettings Agents in Tadley",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 148,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 143,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 5,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 143,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 148,
+        "replyRate": 100.0
       },
+      "id": 244036,
+      "name": "EweMove Estate & Lettings Agents in Tadley",
       "totalReviews": 148,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 88
     },
@@ -3220,10 +3029,7 @@
       "google": {
         "place_id": "ChIJn1ts3yALbUgRGj33sS2ZWU0",
         "rating": 5.0,
-        "user_rating_count": 71,
-        "formatted_address": "Unit 3, Belvedere House, Belvedere Rd, Exmouth EX8 1QN",
-        "google_maps_url": "https://maps.google.com/?cid=5573654435386047770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 71
       },
       "platforms": {
         "Google": {
@@ -3235,14 +3041,7 @@
           "rating": 5.0
         }
       },
-      "lat": 50.6244,
-      "lng": -3.40938,
-      "id": 244034,
-      "name": "EweMove Exmouth",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 112,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 101,
@@ -3252,10 +3051,14 @@
             "reviews": 11,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 112,
+        "replyRate": 100.0
       },
+      "id": 244034,
+      "name": "EweMove Exmouth",
       "totalReviews": 112,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 84
     },
@@ -3290,7 +3093,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 804d"
         ],
         [
@@ -3307,23 +3110,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244094,
-      "name": "EweMove Farnborough",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 8,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 8,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": null
       },
+      "id": 244094,
+      "name": "EweMove Farnborough",
       "totalReviews": 8,
-      "replyRate": null,
       "score": 64
     },
     {
@@ -3343,7 +3143,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-05-08T14:39:21.097000",
-      "days_since_review": 11,
+      "days_since_review": 12,
       "total_reviews": 153,
       "reviews_30d": 2,
       "reviews_90d": 14,
@@ -3368,27 +3168,24 @@
           "rating": 5.0
         }
       },
-      "lat": 51.1217,
-      "lng": 1.13528,
-      "id": 244095,
-      "name": "EweMove Folkestone & Hawkinge",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 153,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 149,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 149,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 153,
+        "replyRate": 100.0
       },
+      "id": 244095,
+      "name": "EweMove Folkestone & Hawkinge",
       "totalReviews": 153,
-      "replyRate": 100.0,
       "score": 84
     },
     {
@@ -3422,7 +3219,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 1169d"
         ]
       ],
@@ -3434,23 +3231,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244096,
-      "name": "EweMove Formby, Crosby & Hightown",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 15,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 15,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": null
       },
+      "id": 244096,
+      "name": "EweMove Formby, Crosby & Hightown",
       "totalReviews": 15,
-      "replyRate": null,
       "score": 71
     },
     {
@@ -3491,16 +3285,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261710,
-      "name": "EweMove Garforth & Kippax",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261710,
+      "name": "EweMove Garforth & Kippax",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -3520,7 +3313,7 @@
       "last_user": "PaulBenson",
       "last_email": "paul.benson@ewemove.com",
       "last_review_at": "2026-05-19T19:40:49.340000",
-      "days_since_review": 0,
+      "days_since_review": 1,
       "total_reviews": 109,
       "reviews_30d": 5,
       "reviews_90d": 10,
@@ -3542,10 +3335,7 @@
       "google": {
         "place_id": "ChIJdXOSPgUIFAMRz63bG7vh80g",
         "rating": 5.0,
-        "user_rating_count": 93,
-        "formatted_address": "Unit 16, Selby Business Park, Oakney Wood Rd, Selby YO8 8LZ",
-        "google_maps_url": "https://maps.google.com/?cid=5256793383814016463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 93
       },
       "platforms": {
         "Google": {
@@ -3557,14 +3347,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7665,
-      "lng": -1.06704,
-      "id": 244207,
-      "name": "EweMove Goole & Selby",
       "va": {
-        "overallRating": 4.96,
-        "totalReviews": 109,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 104,
@@ -3574,10 +3357,14 @@
             "reviews": 5,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 109,
+        "replyRate": 0.0
       },
+      "id": 244207,
+      "name": "EweMove Goole & Selby",
       "totalReviews": 109,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 92
     },
@@ -3633,14 +3420,7 @@
           "rating": 5.0
         }
       },
-      "lat": 52.83,
-      "lng": -0.544082,
-      "id": 244158,
-      "name": "EweMove Grantham & Sleaford",
       "va": {
-        "overallRating": 4.94,
-        "totalReviews": 107,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 103,
@@ -3650,10 +3430,14 @@
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 107,
+        "replyRate": 0.0
       },
+      "id": 244158,
+      "name": "EweMove Grantham & Sleaford",
       "totalReviews": 107,
-      "replyRate": 0.0,
       "score": 82
     },
     {
@@ -3687,7 +3471,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 300d"
         ]
       ],
@@ -3703,27 +3487,24 @@
           "rating": 4.81
         }
       },
-      "lat": 51.5408,
-      "lng": -0.335782,
-      "id": 244100,
-      "name": "EweMove Greenford",
       "va": {
-        "overallRating": 4.84,
-        "totalReviews": 25,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 21,
-            "score": 4.81
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 21,
+            "score": 4.81
           }
-        }
+        },
+        "overallRating": 4.84,
+        "totalReviews": 25,
+        "replyRate": null
       },
+      "id": 244100,
+      "name": "EweMove Greenford",
       "totalReviews": 25,
-      "replyRate": null,
       "score": 75
     },
     {
@@ -3743,7 +3524,7 @@
       "last_user": "GREGJAKOBEK",
       "last_email": "greg.jakobek@ewemove.com",
       "last_review_at": "2026-04-24T17:42:14.993000",
-      "days_since_review": 25,
+      "days_since_review": 26,
       "total_reviews": 37,
       "reviews_30d": 1,
       "reviews_90d": 2,
@@ -3772,31 +3553,28 @@
           "rating": 5.0
         }
       },
-      "lat": 51.2568,
-      "lng": -0.520002,
-      "id": 244101,
-      "name": "EweMove Guildford",
       "va": {
-        "overallRating": 4.99,
-        "totalReviews": 37,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 33,
             "score": 5.0
           },
-          "facebook": {
-            "reviews": 2,
-            "score": 5.0
-          },
           "viewagents": {
             "reviews": 2,
             "score": 4.9
+          },
+          "facebook": {
+            "reviews": 2,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.99,
+        "totalReviews": 37,
+        "replyRate": 100.0
       },
+      "id": 244101,
+      "name": "EweMove Guildford",
       "totalReviews": 37,
-      "replyRate": 100.0,
       "score": 78
     },
     {
@@ -3816,7 +3594,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-05-08T20:04:07.600000",
-      "days_since_review": 11,
+      "days_since_review": 12,
       "total_reviews": 46,
       "reviews_30d": 2,
       "reviews_90d": 2,
@@ -3838,10 +3616,7 @@
       "google": {
         "place_id": "ChIJ5dtLFX7ne0gR8gvUkt0B7r4",
         "rating": 4.5,
-        "user_rating_count": 39,
-        "formatted_address": "Hopwood Ln, Halifax HX1 5ER",
-        "google_maps_url": "https://maps.google.com/?cid=13757935962826214386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 39
       },
       "platforms": {
         "Facebook": {
@@ -3853,27 +3628,24 @@
           "rating": 4.56
         }
       },
-      "lat": 53.7196,
-      "lng": -1.87176,
-      "id": 244102,
-      "name": "EweMove Halifax",
       "va": {
-        "overallRating": 4.43,
-        "totalReviews": 46,
-        "replyRate": 50.0,
         "platforms": {
-          "google": {
-            "reviews": 41,
-            "score": 4.56
-          },
           "facebook": {
             "reviews": 5,
             "score": 3.4
+          },
+          "google": {
+            "reviews": 41,
+            "score": 4.56
           }
-        }
+        },
+        "overallRating": 4.43,
+        "totalReviews": 46,
+        "replyRate": 50.0
       },
+      "id": 244102,
+      "name": "EweMove Halifax",
       "totalReviews": 46,
-      "replyRate": 50.0,
       "googleScore": 4.5,
       "score": 75
     },
@@ -3894,12 +3666,12 @@
       "last_user": "MarkDavis",
       "last_email": "mark.davis@ewemove.com",
       "last_review_at": "2026-05-06T15:47:22.360000",
-      "days_since_review": 13,
+      "days_since_review": 14,
       "total_reviews": 120,
       "reviews_30d": 3,
-      "reviews_90d": 18,
-      "replies_90d": 8,
-      "reply_rate_90d": 44.44444444444444,
+      "reviews_90d": 17,
+      "replies_90d": 7,
+      "reply_rate_90d": 41.17647058823529,
       "flags": [
         [
           "AMBER",
@@ -3909,7 +3681,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 44% (90d)"
+          "Reply rate 41% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -3924,27 +3696,24 @@
           "rating": 4.95
         }
       },
-      "lat": 53.9825,
-      "lng": -1.529,
-      "id": 244104,
-      "name": "EweMove Harrogate & Knaresborough",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 120,
-        "replyRate": 44.44444444444444,
         "platforms": {
-          "google": {
-            "reviews": 110,
-            "score": 4.95
-          },
           "viewagents": {
             "reviews": 10,
             "score": 4.98
+          },
+          "google": {
+            "reviews": 110,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 120,
+        "replyRate": 41.17647058823529
       },
+      "id": 244104,
+      "name": "EweMove Harrogate & Knaresborough",
       "totalReviews": 120,
-      "replyRate": 44.44444444444444,
       "score": 95
     },
     {
@@ -3966,10 +3735,10 @@
       "last_review_at": "2026-05-19T05:57:05.890000",
       "days_since_review": 1,
       "total_reviews": 208,
-      "reviews_30d": 15,
+      "reviews_30d": 14,
       "reviews_90d": 33,
-      "replies_90d": 30,
-      "reply_rate_90d": 90.9090909090909,
+      "replies_90d": 31,
+      "reply_rate_90d": 93.93939393939394,
       "flags": [
         [
           "RED",
@@ -3989,27 +3758,24 @@
           "rating": 4.99
         }
       },
-      "lat": 53.7845,
-      "lng": -2.05129,
-      "id": 244107,
-      "name": "EweMove Hebden Bridge",
       "va": {
-        "overallRating": 4.99,
-        "totalReviews": 208,
-        "replyRate": 90.9090909090909,
         "platforms": {
-          "google": {
-            "reviews": 205,
-            "score": 4.99
-          },
           "facebook": {
             "reviews": 3,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 205,
+            "score": 4.99
           }
-        }
+        },
+        "overallRating": 4.99,
+        "totalReviews": 208,
+        "replyRate": 93.93939393939394
       },
+      "id": 244107,
+      "name": "EweMove Hebden Bridge",
       "totalReviews": 208,
-      "replyRate": 90.9090909090909,
       "score": 85
     },
     {
@@ -4029,7 +3795,7 @@
       "last_user": "JuliaHorsman",
       "last_email": "julia.horsman@ewemove.com",
       "last_review_at": "2026-05-05T14:28:02.427000",
-      "days_since_review": 14,
+      "days_since_review": 15,
       "total_reviews": 2,
       "reviews_30d": 2,
       "reviews_90d": 2,
@@ -4055,23 +3821,20 @@
           "rating": 5.0
         }
       },
-      "lat": 54.9644,
-      "lng": -2.14252,
-      "id": 260180,
-      "name": "EweMove Hexham & Tyne Valley",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 2,
-        "replyRate": 0.0,
         "platforms": {
           "viewagents": {
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 0.0
       },
+      "id": 260180,
+      "name": "EweMove Hexham & Tyne Valley",
       "totalReviews": 2,
-      "replyRate": 0.0,
       "score": 51
     },
     {
@@ -4105,7 +3868,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 1165d"
         ],
         [
@@ -4122,23 +3885,20 @@
           "rating": 4.67
         }
       },
-      "lat": 51.6338,
-      "lng": -0.729934,
-      "id": 244110,
-      "name": "EweMove High Wycombe",
       "va": {
-        "overallRating": 4.67,
-        "totalReviews": 15,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 15,
             "score": 4.67
           }
-        }
+        },
+        "overallRating": 4.67,
+        "totalReviews": 15,
+        "replyRate": null
       },
+      "id": 244110,
+      "name": "EweMove High Wycombe",
       "totalReviews": 15,
-      "replyRate": null,
       "score": 69
     },
     {
@@ -4172,7 +3932,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 260d"
         ]
       ],
@@ -4180,10 +3940,7 @@
       "google": {
         "place_id": "ChIJz8aPLL7ne0gRAOHv6MWXRrY",
         "rating": 4.8,
-        "user_rating_count": 57,
-        "formatted_address": "Cavendish House, Little Wood Dr, Hunsworth, Cleckheaton BD19 4TE",
-        "google_maps_url": "https://maps.google.com/?cid=13134352239545016576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 57
       },
       "platforms": {
         "Facebook": {
@@ -4195,27 +3952,24 @@
           "rating": 4.93
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244195,
-      "name": "EweMove Hinckley",
       "va": {
-        "overallRating": 4.96,
-        "totalReviews": 100,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 61,
-            "score": 4.93
-          },
           "facebook": {
             "reviews": 39,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 61,
+            "score": 4.93
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 100,
+        "replyRate": null
       },
+      "id": 244195,
+      "name": "EweMove Hinckley",
       "totalReviews": 100,
-      "replyRate": null,
       "googleScore": 4.8,
       "score": 97
     },
@@ -4236,7 +3990,7 @@
       "last_user": "NabeehaAhmed",
       "last_email": "nabeeha.hameed@ewemove.com",
       "last_review_at": "2025-11-15T14:14:43.180000",
-      "days_since_review": 185,
+      "days_since_review": 186,
       "total_reviews": 5,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4250,8 +4004,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 185d"
+          "no_review_90d",
+          "No review for 186d"
         ]
       ],
       "overall_rag": "RED",
@@ -4262,23 +4016,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.5726,
-      "lng": 0.229755,
-      "id": 261696,
-      "name": "EweMove Hornchurch North",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 5,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 5,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 5,
+        "replyRate": null
       },
+      "id": 261696,
+      "name": "EweMove Hornchurch North",
       "totalReviews": 5,
-      "replyRate": null,
       "score": 74
     },
     {
@@ -4324,27 +4075,24 @@
           "rating": 4.88
         }
       },
-      "lat": 53.8902,
-      "lng": -1.51725,
-      "id": 244112,
-      "name": "EweMove Horsforth Adel & Chapel Allerton",
       "va": {
-        "overallRating": 4.89,
-        "totalReviews": 70,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 66,
-            "score": 4.88
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 66,
+            "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.89,
+        "totalReviews": 70,
+        "replyRate": 100.0
       },
+      "id": 244112,
+      "name": "EweMove Horsforth Adel & Chapel Allerton",
       "totalReviews": 70,
-      "replyRate": 100.0,
       "score": 82
     },
     {
@@ -4399,14 +4147,7 @@
           "rating": 4.0
         }
       },
-      "lat": 52.3293,
-      "lng": -0.18151,
-      "id": 244113,
-      "name": "EweMove Huntingdon & St Ives",
       "va": {
-        "overallRating": 4.46,
-        "totalReviews": 22,
-        "replyRate": 66.66666666666666,
         "platforms": {
           "google": {
             "reviews": 18,
@@ -4416,10 +4157,14 @@
             "reviews": 4,
             "score": 4.0
           }
-        }
+        },
+        "overallRating": 4.45,
+        "totalReviews": 22,
+        "replyRate": 66.66666666666666
       },
+      "id": 244113,
+      "name": "EweMove Huntingdon & St Ives",
       "totalReviews": 22,
-      "replyRate": 66.66666666666666,
       "score": 65
     },
     {
@@ -4439,27 +4184,29 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-19T13:57:34.387000",
-      "days_since_review": 30,
+      "days_since_review": 31,
       "total_reviews": 157,
       "reviews_30d": 0,
-      "reviews_90d": 5,
-      "replies_90d": 5,
+      "reviews_90d": 4,
+      "replies_90d": 4,
       "reply_rate_90d": 100.0,
       "flags": [
         [
           "RED",
           "never_logged_in",
           "Never logged in"
+        ],
+        [
+          "AMBER",
+          "no_review_30d",
+          "No review for 31d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJP13J9ZrLe0gRahAVQXLZWLI",
         "rating": 4.8,
-        "user_rating_count": 137,
-        "formatted_address": "3 Catherine St, Hyde SK14 2BE",
-        "google_maps_url": "https://maps.google.com/?cid=12851260621443108970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 137
       },
       "platforms": {
         "Facebook": {
@@ -4471,27 +4218,24 @@
           "rating": 4.86
         }
       },
-      "lat": 53.4484,
-      "lng": -2.06546,
-      "id": 244114,
-      "name": "EweMove Hyde & Dukinfield",
       "va": {
-        "overallRating": 4.87,
-        "totalReviews": 157,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 147,
-            "score": 4.86
-          },
           "facebook": {
             "reviews": 10,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 147,
+            "score": 4.86
           }
-        }
+        },
+        "overallRating": 4.87,
+        "totalReviews": 157,
+        "replyRate": 100.0
       },
+      "id": 244114,
+      "name": "EweMove Hyde & Dukinfield",
       "totalReviews": 157,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 84
     },
@@ -4539,22 +4283,18 @@
       "google": {
         "place_id": "ChIJTQUXylu0U0oR_rsiuOn5f8c",
         "rating": 5.0,
-        "user_rating_count": 29,
-        "formatted_address": "1 Avondale Rd, Lancaster LA1 4BZ",
-        "google_maps_url": "https://maps.google.com/?cid=14375483317801892862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 29
       },
       "platforms": null,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.49,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 261734,
       "name": "EweMove Lancaster",
-      "va": {
-        "overallRating": 5.0,
-        "totalReviews": 29,
-        "replyRate": null,
-        "platforms": {}
-      },
-      "totalReviews": 29,
-      "replyRate": null,
+      "totalReviews": 0,
       "googleScore": 5.0,
       "score": 50
     },
@@ -4591,16 +4331,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261745,
-      "name": "EweMove Langport & Crewkerne",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261745,
+      "name": "EweMove Langport & Crewkerne",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -4616,11 +4355,11 @@
       "nps": 0,
       "last_login_raw": "29.04.2026 12:01:19",
       "last_login_iso": "2026-04-29T12:01:19",
-      "days_since_login": 20,
+      "days_since_login": 21,
       "last_user": "PhilSmith",
       "last_email": "phil.smith@ewemove.com",
       "last_review_at": "2026-04-29T15:56:21.433000",
-      "days_since_review": 20,
+      "days_since_review": 21,
       "total_reviews": 17,
       "reviews_30d": 2,
       "reviews_90d": 4,
@@ -4635,23 +4374,20 @@
           "rating": 5.0
         }
       },
-      "lat": 52.3036,
-      "lng": -1.5254,
-      "id": 245275,
-      "name": "EweMove Leamington Spa North & Knowle",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 17,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 17,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 17,
+        "replyRate": 100.0
       },
+      "id": 245275,
+      "name": "EweMove Leamington Spa North & Knowle",
       "totalReviews": 17,
-      "replyRate": 100.0,
       "score": 85
     },
     {
@@ -4673,7 +4409,7 @@
       "last_review_at": "2026-05-12T20:35:17.337000",
       "days_since_review": 7,
       "total_reviews": 208,
-      "reviews_30d": 6,
+      "reviews_30d": 5,
       "reviews_90d": 11,
       "replies_90d": 11,
       "reply_rate_90d": 100.0,
@@ -4692,23 +4428,20 @@
           "rating": 4.9
         }
       },
-      "lat": 52.6445,
-      "lng": -1.07422,
-      "id": 244122,
-      "name": "EweMove Leicester North",
       "va": {
-        "overallRating": 4.9,
-        "totalReviews": 208,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 208,
             "score": 4.9
           }
-        }
+        },
+        "overallRating": 4.9,
+        "totalReviews": 208,
+        "replyRate": 100.0
       },
+      "id": 244122,
+      "name": "EweMove Leicester North",
       "totalReviews": 208,
-      "replyRate": 100.0,
       "score": 85
     },
     {
@@ -4728,7 +4461,7 @@
       "last_user": "ChristopherNaylor",
       "last_email": "chris.naylor@ewemove.com",
       "last_review_at": "2026-04-28T14:43:10.657000",
-      "days_since_review": 21,
+      "days_since_review": 22,
       "total_reviews": 445,
       "reviews_30d": 2,
       "reviews_90d": 5,
@@ -4739,10 +4472,7 @@
       "google": {
         "place_id": "ChIJBQdGLlRRdkgRVvf34UhH4y0",
         "rating": 4.9,
-        "user_rating_count": 399,
-        "formatted_address": "The Coach House, 5 West St, Leighton Buzzard LU7 1DA",
-        "google_maps_url": "https://maps.google.com/?cid=3306564929774417750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 399
       },
       "platforms": {
         "Facebook": {
@@ -4754,27 +4484,24 @@
           "rating": 4.86
         }
       },
-      "lat": 51.9176,
-      "lng": -0.662055,
-      "id": 244206,
-      "name": "EweMove Leighton Buzzard",
       "va": {
-        "overallRating": 4.87,
-        "totalReviews": 445,
-        "replyRate": 80.0,
         "platforms": {
-          "google": {
-            "reviews": 422,
-            "score": 4.86
-          },
           "facebook": {
             "reviews": 23,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 422,
+            "score": 4.86
           }
-        }
+        },
+        "overallRating": 4.86,
+        "totalReviews": 445,
+        "replyRate": 80.0
       },
+      "id": 244206,
+      "name": "EweMove Leighton Buzzard",
       "totalReviews": 445,
-      "replyRate": 80.0,
       "googleScore": 4.9,
       "score": 98
     },
@@ -4795,7 +4522,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-05-12T18:35:34.283000",
-      "days_since_review": 7,
+      "days_since_review": 8,
       "total_reviews": 2,
       "reviews_30d": 2,
       "reviews_90d": 2,
@@ -4821,23 +4548,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.5282,
-      "lng": -3.4254,
-      "id": 261697,
-      "name": "EweMove Llantrisant & Pontyclun ",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 2,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 100.0
       },
+      "id": 261697,
+      "name": "EweMove Llantrisant & Pontyclun ",
       "totalReviews": 2,
-      "replyRate": 100.0,
       "score": 52
     },
     {
@@ -4887,14 +4611,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.9045,
-      "lng": -0.370148,
-      "id": 244124,
-      "name": "EweMove Luton East",
       "va": {
-        "overallRating": 4.85,
-        "totalReviews": 101,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 95,
@@ -4904,10 +4621,14 @@
             "reviews": 6,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.85,
+        "totalReviews": 101,
+        "replyRate": 100.0
       },
+      "id": 244124,
+      "name": "EweMove Luton East",
       "totalReviews": 101,
-      "replyRate": 100.0,
       "score": 82
     },
     {
@@ -4941,7 +4662,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 619d"
         ]
       ],
@@ -4949,10 +4670,7 @@
       "google": {
         "place_id": "ChIJL1HcVhNDd0gR3JjWXH2HvsY",
         "rating": 4.8,
-        "user_rating_count": 26,
-        "formatted_address": "26 Lilac Dr, Lutterworth LE17 4FP",
-        "google_maps_url": "https://maps.google.com/?cid=14321032837582985436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 26
       },
       "platforms": {
         "Facebook": {
@@ -4964,27 +4682,24 @@
           "rating": 4.85
         }
       },
-      "lat": 52.4623,
-      "lng": -1.15401,
-      "id": 244125,
-      "name": "EweMove Lutterworth",
       "va": {
-        "overallRating": 4.86,
-        "totalReviews": 27,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 26,
-            "score": 4.85
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 26,
+            "score": 4.85
           }
-        }
+        },
+        "overallRating": 4.85,
+        "totalReviews": 27,
+        "replyRate": null
       },
+      "id": 244125,
+      "name": "EweMove Lutterworth",
       "totalReviews": 27,
-      "replyRate": null,
       "googleScore": 4.8,
       "score": 75
     },
@@ -5036,23 +4751,20 @@
           "rating": 5.0
         }
       },
-      "lat": 52.9353,
-      "lng": -0.87166,
-      "id": 260107,
-      "name": "EweMove Melton Mowbray",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 11,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 11,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 11,
+        "replyRate": 0.0
       },
+      "id": 260107,
+      "name": "EweMove Melton Mowbray",
       "totalReviews": 11,
-      "replyRate": 0.0,
       "score": 58
     },
     {
@@ -5107,27 +4819,24 @@
           "rating": 4.87
         }
       },
-      "lat": 54.5508,
-      "lng": -0.964751,
-      "id": 244149,
-      "name": "EweMove Middlesbrough & Redcar",
       "va": {
-        "overallRating": 4.88,
-        "totalReviews": 60,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 54,
-            "score": 4.87
-          },
           "facebook": {
             "reviews": 6,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 54,
+            "score": 4.87
           }
-        }
+        },
+        "overallRating": 4.88,
+        "totalReviews": 60,
+        "replyRate": 0.0
       },
+      "id": 244149,
+      "name": "EweMove Middlesbrough & Redcar",
       "totalReviews": 60,
-      "replyRate": 0.0,
       "score": 82
     },
     {
@@ -5147,7 +4856,7 @@
       "last_user": "MathewMiles",
       "last_email": "matthewmiles@ewemove.com",
       "last_review_at": "2026-05-01T18:47:57.770000",
-      "days_since_review": 18,
+      "days_since_review": 19,
       "total_reviews": 115,
       "reviews_30d": 1,
       "reviews_90d": 6,
@@ -5172,27 +4881,24 @@
           "rating": 4.88
         }
       },
-      "lat": 53.7737,
-      "lng": -1.70104,
-      "id": 244128,
-      "name": "EweMove Morley & Rothwell",
       "va": {
-        "overallRating": 4.88,
-        "totalReviews": 115,
-        "replyRate": 83.33333333333334,
         "platforms": {
-          "google": {
-            "reviews": 112,
-            "score": 4.88
-          },
           "facebook": {
             "reviews": 3,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 112,
+            "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.89,
+        "totalReviews": 115,
+        "replyRate": 83.33333333333334
       },
+      "id": 244128,
+      "name": "EweMove Morley & Rothwell",
       "totalReviews": 115,
-      "replyRate": 83.33333333333334,
       "score": 84
     },
     {
@@ -5208,7 +4914,7 @@
       "nps": 0,
       "last_login_raw": "25.02.2026 12:17:21",
       "last_login_iso": "2026-02-25T12:17:21",
-      "days_since_login": 83,
+      "days_since_login": 84,
       "last_user": "AlisonAstrand",
       "last_email": "alison.astrand@ewemove.com",
       "last_review_at": null,
@@ -5222,7 +4928,7 @@
         [
           "AMBER",
           "login_stale_30d",
-          "Last login 83d ago"
+          "Last login 84d ago"
         ],
         [
           "RED",
@@ -5238,16 +4944,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.45,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 261735,
       "name": "EweMove New Malden & Worcester Park",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 50
     },
     {
@@ -5267,21 +4972,18 @@
       "last_user": "JamesAger",
       "last_email": "james.ager@ewemove.com",
       "last_review_at": "2026-05-12T14:36:49.737000",
-      "days_since_review": 7,
+      "days_since_review": 8,
       "total_reviews": 309,
       "reviews_30d": 4,
-      "reviews_90d": 10,
-      "replies_90d": 10,
+      "reviews_90d": 9,
+      "replies_90d": 9,
       "reply_rate_90d": 100.0,
       "flags": [],
       "overall_rag": "GREEN",
       "google": {
         "place_id": "ChIJy_xEp7o7bEgROoobimqYwDc",
         "rating": 5.0,
-        "user_rating_count": 275,
-        "formatted_address": "Bridgewater House, The Square, Barnstaple EX32 8LS",
-        "google_maps_url": "https://maps.google.com/?cid=4017378450965498426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 275
       },
       "platforms": {
         "Facebook": {
@@ -5293,27 +4995,24 @@
           "rating": 4.96
         }
       },
-      "lat": 51.0784,
-      "lng": -4.05817,
-      "id": 244033,
-      "name": "EweMove North Devon",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 309,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 283,
-            "score": 4.96
-          },
           "facebook": {
             "reviews": 26,
             "score": 4.85
+          },
+          "google": {
+            "reviews": 283,
+            "score": 4.96
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 309,
+        "replyRate": 100.0
       },
+      "id": 244033,
+      "name": "EweMove North Devon",
       "totalReviews": 309,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 93
     },
@@ -5334,7 +5033,7 @@
       "last_user": "KhilanShah",
       "last_email": "khilan.shah@ewemove.com",
       "last_review_at": "2026-05-16T14:17:27.033000",
-      "days_since_review": 3,
+      "days_since_review": 4,
       "total_reviews": 175,
       "reviews_30d": 2,
       "reviews_90d": 5,
@@ -5351,10 +5050,7 @@
       "google": {
         "place_id": "ChIJA5ImgVsXdkgRkcErSAJx2aI",
         "rating": 4.8,
-        "user_rating_count": 148,
-        "formatted_address": "2C Lodge Ln, London N12 8AF",
-        "google_maps_url": "https://maps.google.com/?cid=11734534558705238417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 148
       },
       "platforms": {
         "Google": {
@@ -5362,23 +5058,20 @@
           "rating": 4.6
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244132,
-      "name": "EweMove North Finchley",
       "va": {
-        "overallRating": 4.6,
-        "totalReviews": 175,
-        "replyRate": 80.0,
         "platforms": {
           "google": {
             "reviews": 175,
             "score": 4.6
           }
-        }
+        },
+        "overallRating": 4.6,
+        "totalReviews": 175,
+        "replyRate": 80.0
       },
+      "id": 244132,
+      "name": "EweMove North Finchley",
       "totalReviews": 175,
-      "replyRate": 80.0,
       "googleScore": 4.8,
       "score": 84
     },
@@ -5395,11 +5088,11 @@
       "nps": 0,
       "last_login_raw": "06.04.2026 11:50:54",
       "last_login_iso": "2026-04-06T11:50:54",
-      "days_since_login": 43,
+      "days_since_login": 44,
       "last_user": "RichardSykes",
       "last_email": "ric.sykes@ewemove.com",
       "last_review_at": "2026-04-30T15:00:52.710000",
-      "days_since_review": 19,
+      "days_since_review": 20,
       "total_reviews": 12,
       "reviews_30d": 2,
       "reviews_90d": 7,
@@ -5409,7 +5102,7 @@
         [
           "AMBER",
           "login_stale_30d",
-          "Last login 43d ago"
+          "Last login 44d ago"
         ]
       ],
       "overall_rag": "AMBER",
@@ -5420,21 +5113,20 @@
           "rating": 4.92
         }
       },
-      "id": 261737,
-      "name": "EweMove North Fylde",
       "va": {
-        "overallRating": 4.92,
-        "totalReviews": 12,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 12,
             "score": 4.92
           }
-        }
+        },
+        "overallRating": 4.92,
+        "totalReviews": 12,
+        "replyRate": 100.0
       },
+      "id": 261737,
+      "name": "EweMove North Fylde",
       "totalReviews": 12,
-      "replyRate": 100.0,
       "score": 71
     },
     {
@@ -5470,16 +5162,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261746,
-      "name": "EweMove North Macclesfield & Poynton",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261746,
+      "name": "EweMove North Macclesfield & Poynton",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -5499,7 +5190,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-05-16T14:27:39.767000",
-      "days_since_review": 3,
+      "days_since_review": 4,
       "total_reviews": 83,
       "reviews_30d": 2,
       "reviews_90d": 3,
@@ -5529,14 +5220,7 @@
           "rating": 5.0
         }
       },
-      "lat": 52.3362,
-      "lng": -0.951377,
-      "id": 244136,
-      "name": "EweMove Northampton North",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 83,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 50,
@@ -5546,10 +5230,14 @@
             "reviews": 33,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 83,
+        "replyRate": 0.0
       },
+      "id": 244136,
+      "name": "EweMove Northampton North",
       "totalReviews": 83,
-      "replyRate": 0.0,
       "score": 78
     },
     {
@@ -5600,23 +5288,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.0281,
-      "lng": -1.29212,
-      "id": 261686,
-      "name": "EweMove Nuthall & Eastwood",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 3,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 3,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 3,
+        "replyRate": 100.0
       },
+      "id": 261686,
+      "name": "EweMove Nuthall & Eastwood",
       "totalReviews": 3,
-      "replyRate": 100.0,
       "score": 65
     },
     {
@@ -5671,27 +5356,24 @@
           "rating": 5.0
         }
       },
-      "lat": 52.4773,
-      "lng": -0.922013,
-      "id": 244021,
-      "name": "EweMove Oakham & Market Harborough",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 46,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 27,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 19,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 27,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 46,
+        "replyRate": 0.0
       },
+      "id": 244021,
+      "name": "EweMove Oakham & Market Harborough",
       "totalReviews": 46,
-      "replyRate": 0.0,
       "score": 76
     },
     {
@@ -5714,9 +5396,9 @@
       "days_since_review": 19,
       "total_reviews": 28,
       "reviews_30d": 4,
-      "reviews_90d": 7,
-      "replies_90d": 3,
-      "reply_rate_90d": 42.857142857142854,
+      "reviews_90d": 6,
+      "replies_90d": 2,
+      "reply_rate_90d": 33.33333333333333,
       "flags": [
         [
           "RED",
@@ -5726,17 +5408,14 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 43% (90d)"
+          "Reply rate 33% (90d)"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJbaHeHwP4YGMRUylAeMCpQJk",
         "rating": 5.0,
-        "user_rating_count": 28,
-        "formatted_address": "49 Hillview Rd, Orpington BR6 0SE",
-        "google_maps_url": "https://maps.google.com/?cid=11043012930428741971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 28
       },
       "platforms": {
         "Google": {
@@ -5744,23 +5423,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.3735,
-      "lng": 0.090764,
-      "id": 244080,
-      "name": "EweMove Orpington & Chelsfield",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 28,
-        "replyRate": 42.857142857142854,
         "platforms": {
           "google": {
             "reviews": 28,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 28,
+        "replyRate": 33.33333333333333
       },
+      "id": 244080,
+      "name": "EweMove Orpington & Chelsfield",
       "totalReviews": 28,
-      "replyRate": 42.857142857142854,
       "googleScore": 5.0,
       "score": 85
     },
@@ -5811,14 +5487,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.9205,
-      "lng": -1.6904,
-      "id": 244139,
-      "name": "EweMove Otley & Guiseley",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 118,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 114,
@@ -5828,10 +5497,14 @@
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 118,
+        "replyRate": 100.0
       },
+      "id": 244139,
+      "name": "EweMove Otley & Guiseley",
       "totalReviews": 118,
-      "replyRate": 100.0,
       "score": 88
     },
     {
@@ -5865,7 +5538,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 207d"
         ]
       ],
@@ -5881,27 +5554,24 @@
           "rating": 4.79
         }
       },
-      "lat": 52.5726,
-      "lng": -0.263404,
-      "id": 244142,
-      "name": "EweMove Peterborough West",
       "va": {
-        "overallRating": 4.8,
-        "totalReviews": 20,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 19,
-            "score": 4.79
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 19,
+            "score": 4.79
           }
-        }
+        },
+        "overallRating": 4.8,
+        "totalReviews": 20,
+        "replyRate": null
       },
+      "id": 244142,
+      "name": "EweMove Peterborough West",
       "totalReviews": 20,
-      "replyRate": null,
       "score": 85
     },
     {
@@ -5947,18 +5617,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 51.5933,
-      "lng": -0.383817,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 261403,
       "name": "EweMove Pinner",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -5974,7 +5641,7 @@
       "nps": 0,
       "last_login_raw": "15.05.2026 12:34:52",
       "last_login_iso": "2026-05-15T12:34:52",
-      "days_since_login": 4,
+      "days_since_login": 5,
       "last_user": "AaronMay",
       "last_email": "aaron.may@ewemove.com",
       "last_review_at": null,
@@ -5994,16 +5661,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261747,
-      "name": "EweMove Plymouth East",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261747,
+      "name": "EweMove Plymouth East",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -6019,7 +5685,7 @@
       "nps": 0,
       "last_login_raw": "20.04.2026 11:41:06",
       "last_login_iso": "2026-04-20T11:41:06",
-      "days_since_login": 29,
+      "days_since_login": 30,
       "last_user": "JonathanDawson",
       "last_email": "york@ewemove.com",
       "last_review_at": "2026-05-05T06:44:40.260000",
@@ -6040,11 +5706,7 @@
       "google": {
         "place_id": "ChIJIUlo4hMxeUgRSpMnjhXooNk",
         "rating": 4.9,
-        "user_rating_count": 247,
-        "formatted_address": "Kensington House, Westminster Place, Nether Poppleton, York YO26 6RW",
-        "google_maps_url": "https://maps.google.com/?cid=15681789081780982602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 247
       },
       "platforms": {
         "Facebook": {
@@ -6060,19 +5722,8 @@
           "rating": 4.88
         }
       },
-      "lat": 53.931,
-      "lng": -0.778214,
-      "id": 244197,
-      "name": "EweMove Pocklington",
       "va": {
-        "overallRating": 4.88,
-        "totalReviews": 303,
-        "replyRate": 77.77777777777779,
         "platforms": {
-          "google": {
-            "reviews": 264,
-            "score": 4.88
-          },
           "facebook": {
             "reviews": 36,
             "score": 4.89
@@ -6080,11 +5731,19 @@
           "viewagents": {
             "reviews": 3,
             "score": 4.97
+          },
+          "google": {
+            "reviews": 264,
+            "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.88,
+        "totalReviews": 303,
+        "replyRate": 77.77777777777779
       },
+      "id": 244197,
+      "name": "EweMove Pocklington",
       "totalReviews": 303,
-      "replyRate": 77.77777777777779,
       "googleScore": 4.9,
       "score": 81
     },
@@ -6119,7 +5778,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 201d"
         ],
         [
@@ -6140,27 +5799,24 @@
           "rating": 4.95
         }
       },
-      "lat": 51.5307,
-      "lng": -3.69029,
-      "id": 244144,
-      "name": "EweMove Porthcawl & Bridgend West",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 22,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 21,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 21,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 22,
+        "replyRate": null
       },
+      "id": 244144,
+      "name": "EweMove Porthcawl & Bridgend West",
       "totalReviews": 22,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -6180,7 +5836,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-30T15:36:22.040000",
-      "days_since_review": 50,
+      "days_since_review": 51,
       "total_reviews": 14,
       "reviews_30d": 0,
       "reviews_90d": 5,
@@ -6195,7 +5851,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 50d"
+          "No review for 51d"
         ],
         [
           "RED",
@@ -6220,14 +5876,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.8066,
-      "lng": -1.67677,
-      "id": 245274,
-      "name": "EweMove Pudsey & Birstall",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 14,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 9,
@@ -6237,10 +5886,14 @@
             "reviews": 5,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": 0.0
       },
+      "id": 245274,
+      "name": "EweMove Pudsey & Birstall",
       "totalReviews": 14,
-      "replyRate": 0.0,
       "score": 69
     },
     {
@@ -6274,7 +5927,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 336d"
         ],
         [
@@ -6291,23 +5944,20 @@
           "rating": 4.43
         }
       },
-      "lat": 51.457,
-      "lng": -0.228805,
-      "id": 244146,
-      "name": "EweMove Putney",
       "va": {
-        "overallRating": 4.43,
-        "totalReviews": 7,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 7,
             "score": 4.43
           }
-        }
+        },
+        "overallRating": 4.43,
+        "totalReviews": 7,
+        "replyRate": null
       },
+      "id": 244146,
+      "name": "EweMove Putney",
       "totalReviews": 7,
-      "replyRate": null,
       "score": 56
     },
     {
@@ -6353,18 +6003,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 53.8125,
-      "lng": -2.30568,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 255433,
       "name": "EweMove Ribble Valley",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -6398,7 +6045,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 1169d"
         ],
         [
@@ -6419,27 +6066,24 @@
           "rating": 3.8
         }
       },
-      "lat": 53.8811,
-      "lng": -1.6063,
-      "id": 244194,
-      "name": "EweMove Rodley & Bramley",
       "va": {
-        "overallRating": 4.14,
-        "totalReviews": 7,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 5,
-            "score": 3.8
-          },
           "facebook": {
             "reviews": 2,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 5,
+            "score": 3.8
           }
-        }
+        },
+        "overallRating": 4.14,
+        "totalReviews": 7,
+        "replyRate": null
       },
+      "id": 244194,
+      "name": "EweMove Rodley & Bramley",
       "totalReviews": 7,
-      "replyRate": null,
       "score": 41
     },
     {
@@ -6473,7 +6117,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 180d"
         ],
         [
@@ -6490,23 +6134,20 @@
           "rating": 4.14
         }
       },
-      "lat": 53.7377,
-      "lng": -1.71967,
-      "id": 244150,
-      "name": "EweMove Rossendale & Ramsbottom",
       "va": {
-        "overallRating": 4.14,
-        "totalReviews": 21,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 21,
             "score": 4.14
           }
-        }
+        },
+        "overallRating": 4.14,
+        "totalReviews": 21,
+        "replyRate": null
       },
+      "id": 244150,
+      "name": "EweMove Rossendale & Ramsbottom",
       "totalReviews": 21,
-      "replyRate": null,
       "score": 46
     },
     {
@@ -6547,21 +6188,20 @@
           "rating": 4.94
         }
       },
-      "id": 261721,
-      "name": "EweMove Rugby",
       "va": {
-        "overallRating": 4.94,
-        "totalReviews": 18,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 18,
             "score": 4.94
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 18,
+        "replyRate": 100.0
       },
+      "id": 261721,
+      "name": "EweMove Rugby",
       "totalReviews": 18,
-      "replyRate": 100.0,
       "score": 71
     },
     {
@@ -6608,10 +6248,7 @@
       "google": {
         "place_id": "ChIJ2e8NRPfrc0gRWZUDC8BM7UI",
         "rating": 4.6,
-        "user_rating_count": 87,
-        "formatted_address": "60 Castle St, Salisbury SP1 3TS",
-        "google_maps_url": "https://maps.google.com/?cid=4822595163685885273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 87
       },
       "platforms": {
         "View Agents": {
@@ -6627,31 +6264,28 @@
           "rating": 4.61
         }
       },
-      "lat": 51.0716,
-      "lng": -1.79605,
-      "id": 237615,
-      "name": "EweMove Salisbury",
       "va": {
-        "overallRating": 4.67,
-        "totalReviews": 147,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 101,
-            "score": 4.61
+          "viewagents": {
+            "reviews": 10,
+            "score": 4.88
           },
           "facebook": {
             "reviews": 36,
             "score": 4.78
           },
-          "viewagents": {
-            "reviews": 10,
-            "score": 4.88
+          "google": {
+            "reviews": 101,
+            "score": 4.61
           }
-        }
+        },
+        "overallRating": 4.66,
+        "totalReviews": 147,
+        "replyRate": 0.0
       },
+      "id": 237615,
+      "name": "EweMove Salisbury",
       "totalReviews": 147,
-      "replyRate": 0.0,
       "googleScore": 4.6,
       "score": 95
     },
@@ -6672,7 +6306,7 @@
       "last_user": "AndrewDavy",
       "last_email": "andrew.davy@ewemove.com",
       "last_review_at": "2026-02-03T15:35:08.587000",
-      "days_since_review": 105,
+      "days_since_review": 106,
       "total_reviews": 39,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -6686,18 +6320,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 105d"
+          "no_review_90d",
+          "No review for 106d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJu3aeDpH_eEgRs85YmXp87N0",
         "rating": 4.7,
-        "user_rating_count": 32,
-        "formatted_address": "3 Pinewood Cl, Scunthorpe DN16 3FB",
-        "google_maps_url": "https://maps.google.com/?cid=15991293242886377139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 32
       },
       "platforms": {
         "Facebook": {
@@ -6709,27 +6340,24 @@
           "rating": 4.74
         }
       },
-      "lat": 53.5728,
-      "lng": -0.62289,
-      "id": 244152,
-      "name": "EweMove Scunthorpe South",
       "va": {
-        "overallRating": 4.66,
-        "totalReviews": 39,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 35,
-            "score": 4.74
-          },
           "facebook": {
             "reviews": 4,
             "score": 4.0
+          },
+          "google": {
+            "reviews": 35,
+            "score": 4.74
           }
-        }
+        },
+        "overallRating": 4.67,
+        "totalReviews": 39,
+        "replyRate": null
       },
+      "id": 244152,
+      "name": "EweMove Scunthorpe South",
       "totalReviews": 39,
-      "replyRate": null,
       "googleScore": 4.7,
       "score": 79
     },
@@ -6776,23 +6404,20 @@
           "rating": 4.75
         }
       },
-      "lat": 53.417,
-      "lng": -2.92252,
-      "id": 247726,
-      "name": "EweMove Sefton Park",
       "va": {
-        "overallRating": 4.75,
-        "totalReviews": 65,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 65,
             "score": 4.75
           }
-        }
+        },
+        "overallRating": 4.75,
+        "totalReviews": 65,
+        "replyRate": 100.0
       },
+      "id": 247726,
+      "name": "EweMove Sefton Park",
       "totalReviews": 65,
-      "replyRate": 100.0,
       "score": 78
     },
     {
@@ -6837,14 +6462,7 @@
           "rating": 4.2
         }
       },
-      "lat": 53.3621,
-      "lng": -1.47282,
-      "id": 244091,
-      "name": "EweMove Sheffield South West",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 167,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 157,
@@ -6854,10 +6472,14 @@
             "reviews": 10,
             "score": 4.2
           }
-        }
+        },
+        "overallRating": 4.93,
+        "totalReviews": 167,
+        "replyRate": 100.0
       },
+      "id": 244091,
+      "name": "EweMove Sheffield South West",
       "totalReviews": 167,
-      "replyRate": 100.0,
       "score": 93
     },
     {
@@ -6903,21 +6525,20 @@
           "rating": 5.0
         }
       },
-      "id": 261732,
-      "name": "EweMove Shepton Mallet & Sherborne",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 1,
-        "replyRate": 0.0,
         "platforms": {
           "viewagents": {
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": 0.0
       },
+      "id": 261732,
+      "name": "EweMove Shepton Mallet & Sherborne",
       "totalReviews": 1,
-      "replyRate": 0.0,
       "score": 44
     },
     {
@@ -6953,16 +6574,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261740,
-      "name": "EweMove Shrewsbury West",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261740,
+      "name": "EweMove Shrewsbury West",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -7007,27 +6627,24 @@
           "rating": 4.95
         }
       },
-      "lat": 51.4467,
-      "lng": 0.0995649,
-      "id": 244156,
-      "name": "EweMove Sidcup",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 302,
-        "replyRate": 94.44444444444444,
         "platforms": {
-          "google": {
-            "reviews": 295,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 7,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 295,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 302,
+        "replyRate": 94.44444444444444
       },
+      "id": 244156,
+      "name": "EweMove Sidcup",
       "totalReviews": 302,
-      "replyRate": 94.44444444444444,
       "score": 76
     },
     {
@@ -7044,11 +6661,11 @@
       "nps": 0,
       "last_login_raw": "04.07.2024 11:34:48",
       "last_login_iso": "2024-07-04T11:34:48",
-      "days_since_login": 684,
+      "days_since_login": 685,
       "last_user": "AlekSapic",
       "last_email": "alek.sapic@ewemove.com",
       "last_review_at": "2026-05-10T19:38:42.137000",
-      "days_since_review": 9,
+      "days_since_review": 10,
       "total_reviews": 33,
       "reviews_30d": 1,
       "reviews_90d": 4,
@@ -7058,7 +6675,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 684d ago"
+          "Last login 685d ago"
         ]
       ],
       "overall_rag": "RED",
@@ -7069,23 +6686,20 @@
           "rating": 5.0
         }
       },
-      "lat": 0.0,
-      "lng": 0.0,
-      "id": 255434,
-      "name": "EweMove Solihull",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 20,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 20,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 20,
+        "replyRate": 100.0
       },
+      "id": 255434,
+      "name": "EweMove Solihull",
       "totalReviews": 20,
-      "replyRate": 100.0,
       "score": 71
     },
     {
@@ -7105,12 +6719,12 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-21T19:42:27.810000",
-      "days_since_review": 28,
+      "days_since_review": 29,
       "total_reviews": 59,
       "reviews_30d": 1,
-      "reviews_90d": 4,
+      "reviews_90d": 3,
       "replies_90d": 1,
-      "reply_rate_90d": 25.0,
+      "reply_rate_90d": 33.33333333333333,
       "flags": [
         [
           "RED",
@@ -7120,7 +6734,7 @@
         [
           "RED",
           "reply_rate_low",
-          "Reply rate 25% (90d)"
+          "Reply rate 33% (90d)"
         ]
       ],
       "overall_rag": "RED",
@@ -7135,27 +6749,24 @@
           "rating": 5.0
         }
       },
-      "lat": 54.9479,
-      "lng": -1.37965,
-      "id": 244097,
-      "name": "EweMove South Tyneside",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 59,
-        "replyRate": 25.0,
         "platforms": {
-          "google": {
-            "reviews": 47,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 12,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 47,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 59,
+        "replyRate": 33.33333333333333
       },
+      "id": 244097,
+      "name": "EweMove South Tyneside",
       "totalReviews": 59,
-      "replyRate": 25.0,
       "score": 75
     },
     {
@@ -7171,11 +6782,11 @@
       "nps": 0,
       "last_login_raw": "23.05.2024 11:57:34",
       "last_login_iso": "2024-05-23T11:57:34",
-      "days_since_login": 726,
+      "days_since_login": 727,
       "last_user": "DavidWiffen",
       "last_email": "david.wiffen@ewemove.com",
       "last_review_at": "2026-04-27T11:57:56.887000",
-      "days_since_review": 22,
+      "days_since_review": 23,
       "total_reviews": 47,
       "reviews_30d": 2,
       "reviews_90d": 2,
@@ -7185,7 +6796,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 726d ago"
+          "Last login 727d ago"
         ]
       ],
       "overall_rag": "RED",
@@ -7200,14 +6811,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.5359,
-      "lng": 0.733143,
-      "id": 244022,
-      "name": "EweMove Southend",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 47,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 45,
@@ -7217,10 +6821,14 @@
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 47,
+        "replyRate": 100.0
       },
+      "id": 244022,
+      "name": "EweMove Southend",
       "totalReviews": 47,
-      "replyRate": 100.0,
       "score": 84
     },
     {
@@ -7241,7 +6849,7 @@
       "last_user": "KirstyKruse",
       "last_email": "kirsty.kruse@ewemove.com",
       "last_review_at": "2026-05-08T11:38:40.710000",
-      "days_since_review": 11,
+      "days_since_review": 12,
       "total_reviews": 156,
       "reviews_30d": 6,
       "reviews_90d": 7,
@@ -7252,11 +6860,7 @@
       "google": {
         "place_id": "ChIJ-THPYHQBeEgRLkHteocoNr4",
         "rating": 5.0,
-        "user_rating_count": 29,
-        "formatted_address": "Office 8, Eventus Sunderland Rd, Market Deeping, Peterborough PE6 8FD",
-        "google_maps_url": "https://maps.google.com/?cid=13706187078296748334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 29
       },
       "platforms": {
         "Google": {
@@ -7272,14 +6876,7 @@
           "rating": 5.0
         }
       },
-      "lat": 52.689,
-      "lng": -0.309411,
-      "id": 244165,
-      "name": "EweMove Spalding",
       "va": {
-        "overallRating": 4.91,
-        "totalReviews": 112,
-        "replyRate": 85.71428571428571,
         "platforms": {
           "google": {
             "reviews": 99,
@@ -7293,10 +6890,14 @@
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.91,
+        "totalReviews": 112,
+        "replyRate": 85.71428571428571
       },
+      "id": 244165,
+      "name": "EweMove Spalding",
       "totalReviews": 112,
-      "replyRate": 85.71428571428571,
       "googleScore": 5.0,
       "score": 89
     },
@@ -7317,7 +6918,7 @@
       "last_user": "JonathanDavies",
       "last_email": "jonathan.davies@ewemove.com",
       "last_review_at": "2026-05-05T15:45:28.003000",
-      "days_since_review": 14,
+      "days_since_review": 15,
       "total_reviews": 175,
       "reviews_30d": 3,
       "reviews_90d": 20,
@@ -7342,27 +6943,24 @@
           "rating": 4.98
         }
       },
-      "lat": 53.4612,
-      "lng": -2.77121,
-      "id": 244163,
-      "name": "EweMove St Helens",
       "va": {
-        "overallRating": 4.98,
-        "totalReviews": 175,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 167,
-            "score": 4.98
-          },
           "facebook": {
             "reviews": 8,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 167,
+            "score": 4.98
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 175,
+        "replyRate": 100.0
       },
+      "id": 244163,
+      "name": "EweMove St Helens",
       "totalReviews": 175,
-      "replyRate": 100.0,
       "score": 84
     },
     {
@@ -7382,7 +6980,7 @@
       "last_user": "MikeBailey",
       "last_email": "mike.bailey@ewemove.com",
       "last_review_at": "2026-05-12T14:00:55.480000",
-      "days_since_review": 7,
+      "days_since_review": 8,
       "total_reviews": 211,
       "reviews_30d": 6,
       "reviews_90d": 31,
@@ -7401,27 +6999,24 @@
           "rating": 4.98
         }
       },
-      "lat": 52.7882,
-      "lng": -2.05857,
-      "id": 244164,
-      "name": "EweMove Stafford",
       "va": {
-        "overallRating": 4.96,
-        "totalReviews": 211,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 188,
-            "score": 4.98
-          },
           "facebook": {
             "reviews": 23,
             "score": 4.83
+          },
+          "google": {
+            "reviews": 188,
+            "score": 4.98
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 211,
+        "replyRate": 100.0
       },
+      "id": 244164,
+      "name": "EweMove Stafford",
       "totalReviews": 211,
-      "replyRate": 100.0,
       "score": 92
     },
     {
@@ -7466,10 +7061,7 @@
       "google": {
         "place_id": "ChIJxSA01uTpeUgR2ydMAUZRMDY",
         "rating": 4.9,
-        "user_rating_count": 116,
-        "formatted_address": "133 Attenborough Ln, Beeston, Nottingham NG9 6AA",
-        "google_maps_url": "https://maps.google.com/?cid=3904710238041548763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 116
       },
       "platforms": {
         "Google": {
@@ -7477,23 +7069,20 @@
           "rating": 4.15
         }
       },
-      "lat": 52.8941,
-      "lng": -1.27952,
-      "id": 244166,
-      "name": "EweMove Stapleford & Sandiacre",
       "va": {
-        "overallRating": 4.15,
-        "totalReviews": 13,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 13,
             "score": 4.15
           }
-        }
+        },
+        "overallRating": 4.15,
+        "totalReviews": 13,
+        "replyRate": 0.0
       },
+      "id": 244166,
+      "name": "EweMove Stapleford & Sandiacre",
       "totalReviews": 13,
-      "replyRate": 0.0,
       "googleScore": 4.9,
       "score": 82
     },
@@ -7531,10 +7120,7 @@
       "google": {
         "place_id": "ChIJs0BzHIqn2EcRa_aqX69BQ6Q",
         "rating": 4.9,
-        "user_rating_count": 145,
-        "formatted_address": "EweMove Stratford & Forest Gate, Biznizpoint, 44, Broadway, London E15 1XH",
-        "google_maps_url": "https://maps.google.com/?cid=11836376467139917419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 145
       },
       "platforms": {
         "Facebook": {
@@ -7546,27 +7132,24 @@
           "rating": 4.95
         }
       },
-      "lat": 51.5409,
-      "lng": 0.0009726,
-      "id": 244038,
-      "name": "EweMove Stratford & Forest Gate",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 168,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 156,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 12,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 156,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 168,
+        "replyRate": 100.0
       },
+      "id": 244038,
+      "name": "EweMove Stratford & Forest Gate",
       "totalReviews": 168,
-      "replyRate": 100.0,
       "googleScore": 4.9,
       "score": 88
     },
@@ -7603,16 +7186,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261750,
-      "name": "EweMove Stratford-upon-Avon",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261750,
+      "name": "EweMove Stratford-upon-Avon",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -7626,8 +7208,8 @@
       "reputation_score": 48,
       "rating": 4.5,
       "nps": 0,
-      "last_login_raw": "20.05.2026 11:03:29",
-      "last_login_iso": "2026-05-20T11:03:29",
+      "last_login_raw": "20.05.2026 02:34:31",
+      "last_login_iso": "2026-05-20T02:34:31",
       "days_since_login": 0,
       "last_user": "PeterRometta1",
       "last_email": "peterrometta@gmail.com",
@@ -7653,18 +7235,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 52.5522,
-      "lng": -1.84441,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.5,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 261731,
       "name": "EweMove Sutton Coldfield West",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -7684,7 +7263,7 @@
       "last_user": "AlissaDavis",
       "last_email": "alissa.davis@ewemove.com",
       "last_review_at": "2026-05-04T17:47:24.383000",
-      "days_since_review": 15,
+      "days_since_review": 16,
       "total_reviews": 33,
       "reviews_30d": 5,
       "reviews_90d": 8,
@@ -7701,10 +7280,7 @@
       "google": {
         "place_id": "ChIJ4ecCtoQVcUgRUojrGQj5Qv4",
         "rating": 4.9,
-        "user_rating_count": 189,
-        "formatted_address": "Basepoint Business Park, Rivermead Dr, Westlea, Swindon SN5 7EX",
-        "google_maps_url": "https://maps.google.com/?cid=18321480047286519890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 189
       },
       "platforms": {
         "Facebook": {
@@ -7716,27 +7292,24 @@
           "rating": 4.61
         }
       },
-      "lat": 51.5698,
-      "lng": -1.8252,
-      "id": 244168,
-      "name": "EweMove Swindon South",
       "va": {
-        "overallRating": 4.63,
-        "totalReviews": 33,
-        "replyRate": 75.0,
         "platforms": {
-          "google": {
-            "reviews": 31,
-            "score": 4.61
-          },
           "facebook": {
             "reviews": 2,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 31,
+            "score": 4.61
           }
-        }
+        },
+        "overallRating": 4.64,
+        "totalReviews": 33,
+        "replyRate": 75.0
       },
+      "id": 244168,
+      "name": "EweMove Swindon South",
       "totalReviews": 33,
-      "replyRate": 75.0,
       "googleScore": 4.9,
       "score": 89
     },
@@ -7787,27 +7360,24 @@
           "rating": 4.98
         }
       },
-      "lat": 51.0079,
-      "lng": -3.0977,
-      "id": 244169,
-      "name": "EweMove Taunton",
       "va": {
-        "overallRating": 4.98,
-        "totalReviews": 185,
-        "replyRate": 87.5,
         "platforms": {
-          "google": {
-            "reviews": 173,
-            "score": 4.98
-          },
           "facebook": {
             "reviews": 12,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 173,
+            "score": 4.98
           }
-        }
+        },
+        "overallRating": 4.98,
+        "totalReviews": 185,
+        "replyRate": 87.5
       },
+      "id": 244169,
+      "name": "EweMove Taunton",
       "totalReviews": 185,
-      "replyRate": 87.5,
       "score": 84
     },
     {
@@ -7852,12 +7422,7 @@
           "rating": 5.0
         }
       },
-      "id": 261713,
-      "name": "EweMove Telford West",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 14,
-        "replyRate": 75.0,
         "platforms": {
           "google": {
             "reviews": 13,
@@ -7867,10 +7432,14 @@
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": 75.0
       },
+      "id": 261713,
+      "name": "EweMove Telford West",
       "totalReviews": 14,
-      "replyRate": 75.0,
       "score": 71
     },
     {
@@ -7887,7 +7456,7 @@
       "nps": 100,
       "last_login_raw": "13.01.2025 11:26:57",
       "last_login_iso": "2025-01-13T11:26:57",
-      "days_since_login": 491,
+      "days_since_login": 492,
       "last_user": "JoMoss",
       "last_email": "jo.moss@ewemove.com",
       "last_review_at": "2026-05-09T10:52:44.430000",
@@ -7901,7 +7470,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 491d ago"
+          "Last login 492d ago"
         ],
         [
           "RED",
@@ -7913,11 +7482,7 @@
       "google": {
         "place_id": "ChIJ7WxzX1QVcUgRK9M7REW9vNs",
         "rating": 4.9,
-        "user_rating_count": 98,
-        "formatted_address": "Unit 1, The Laurels, Clarks Hay, South Cerney, Cirencester GL7 5UA",
-        "google_maps_url": "https://maps.google.com/?cid=15833738495122985771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 98
       },
       "platforms": {
         "Facebook": {
@@ -7929,27 +7494,24 @@
           "rating": 4.97
         }
       },
-      "lat": 51.6732,
-      "lng": -1.93073,
-      "id": 244019,
-      "name": "EweMove Tetbury & Malmesbury",
       "va": {
-        "overallRating": 4.97,
-        "totalReviews": 60,
-        "replyRate": 37.5,
         "platforms": {
-          "google": {
-            "reviews": 59,
-            "score": 4.97
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 59,
+            "score": 4.97
           }
-        }
+        },
+        "overallRating": 4.97,
+        "totalReviews": 60,
+        "replyRate": 37.5
       },
+      "id": 244019,
+      "name": "EweMove Tetbury & Malmesbury",
       "totalReviews": 60,
-      "replyRate": 37.5,
       "googleScore": 4.9,
       "score": 80
     },
@@ -8010,14 +7572,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.0822,
-      "lng": -3.93064,
-      "id": 244170,
-      "name": "EweMove Tiverton & South Molton",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 19,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 15,
@@ -8027,10 +7582,14 @@
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 19,
+        "replyRate": 0.0
       },
+      "id": 244170,
+      "name": "EweMove Tiverton & South Molton",
       "totalReviews": 19,
-      "replyRate": 0.0,
       "score": 62
     },
     {
@@ -8064,7 +7623,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 387d"
         ]
       ],
@@ -8080,27 +7639,24 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7075,
-      "lng": -2.11153,
-      "id": 244171,
-      "name": "EweMove Todmorden & Littleborough",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 23,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 18,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 5,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 18,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 23,
+        "replyRate": null
       },
+      "id": 244171,
+      "name": "EweMove Todmorden & Littleborough",
       "totalReviews": 23,
-      "replyRate": null,
       "score": 75
     },
     {
@@ -8134,7 +7690,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 215d"
         ],
         [
@@ -8151,23 +7707,20 @@
           "rating": 4.6
         }
       },
-      "lat": 53.0936,
-      "lng": -2.00021,
-      "id": 244174,
-      "name": "EweMove Uttoxeter & Cheadle",
       "va": {
-        "overallRating": 4.6,
-        "totalReviews": 10,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 10,
             "score": 4.6
           }
-        }
+        },
+        "overallRating": 4.6,
+        "totalReviews": 10,
+        "replyRate": null
       },
+      "id": 244174,
+      "name": "EweMove Uttoxeter & Cheadle",
       "totalReviews": 10,
-      "replyRate": null,
       "score": 69
     },
     {
@@ -8188,7 +7741,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-15T14:47:15.087000",
-      "days_since_review": 34,
+      "days_since_review": 35,
       "total_reviews": 215,
       "reviews_30d": 0,
       "reviews_90d": 7,
@@ -8203,17 +7756,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 34d"
+          "No review for 35d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJ5XApcMfN2EcRjqv0ml3kZUI",
         "rating": 4.8,
-        "user_rating_count": 49,
-        "formatted_address": "6-8 Revenge Rd, Chatham ME5 8UD",
-        "google_maps_url": "https://maps.google.com/?cid=4784481269833837454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 49
       },
       "platforms": {
         "Facebook": {
@@ -8225,27 +7775,24 @@
           "rating": 4.77
         }
       },
-      "lat": 51.3799,
-      "lng": 0.525248,
-      "id": 244176,
-      "name": "EweMove Walderslade & Chatham",
       "va": {
-        "overallRating": 4.73,
-        "totalReviews": 60,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 52,
-            "score": 4.77
-          },
           "facebook": {
             "reviews": 8,
             "score": 4.5
+          },
+          "google": {
+            "reviews": 52,
+            "score": 4.77
           }
-        }
+        },
+        "overallRating": 4.73,
+        "totalReviews": 60,
+        "replyRate": 100.0
       },
+      "id": 244176,
+      "name": "EweMove Walderslade & Chatham",
       "totalReviews": 60,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 84
     },
@@ -8262,11 +7809,11 @@
       "nps": 100,
       "last_login_raw": "13.05.2026 11:58:38",
       "last_login_iso": "2026-05-13T11:58:38",
-      "days_since_login": 6,
+      "days_since_login": 7,
       "last_user": "AdrianJohnston",
       "last_email": "Adrian.Johnston@ewemove.com",
       "last_review_at": "2026-05-13T12:10:33.603000",
-      "days_since_review": 6,
+      "days_since_review": 7,
       "total_reviews": 58,
       "reviews_30d": 2,
       "reviews_90d": 3,
@@ -8277,10 +7824,7 @@
       "google": {
         "place_id": "ChIJAYlFGf2OOokRowBi8-8oXIk",
         "rating": 5.0,
-        "user_rating_count": 54,
-        "formatted_address": "5 Cobblestone Sq, London E1W 3BA",
-        "google_maps_url": "https://maps.google.com/?cid=9897831092099088547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 54
       },
       "platforms": {
         "Google": {
@@ -8288,23 +7832,20 @@
           "rating": 4.97
         }
       },
-      "lat": 51.5075,
-      "lng": -0.0576468,
-      "id": 244177,
-      "name": "EweMove Wapping & Bow",
       "va": {
-        "overallRating": 4.97,
-        "totalReviews": 58,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 58,
             "score": 4.97
           }
-        }
+        },
+        "overallRating": 4.97,
+        "totalReviews": 58,
+        "replyRate": 100.0
       },
+      "id": 244177,
+      "name": "EweMove Wapping & Bow",
       "totalReviews": 58,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 86
     },
@@ -8339,7 +7880,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 161d"
         ]
       ],
@@ -8347,10 +7888,7 @@
       "google": {
         "place_id": "ChIJweRzuOBlIAYRgqANDN54L_o",
         "rating": 5.0,
-        "user_rating_count": 82,
-        "formatted_address": "74 Coventry St, Southam CV47 0EA",
-        "google_maps_url": "https://maps.google.com/?cid=18027760728467677314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 82
       },
       "platforms": {
         "Facebook": {
@@ -8362,27 +7900,24 @@
           "rating": 4.96
         }
       },
-      "lat": 52.2763,
-      "lng": -1.57984,
-      "id": 247727,
-      "name": "EweMove Warwick & Leamington Spa",
       "va": {
-        "overallRating": 4.96,
-        "totalReviews": 56,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 55,
-            "score": 4.96
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 55,
+            "score": 4.96
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 56,
+        "replyRate": null
       },
+      "id": 247727,
+      "name": "EweMove Warwick & Leamington Spa",
       "totalReviews": 56,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 82
     },
@@ -8417,7 +7952,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 374d"
         ]
       ],
@@ -8429,23 +7964,20 @@
           "rating": 5.0
         }
       },
-      "lat": 54.8912,
-      "lng": -1.51293,
-      "id": 244179,
-      "name": "EweMove Washington & Houghton le Spring",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 14,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 14,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 14,
+        "replyRate": null
       },
+      "id": 244179,
+      "name": "EweMove Washington & Houghton le Spring",
       "totalReviews": 14,
-      "replyRate": null,
       "score": 75
     },
     {
@@ -8465,7 +7997,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-09-11T15:22:07.453000",
-      "days_since_review": 250,
+      "days_since_review": 251,
       "total_reviews": 145,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -8479,8 +8011,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 250d"
+          "no_review_90d",
+          "No review for 251d"
         ]
       ],
       "overall_rag": "RED",
@@ -8495,27 +8027,24 @@
           "rating": 4.96
         }
       },
-      "lat": 51.794,
-      "lng": -0.183992,
-      "id": 244182,
-      "name": "EweMove Welwyn Garden City",
       "va": {
-        "overallRating": 4.94,
-        "totalReviews": 145,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 136,
-            "score": 4.96
-          },
           "facebook": {
             "reviews": 9,
             "score": 4.56
+          },
+          "google": {
+            "reviews": 136,
+            "score": 4.96
           }
-        }
+        },
+        "overallRating": 4.94,
+        "totalReviews": 145,
+        "replyRate": null
       },
+      "id": 244182,
+      "name": "EweMove Welwyn Garden City",
       "totalReviews": 145,
-      "replyRate": null,
       "score": 83
     },
     {
@@ -8529,8 +8058,8 @@
       "reputation_score": 60,
       "rating": 5.0,
       "nps": 0,
-      "last_login_raw": "20.05.2026 11:03:29",
-      "last_login_iso": "2026-05-20T11:03:29",
+      "last_login_raw": "20.05.2026 02:34:31",
+      "last_login_iso": "2026-05-20T02:34:31",
       "days_since_login": 0,
       "last_user": "PeterRometta1",
       "last_email": "peterrometta@gmail.com",
@@ -8544,7 +8073,7 @@
       "flags": [
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 111d"
         ],
         [
@@ -8561,23 +8090,20 @@
           "rating": 5.0
         }
       },
-      "lat": 52.879,
-      "lng": -1.18416,
-      "id": 261699,
-      "name": "EweMove West Bridgford & Ruddington",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 4,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 4,
+        "replyRate": null
       },
+      "id": 261699,
+      "name": "EweMove West Bridgford & Ruddington",
       "totalReviews": 4,
-      "replyRate": null,
       "score": 60
     },
     {
@@ -8622,14 +8148,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.0398,
-      "lng": -2.56602,
-      "id": 244184,
-      "name": "EweMove Whitchurch & Nantwich",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 40,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 29,
@@ -8639,10 +8158,14 @@
             "reviews": 11,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 40,
+        "replyRate": 0.0
       },
+      "id": 244184,
+      "name": "EweMove Whitchurch & Nantwich",
       "totalReviews": 40,
-      "replyRate": 0.0,
       "score": 82
     },
     {
@@ -8662,7 +8185,7 @@
       "last_user": "BenBooth",
       "last_email": "ben.booth@ewemove.com",
       "last_review_at": "2026-05-14T14:49:53.697000",
-      "days_since_review": 5,
+      "days_since_review": 6,
       "total_reviews": 74,
       "reviews_30d": 3,
       "reviews_90d": 5,
@@ -8681,27 +8204,24 @@
           "rating": 5.0
         }
       },
-      "lat": 52.5748,
-      "lng": -1.10264,
-      "id": 244187,
-      "name": "EweMove Wigston & Blaby",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 74,
-        "replyRate": 80.0,
         "platforms": {
-          "google": {
-            "reviews": 70,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 70,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 74,
+        "replyRate": 80.0
       },
+      "id": 244187,
+      "name": "EweMove Wigston & Blaby",
       "totalReviews": 74,
-      "replyRate": 80.0,
       "score": 88
     },
     {
@@ -8715,9 +8235,9 @@
       "reputation_score": 65,
       "rating": 5.0,
       "nps": 0,
-      "last_login_raw": "02.04.2026 11:13:46",
-      "last_login_iso": "2026-04-02T11:13:46",
-      "days_since_login": 48,
+      "last_login_raw": "20.05.2026 02:22:02",
+      "last_login_iso": "2026-05-20T02:22:02",
+      "days_since_login": 0,
       "last_user": "DebiBell",
       "last_email": "debi.bell@ewemove.com",
       "last_review_at": "2026-02-23T08:52:52.687000",
@@ -8728,11 +8248,6 @@
       "replies_90d": 1,
       "reply_rate_90d": 100.0,
       "flags": [
-        [
-          "AMBER",
-          "login_stale_30d",
-          "Last login 48d ago"
-        ],
         [
           "AMBER",
           "no_review_30d",
@@ -8752,23 +8267,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.7569,
-      "lng": -0.639974,
-      "id": 255642,
-      "name": "EweMove Willerby",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 2,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 2,
+        "replyRate": 100.0
       },
+      "id": 255642,
+      "name": "EweMove Willerby",
       "totalReviews": 2,
-      "replyRate": 100.0,
       "score": 65
     },
     {
@@ -8819,23 +8331,20 @@
           "rating": 4.59
         }
       },
-      "lat": 51.5274,
-      "lng": -0.086527,
-      "id": 260957,
-      "name": "EweMove Winchester and Salisbury",
       "va": {
-        "overallRating": 4.59,
-        "totalReviews": 123,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 123,
             "score": 4.59
           }
-        }
+        },
+        "overallRating": 4.59,
+        "totalReviews": 123,
+        "replyRate": 0.0
       },
+      "id": 260957,
+      "name": "EweMove Winchester and Salisbury",
       "totalReviews": 123,
-      "replyRate": 0.0,
       "score": 75
     },
     {
@@ -8881,18 +8390,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 53.3891,
-      "lng": -3.06894,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 247720,
       "name": "EweMove Wirral West",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -8908,7 +8414,7 @@
       "nps": 0,
       "last_login_raw": "16.03.2026 12:53:59",
       "last_login_iso": "2026-03-16T12:53:59",
-      "days_since_login": 64,
+      "days_since_login": 65,
       "last_user": "RossNorton",
       "last_email": "ross.norton@ewemove.com",
       "last_review_at": null,
@@ -8922,7 +8428,7 @@
         [
           "AMBER",
           "login_stale_30d",
-          "Last login 64d ago"
+          "Last login 65d ago"
         ],
         [
           "RED",
@@ -8933,16 +8439,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "id": 261741,
-      "name": "EweMove Witney & Carterton",
       "va": {
+        "platforms": {},
         "overallRating": null,
         "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
+        "replyRate": null
       },
+      "id": 261741,
+      "name": "EweMove Witney & Carterton",
       "totalReviews": 0,
-      "replyRate": null,
       "score": null
     },
     {
@@ -8958,11 +8463,11 @@
       "nps": 0,
       "last_login_raw": "06.09.2025 12:27:12",
       "last_login_iso": "2025-09-06T12:27:12",
-      "days_since_login": 255,
+      "days_since_login": 256,
       "last_user": "GeorginaHopkinson",
       "last_email": "georgina.hopkinson@ewemove.com",
       "last_review_at": "2026-03-24T17:39:53.383000",
-      "days_since_review": 56,
+      "days_since_review": 57,
       "total_reviews": 30,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -8972,22 +8477,19 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 255d ago"
+          "Last login 256d ago"
         ],
         [
           "AMBER",
           "no_review_30d",
-          "No review for 56d"
+          "No review for 57d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJyUVybtAqQioRaoDmG22tvt0",
         "rating": 4.9,
-        "user_rating_count": 29,
-        "formatted_address": "Kingsway House, 40 Foregate St, Worcester WR1 1EE",
-        "google_maps_url": "https://maps.google.com/?cid=15978399212088229994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 29
       },
       "platforms": {
         "Google": {
@@ -8995,23 +8497,20 @@
           "rating": 4.9
         }
       },
-      "lat": 52.1959,
-      "lng": -2.22285,
-      "id": 244191,
-      "name": "EweMove Worcester",
       "va": {
-        "overallRating": 4.9,
-        "totalReviews": 30,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 30,
             "score": 4.9
           }
-        }
+        },
+        "overallRating": 4.9,
+        "totalReviews": 30,
+        "replyRate": 100.0
       },
+      "id": 244191,
+      "name": "EweMove Worcester",
       "totalReviews": 30,
-      "replyRate": 100.0,
       "googleScore": 4.9,
       "score": 79
     },
@@ -9032,9 +8531,9 @@
       "last_user": "SophieLowndes-Toole",
       "last_email": "sophie.lowndes-toole@ewemove.com",
       "last_review_at": "2026-05-05T13:03:21.403000",
-      "days_since_review": 14,
+      "days_since_review": 15,
       "total_reviews": 82,
-      "reviews_30d": 2,
+      "reviews_30d": 1,
       "reviews_90d": 3,
       "replies_90d": 2,
       "reply_rate_90d": 66.66666666666666,
@@ -9054,10 +8553,7 @@
       "google": {
         "place_id": "ChIJJ2Cbj5Hd2UcRPAMYfc4earw",
         "rating": 4.9,
-        "user_rating_count": 72,
-        "formatted_address": "Ketteringham Hall The Badingham Suite, Wymondham NR18 9RS",
-        "google_maps_url": "https://maps.google.com/?cid=13576697898872603452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 72
       },
       "platforms": {
         "Facebook": {
@@ -9069,27 +8565,24 @@
           "rating": 4.91
         }
       },
-      "lat": 52.5781,
-      "lng": 1.19189,
-      "id": 244192,
-      "name": "EweMove Wymondham",
       "va": {
-        "overallRating": 4.82,
-        "totalReviews": 82,
-        "replyRate": 66.66666666666666,
         "platforms": {
-          "google": {
-            "reviews": 76,
-            "score": 4.91
-          },
           "facebook": {
             "reviews": 6,
             "score": 3.67
+          },
+          "google": {
+            "reviews": 76,
+            "score": 4.91
           }
-        }
+        },
+        "overallRating": 4.82,
+        "totalReviews": 82,
+        "replyRate": 66.66666666666666
       },
+      "id": 244192,
+      "name": "EweMove Wymondham",
       "totalReviews": 82,
-      "replyRate": 66.66666666666666,
       "googleScore": 4.9,
       "score": 91
     },
@@ -9113,8 +8606,8 @@
       "days_since_review": 5,
       "total_reviews": 182,
       "reviews_30d": 4,
-      "reviews_90d": 11,
-      "replies_90d": 11,
+      "reviews_90d": 9,
+      "replies_90d": 9,
       "reply_rate_90d": 100.0,
       "flags": [
         [
@@ -9127,10 +8620,7 @@
       "google": {
         "place_id": "ChIJScImP-VAckgRtk9mzx5Pat8",
         "rating": 4.8,
-        "user_rating_count": 175,
-        "formatted_address": "EweMove Estate Agents, The Old Wool Shop, Church St, Yeovil BA20 1HE",
-        "google_maps_url": "https://maps.google.com/?cid=16098766811736461238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 175
       },
       "platforms": {
         "Google": {
@@ -9138,23 +8628,20 @@
           "rating": 4.85
         }
       },
-      "lat": 50.9422,
-      "lng": -2.63291,
-      "id": 244193,
-      "name": "EweMove Yeovil",
       "va": {
-        "overallRating": 4.85,
-        "totalReviews": 182,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 182,
             "score": 4.85
           }
-        }
+        },
+        "overallRating": 4.85,
+        "totalReviews": 182,
+        "replyRate": 100.0
       },
+      "id": 244193,
+      "name": "EweMove Yeovil",
       "totalReviews": 182,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 93
     },
@@ -9171,7 +8658,7 @@
       "nps": 0,
       "last_login_raw": "20.04.2026 11:41:06",
       "last_login_iso": "2026-04-20T11:41:06",
-      "days_since_login": 29,
+      "days_since_login": 30,
       "last_user": "JonathanDawson",
       "last_email": "york@ewemove.com",
       "last_review_at": "2026-04-26T09:50:26.627000",
@@ -9192,11 +8679,7 @@
       "google": {
         "place_id": "ChIJIUlo4hMxeUgRSpMnjhXooNk",
         "rating": 4.9,
-        "user_rating_count": 247,
-        "formatted_address": "Kensington House, Westminster Place, Nether Poppleton, York YO26 6RW",
-        "google_maps_url": "https://maps.google.com/?cid=15681789081780982602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 247
       },
       "platforms": {
         "Google": {
@@ -9212,31 +8695,28 @@
           "rating": 4.89
         }
       },
-      "lat": 53.9798,
-      "lng": -1.13212,
-      "id": 244196,
-      "name": "EweMove York",
       "va": {
-        "overallRating": 4.88,
-        "totalReviews": 312,
-        "replyRate": 77.77777777777779,
         "platforms": {
           "google": {
             "reviews": 266,
             "score": 4.88
           },
-          "facebook": {
-            "reviews": 36,
-            "score": 4.89
-          },
           "viewagents": {
             "reviews": 10,
             "score": 5.0
+          },
+          "facebook": {
+            "reviews": 36,
+            "score": 4.89
           }
-        }
+        },
+        "overallRating": 4.89,
+        "totalReviews": 312,
+        "replyRate": 77.77777777777779
       },
+      "id": 244196,
+      "name": "EweMove York",
       "totalReviews": 312,
-      "replyRate": 77.77777777777779,
       "googleScore": 4.9,
       "score": 85
     },
@@ -9253,7 +8733,7 @@
       "nps": 100,
       "last_login_raw": "20.11.2025 12:19:17",
       "last_login_iso": "2025-11-20T12:19:17",
-      "days_since_login": 180,
+      "days_since_login": 181,
       "last_user": "MattClinton",
       "last_email": "matt.clinton@ewemove.com",
       "last_review_at": "2026-03-29T04:05:29.250000",
@@ -9267,7 +8747,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 180d ago"
+          "Last login 181d ago"
         ],
         [
           "AMBER",
@@ -9292,27 +8772,24 @@
           "rating": 5.0
         }
       },
-      "lat": 52.3406,
-      "lng": -1.5773,
-      "id": 245273,
-      "name": "Ewemove Kenilworth",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 26,
-        "replyRate": 50.0,
         "platforms": {
-          "google": {
-            "reviews": 22,
-            "score": 5.0
-          },
           "facebook": {
             "reviews": 4,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 22,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 26,
+        "replyRate": 50.0
       },
+      "id": 245273,
+      "name": "Ewemove Kenilworth",
       "totalReviews": 26,
-      "replyRate": 50.0,
       "score": 85
     },
     {
@@ -9332,7 +8809,7 @@
       "last_user": "LeeDevenish",
       "last_email": "lee.devenish@ewemove.com",
       "last_review_at": "2026-04-30T19:44:52.463000",
-      "days_since_review": 19,
+      "days_since_review": 20,
       "total_reviews": 92,
       "reviews_30d": 1,
       "reviews_90d": 6,
@@ -9349,10 +8826,7 @@
       "google": {
         "place_id": "ChIJIyhBU_xljqIRwUZXmYQwL-I",
         "rating": 5.0,
-        "user_rating_count": 74,
-        "formatted_address": "54 Barleycorn Wy, Beck Row, Bury Saint Edmunds IP28 8YQ",
-        "google_maps_url": "https://maps.google.com/?cid=16298298922543564481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85
+        "user_rating_count": 74
       },
       "platforms": {
         "Google": {
@@ -9368,31 +8842,28 @@
           "rating": 5.0
         }
       },
-      "lat": 52.3433,
-      "lng": 0.510586,
-      "id": 245278,
-      "name": "Ewemove Mildenhall",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 92,
-        "replyRate": 66.66666666666666,
         "platforms": {
           "google": {
             "reviews": 88,
             "score": 4.93
           },
-          "facebook": {
-            "reviews": 3,
-            "score": 5.0
-          },
           "viewagents": {
             "reviews": 1,
             "score": 5.0
+          },
+          "facebook": {
+            "reviews": 3,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.93,
+        "totalReviews": 92,
+        "replyRate": 66.66666666666666
       },
+      "id": 245278,
+      "name": "Ewemove Mildenhall",
       "totalReviews": 92,
-      "replyRate": 66.66666666666666,
       "googleScore": 5.0,
       "score": 97
     },
@@ -9413,11 +8884,11 @@
       "last_user": "MarkStephens",
       "last_email": "mark.stephens@ewemove.com",
       "last_review_at": "2026-05-17T12:58:52.570000",
-      "days_since_review": 2,
+      "days_since_review": 3,
       "total_reviews": 71,
       "reviews_30d": 3,
-      "reviews_90d": 18,
-      "replies_90d": 18,
+      "reviews_90d": 15,
+      "replies_90d": 15,
       "reply_rate_90d": 100.0,
       "flags": [],
       "overall_rag": "GREEN",
@@ -9432,27 +8903,24 @@
           "rating": 5.0
         }
       },
-      "lat": 52.2116,
-      "lng": 0.459165,
-      "id": 255643,
-      "name": "Ewemove Newmarket & Soham",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 71,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 68,
-            "score": 5.0
-          },
           "viewagents": {
             "reviews": 3,
             "score": 4.93
+          },
+          "google": {
+            "reviews": 68,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 71,
+        "replyRate": 100.0
       },
+      "id": 255643,
+      "name": "Ewemove Newmarket & Soham",
       "totalReviews": 71,
-      "replyRate": 100.0,
       "score": 92
     },
     {
@@ -9472,7 +8940,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-07T15:52:03.317000",
-      "days_since_review": 73,
+      "days_since_review": 74,
       "total_reviews": 15,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -9487,7 +8955,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 73d"
+          "No review for 74d"
         ]
       ],
       "overall_rag": "RED",
@@ -9498,23 +8966,20 @@
           "rating": 5.0
         }
       },
-      "lat": 53.6689,
-      "lng": -1.75224,
-      "id": 255638,
-      "name": "Ewemove North Huddersfield & Mirfield",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 15,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 15,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 15,
+        "replyRate": 100.0
       },
+      "id": 255638,
+      "name": "Ewemove North Huddersfield & Mirfield",
       "totalReviews": 15,
-      "replyRate": 100.0,
       "score": 71
     },
     {
@@ -9553,27 +9018,24 @@
           "rating": 4.95
         }
       },
-      "lat": 52.6574,
-      "lng": 1.28856,
-      "id": 260164,
-      "name": "Ewemove Norwich North East",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 23,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 21,
-            "score": 4.95
-          },
           "facebook": {
             "reviews": 2,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 21,
+            "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.96,
+        "totalReviews": 23,
+        "replyRate": 100.0
       },
+      "id": 260164,
+      "name": "Ewemove Norwich North East",
       "totalReviews": 23,
-      "replyRate": 100.0,
       "score": 79
     },
     {
@@ -9619,18 +9081,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 50.9816,
-      "lng": -1.52002,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 260121,
       "name": "Ewemove Romsey",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 52
     },
     {
@@ -9646,11 +9105,11 @@
       "nps": 0,
       "last_login_raw": "16.03.2026 12:55:20",
       "last_login_iso": "2026-03-16T12:55:20",
-      "days_since_login": 64,
+      "days_since_login": 65,
       "last_user": "SamanthaCorbett",
       "last_email": "samantha.corbett@ewemove.com",
       "last_review_at": "2026-05-18T17:37:30.600000",
-      "days_since_review": 1,
+      "days_since_review": 2,
       "total_reviews": 40,
       "reviews_30d": 2,
       "reviews_90d": 7,
@@ -9660,17 +9119,14 @@
         [
           "AMBER",
           "login_stale_30d",
-          "Last login 64d ago"
+          "Last login 65d ago"
         ]
       ],
       "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJSS962GC5e40RIpFuhfR22gg",
         "rating": 5.0,
-        "user_rating_count": 36,
-        "formatted_address": "2b, The Regal Buildings, Marsland Rd, Sale M33 3HQ",
-        "google_maps_url": "https://maps.google.com/?cid=637953089809060130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 36
       },
       "platforms": {
         "Google": {
@@ -9682,14 +9138,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.4196,
-      "lng": -2.30555,
-      "id": 260163,
-      "name": "Ewemove Sale",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 40,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 36,
@@ -9699,10 +9148,14 @@
             "reviews": 4,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 40,
+        "replyRate": 100.0
       },
+      "id": 260163,
+      "name": "Ewemove Sale",
       "totalReviews": 40,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 85
     },
@@ -9749,18 +9202,15 @@
       "overall_rag": "RED",
       "google": null,
       "platforms": null,
-      "lat": 53.9498,
-      "lng": -2.16427,
+      "va": {
+        "platforms": {},
+        "overallRating": 4.64,
+        "totalReviews": 0,
+        "replyRate": null
+      },
       "id": 260162,
       "name": "Ewemove Skipton & The Dales",
-      "va": {
-        "overallRating": null,
-        "totalReviews": 0,
-        "replyRate": null,
-        "platforms": {}
-      },
       "totalReviews": 0,
-      "replyRate": null,
       "score": 48
     },
     {
@@ -9776,11 +9226,11 @@
       "nps": 0,
       "last_login_raw": "16.10.2025 11:26:03",
       "last_login_iso": "2025-10-16T11:26:03",
-      "days_since_login": 215,
+      "days_since_login": 216,
       "last_user": "AnnUpson",
       "last_email": "anna.upson@ewemove.com",
       "last_review_at": "2026-05-15T16:50:03.810000",
-      "days_since_review": 4,
+      "days_since_review": 5,
       "total_reviews": 16,
       "reviews_30d": 1,
       "reviews_90d": 2,
@@ -9790,7 +9240,7 @@
         [
           "RED",
           "login_stale_90d",
-          "Last login 215d ago"
+          "Last login 216d ago"
         ],
         [
           "RED",
@@ -9807,10 +9257,7 @@
       "google": {
         "place_id": "ChIJs6azeal6QQQRfXUXXh4fOdk",
         "rating": 4.7,
-        "user_rating_count": 13,
-        "formatted_address": "Office 2, 305, Unit 5 Whitley Rd, Whitley Bay NE26 2HU",
-        "google_maps_url": "https://maps.google.com/?cid=15652576195190945149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85
+        "user_rating_count": 13
       },
       "platforms": {
         "Google": {
@@ -9818,23 +9265,20 @@
           "rating": 4.75
         }
       },
-      "lat": 55.0455,
-      "lng": -1.45225,
-      "id": 247718,
-      "name": "Ewemove Whitley Bay & Tynemouth",
       "va": {
-        "overallRating": 4.75,
-        "totalReviews": 16,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 16,
             "score": 4.75
           }
-        }
+        },
+        "overallRating": 4.75,
+        "totalReviews": 16,
+        "replyRate": 0.0
       },
+      "id": 247718,
+      "name": "Ewemove Whitley Bay & Tynemouth",
       "totalReviews": 16,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 69
     },
@@ -9882,10 +9326,7 @@
       "google": {
         "place_id": "ChIJOWPiK9INdEgRpKJ8mKZCF2o",
         "rating": 4.7,
-        "user_rating_count": 116,
-        "formatted_address": "37-39 Southgate St, Winchester SO23 9EH",
-        "google_maps_url": "https://maps.google.com/?cid=7644652175775015588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 116
       },
       "platforms": {
         "Google": {
@@ -9901,14 +9342,7 @@
           "rating": 4.89
         }
       },
-      "lat": 51.0663,
-      "lng": -1.29832,
-      "id": 237616,
-      "name": "Ewemove Winchester",
       "va": {
-        "overallRating": 4.67,
-        "totalReviews": 200,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 146,
@@ -9922,56 +9356,50 @@
             "reviews": 15,
             "score": 4.89
           }
-        }
+        },
+        "overallRating": 4.66,
+        "totalReviews": 200,
+        "replyRate": 0.0
       },
+      "id": 237616,
+      "name": "Ewemove Winchester",
       "totalReviews": 200,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 98
     }
   ],
-  "google_summary": {
-    "matched_offices": 45,
-    "total_offices": 148,
-    "match_rate_pct": 30.4,
-    "total_reviews": 5092,
-    "avg_rating": 4.88,
-    "avg_reviews_per_matched_office": 113.0,
-    "multi_va_attribution_warnings": 9,
-    "source": "Google Places API \u2014 harvested 2026-05-20 (incl. recovery pass)"
-  },
   "platforms_summary": {
     "matched_offices": 128,
     "total_offices": 148,
     "platforms": {
       "Google": {
-        "total_reviews": 9540,
-        "avg_rating": 4.91
+        "total_reviews": 9001,
+        "avg_rating": 4.890112954957468
+      },
+      "Trustpilot": {
+        "total_reviews": 116,
+        "avg_rating": 4.678205753291078
       },
       "Facebook": {
-        "total_reviews": 742,
-        "avg_rating": 4.86
+        "total_reviews": 634,
+        "avg_rating": 4.863383637807784
       },
       "Yell": {
-        "total_reviews": 4,
-        "avg_rating": 4.0
-      },
-      "View Agents": {
-        "total_reviews": 65,
-        "avg_rating": 4.94
+        "total_reviews": 8,
+        "avg_rating": 3.909090909090909
       }
     },
-    "grand_total_reviews": 10351,
-    "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
+    "grand_total_reviews": 9759,
+    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
   },
   "platformFootprint": {
     "google": {
-      "reviews": 9540,
+      "reviews": 9001,
       "replies": 0,
       "with_presence": 126
     },
     "trustpilot": {
-      "reviews": 0,
+      "reviews": 116,
       "replies": 0,
       "with_presence": 0
     },
@@ -9981,9 +9409,9 @@
       "with_presence": 0
     },
     "facebook": {
-      "reviews": 742,
+      "reviews": 634,
       "replies": 0,
-      "with_presence": 73
+      "with_presence": 74
     },
     "allagents": {
       "reviews": 0,
@@ -9991,12 +9419,12 @@
       "with_presence": 0
     },
     "yell": {
-      "reviews": 4,
+      "reviews": 8,
       "replies": 0,
-      "with_presence": 3
+      "with_presence": 4
     },
     "viewagents": {
-      "reviews": 65,
+      "reviews": 0,
       "replies": 0,
       "with_presence": 15
     }

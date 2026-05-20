@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T13:29:02.323179+00:00",
+  "updated": "2026-05-20T20:08:18.635078+00:00",
   "brand": "Winkworth",
   "offices": [
     {
@@ -19,7 +19,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-16T18:40:30.050000",
-      "days_since_review": 64,
+      "days_since_review": 65,
       "total_reviews": 47,
       "reviews_30d": 0,
       "reviews_90d": 2,
@@ -34,7 +34,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 64d"
+          "No review for 65d"
         ],
         [
           "RED",
@@ -51,10 +51,7 @@
       "google": {
         "place_id": "ChIJKdrfzqujc0gR54iUgNhutm0",
         "rating": 5.0,
-        "user_rating_count": 47,
-        "formatted_address": "406 Ringwood Rd, Ferndown BH22 9AU",
-        "google_maps_url": "https://maps.google.com/?cid=7905628072044693735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 47
       },
       "platforms": {
         "Google": {
@@ -62,23 +59,20 @@
           "rating": 5.0
         }
       },
-      "lat": 50.8006,
-      "lng": -1.89075,
-      "id": 254321,
-      "name": "Winkworth (BH22)",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 47,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 47,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 47,
+        "replyRate": 0.0
       },
+      "id": 254321,
+      "name": "Winkworth (BH22)",
       "totalReviews": 47,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 46
     },
@@ -131,10 +125,7 @@
       "google": {
         "place_id": "ChIJm6QMLECcc0gRSLge-8h7htk",
         "rating": 4.8,
-        "user_rating_count": 42,
-        "formatted_address": "4 Falcon Dr, Mudeford, Christchurch BH23 4BA",
-        "google_maps_url": "https://maps.google.com/?cid=15674351656246360136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 42
       },
       "platforms": {
         "Google": {
@@ -146,14 +137,7 @@
           "rating": 3.88
         }
       },
-      "lat": 50.7288,
-      "lng": -1.73963,
-      "id": 247680,
-      "name": "Winkworth (BH23)",
       "va": {
-        "overallRating": 3.92,
-        "totalReviews": 849,
-        "replyRate": 50.0,
         "platforms": {
           "google": {
             "reviews": 39,
@@ -163,10 +147,14 @@
             "reviews": 810,
             "score": 3.88
           }
-        }
+        },
+        "overallRating": 3.92,
+        "totalReviews": 849,
+        "replyRate": 50.0
       },
+      "id": 247680,
+      "name": "Winkworth (BH23)",
       "totalReviews": 849,
-      "replyRate": 50.0,
       "googleScore": 4.8,
       "score": 62
     },
@@ -187,7 +175,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-14T18:39:13.043000",
-      "days_since_review": 35,
+      "days_since_review": 36,
       "total_reviews": 219,
       "reviews_30d": 0,
       "reviews_90d": 10,
@@ -202,7 +190,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 35d"
+          "No review for 36d"
         ],
         [
           "RED",
@@ -214,10 +202,7 @@
       "google": {
         "place_id": "ChIJh6RWAfW_bUgR9A78QaHejqo",
         "rating": 5.0,
-        "user_rating_count": 244,
-        "formatted_address": "15 Fore St, Tiverton EX16 6LN",
-        "google_maps_url": "https://maps.google.com/?cid=12290005217318801140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 244
       },
       "platforms": {
         "Google": {
@@ -229,14 +214,7 @@
           "rating": 5.0
         }
       },
-      "lat": 50.9023,
-      "lng": -3.48799,
-      "id": 254312,
-      "name": "Winkworth (EX16)",
       "va": {
-        "overallRating": 4.99,
-        "totalReviews": 219,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 218,
@@ -246,10 +224,14 @@
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.99,
+        "totalReviews": 219,
+        "replyRate": 0.0
       },
+      "id": 254312,
+      "name": "Winkworth (EX16)",
       "totalReviews": 219,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 74
     },
@@ -270,7 +252,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-09T18:40:47.513000",
-      "days_since_review": 40,
+      "days_since_review": 41,
       "total_reviews": 110,
       "reviews_30d": 0,
       "reviews_90d": 6,
@@ -285,7 +267,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 40d"
+          "No review for 41d"
         ],
         [
           "RED",
@@ -302,10 +284,7 @@
       "google": {
         "place_id": "ChIJsVYAdvyxbUgRdCha74saOoo",
         "rating": 5.0,
-        "user_rating_count": 108,
-        "formatted_address": "115 High St, Crediton EX17 3LG",
-        "google_maps_url": "https://maps.google.com/?cid=9960302714201712756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 108
       },
       "platforms": {
         "Google": {
@@ -313,23 +292,20 @@
           "rating": 4.92
         }
       },
-      "lat": 50.7909,
-      "lng": -3.65987,
-      "id": 254323,
-      "name": "Winkworth (EX17)",
       "va": {
-        "overallRating": 4.92,
-        "totalReviews": 110,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 110,
             "score": 4.92
           }
-        }
+        },
+        "overallRating": 4.92,
+        "totalReviews": 110,
+        "replyRate": 0.0
       },
+      "id": 254323,
+      "name": "Winkworth (EX17)",
       "totalReviews": 110,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 48
     },
@@ -364,7 +340,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 768d"
         ],
         [
@@ -377,10 +353,7 @@
       "google": {
         "place_id": "ChIJZSTAREd_dkgRzFI9BHGR55o",
         "rating": 5.0,
-        "user_rating_count": 11,
-        "formatted_address": "41 High St, Bagshot GU19 5AF",
-        "google_maps_url": "https://maps.google.com/?cid=11162050116049523404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 11
       },
       "platforms": {
         "Google": {
@@ -388,23 +361,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.3614,
-      "lng": -0.693387,
-      "id": 254313,
-      "name": "Winkworth (GU19)",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 11,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 11,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 11,
+        "replyRate": null
       },
+      "id": 254313,
+      "name": "Winkworth (GU19)",
       "totalReviews": 11,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 65
     },
@@ -425,7 +395,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-01-16T18:39:54.567000",
-      "days_since_review": 123,
+      "days_since_review": 124,
       "total_reviews": 48,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -439,8 +409,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 123d"
+          "no_review_90d",
+          "No review for 124d"
         ],
         [
           "RED",
@@ -452,10 +422,7 @@
       "google": {
         "place_id": "ChIJsVP1Vksj2kcRhPJy8q3IBDE",
         "rating": 5.0,
-        "user_rating_count": 47,
-        "formatted_address": "45 High St, Southwold IP18 6DJ",
-        "google_maps_url": "https://maps.google.com/?cid=3532168657187828356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85
+        "user_rating_count": 47
       },
       "platforms": {
         "Google": {
@@ -463,23 +430,20 @@
           "rating": 5.0
         }
       },
-      "lat": 52.3271,
-      "lng": 1.67733,
-      "id": 254317,
-      "name": "Winkworth (IP18)",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 48,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 48,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 48,
+        "replyRate": null
       },
+      "id": 254317,
+      "name": "Winkworth (IP18)",
       "totalReviews": 48,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 46
     },
@@ -500,7 +464,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2024-04-16T18:45:15.407000",
-      "days_since_review": 763,
+      "days_since_review": 764,
       "total_reviews": 48,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -514,8 +478,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 763d"
+          "no_review_90d",
+          "No review for 764d"
         ],
         [
           "AMBER",
@@ -527,10 +491,7 @@
       "google": {
         "place_id": "ChIJAQCw-Rt5dkgRI7uIunvlZRs",
         "rating": 4.9,
-        "user_rating_count": 47,
-        "formatted_address": "3 Broomhall Buildings, London Rd, Sunningdale, Berkshire SL5 0DH",
-        "google_maps_url": "https://maps.google.com/?cid=1974236331245091619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 47
       },
       "platforms": {
         "Google": {
@@ -538,23 +499,20 @@
           "rating": 4.88
         }
       },
-      "lat": 51.3928,
-      "lng": -0.628834,
-      "id": 254351,
-      "name": "Winkworth (SL5)",
       "va": {
-        "overallRating": 4.88,
-        "totalReviews": 48,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 48,
             "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.88,
+        "totalReviews": 48,
+        "replyRate": null
       },
+      "id": 254351,
+      "name": "Winkworth (SL5)",
       "totalReviews": 48,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 65
     },
@@ -575,7 +533,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-26T18:41:17.373000",
-      "days_since_review": 54,
+      "days_since_review": 55,
       "total_reviews": 148,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -590,17 +548,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 54d"
+          "No review for 55d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJ9znlRIjZ2EcRqxi2L3LSugI",
         "rating": 4.8,
-        "user_rating_count": 148,
-        "formatted_address": "218 Leigh Rd, Southend-on-Sea, Leigh-on-Sea SS9 1BP",
-        "google_maps_url": "https://maps.google.com/?cid=196700921612605611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 148
       },
       "platforms": {
         "Google": {
@@ -608,23 +563,20 @@
           "rating": 4.78
         }
       },
-      "lat": 51.5429,
-      "lng": 0.663971,
-      "id": 254326,
-      "name": "Winkworth (SS9)",
       "va": {
-        "overallRating": 4.78,
-        "totalReviews": 148,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 148,
             "score": 4.78
           }
-        }
+        },
+        "overallRating": 4.78,
+        "totalReviews": 148,
+        "replyRate": 100.0
       },
+      "id": 254326,
+      "name": "Winkworth (SS9)",
       "totalReviews": 148,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 74
     },
@@ -659,7 +611,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 601d"
         ],
         [
@@ -672,10 +624,7 @@
       "google": {
         "place_id": "ChIJxfRUDVgOdkgRPfnMplKm5VA",
         "rating": 5.0,
-        "user_rating_count": 21,
-        "formatted_address": "2 Barnes High St, London SW13 9LB",
-        "google_maps_url": "https://maps.google.com/?cid=5829248166616955197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 21
       },
       "platforms": {
         "Yell": {
@@ -687,27 +636,24 @@
           "rating": 5.0
         }
       },
-      "lat": 51.4733,
-      "lng": -0.248166,
-      "id": 254352,
-      "name": "Winkworth (SW13)",
       "va": {
-        "overallRating": 4.25,
-        "totalReviews": 16,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 13,
-            "score": 5.0
-          },
           "yell": {
             "reviews": 3,
             "score": 1.0
+          },
+          "google": {
+            "reviews": 13,
+            "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.25,
+        "totalReviews": 16,
+        "replyRate": null
       },
+      "id": 254352,
+      "name": "Winkworth (SW13)",
       "totalReviews": 16,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 61
     },
@@ -728,7 +674,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2022-04-13T18:54:04.630000",
-      "days_since_review": 1497,
+      "days_since_review": 1498,
       "total_reviews": 21,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -742,8 +688,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 1497d"
+          "no_review_90d",
+          "No review for 1498d"
         ],
         [
           "RED",
@@ -759,23 +705,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.127462,
-      "lng": 0.26096,
-      "id": 16105,
-      "name": "Winkworth (TN1)",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 21,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 21,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 21,
+        "replyRate": null
       },
+      "id": 16105,
+      "name": "Winkworth (TN1)",
       "totalReviews": 21,
-      "replyRate": null,
       "score": 49
     },
     {
@@ -809,7 +752,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 786d"
         ],
         [
@@ -822,10 +765,7 @@
       "google": {
         "place_id": "ChIJL6UHhL4ZbUgRcNkwdIEYsi8",
         "rating": 5.0,
-        "user_rating_count": 7,
-        "formatted_address": "3a Market St, Dartmouth TQ6 9QE",
-        "google_maps_url": "https://maps.google.com/?cid=3436836409916316016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 7
       },
       "platforms": {
         "Google": {
@@ -833,23 +773,20 @@
           "rating": 5.0
         }
       },
-      "lat": 50.352,
-      "lng": -3.57999,
-      "id": 254330,
-      "name": "Winkworth (TQ6)",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 8,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 8,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 8,
+        "replyRate": null
       },
+      "id": 254330,
+      "name": "Winkworth (TQ6)",
       "totalReviews": 8,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 59
     },
@@ -871,7 +808,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-16T18:40:19.823000",
-      "days_since_review": 64,
+      "days_since_review": 65,
       "total_reviews": 903,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -886,7 +823,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 64d"
+          "No review for 65d"
         ],
         [
           "RED",
@@ -898,10 +835,7 @@
       "google": {
         "place_id": "ChIJIyvpM8bidUgRkSPDPqB_jWQ",
         "rating": 5.0,
-        "user_rating_count": 77,
-        "formatted_address": "100 High St, Banstead SM7 2NN",
-        "google_maps_url": "https://maps.google.com/?cid=7245587701733467025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 77
       },
       "platforms": {
         "Trustpilot": {
@@ -909,23 +843,20 @@
           "rating": 3.9
         }
       },
-      "lat": 51.3228,
-      "lng": -0.19972,
-      "id": 259319,
-      "name": "Winkworth Banstead",
       "va": {
-        "overallRating": 3.9,
-        "totalReviews": 824,
-        "replyRate": 0.0,
         "platforms": {
           "trustpilot": {
             "reviews": 824,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.9,
+        "totalReviews": 824,
+        "replyRate": 0.0
       },
+      "id": 259319,
+      "name": "Winkworth Banstead",
       "totalReviews": 824,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 72
     },
@@ -947,7 +878,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-15T16:42:13.873000",
-      "days_since_review": 34,
+      "days_since_review": 35,
       "total_reviews": 207,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -962,18 +893,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 34d"
+          "No review for 35d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJif69lI8XdkgRUvvxgKSNXTQ",
         "rating": 4.8,
-        "user_rating_count": 103,
-        "formatted_address": "35 High St, Chipping Barnet, Barnet EN5 5UW",
-        "google_maps_url": "https://maps.google.com/?cid=3773327800483838802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 103
       },
       "platforms": {
         "Google": {
@@ -985,14 +912,7 @@
           "rating": 3.0
         }
       },
-      "lat": 51.652771,
-      "lng": -0.199688,
-      "id": 5413,
-      "name": "Winkworth Barnet",
       "va": {
-        "overallRating": 4.74,
-        "totalReviews": 106,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 104,
@@ -1002,10 +922,14 @@
             "reviews": 2,
             "score": 3.0
           }
-        }
+        },
+        "overallRating": 4.74,
+        "totalReviews": 106,
+        "replyRate": 100.0
       },
+      "id": 5413,
+      "name": "Winkworth Barnet",
       "totalReviews": 106,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 74
     },
@@ -1026,7 +950,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-01-15T20:05:08.063000",
-      "days_since_review": 124,
+      "days_since_review": 125,
       "total_reviews": 86,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -1040,18 +964,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 124d"
+          "no_review_90d",
+          "No review for 125d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJYzxkVIEhdEgR2hixMHAhi80",
         "rating": 4.8,
-        "user_rating_count": 68,
-        "formatted_address": "10B Church St, Basingstoke RG21 7QE",
-        "google_maps_url": "https://maps.google.com/?cid=14810968565274974426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 68
       },
       "platforms": {
         "Google": {
@@ -1067,31 +988,28 @@
           "rating": 4.6
         }
       },
-      "lat": 51.263115,
-      "lng": -1.087282,
-      "id": 12766,
-      "name": "Winkworth Basingstoke",
       "va": {
-        "overallRating": 4.82,
-        "totalReviews": 86,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 73,
             "score": 4.84
           },
-          "facebook": {
-            "reviews": 10,
-            "score": 4.6
-          },
           "viewagents": {
             "reviews": 3,
             "score": 5.0
+          },
+          "facebook": {
+            "reviews": 10,
+            "score": 4.6
           }
-        }
+        },
+        "overallRating": 4.81,
+        "totalReviews": 86,
+        "replyRate": null
       },
+      "id": 12766,
+      "name": "Winkworth Basingstoke",
       "totalReviews": 86,
-      "replyRate": null,
       "googleScore": 4.8,
       "score": 70
     },
@@ -1112,7 +1030,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-17T16:10:48.137000",
-      "days_since_review": 32,
+      "days_since_review": 33,
       "total_reviews": 146,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -1127,17 +1045,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 32d"
+          "No review for 33d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJaY47fBSBcUgRu4RwKNSZKJE",
         "rating": 4.8,
-        "user_rating_count": 123,
-        "formatted_address": "13 Argyle St, Bathwick, Bath BA2 4BQ",
-        "google_maps_url": "https://maps.google.com/?cid=10459779271058556091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 123
       },
       "platforms": {
         "Google": {
@@ -1145,23 +1060,20 @@
           "rating": 4.82
         }
       },
-      "lat": 51.383363,
-      "lng": -2.362494,
-      "id": 660,
-      "name": "Winkworth Bath",
       "va": {
-        "overallRating": 4.82,
-        "totalReviews": 146,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 146,
             "score": 4.82
           }
-        }
+        },
+        "overallRating": 4.82,
+        "totalReviews": 146,
+        "replyRate": 100.0
       },
+      "id": 660,
+      "name": "Winkworth Bath",
       "totalReviews": 146,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 79
     },
@@ -1196,7 +1108,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 95d"
         ]
       ],
@@ -1204,10 +1116,7 @@
       "google": {
         "place_id": "ChIJPxUHpp5mdkgRVxx0x0lu3qo",
         "rating": 4.9,
-        "user_rating_count": 67,
-        "formatted_address": "46 London End, Beaconsfield HP9 2JH",
-        "google_maps_url": "https://maps.google.com/?cid=12312399694435458135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 67
       },
       "platforms": {
         "Facebook": {
@@ -1219,27 +1128,24 @@
           "rating": 4.92
         }
       },
-      "lat": 51.601861,
-      "lng": -0.634747,
-      "id": 22195,
-      "name": "Winkworth Beaconsfield",
       "va": {
-        "overallRating": 4.92,
-        "totalReviews": 87,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 85,
-            "score": 4.92
-          },
           "facebook": {
             "reviews": 2,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 85,
+            "score": 4.92
           }
-        }
+        },
+        "overallRating": 4.92,
+        "totalReviews": 87,
+        "replyRate": null
       },
+      "id": 22195,
+      "name": "Winkworth Beaconsfield",
       "totalReviews": 87,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 78
     },
@@ -1260,7 +1166,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-21T15:47:29.427000",
-      "days_since_review": 28,
+      "days_since_review": 29,
       "total_reviews": 183,
       "reviews_30d": 2,
       "reviews_90d": 29,
@@ -1282,10 +1188,7 @@
       "google": {
         "place_id": "ChIJayRY874BdkgR46D8d0v5RHg",
         "rating": 4.8,
-        "user_rating_count": 207,
-        "formatted_address": "436, The Broadway, Croydon Rd, Beckenham BR3 4EP",
-        "google_maps_url": "https://maps.google.com/?cid=8666325685498585315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 207
       },
       "platforms": {
         "Google": {
@@ -1293,23 +1196,20 @@
           "rating": 4.76
         }
       },
-      "lat": 51.4066,
-      "lng": -0.028118,
-      "id": 1689,
-      "name": "Winkworth Beckenham",
       "va": {
-        "overallRating": 4.76,
-        "totalReviews": 183,
-        "replyRate": 13.793103448275861,
         "platforms": {
           "google": {
             "reviews": 183,
             "score": 4.76
           }
-        }
+        },
+        "overallRating": 4.76,
+        "totalReviews": 183,
+        "replyRate": 13.793103448275861
       },
+      "id": 1689,
+      "name": "Winkworth Beckenham",
       "totalReviews": 183,
-      "replyRate": 13.793103448275861,
       "googleScore": 4.8,
       "score": 79
     },
@@ -1330,9 +1230,9 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-20T19:23:02.803000",
-      "days_since_review": 29,
+      "days_since_review": 30,
       "total_reviews": 253,
-      "reviews_30d": 1,
+      "reviews_30d": 0,
       "reviews_90d": 6,
       "replies_90d": 2,
       "reply_rate_90d": 33.33333333333333,
@@ -1352,10 +1252,7 @@
       "google": {
         "place_id": "ChIJ84CRr9Gp2EcRpsBbhQTl0_o",
         "rating": 4.7,
-        "user_rating_count": 241,
-        "formatted_address": "5 Blackheath Village, Blackheath, London SE3 9LA",
-        "google_maps_url": "https://maps.google.com/?cid=18074041537147945126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 241
       },
       "platforms": {
         "Google": {
@@ -1363,23 +1260,20 @@
           "rating": 4.69
         }
       },
-      "lat": 51.465613,
-      "lng": 0.009469,
-      "id": 13907,
-      "name": "Winkworth Blackheath",
       "va": {
-        "overallRating": 4.69,
-        "totalReviews": 253,
-        "replyRate": 33.33333333333333,
         "platforms": {
           "google": {
             "reviews": 253,
             "score": 4.69
           }
-        }
+        },
+        "overallRating": 4.69,
+        "totalReviews": 253,
+        "replyRate": 33.33333333333333
       },
+      "id": 13907,
+      "name": "Winkworth Blackheath",
       "totalReviews": 253,
-      "replyRate": 33.33333333333333,
       "googleScore": 4.7,
       "score": 74
     },
@@ -1423,11 +1317,7 @@
       "google": {
         "place_id": "ChIJbzn7MHEWdkgRVuA3kzHtBP0",
         "rating": 4.8,
-        "user_rating_count": 203,
-        "formatted_address": "56 Shenley Rd, Borehamwood WD6 1DS",
-        "google_maps_url": "https://maps.google.com/?cid=18231957988681703510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 203
       },
       "platforms": {
         "Google": {
@@ -1439,14 +1329,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.6548,
-      "lng": -0.277325,
-      "id": 259091,
-      "name": "Winkworth Borehamwood & Elstree",
       "va": {
-        "overallRating": 4.06,
-        "totalReviews": 1059,
-        "replyRate": 47.368421052631575,
         "platforms": {
           "google": {
             "reviews": 199,
@@ -1456,10 +1339,14 @@
             "reviews": 860,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 4.06,
+        "totalReviews": 1059,
+        "replyRate": 47.368421052631575
       },
+      "id": 259091,
+      "name": "Winkworth Borehamwood & Elstree",
       "totalReviews": 1059,
-      "replyRate": 47.368421052631575,
       "googleScore": 4.8,
       "score": 81
     },
@@ -1481,7 +1368,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-02T18:39:31.237000",
-      "days_since_review": 47,
+      "days_since_review": 48,
       "total_reviews": 176,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -1496,18 +1383,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 47d"
+          "No review for 48d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJafHhWkIfeEgRIPMTeKeSvXo",
         "rating": 5.0,
-        "user_rating_count": 58,
-        "formatted_address": "6 West St, Bourne PE10 9NE",
-        "google_maps_url": "https://maps.google.com/?cid=8844386491197289248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 58
       },
       "platforms": {
         "Google": {
@@ -1515,23 +1398,20 @@
           "rating": 4.95
         }
       },
-      "lat": 52.768204,
-      "lng": -0.378898,
-      "id": 11791,
-      "name": "Winkworth Bourne",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 115,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 115,
             "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 115,
+        "replyRate": 100.0
       },
+      "id": 11791,
+      "name": "Winkworth Bourne",
       "totalReviews": 115,
-      "replyRate": 100.0,
       "googleScore": 5.0,
       "score": 76
     },
@@ -1566,7 +1446,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 384d"
         ],
         [
@@ -1583,23 +1463,20 @@
           "rating": 3.14
         }
       },
-      "lat": 51.544221,
-      "lng": 0.004046,
-      "id": 4821,
-      "name": "Winkworth Bow",
       "va": {
-        "overallRating": 3.14,
-        "totalReviews": 36,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 36,
             "score": 3.14
           }
-        }
+        },
+        "overallRating": 3.14,
+        "totalReviews": 36,
+        "replyRate": null
       },
+      "id": 4821,
+      "name": "Winkworth Bow",
       "totalReviews": 36,
-      "replyRate": null,
       "score": 45
     },
     {
@@ -1620,7 +1497,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 893,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -1635,7 +1512,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -1652,11 +1529,7 @@
       "google": {
         "place_id": "ChIJ6yMdyDwddkgR-0jAWQdbkfw",
         "rating": 3.1,
-        "user_rating_count": 36,
-        "formatted_address": "429 Roman Rd, Bow, London E3 5LX",
-        "google_maps_url": "https://maps.google.com/?cid=18199427656309557499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 36
       },
       "platforms": {
         "Trustpilot": {
@@ -1668,27 +1541,24 @@
           "rating": 3.15
         }
       },
-      "lat": 51.5322,
-      "lng": -0.03442,
-      "id": 257352,
-      "name": "Winkworth Bow",
       "va": {
-        "overallRating": 3.87,
-        "totalReviews": 858,
-        "replyRate": 69.23076923076923,
         "platforms": {
-          "google": {
-            "reviews": 34,
-            "score": 3.15
-          },
           "trustpilot": {
             "reviews": 824,
             "score": 3.9
+          },
+          "google": {
+            "reviews": 34,
+            "score": 3.15
           }
-        }
+        },
+        "overallRating": 3.87,
+        "totalReviews": 858,
+        "replyRate": 69.23076923076923
       },
+      "id": 257352,
+      "name": "Winkworth Bow",
       "totalReviews": 858,
-      "replyRate": 69.23076923076923,
       "googleScore": 3.1,
       "score": 62
     },
@@ -1709,7 +1579,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 802,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -1724,7 +1594,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -1745,23 +1615,20 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4831,
-      "lng": -0.309347,
-      "id": 257353,
-      "name": "Winkworth Brentford",
       "va": {
-        "overallRating": 3.9,
-        "totalReviews": 802,
-        "replyRate": 69.23076923076923,
         "platforms": {
           "trustpilot": {
             "reviews": 802,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.9,
+        "totalReviews": 802,
+        "replyRate": 69.23076923076923
       },
+      "id": 257353,
+      "name": "Winkworth Brentford",
       "totalReviews": 802,
-      "replyRate": 69.23076923076923,
       "score": 62
     },
     {
@@ -1814,11 +1681,7 @@
       "google": {
         "place_id": "ChIJ0wZH0AqFdUgRUTbtEkDjfv0",
         "rating": 4.7,
-        "user_rating_count": 82,
-        "formatted_address": "32 Church Rd, Brighton and Hove, Hove BN3 2FN",
-        "google_maps_url": "https://maps.google.com/?cid=18266287002996258385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 82
       },
       "platforms": {
         "Google": {
@@ -1830,14 +1693,7 @@
           "rating": 3.9
         }
       },
-      "lat": 50.8272,
-      "lng": -0.167623,
-      "id": 257407,
-      "name": "Winkworth Brighton & Hove",
       "va": {
-        "overallRating": 3.97,
-        "totalReviews": 900,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 83,
@@ -1847,10 +1703,14 @@
             "reviews": 817,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.98,
+        "totalReviews": 900,
+        "replyRate": 0.0
       },
+      "id": 257407,
+      "name": "Winkworth Brighton & Hove",
       "totalReviews": 900,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 67
     },
@@ -1904,11 +1764,7 @@
       "google": {
         "place_id": "ChIJT03eSsrL3kcRWDZS-sM4gEw",
         "rating": 4.1,
-        "user_rating_count": 24,
-        "formatted_address": "Albert House, 14 St John's Ln, Canterbury CT1 2QG",
-        "google_maps_url": "https://maps.google.com/?cid=5512468358270957144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 24
       },
       "platforms": {
         "Google": {
@@ -1920,14 +1776,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.2766,
-      "lng": 1.07779,
-      "id": 259630,
-      "name": "Winkworth Canterbury",
       "va": {
-        "overallRating": 3.91,
-        "totalReviews": 824,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 19,
@@ -1937,10 +1786,14 @@
             "reviews": 805,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.91,
+        "totalReviews": 824,
+        "replyRate": 0.0
       },
+      "id": 259630,
+      "name": "Winkworth Canterbury",
       "totalReviews": 824,
-      "replyRate": 0.0,
       "googleScore": 4.1,
       "score": 62
     },
@@ -1961,7 +1814,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-30T18:24:17.487000",
-      "days_since_review": 50,
+      "days_since_review": 51,
       "total_reviews": 119,
       "reviews_30d": 0,
       "reviews_90d": 4,
@@ -1976,7 +1829,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 50d"
+          "No review for 51d"
         ],
         [
           "RED",
@@ -1993,10 +1846,7 @@
       "google": {
         "place_id": "ChIJ3RYeVyMIdkgRif4bVf04rbY",
         "rating": 4.8,
-        "user_rating_count": 108,
-        "formatted_address": "45-47 Station Way, Village, Sutton SM3 8SD",
-        "google_maps_url": "https://maps.google.com/?cid=13163239946579607177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 108
       },
       "platforms": {
         "Google": {
@@ -2004,23 +1854,20 @@
           "rating": 4.74
         }
       },
-      "lat": 51.35681,
-      "lng": -0.216012,
-      "id": 14456,
-      "name": "Winkworth Cheam",
       "va": {
-        "overallRating": 4.74,
-        "totalReviews": 119,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 119,
             "score": 4.74
           }
-        }
+        },
+        "overallRating": 4.74,
+        "totalReviews": 119,
+        "replyRate": 0.0
       },
+      "id": 14456,
+      "name": "Winkworth Cheam",
       "totalReviews": 119,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 68
     },
@@ -2055,7 +1902,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 95d"
         ],
         [
@@ -2068,10 +1915,7 @@
       "google": {
         "place_id": "ChIJWwH1QJgbcUgRE1Q40p9zWqw",
         "rating": 4.9,
-        "user_rating_count": 64,
-        "formatted_address": "79 Promenade, Cheltenham GL50 1PJ",
-        "google_maps_url": "https://maps.google.com/?cid=12419366052691465235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 64
       },
       "platforms": {
         "Google": {
@@ -2083,14 +1927,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.899183,
-      "lng": -2.077969,
-      "id": 237496,
-      "name": "Winkworth Cheltenham",
       "va": {
-        "overallRating": 4.9,
-        "totalReviews": 77,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 67,
@@ -2100,10 +1937,14 @@
             "reviews": 10,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.9,
+        "totalReviews": 77,
+        "replyRate": null
       },
+      "id": 237496,
+      "name": "Winkworth Cheltenham",
       "totalReviews": 77,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 68
     },
@@ -2152,10 +1993,7 @@
       "google": {
         "place_id": "ChIJicvRF2sOdkgRMq5C4a3ia0I",
         "rating": 4.8,
-        "user_rating_count": 151,
-        "formatted_address": "269 Chiswick High Rd., Chiswick, London W4 4PU",
-        "google_maps_url": "https://maps.google.com/?cid=4786168265447747122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 151
       },
       "platforms": {
         "Google": {
@@ -2167,14 +2005,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4922,
-      "lng": -0.261869,
-      "id": 256572,
-      "name": "Winkworth Chiswick",
       "va": {
-        "overallRating": 4.03,
-        "totalReviews": 979,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 146,
@@ -2184,10 +2015,14 @@
             "reviews": 833,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.03,
+        "totalReviews": 979,
+        "replyRate": 0.0
       },
+      "id": 256572,
+      "name": "Winkworth Chiswick",
       "totalReviews": 979,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 72
     },
@@ -2232,11 +2067,7 @@
       "google": {
         "place_id": "ChIJy86gB04bdkgRLVFxaGTCyPI",
         "rating": 4.9,
-        "user_rating_count": 99,
-        "formatted_address": "66 Exmouth Market, London EC1R 4QP",
-        "google_maps_url": "https://maps.google.com/?cid=17494446489025466669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 99
       },
       "platforms": {
         "Google": {
@@ -2248,14 +2079,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.5263,
-      "lng": -0.107996,
-      "id": 256573,
-      "name": "Winkworth Clerkenwell & City",
       "va": {
-        "overallRating": 4.02,
-        "totalReviews": 934,
-        "replyRate": 85.71428571428571,
         "platforms": {
           "google": {
             "reviews": 100,
@@ -2265,10 +2089,14 @@
             "reviews": 834,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 4.01,
+        "totalReviews": 934,
+        "replyRate": 85.71428571428571
       },
+      "id": 256573,
+      "name": "Winkworth Clerkenwell & City",
       "totalReviews": 934,
-      "replyRate": 85.71428571428571,
       "googleScore": 4.9,
       "score": 72
     },
@@ -2290,7 +2118,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-02T18:43:25.267000",
-      "days_since_review": 47,
+      "days_since_review": 48,
       "total_reviews": 838,
       "reviews_30d": 0,
       "reviews_90d": 4,
@@ -2305,7 +2133,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 47d"
+          "No review for 48d"
         ],
         [
           "AMBER",
@@ -2317,10 +2145,7 @@
       "google": {
         "place_id": "ChIJuecy2cAbdkgR0J19lBr3SI8",
         "rating": 4.6,
-        "user_rating_count": 37,
-        "formatted_address": "12 Broadway Parade, Tottenham Ln, London N8 9DE",
-        "google_maps_url": "https://maps.google.com/?cid=10324773839279332816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 37
       },
       "platforms": {
         "Google": {
@@ -2332,14 +2157,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5804,
-      "lng": -0.122593,
-      "id": 256574,
-      "name": "Winkworth Crouch End",
       "va": {
-        "overallRating": 3.92,
-        "totalReviews": 810,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 36,
@@ -2349,10 +2167,14 @@
             "reviews": 774,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.92,
+        "totalReviews": 810,
+        "replyRate": 100.0
       },
+      "id": 256574,
+      "name": "Winkworth Crouch End",
       "totalReviews": 810,
-      "replyRate": 100.0,
       "googleScore": 4.6,
       "score": 62
     },
@@ -2373,7 +2195,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-25T17:07:33.520000",
-      "days_since_review": 55,
+      "days_since_review": 56,
       "total_reviews": 150,
       "reviews_30d": 0,
       "reviews_90d": 6,
@@ -2388,7 +2210,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 55d"
+          "No review for 56d"
         ],
         [
           "RED",
@@ -2400,10 +2222,7 @@
       "google": {
         "place_id": "ChIJuTOaN0UBdkgRxylN-sJWx0A",
         "rating": 4.9,
-        "user_rating_count": 136,
-        "formatted_address": "45, 47 Westow Hill, Norwood, London SE19 1TS",
-        "google_maps_url": "https://maps.google.com/?cid=4667794934215813575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 136
       },
       "platforms": {
         "Google": {
@@ -2411,23 +2230,20 @@
           "rating": 4.89
         }
       },
-      "lat": 51.419889,
-      "lng": -0.080359,
-      "id": 13776,
-      "name": "Winkworth Crystal Palace",
       "va": {
-        "overallRating": 4.89,
-        "totalReviews": 150,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 150,
             "score": 4.89
           }
-        }
+        },
+        "overallRating": 4.89,
+        "totalReviews": 150,
+        "replyRate": 0.0
       },
+      "id": 13776,
+      "name": "Winkworth Crystal Palace",
       "totalReviews": 150,
-      "replyRate": 0.0,
       "googleScore": 4.9,
       "score": 79
     },
@@ -2448,7 +2264,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 801,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -2463,7 +2279,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -2480,10 +2296,7 @@
       "google": {
         "place_id": "ChIJFxgPQy0FdkgRJgBYwsO_dms",
         "rating": null,
-        "user_rating_count": 0,
-        "formatted_address": "1 Lumley St, London W1K 6TT",
-        "google_maps_url": "https://maps.google.com/?cid=7743587456810221606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 0
       },
       "platforms": {
         "Trustpilot": {
@@ -2491,23 +2304,20 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5139,
-      "lng": -0.151727,
-      "id": 256575,
-      "name": "Winkworth Crystal Palace",
       "va": {
-        "overallRating": 3.9,
-        "totalReviews": 801,
-        "replyRate": 69.23076923076923,
         "platforms": {
           "trustpilot": {
             "reviews": 801,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.9,
+        "totalReviews": 801,
+        "replyRate": 69.23076923076923
       },
+      "id": 256575,
+      "name": "Winkworth Crystal Palace",
       "totalReviews": 801,
-      "replyRate": 69.23076923076923,
       "googleScore": null,
       "score": 62
     },
@@ -2528,7 +2338,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2024-03-30T12:00:45.430000",
-      "days_since_review": 780,
+      "days_since_review": 781,
       "total_reviews": 20,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -2542,18 +2352,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 780d"
+          "no_review_90d",
+          "No review for 781d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJvfL3QIthcUgRbpGpihAwr3o",
         "rating": 4.9,
-        "user_rating_count": 16,
-        "formatted_address": "4/5 The Market Pl, Devizes SN10 1HT",
-        "google_maps_url": "https://maps.google.com/?cid=8840337441155551598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 16
       },
       "platforms": {
         "Google": {
@@ -2561,23 +2368,20 @@
           "rating": 4.95
         }
       },
-      "lat": 51.352615,
-      "lng": -1.996476,
-      "id": 14527,
-      "name": "Winkworth Devizes",
       "va": {
-        "overallRating": 4.95,
-        "totalReviews": 20,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 20,
             "score": 4.95
           }
-        }
+        },
+        "overallRating": 4.95,
+        "totalReviews": 20,
+        "replyRate": null
       },
+      "id": 14527,
+      "name": "Winkworth Devizes",
       "totalReviews": 20,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 70
     },
@@ -2626,10 +2430,7 @@
       "google": {
         "place_id": "ChIJ49xlHZQDdkgRyyd3kRgCLjk",
         "rating": 4.6,
-        "user_rating_count": 239,
-        "formatted_address": "97 Lordship Ln, London SE22 8HU",
-        "google_maps_url": "https://maps.google.com/?cid=4120233013633558475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 239
       },
       "platforms": {
         "Trustpilot": {
@@ -2645,19 +2446,8 @@
           "rating": 4.63
         }
       },
-      "lat": 51.4572,
-      "lng": -0.075298,
-      "id": 256576,
-      "name": "Winkworth Dulwich",
       "va": {
-        "overallRating": 4.04,
-        "totalReviews": 1004,
-        "replyRate": 20.0,
         "platforms": {
-          "google": {
-            "reviews": 206,
-            "score": 4.63
-          },
           "trustpilot": {
             "reviews": 797,
             "score": 3.89
@@ -2665,11 +2455,19 @@
           "yell": {
             "reviews": 1,
             "score": 1.0
+          },
+          "google": {
+            "reviews": 206,
+            "score": 4.63
           }
-        }
+        },
+        "overallRating": 4.04,
+        "totalReviews": 1004,
+        "replyRate": 20.0
       },
+      "id": 256576,
+      "name": "Winkworth Dulwich",
       "totalReviews": 1004,
-      "replyRate": 20.0,
       "googleScore": 4.6,
       "score": 75
     },
@@ -2718,10 +2516,7 @@
       "google": {
         "place_id": "ChIJbVWLTPkNdkgR7GaCYwt2_0c",
         "rating": 4.7,
-        "user_rating_count": 324,
-        "formatted_address": "5 - 6, Station Buildings, 5-6 Uxbridge Rd, London W5 3NU",
-        "google_maps_url": "https://maps.google.com/?cid=5187995087040308972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 324
       },
       "platforms": {
         "Google": {
@@ -2733,14 +2528,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5103,
-      "lng": -0.288437,
-      "id": 256577,
-      "name": "Winkworth Ealing & Acton",
       "va": {
-        "overallRating": 4.1,
-        "totalReviews": 1051,
-        "replyRate": 44.827586206896555,
         "platforms": {
           "google": {
             "reviews": 240,
@@ -2750,10 +2538,14 @@
             "reviews": 811,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 4.1,
+        "totalReviews": 1051,
+        "replyRate": 44.827586206896555
       },
+      "id": 256577,
+      "name": "Winkworth Ealing & Acton",
       "totalReviews": 1051,
-      "replyRate": 44.827586206896555,
       "googleScore": 4.7,
       "score": 73
     },
@@ -2774,7 +2566,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-10T16:21:05.900000",
-      "days_since_review": 39,
+      "days_since_review": 40,
       "total_reviews": 560,
       "reviews_30d": 0,
       "reviews_90d": 15,
@@ -2789,7 +2581,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 39d"
+          "No review for 40d"
         ],
         [
           "RED",
@@ -2801,10 +2593,7 @@
       "google": {
         "place_id": "ChIJe7KJsD2kbUgRczAXD_RuW5Y",
         "rating": 4.8,
-        "user_rating_count": 537,
-        "formatted_address": "65 Magdalen Rd, St. Leonards Rd, Exeter EX2 4TA",
-        "google_maps_url": "https://maps.google.com/?cid=10834375323074113651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 537
       },
       "platforms": {
         "Yell": {
@@ -2816,27 +2605,24 @@
           "rating": 4.75
         }
       },
-      "lat": 50.722,
-      "lng": -3.52752,
-      "id": 5472,
-      "name": "Winkworth Exeter",
       "va": {
-        "overallRating": 4.74,
-        "totalReviews": 560,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 556,
-            "score": 4.75
-          },
           "yell": {
             "reviews": 4,
             "score": 3.0
+          },
+          "google": {
+            "reviews": 556,
+            "score": 4.75
           }
-        }
+        },
+        "overallRating": 4.74,
+        "totalReviews": 560,
+        "replyRate": 0.0
       },
+      "id": 5472,
+      "name": "Winkworth Exeter",
       "totalReviews": 560,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 82
     },
@@ -2857,7 +2643,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-09T16:33:41.770000",
-      "days_since_review": 40,
+      "days_since_review": 41,
       "total_reviews": 295,
       "reviews_30d": 0,
       "reviews_90d": 11,
@@ -2872,7 +2658,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 40d"
+          "No review for 41d"
         ],
         [
           "RED",
@@ -2884,10 +2670,7 @@
       "google": {
         "place_id": "ChIJ6V0FI6wtdEgRvx-NfhU_yCY",
         "rating": 4.9,
-        "user_rating_count": 291,
-        "formatted_address": "99 West St, Farnham GU9 7EN",
-        "google_maps_url": "https://maps.google.com/?cid=2794552930333433791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 291
       },
       "platforms": {
         "Facebook": {
@@ -2903,31 +2686,28 @@
           "rating": 5.0
         }
       },
-      "lat": 51.21385,
-      "lng": -0.803272,
-      "id": 6566,
-      "name": "Winkworth Farnham",
       "va": {
-        "overallRating": 4.9,
-        "totalReviews": 295,
-        "replyRate": 27.27272727272727,
         "platforms": {
-          "google": {
-            "reviews": 288,
-            "score": 4.9
-          },
           "facebook": {
             "reviews": 6,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 288,
+            "score": 4.9
           },
           "viewagents": {
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.9,
+        "totalReviews": 295,
+        "replyRate": 27.27272727272727
       },
+      "id": 6566,
+      "name": "Winkworth Farnham",
       "totalReviews": 295,
-      "replyRate": 27.27272727272727,
       "googleScore": 4.9,
       "score": 82
     },
@@ -2981,10 +2761,7 @@
       "google": {
         "place_id": "ChIJKfo5hVQXdkgRM-HMIX6jNH0",
         "rating": 3.9,
-        "user_rating_count": 42,
-        "formatted_address": "364 Regents Park Rd, London N3 2LJ",
-        "google_maps_url": "https://maps.google.com/?cid=9022015715658228019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 42
       },
       "platforms": {
         "Google": {
@@ -2996,14 +2773,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.6008,
-      "lng": -0.194052,
-      "id": 256578,
-      "name": "Winkworth Finchley",
       "va": {
-        "overallRating": 3.89,
-        "totalReviews": 838,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 42,
@@ -3013,10 +2783,14 @@
             "reviews": 796,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.89,
+        "totalReviews": 838,
+        "replyRate": 0.0
       },
+      "id": 256578,
+      "name": "Winkworth Finchley",
       "totalReviews": 838,
-      "replyRate": 0.0,
       "googleScore": 3.9,
       "score": 62
     },
@@ -3065,11 +2839,7 @@
       "google": {
         "place_id": "ChIJofeRdNEDdkgRrkEWWnrEnGk",
         "rating": 4.9,
-        "user_rating_count": 270,
-        "formatted_address": "9 London Rd, London SE23 3TW",
-        "google_maps_url": "https://maps.google.com/?cid=7610173500125757870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 270
       },
       "platforms": {
         "Google": {
@@ -3081,14 +2851,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4389,
-      "lng": -0.054444,
-      "id": 256579,
-      "name": "Winkworth Forest Hill",
       "va": {
-        "overallRating": 4.07,
-        "totalReviews": 1024,
-        "replyRate": 51.85185185185185,
         "platforms": {
           "google": {
             "reviews": 192,
@@ -3098,10 +2861,14 @@
             "reviews": 832,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.07,
+        "totalReviews": 1024,
+        "replyRate": 51.85185185185185
       },
+      "id": 256579,
+      "name": "Winkworth Forest Hill",
       "totalReviews": 1024,
-      "replyRate": 51.85185185185185,
       "googleScore": 4.9,
       "score": 75
     },
@@ -3154,10 +2921,7 @@
       "google": {
         "place_id": "ChIJW2xP4roPdkgREuI-Flw6Y1E",
         "rating": 5.0,
-        "user_rating_count": 37,
-        "formatted_address": "190 Fulham Palace Rd, London W6 9PA",
-        "google_maps_url": "https://maps.google.com/?cid=5864595306951139858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85
+        "user_rating_count": 37
       },
       "platforms": {
         "Google": {
@@ -3169,14 +2933,7 @@
           "rating": 3.73
         }
       },
-      "lat": 51.4848,
-      "lng": -0.220411,
-      "id": 256612,
-      "name": "Winkworth Fulham & Barons Court",
       "va": {
-        "overallRating": 3.97,
-        "totalReviews": 199,
-        "replyRate": 75.0,
         "platforms": {
           "google": {
             "reviews": 39,
@@ -3186,10 +2943,14 @@
             "reviews": 160,
             "score": 3.73
           }
-        }
+        },
+        "overallRating": 3.97,
+        "totalReviews": 199,
+        "replyRate": 75.0
       },
+      "id": 256612,
+      "name": "Winkworth Fulham & Barons Court",
       "totalReviews": 199,
-      "replyRate": 75.0,
       "googleScore": 5.0,
       "score": 62
     },
@@ -3210,7 +2971,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T17:02:21.247000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 906,
       "reviews_30d": 0,
       "reviews_90d": 15,
@@ -3225,7 +2986,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ],
         [
           "AMBER",
@@ -3237,10 +2998,7 @@
       "google": {
         "place_id": "ChIJndKj65sQdkgRBWjO2LbuRhM",
         "rating": 4.2,
-        "user_rating_count": 82,
-        "formatted_address": "891 Finchley Rd, London NW11 8RR",
-        "google_maps_url": "https://maps.google.com/?cid=1389060004179240965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 82
       },
       "platforms": {
         "Google": {
@@ -3252,14 +3010,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5712,
-      "lng": -0.195674,
-      "id": 256580,
-      "name": "Winkworth Golders Green",
       "va": {
-        "overallRating": 3.92,
-        "totalReviews": 906,
-        "replyRate": 80.0,
         "platforms": {
           "google": {
             "reviews": 82,
@@ -3269,10 +3020,14 @@
             "reviews": 824,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.92,
+        "totalReviews": 906,
+        "replyRate": 80.0
       },
+      "id": 256580,
+      "name": "Winkworth Golders Green",
       "totalReviews": 906,
-      "replyRate": 80.0,
       "googleScore": 4.2,
       "score": 64
     },
@@ -3307,7 +3062,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 587d"
         ],
         [
@@ -3320,10 +3075,7 @@
       "google": {
         "place_id": "ChIJxbsjU1QweEgRuFxfzK8zUNw",
         "rating": 3.9,
-        "user_rating_count": 61,
-        "formatted_address": "4 Finkin St, Grantham NG31 6QZ",
-        "google_maps_url": "https://maps.google.com/?cid=15875245516622093496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 61
       },
       "platforms": {
         "Google": {
@@ -3331,23 +3083,20 @@
           "rating": 3.84
         }
       },
-      "lat": 52.912464,
-      "lng": -0.641326,
-      "id": 10508,
-      "name": "Winkworth Grantham",
       "va": {
-        "overallRating": 3.84,
-        "totalReviews": 89,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 89,
             "score": 3.84
           }
-        }
+        },
+        "overallRating": 3.84,
+        "totalReviews": 89,
+        "replyRate": null
       },
+      "id": 10508,
+      "name": "Winkworth Grantham",
       "totalReviews": 89,
-      "replyRate": null,
       "googleScore": 3.9,
       "score": 64
     },
@@ -3396,10 +3145,7 @@
       "google": {
         "place_id": "ChIJseWBwIUCdkgROyUkULG0Hd8",
         "rating": 4.8,
-        "user_rating_count": 249,
-        "formatted_address": "279, 283 Greenwich High Rd, London SE10 8NB",
-        "google_maps_url": "https://maps.google.com/?cid=16077204918429295931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 249
       },
       "platforms": {
         "Google": {
@@ -3411,14 +3157,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.479,
-      "lng": -0.011287,
-      "id": 256581,
-      "name": "Winkworth Greenwich",
       "va": {
-        "overallRating": 4.1,
-        "totalReviews": 1041,
-        "replyRate": 70.0,
         "platforms": {
           "google": {
             "reviews": 223,
@@ -3428,10 +3167,14 @@
             "reviews": 818,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 4.1,
+        "totalReviews": 1041,
+        "replyRate": 70.0
       },
+      "id": 256581,
+      "name": "Winkworth Greenwich",
       "totalReviews": 1041,
-      "replyRate": 70.0,
       "googleScore": 4.8,
       "score": 75
     },
@@ -3475,11 +3218,7 @@
       "google": {
         "place_id": "ChIJ3z_kCfwcdkgRYCdiYOanJnA",
         "rating": 4.9,
-        "user_rating_count": 213,
-        "formatted_address": "17 Lower Clapton Rd, Lower Clapton, London E5 0NS",
-        "google_maps_url": "https://maps.google.com/?cid=8081331189264295776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 213
       },
       "platforms": {
         "Google": {
@@ -3491,14 +3230,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.5509,
-      "lng": -0.052781,
-      "id": 256582,
-      "name": "Winkworth Hackney",
       "va": {
-        "overallRating": 4.09,
-        "totalReviews": 1025,
-        "replyRate": 93.10344827586206,
         "platforms": {
           "google": {
             "reviews": 190,
@@ -3508,10 +3240,14 @@
             "reviews": 835,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 4.08,
+        "totalReviews": 1025,
+        "replyRate": 93.10344827586206
       },
+      "id": 256582,
+      "name": "Winkworth Hackney",
       "totalReviews": 1025,
-      "replyRate": 93.10344827586206,
       "googleScore": 4.9,
       "score": 75
     },
@@ -3533,7 +3269,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 1089,
       "reviews_30d": 0,
       "reviews_90d": 15,
@@ -3548,7 +3284,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -3560,10 +3296,7 @@
       "google": {
         "place_id": "ChIJW8-DPcYPdkgRx3_ZlDzUPhQ",
         "rating": 4.8,
-        "user_rating_count": 137,
-        "formatted_address": "129 Shepherds Bush Rd, Brook Grn, London W6 7LP",
-        "google_maps_url": "https://maps.google.com/?cid=1458836685975027655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 137
       },
       "platforms": {
         "Trustpilot": {
@@ -3575,27 +3308,24 @@
           "rating": 4.8
         }
       },
-      "lat": 51.4977,
-      "lng": -0.222316,
-      "id": 257354,
-      "name": "Winkworth Hammersmith",
       "va": {
-        "overallRating": 4.02,
-        "totalReviews": 949,
-        "replyRate": 60.0,
         "platforms": {
-          "google": {
-            "reviews": 134,
-            "score": 4.8
-          },
           "trustpilot": {
             "reviews": 815,
             "score": 3.89
+          },
+          "google": {
+            "reviews": 134,
+            "score": 4.8
           }
-        }
+        },
+        "overallRating": 4.02,
+        "totalReviews": 949,
+        "replyRate": 60.0
       },
+      "id": 257354,
+      "name": "Winkworth Hammersmith",
       "totalReviews": 949,
-      "replyRate": 60.0,
       "googleScore": 4.8,
       "score": 72
     },
@@ -3643,10 +3373,7 @@
       "google": {
         "place_id": "ChIJBeJgcvQbdkgRBe0rDC2VrUk",
         "rating": 4.6,
-        "user_rating_count": 273,
-        "formatted_address": "10-11 Grand Parade, Green Lanes, Harringay Ladder, London N4 1JX",
-        "google_maps_url": "https://maps.google.com/?cid=5309063556449955077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 273
       },
       "platforms": {
         "Google": {
@@ -3658,14 +3385,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5819,
-      "lng": -0.099392,
-      "id": 256583,
-      "name": "Winkworth Harringay",
       "va": {
-        "overallRating": 4.04,
-        "totalReviews": 1045,
-        "replyRate": 58.82352941176471,
         "platforms": {
           "google": {
             "reviews": 221,
@@ -3675,10 +3395,14 @@
             "reviews": 824,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 4.04,
+        "totalReviews": 1045,
+        "replyRate": 58.82352941176471
       },
+      "id": 256583,
+      "name": "Winkworth Harringay",
       "totalReviews": 1045,
-      "replyRate": 58.82352941176471,
       "googleScore": 4.6,
       "score": 72
     },
@@ -3699,7 +3423,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-06T16:35:23.803000",
-      "days_since_review": 43,
+      "days_since_review": 44,
       "total_reviews": 304,
       "reviews_30d": 0,
       "reviews_90d": 4,
@@ -3714,7 +3438,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 43d"
+          "No review for 44d"
         ],
         [
           "RED",
@@ -3726,10 +3450,7 @@
       "google": {
         "place_id": "ChIJzf2RR3YTdkgRxDO4qlaFpWQ",
         "rating": 4.7,
-        "user_rating_count": 377,
-        "formatted_address": "7 Central Parade, Station Rd, Harrow HA1 2TW",
-        "google_maps_url": "https://maps.google.com/?cid=7252349382227932100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 377
       },
       "platforms": {
         "Google": {
@@ -3737,23 +3458,20 @@
           "rating": 4.68
         }
       },
-      "lat": 51.5846,
-      "lng": -0.33254,
-      "id": 6612,
-      "name": "Winkworth Harrow",
       "va": {
-        "overallRating": 4.68,
-        "totalReviews": 304,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 304,
             "score": 4.68
           }
-        }
+        },
+        "overallRating": 4.68,
+        "totalReviews": 304,
+        "replyRate": 0.0
       },
+      "id": 6612,
+      "name": "Winkworth Harrow",
       "totalReviews": 304,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 70
     },
@@ -3802,10 +3520,7 @@
       "google": {
         "place_id": "ChIJJ2vcTMQQdkgRyg_tqPZWpv0",
         "rating": 4.6,
-        "user_rating_count": 95,
-        "formatted_address": "49 Brent St, London NW4 2EA",
-        "google_maps_url": "https://maps.google.com/?cid=18277391755125788618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 95
       },
       "platforms": {
         "Google": {
@@ -3817,14 +3532,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.586,
-      "lng": -0.220386,
-      "id": 256584,
-      "name": "Winkworth Hendon",
       "va": {
-        "overallRating": 3.95,
-        "totalReviews": 882,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 87,
@@ -3834,10 +3542,14 @@
             "reviews": 795,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.95,
+        "totalReviews": 882,
+        "replyRate": 0.0
       },
+      "id": 256584,
+      "name": "Winkworth Hendon",
       "totalReviews": 882,
-      "replyRate": 0.0,
       "googleScore": 4.6,
       "score": 72
     },
@@ -3886,10 +3598,7 @@
       "google": {
         "place_id": "ChIJuzFxJXMEdkgR1mMxHTKcm-8",
         "rating": 4.6,
-        "user_rating_count": 114,
-        "formatted_address": "236 Railton Rd, London SE24 0JT",
-        "google_maps_url": "https://maps.google.com/?cid=17265565335507002326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 114
       },
       "platforms": {
         "Google": {
@@ -3901,14 +3610,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.453,
-      "lng": -0.102634,
-      "id": 256585,
-      "name": "Winkworth Herne Hill",
       "va": {
-        "overallRating": 3.95,
-        "totalReviews": 911,
-        "replyRate": 35.13513513513514,
         "platforms": {
           "google": {
             "reviews": 87,
@@ -3918,10 +3620,14 @@
             "reviews": 824,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.95,
+        "totalReviews": 911,
+        "replyRate": 35.13513513513514
       },
+      "id": 256585,
+      "name": "Winkworth Herne Hill",
       "totalReviews": 911,
-      "replyRate": 35.13513513513514,
       "googleScore": 4.6,
       "score": 72
     },
@@ -3965,10 +3671,7 @@
       "google": {
         "place_id": "ChIJR65G24EbdkgR8KY89sJB4Ww",
         "rating": 4.8,
-        "user_rating_count": 240,
-        "formatted_address": "106 Highbury Park, London N5 2XE",
-        "google_maps_url": "https://maps.google.com/?cid=7845624331466745584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 240
       },
       "platforms": {
         "Google": {
@@ -3980,14 +3683,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5576,
-      "lng": -0.098051,
-      "id": 256586,
-      "name": "Winkworth Highbury",
       "va": {
-        "overallRating": 4.06,
-        "totalReviews": 998,
-        "replyRate": 88.67924528301887,
         "platforms": {
           "google": {
             "reviews": 179,
@@ -3997,10 +3693,14 @@
             "reviews": 819,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.06,
+        "totalReviews": 998,
+        "replyRate": 88.67924528301887
       },
+      "id": 256586,
+      "name": "Winkworth Highbury",
       "totalReviews": 998,
-      "replyRate": 88.67924528301887,
       "googleScore": 4.8,
       "score": 75
     },
@@ -4021,7 +3721,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-17T16:13:25.217000",
-      "days_since_review": 32,
+      "days_since_review": 33,
       "total_reviews": 135,
       "reviews_30d": 0,
       "reviews_90d": 6,
@@ -4036,7 +3736,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 32d"
+          "No review for 33d"
         ],
         [
           "RED",
@@ -4048,10 +3748,7 @@
       "google": {
         "place_id": "ChIJx5makZmcc0gRzn1U82p0ReQ",
         "rating": 4.9,
-        "user_rating_count": 127,
-        "formatted_address": "279 Lymington Rd, Highcliffe, Christchurch BH23 5EB",
-        "google_maps_url": "https://maps.google.com/?cid=16448681216738360782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 127
       },
       "platforms": {
         "Facebook": {
@@ -4063,27 +3760,24 @@
           "rating": 4.93
         }
       },
-      "lat": 50.740964,
-      "lng": -1.701386,
-      "id": 1126,
-      "name": "Winkworth Highcliffe",
       "va": {
-        "overallRating": 4.93,
-        "totalReviews": 135,
-        "replyRate": 16.666666666666664,
         "platforms": {
-          "google": {
-            "reviews": 132,
-            "score": 4.93
-          },
           "facebook": {
             "reviews": 3,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 132,
+            "score": 4.93
           }
-        }
+        },
+        "overallRating": 4.93,
+        "totalReviews": 135,
+        "replyRate": 16.666666666666664
       },
+      "id": 1126,
+      "name": "Winkworth Highcliffe",
       "totalReviews": 135,
-      "replyRate": 16.666666666666664,
       "googleScore": 4.9,
       "score": 79
     },
@@ -4137,10 +3831,7 @@
       "google": {
         "place_id": "ChIJh7suKUwadkgRerxygN0QNr4",
         "rating": 4.6,
-        "user_rating_count": 33,
-        "formatted_address": "36 Highgate High St, London N6 5JG",
-        "google_maps_url": "https://maps.google.com/?cid=13706161059477503098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 33
       },
       "platforms": {
         "Google": {
@@ -4152,14 +3843,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5706,
-      "lng": -0.146571,
-      "id": 256587,
-      "name": "Winkworth Highgate",
       "va": {
-        "overallRating": 3.92,
-        "totalReviews": 853,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 31,
@@ -4169,10 +3853,14 @@
             "reviews": 822,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.92,
+        "totalReviews": 853,
+        "replyRate": 0.0
       },
+      "id": 256587,
+      "name": "Winkworth Highgate",
       "totalReviews": 853,
-      "replyRate": 0.0,
       "googleScore": 4.6,
       "score": 67
     },
@@ -4193,7 +3881,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-01-14T17:05:03",
-      "days_since_review": 125,
+      "days_since_review": 126,
       "total_reviews": 1015,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4207,18 +3895,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 125d"
+          "no_review_90d",
+          "No review for 126d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJ-Z8KimcbdkgRRdCAeQI-8Uk",
         "rating": 4.7,
-        "user_rating_count": 312,
-        "formatted_address": "65 Upper St, London N1 0NY",
-        "google_maps_url": "https://maps.google.com/?cid=5328108014505349189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 312
       },
       "platforms": {
         "Google": {
@@ -4230,14 +3915,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.5359,
-      "lng": -0.103976,
-      "id": 257355,
-      "name": "Winkworth Islington",
       "va": {
-        "overallRating": 4.05,
-        "totalReviews": 1015,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 219,
@@ -4247,10 +3925,14 @@
             "reviews": 796,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 4.05,
+        "totalReviews": 1015,
+        "replyRate": null
       },
+      "id": 257355,
+      "name": "Winkworth Islington",
       "totalReviews": 1015,
-      "replyRate": null,
       "googleScore": 4.7,
       "score": 73
     },
@@ -4294,10 +3976,7 @@
       "google": {
         "place_id": "ChIJO3kAVJEEdkgR8tTb-Ce8pwE",
         "rating": 4.7,
-        "user_rating_count": 235,
-        "formatted_address": "299 Kennington Rd, London SE11 4QE",
-        "google_maps_url": "https://maps.google.com/?cid=119270795013510386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 235
       },
       "platforms": {
         "Google": {
@@ -4313,14 +3992,7 @@
           "rating": 1.0
         }
       },
-      "lat": 51.4876,
-      "lng": -0.110919,
-      "id": 256588,
-      "name": "Winkworth Kennington",
       "va": {
-        "overallRating": 4.07,
-        "totalReviews": 1046,
-        "replyRate": 89.47368421052632,
         "platforms": {
           "google": {
             "reviews": 211,
@@ -4334,10 +4006,14 @@
             "reviews": 1,
             "score": 1.0
           }
-        }
+        },
+        "overallRating": 4.08,
+        "totalReviews": 1046,
+        "replyRate": 89.47368421052632
       },
+      "id": 256588,
+      "name": "Winkworth Kennington",
       "totalReviews": 1046,
-      "replyRate": 89.47368421052632,
       "googleScore": 4.7,
       "score": 75
     },
@@ -4385,10 +4061,7 @@
       "google": {
         "place_id": "ChIJGf02lDgQdkgRB89UojHJ9vo",
         "rating": 4.8,
-        "user_rating_count": 371,
-        "formatted_address": "2, Bridge House, Chamberlayne Rd, London NW10 3NR",
-        "google_maps_url": "https://maps.google.com/?cid=18083862568766852871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 371
       },
       "platforms": {
         "Google": {
@@ -4400,14 +4073,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5347,
-      "lng": -0.219334,
-      "id": 256589,
-      "name": "Winkworth Kensal Rise & Queen's Park",
       "va": {
-        "overallRating": 4.12,
-        "totalReviews": 1068,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 243,
@@ -4417,10 +4083,14 @@
             "reviews": 825,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.12,
+        "totalReviews": 1068,
+        "replyRate": 0.0
       },
+      "id": 256589,
+      "name": "Winkworth Kensal Rise & Queen's Park",
       "totalReviews": 1068,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 72
     },
@@ -4469,10 +4139,7 @@
       "google": {
         "place_id": "ChIJOWXSLPoPdkgRlhPJCZ-PhFM",
         "rating": 4.9,
-        "user_rating_count": 63,
-        "formatted_address": "118 Kensington Church St, London W8 4BH",
-        "google_maps_url": "https://maps.google.com/?cid=6018092915300570006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 63
       },
       "platforms": {
         "Google": {
@@ -4484,14 +4151,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.507,
-      "lng": -0.194403,
-      "id": 256590,
-      "name": "Winkworth Kensington",
       "va": {
-        "overallRating": 3.97,
-        "totalReviews": 902,
-        "replyRate": 84.61538461538461,
         "platforms": {
           "google": {
             "reviews": 67,
@@ -4501,10 +4161,14 @@
             "reviews": 835,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.97,
+        "totalReviews": 902,
+        "replyRate": 84.61538461538461
       },
+      "id": 256590,
+      "name": "Winkworth Kensington",
       "totalReviews": 902,
-      "replyRate": 84.61538461538461,
       "googleScore": 4.9,
       "score": 65
     },
@@ -4526,7 +4190,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-17T17:58:33.567000",
-      "days_since_review": 91,
+      "days_since_review": 92,
       "total_reviews": 1040,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4540,8 +4204,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 91d"
+          "no_review_90d",
+          "No review for 92d"
         ],
         [
           "AMBER",
@@ -4553,10 +4217,7 @@
       "google": {
         "place_id": "ChIJv-QpAgIbdkgRfEWsp_87tIk",
         "rating": 4.3,
-        "user_rating_count": 115,
-        "formatted_address": "306 Kentish Town Rd, London NW5 2TH",
-        "google_maps_url": "https://maps.google.com/?cid=9922621848219829628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 115
       },
       "platforms": {
         "Google": {
@@ -4568,14 +4229,7 @@
           "rating": 3.88
         }
       },
-      "lat": 51.5516,
-      "lng": -0.140782,
-      "id": 256591,
-      "name": "Winkworth Kentish Town",
       "va": {
-        "overallRating": 3.94,
-        "totalReviews": 923,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 117,
@@ -4585,10 +4239,14 @@
             "reviews": 806,
             "score": 3.88
           }
-        }
+        },
+        "overallRating": 3.94,
+        "totalReviews": 923,
+        "replyRate": null
       },
+      "id": 256591,
+      "name": "Winkworth Kentish Town",
       "totalReviews": 923,
-      "replyRate": null,
       "googleScore": 4.3,
       "score": 65
     },
@@ -4637,10 +4295,7 @@
       "google": {
         "place_id": "ChIJw75tfFkRdkgROvT0LRYnUX0",
         "rating": 4.9,
-        "user_rating_count": 628,
-        "formatted_address": "505, 507 Kingsbury Rd, London NW9 9EG",
-        "google_maps_url": "https://maps.google.com/?cid=9030041704068346938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 628
       },
       "platforms": {
         "Google": {
@@ -4652,14 +4307,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5853,
-      "lng": -0.27749,
-      "id": 256592,
-      "name": "Winkworth Kingsbury",
       "va": {
-        "overallRating": 4.19,
-        "totalReviews": 1129,
-        "replyRate": 51.724137931034484,
         "platforms": {
           "google": {
             "reviews": 312,
@@ -4669,10 +4317,14 @@
             "reviews": 817,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.19,
+        "totalReviews": 1129,
+        "replyRate": 51.724137931034484
       },
+      "id": 256592,
+      "name": "Winkworth Kingsbury",
       "totalReviews": 1129,
-      "replyRate": 51.724137931034484,
       "googleScore": 4.9,
       "score": 76
     },
@@ -4694,7 +4346,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 870,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -4709,7 +4361,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -4726,10 +4378,7 @@
       "google": {
         "place_id": "ChIJQ4-Q3kEFdkgRpaXKPffuFDo",
         "rating": 4.9,
-        "user_rating_count": 27,
-        "formatted_address": "289 Brompton Rd, London SW3 2DY",
-        "google_maps_url": "https://maps.google.com/?cid=4185232699395057061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 27
       },
       "platforms": {
         "Google": {
@@ -4741,14 +4390,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4941,
-      "lng": -0.168553,
-      "id": 256593,
-      "name": "Winkworth Knightsbridge & Chelsea",
       "va": {
-        "overallRating": 3.93,
-        "totalReviews": 843,
-        "replyRate": 69.23076923076923,
         "platforms": {
           "google": {
             "reviews": 26,
@@ -4758,10 +4400,14 @@
             "reviews": 817,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.93,
+        "totalReviews": 843,
+        "replyRate": 69.23076923076923
       },
+      "id": 256593,
+      "name": "Winkworth Knightsbridge & Chelsea",
       "totalReviews": 843,
-      "replyRate": 69.23076923076923,
       "googleScore": 4.9,
       "score": 65
     },
@@ -4810,10 +4456,7 @@
       "google": {
         "place_id": "ChIJ4yn925MbdkgRKEIWSt7bWMY",
         "rating": 4.9,
-        "user_rating_count": 81,
-        "formatted_address": "211-213 Sutherland Ave, London W9 1RU",
-        "google_maps_url": "https://maps.google.com/?cid=14292415165232464424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 81
       },
       "platforms": {
         "Google": {
@@ -4825,14 +4468,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5279,
-      "lng": -0.181853,
-      "id": 256594,
-      "name": "Winkworth Maida Vale",
       "va": {
-        "overallRating": 3.99,
-        "totalReviews": 889,
-        "replyRate": 73.33333333333333,
         "platforms": {
           "google": {
             "reviews": 78,
@@ -4842,10 +4478,14 @@
             "reviews": 811,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.99,
+        "totalReviews": 889,
+        "replyRate": 73.33333333333333
       },
+      "id": 256594,
+      "name": "Winkworth Maida Vale",
       "totalReviews": 889,
-      "replyRate": 73.33333333333333,
       "googleScore": 4.9,
       "score": 72
     },
@@ -4866,7 +4506,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-13T17:43:08.907000",
-      "days_since_review": 95,
+      "days_since_review": 96,
       "total_reviews": 150,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4880,18 +4520,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 95d"
+          "no_review_90d",
+          "No review for 96d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJHRe5vMb1d0gRcAMIXtzb8uw",
         "rating": 4.9,
-        "user_rating_count": 101,
-        "formatted_address": "5 High St, Market Deeping, Peterborough PE6 8ED",
-        "google_maps_url": "https://maps.google.com/?cid=17073950876831843184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 101
       },
       "platforms": {
         "Facebook": {
@@ -4903,27 +4540,24 @@
           "rating": 4.88
         }
       },
-      "lat": 52.674599,
-      "lng": -0.313528,
-      "id": 11982,
-      "name": "Winkworth Market Deeping",
       "va": {
-        "overallRating": 4.92,
-        "totalReviews": 150,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 105,
-            "score": 4.88
-          },
           "facebook": {
             "reviews": 45,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 105,
+            "score": 4.88
           }
-        }
+        },
+        "overallRating": 4.91,
+        "totalReviews": 150,
+        "replyRate": null
       },
+      "id": 11982,
+      "name": "Winkworth Market Deeping",
       "totalReviews": 150,
-      "replyRate": null,
       "googleScore": 4.9,
       "score": 79
     },
@@ -4945,7 +4579,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2025-12-16T18:41:10.070000",
-      "days_since_review": 154,
+      "days_since_review": 155,
       "total_reviews": 46,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -4959,18 +4593,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 154d"
+          "no_review_90d",
+          "No review for 155d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJ6QgvVcODc0gRcjooQ07f5Ww",
         "rating": 4.7,
-        "user_rating_count": 43,
-        "formatted_address": "5 Church Hill, Milford on Sea, Lymington SO41 0QH",
-        "google_maps_url": "https://maps.google.com/?cid=7846923452990110322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.85
+        "user_rating_count": 43
       },
       "platforms": {
         "Facebook": {
@@ -4978,23 +4609,20 @@
           "rating": 3.0
         }
       },
-      "lat": 50.7259,
-      "lng": -1.58877,
-      "id": 259333,
-      "name": "Winkworth Milford-on-Sea",
       "va": {
-        "overallRating": 3.0,
-        "totalReviews": 2,
-        "replyRate": null,
         "platforms": {
           "facebook": {
             "reviews": 2,
             "score": 3.0
           }
-        }
+        },
+        "overallRating": 3.0,
+        "totalReviews": 2,
+        "replyRate": null
       },
+      "id": 259333,
+      "name": "Winkworth Milford-on-Sea",
       "totalReviews": 2,
-      "replyRate": null,
       "googleScore": 4.7,
       "score": 71
     },
@@ -5043,10 +4671,7 @@
       "google": {
         "place_id": "ChIJf_2K2v8CdkgRleGy2-wo6D0",
         "rating": 4.4,
-        "user_rating_count": 245,
-        "formatted_address": "157 New Cross Rd, London SE14 5DG",
-        "google_maps_url": "https://maps.google.com/?cid=4460860428673802645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 245
       },
       "platforms": {
         "Google": {
@@ -5062,14 +4687,7 @@
           "rating": 4.5
         }
       },
-      "lat": 51.4749,
-      "lng": -0.046357,
-      "id": 256595,
-      "name": "Winkworth New Cross",
       "va": {
-        "overallRating": 4.34,
-        "totalReviews": 268,
-        "replyRate": 60.71428571428571,
         "platforms": {
           "google": {
             "reviews": 210,
@@ -5083,10 +4701,14 @@
             "reviews": 4,
             "score": 4.5
           }
-        }
+        },
+        "overallRating": 4.33,
+        "totalReviews": 268,
+        "replyRate": 60.71428571428571
       },
+      "id": 256595,
+      "name": "Winkworth New Cross",
       "totalReviews": 268,
-      "replyRate": 60.71428571428571,
       "googleScore": 4.4,
       "score": 73
     },
@@ -5121,7 +4743,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 326d"
         ],
         [
@@ -5138,23 +4760,20 @@
           "rating": 5.0
         }
       },
-      "lat": 51.5083,
-      "lng": -0.132908,
-      "id": 254360,
-      "name": "Winkworth New Homes",
       "va": {
-        "overallRating": 5.0,
-        "totalReviews": 1,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 5.0,
+        "totalReviews": 1,
+        "replyRate": null
       },
+      "id": 254360,
+      "name": "Winkworth New Homes",
       "totalReviews": 1,
-      "replyRate": null,
       "score": 32
     },
     {
@@ -5174,7 +4793,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2023-03-31T18:59:15.900000",
-      "days_since_review": 1145,
+      "days_since_review": 1146,
       "total_reviews": 38,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -5188,8 +4807,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 1145d"
+          "no_review_90d",
+          "No review for 1146d"
         ],
         [
           "AMBER",
@@ -5201,10 +4820,7 @@
       "google": {
         "place_id": "ChIJPaH_Gi61eUgRiyM4KbgYuuI",
         "rating": 4.4,
-        "user_rating_count": 29,
-        "formatted_address": "4 Finkin St, Grantham NG31 6QZ",
-        "google_maps_url": "https://maps.google.com/?cid=16337397777484489611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75
+        "user_rating_count": 29
       },
       "platforms": {
         "Google": {
@@ -5216,14 +4832,7 @@
           "rating": 5.0
         }
       },
-      "lat": 53.076087,
-      "lng": -0.808088,
-      "id": 10468,
-      "name": "Winkworth Newark",
       "va": {
-        "overallRating": 4.53,
-        "totalReviews": 38,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 35,
@@ -5233,10 +4842,14 @@
             "reviews": 3,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.53,
+        "totalReviews": 38,
+        "replyRate": null
       },
+      "id": 10468,
+      "name": "Winkworth Newark",
       "totalReviews": 38,
-      "replyRate": null,
       "googleScore": 4.4,
       "score": 68
     },
@@ -5257,7 +4870,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-22T19:11:01.530000",
-      "days_since_review": 58,
+      "days_since_review": 59,
       "total_reviews": 204,
       "reviews_30d": 0,
       "reviews_90d": 3,
@@ -5272,7 +4885,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 58d"
+          "No review for 59d"
         ],
         [
           "RED",
@@ -5284,10 +4897,7 @@
       "google": {
         "place_id": "ChIJrSbasR-mdkgRs6fqbGGXLE8",
         "rating": 4.8,
-        "user_rating_count": 190,
-        "formatted_address": "43 Northbrook St, Newbury RG14 1DT",
-        "google_maps_url": "https://maps.google.com/?cid=5705101272666515379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 190
       },
       "platforms": {
         "Google": {
@@ -5295,23 +4905,20 @@
           "rating": 4.77
         }
       },
-      "lat": 51.404753,
-      "lng": -1.324395,
-      "id": 12705,
-      "name": "Winkworth Newbury",
       "va": {
-        "overallRating": 4.77,
-        "totalReviews": 204,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 204,
             "score": 4.77
           }
-        }
+        },
+        "overallRating": 4.77,
+        "totalReviews": 204,
+        "replyRate": 0.0
       },
+      "id": 12705,
+      "name": "Winkworth Newbury",
       "totalReviews": 204,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 77
     },
@@ -5333,7 +4940,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-10T18:41:59.500000",
-      "days_since_review": 39,
+      "days_since_review": 40,
       "total_reviews": 1191,
       "reviews_30d": 0,
       "reviews_90d": 36,
@@ -5348,7 +4955,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 39d"
+          "No review for 40d"
         ],
         [
           "RED",
@@ -5360,10 +4967,7 @@
       "google": {
         "place_id": "ChIJy7YFnx8QdkgRhsqcX7Iac4Q",
         "rating": 4.8,
-        "user_rating_count": 180,
-        "formatted_address": "141 Ladbroke Grove, London W10 6HJ",
-        "google_maps_url": "https://maps.google.com/?cid=9544001388738824838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 180
       },
       "platforms": {
         "Google": {
@@ -5375,14 +4979,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.5174,
-      "lng": -0.210263,
-      "id": 256596,
-      "name": "Winkworth North Kensington",
       "va": {
-        "overallRating": 4.07,
-        "totalReviews": 1007,
-        "replyRate": 33.33333333333333,
         "platforms": {
           "google": {
             "reviews": 175,
@@ -5392,10 +4989,14 @@
             "reviews": 832,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 4.06,
+        "totalReviews": 1007,
+        "replyRate": 33.33333333333333
       },
+      "id": 256596,
+      "name": "Winkworth North Kensington",
       "totalReviews": 1007,
-      "replyRate": 33.33333333333333,
       "googleScore": 4.8,
       "score": 75
     },
@@ -5416,7 +5017,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-12T17:23:21.027000",
-      "days_since_review": 37,
+      "days_since_review": 38,
       "total_reviews": 131,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -5431,7 +5032,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 37d"
+          "No review for 38d"
         ],
         [
           "RED",
@@ -5443,11 +5044,7 @@
       "google": {
         "place_id": "ChIJZfSbyd0Od0gRJJQwkNQPDSA",
         "rating": 4.7,
-        "user_rating_count": 102,
-        "formatted_address": "221 Wellingborough Rd, Northampton NN1 4EF",
-        "google_maps_url": "https://maps.google.com/?cid=2309519589537518628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 102
       },
       "platforms": {
         "Facebook": {
@@ -5459,27 +5056,24 @@
           "rating": 4.65
         }
       },
-      "lat": 52.236757,
-      "lng": -0.896391,
-      "id": 10586,
-      "name": "Winkworth Northampton",
       "va": {
-        "overallRating": 4.62,
-        "totalReviews": 131,
-        "replyRate": 0.0,
         "platforms": {
-          "google": {
-            "reviews": 119,
-            "score": 4.65
-          },
           "facebook": {
             "reviews": 12,
             "score": 4.33
+          },
+          "google": {
+            "reviews": 119,
+            "score": 4.65
           }
-        }
+        },
+        "overallRating": 4.62,
+        "totalReviews": 131,
+        "replyRate": 0.0
       },
+      "id": 10586,
+      "name": "Winkworth Northampton",
       "totalReviews": 131,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 74
     },
@@ -5527,11 +5121,7 @@
       "google": {
         "place_id": "ChIJZfSbyd0Od0gRJJQwkNQPDSA",
         "rating": 4.7,
-        "user_rating_count": 102,
-        "formatted_address": "221 Wellingborough Rd, Northampton NN1 4EF",
-        "google_maps_url": "https://maps.google.com/?cid=2309519589537518628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 102
       },
       "platforms": {
         "Google": {
@@ -5543,14 +5133,7 @@
           "rating": 3.9
         }
       },
-      "lat": 52.2421,
-      "lng": -0.877293,
-      "id": 258494,
-      "name": "Winkworth Northampton",
       "va": {
-        "overallRating": 3.99,
-        "totalReviews": 905,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 107,
@@ -5560,10 +5143,14 @@
             "reviews": 798,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.0,
+        "totalReviews": 905,
+        "replyRate": 0.0
       },
+      "id": 258494,
+      "name": "Winkworth Northampton",
       "totalReviews": 905,
-      "replyRate": 0.0,
       "googleScore": 4.7,
       "score": 72
     },
@@ -5585,7 +5172,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-16T18:05:10.113000",
-      "days_since_review": 33,
+      "days_since_review": 34,
       "total_reviews": 1044,
       "reviews_30d": 0,
       "reviews_90d": 37,
@@ -5600,17 +5187,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 33d"
+          "No review for 34d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJIbMlqeIPdkgRx3EfwD2mGUY",
         "rating": 4.9,
-        "user_rating_count": 103,
-        "formatted_address": "178 Westbourne Grove, London W11 2RH",
-        "google_maps_url": "https://maps.google.com/?cid=5051251241219224007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 103
       },
       "platforms": {
         "Google": {
@@ -5626,14 +5210,7 @@
           "rating": 1.0
         }
       },
-      "lat": 51.5145,
-      "lng": -0.200459,
-      "id": 256597,
-      "name": "Winkworth Notting Hill",
       "va": {
-        "overallRating": 4.0,
-        "totalReviews": 942,
-        "replyRate": 89.1891891891892,
         "platforms": {
           "google": {
             "reviews": 100,
@@ -5647,10 +5224,14 @@
             "reviews": 1,
             "score": 1.0
           }
-        }
+        },
+        "overallRating": 4.0,
+        "totalReviews": 942,
+        "replyRate": 89.1891891891892
       },
+      "id": 256597,
+      "name": "Winkworth Notting Hill",
       "totalReviews": 942,
-      "replyRate": 89.1891891891892,
       "googleScore": 4.9,
       "score": 73
     },
@@ -5671,7 +5252,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-13T11:58:00",
-      "days_since_review": 67,
+      "days_since_review": 68,
       "total_reviews": 860,
       "reviews_30d": 0,
       "reviews_90d": 12,
@@ -5686,7 +5267,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 67d"
+          "No review for 68d"
         ],
         [
           "AMBER",
@@ -5706,14 +5287,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5118,
-      "lng": -0.183362,
-      "id": 256598,
-      "name": "Winkworth Paddington & Bayswater",
       "va": {
-        "overallRating": 3.94,
-        "totalReviews": 860,
-        "replyRate": 83.33333333333334,
         "platforms": {
           "google": {
             "reviews": 48,
@@ -5723,10 +5297,14 @@
             "reviews": 812,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.95,
+        "totalReviews": 860,
+        "replyRate": 83.33333333333334
       },
+      "id": 256598,
+      "name": "Winkworth Paddington & Bayswater",
       "totalReviews": 860,
-      "replyRate": 83.33333333333334,
       "score": 62
     },
     {
@@ -5746,7 +5324,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-23T17:13:05.987000",
-      "days_since_review": 57,
+      "days_since_review": 58,
       "total_reviews": 260,
       "reviews_30d": 0,
       "reviews_90d": 5,
@@ -5761,17 +5339,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 57d"
+          "No review for 58d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJKX3T7EcZdkgRm1wEi-tBVrU",
         "rating": 4.8,
-        "user_rating_count": 183,
-        "formatted_address": "393 Green Lanes, London N13 4JG",
-        "google_maps_url": "https://maps.google.com/?cid=13066703848767511707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 183
       },
       "platforms": {
         "View Agents": {
@@ -5787,31 +5362,28 @@
           "rating": 4.82
         }
       },
-      "lat": 51.619327,
-      "lng": -0.107549,
-      "id": 9769,
-      "name": "Winkworth Palmers Green",
       "va": {
-        "overallRating": 4.84,
-        "totalReviews": 260,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 189,
-            "score": 4.82
+          "viewagents": {
+            "reviews": 60,
+            "score": 4.87
           },
           "facebook": {
             "reviews": 11,
             "score": 5.0
           },
-          "viewagents": {
-            "reviews": 60,
-            "score": 4.87
+          "google": {
+            "reviews": 189,
+            "score": 4.82
           }
-        }
+        },
+        "overallRating": 4.87,
+        "totalReviews": 260,
+        "replyRate": 100.0
       },
+      "id": 9769,
+      "name": "Winkworth Palmers Green",
       "totalReviews": 260,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 80
     },
@@ -5860,10 +5432,7 @@
       "google": {
         "place_id": "ChIJg6WSoYIPdkgR_xhYT9XXApo",
         "rating": 4.8,
-        "user_rating_count": 239,
-        "formatted_address": "40 New Kings Rd, London SW6 4ST",
-        "google_maps_url": "https://maps.google.com/?cid=11097669742953502975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.05
+        "user_rating_count": 239
       },
       "platforms": {
         "Google": {
@@ -5875,14 +5444,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4733,
-      "lng": -0.198094,
-      "id": 256599,
-      "name": "Winkworth Parsons Green",
       "va": {
-        "overallRating": 4.07,
-        "totalReviews": 1014,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 189,
@@ -5892,10 +5454,14 @@
             "reviews": 825,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.07,
+        "totalReviews": 1014,
+        "replyRate": 0.0
       },
+      "id": 256599,
+      "name": "Winkworth Parsons Green",
       "totalReviews": 1014,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 72
     },
@@ -5918,7 +5484,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-16T18:39:46.130000",
-      "days_since_review": 92,
+      "days_since_review": 93,
       "total_reviews": 995,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -5932,19 +5498,15 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 92d"
+          "no_review_90d",
+          "No review for 93d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJdTjupP5HdEgRj9OUYrrtV5Q",
         "rating": 5.0,
-        "user_rating_count": 90,
-        "formatted_address": "26 High St, Petersfield GU32 3JL",
-        "google_maps_url": "https://maps.google.com/?cid=10689273625360782223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 90
       },
       "platforms": {
         "Trustpilot": {
@@ -5952,23 +5514,20 @@
           "rating": 3.9
         }
       },
-      "lat": 51.004,
-      "lng": -0.935225,
-      "id": 259347,
-      "name": "Winkworth Petersfield",
       "va": {
-        "overallRating": 3.9,
-        "totalReviews": 806,
-        "replyRate": null,
         "platforms": {
           "trustpilot": {
             "reviews": 806,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.9,
+        "totalReviews": 806,
+        "replyRate": null
       },
+      "id": 259347,
+      "name": "Winkworth Petersfield",
       "totalReviews": 806,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 78
     },
@@ -6012,10 +5571,7 @@
       "google": {
         "place_id": "ChIJx7H68ssFdkgRF4uI8ucCGrs",
         "rating": 4.7,
-        "user_rating_count": 129,
-        "formatted_address": "31 Belgrave Rd, Pimlico, London SW1V 1RB",
-        "google_maps_url": "https://maps.google.com/?cid=13482091629716736791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 129
       },
       "platforms": {
         "Google": {
@@ -6027,14 +5583,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4924,
-      "lng": -0.141766,
-      "id": 257356,
-      "name": "Winkworth Pimlico",
       "va": {
-        "overallRating": 4.01,
-        "totalReviews": 968,
-        "replyRate": 90.9090909090909,
         "platforms": {
           "google": {
             "reviews": 128,
@@ -6044,10 +5593,14 @@
             "reviews": 840,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.01,
+        "totalReviews": 968,
+        "replyRate": 90.9090909090909
       },
+      "id": 257356,
+      "name": "Winkworth Pimlico",
       "totalReviews": 968,
-      "replyRate": 90.9090909090909,
       "googleScore": 4.7,
       "score": 75
     },
@@ -6100,10 +5653,7 @@
       "google": {
         "place_id": "ChIJG9effROhc0gR0psSHHZo4Wc",
         "rating": 5.0,
-        "user_rating_count": 57,
-        "formatted_address": "135 Penn Hill Ave, Parkstone, Lower, Poole BH14 9LY",
-        "google_maps_url": "https://maps.google.com/?cid=7485378912152886226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 57
       },
       "platforms": {
         "Google": {
@@ -6111,23 +5661,20 @@
           "rating": 4.9
         }
       },
-      "lat": 50.72315,
-      "lng": -1.928917,
-      "id": 1044,
-      "name": "Winkworth Poole",
       "va": {
-        "overallRating": 4.9,
-        "totalReviews": 63,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 63,
             "score": 4.9
           }
-        }
+        },
+        "overallRating": 4.9,
+        "totalReviews": 63,
+        "replyRate": 0.0
       },
+      "id": 1044,
+      "name": "Winkworth Poole",
       "totalReviews": 63,
-      "replyRate": 0.0,
       "googleScore": 5.0,
       "score": 53
     },
@@ -6162,7 +5709,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 376d"
         ],
         [
@@ -6175,10 +5722,7 @@
       "google": {
         "place_id": "ChIJe-CNyUyOcUgRJ7u8BXTL_Sk",
         "rating": 5.0,
-        "user_rating_count": 2,
-        "formatted_address": "Bristol BS5 8AQ, UK",
-        "google_maps_url": "https://maps.google.com/?cid=3025798223835740967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 2
       },
       "platforms": {
         "Google": {
@@ -6186,23 +5730,20 @@
           "rating": 3.63
         }
       },
-      "lat": 51.459875,
-      "lng": -2.547339,
-      "id": 22199,
-      "name": "Winkworth Properties",
       "va": {
-        "overallRating": 3.63,
-        "totalReviews": 19,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 19,
             "score": 3.63
           }
-        }
+        },
+        "overallRating": 3.63,
+        "totalReviews": 19,
+        "replyRate": null
       },
+      "id": 22199,
+      "name": "Winkworth Properties",
       "totalReviews": 19,
-      "replyRate": null,
       "googleScore": 5.0,
       "score": 38
     },
@@ -6251,10 +5792,7 @@
       "google": {
         "place_id": "ChIJxZymIxIPdkgRlgRVqhmlwzA",
         "rating": 4.8,
-        "user_rating_count": 96,
-        "formatted_address": "196 Upper Richmond Rd, London SW15 2SH",
-        "google_maps_url": "https://maps.google.com/?cid=3513833663929582742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 96
       },
       "platforms": {
         "Google": {
@@ -6266,14 +5804,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.4607,
-      "lng": -0.215825,
-      "id": 256600,
-      "name": "Winkworth Putney",
       "va": {
-        "overallRating": 3.99,
-        "totalReviews": 880,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 96,
@@ -6283,10 +5814,14 @@
             "reviews": 784,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.99,
+        "totalReviews": 880,
+        "replyRate": 0.0
       },
+      "id": 256600,
+      "name": "Winkworth Putney",
       "totalReviews": 880,
-      "replyRate": 0.0,
       "googleScore": 4.8,
       "score": 70
     },
@@ -6308,7 +5843,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-05-12T12:41:21.363000",
-      "days_since_review": 7,
+      "days_since_review": 8,
       "total_reviews": 1833,
       "reviews_30d": 11,
       "reviews_90d": 35,
@@ -6330,11 +5865,7 @@
       "google": {
         "place_id": "ChIJg8vM6BebdkgRX-_l2_9cR68",
         "rating": 4.6,
-        "user_rating_count": 674,
-        "formatted_address": "Blagrave House, 17 Blagrave St, Reading RG1 1QB",
-        "google_maps_url": "https://maps.google.com/?cid=12630165933959540575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 674
       },
       "platforms": {
         "Google": {
@@ -6346,14 +5877,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4572,
-      "lng": -0.970574,
-      "id": 258372,
-      "name": "Winkworth Reading",
       "va": {
-        "overallRating": 4.09,
-        "totalReviews": 1097,
-        "replyRate": 34.285714285714285,
         "platforms": {
           "google": {
             "reviews": 304,
@@ -6363,10 +5887,14 @@
             "reviews": 793,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.09,
+        "totalReviews": 1097,
+        "replyRate": 34.285714285714285
       },
+      "id": 258372,
+      "name": "Winkworth Reading",
       "totalReviews": 1097,
-      "replyRate": 34.285714285714285,
       "googleScore": 4.6,
       "score": 82
     },
@@ -6387,7 +5915,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-13T18:28:39.050000",
-      "days_since_review": 67,
+      "days_since_review": 68,
       "total_reviews": 84,
       "reviews_30d": 0,
       "reviews_90d": 1,
@@ -6402,17 +5930,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 67d"
+          "No review for 68d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJi2DpAqeKc0gRuK05-OAu3rc",
         "rating": 4.6,
-        "user_rating_count": 65,
-        "formatted_address": "18 Market Pl, Romsey SO51 8NA",
-        "google_maps_url": "https://maps.google.com/?cid=13249078697542659512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 65
       },
       "platforms": {
         "Facebook": {
@@ -6428,31 +5953,28 @@
           "rating": 1.0
         }
       },
-      "lat": 50.989103,
-      "lng": -1.499236,
-      "id": 14835,
-      "name": "Winkworth Romsey",
       "va": {
-        "overallRating": 4.19,
-        "totalReviews": 84,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 79,
-            "score": 4.34
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 79,
+            "score": 4.34
           },
           "yell": {
             "reviews": 4,
             "score": 1.0
           }
-        }
+        },
+        "overallRating": 4.19,
+        "totalReviews": 84,
+        "replyRate": 100.0
       },
+      "id": 14835,
+      "name": "Winkworth Romsey",
       "totalReviews": 84,
-      "replyRate": 100.0,
       "googleScore": 4.6,
       "score": 75
     },
@@ -6473,7 +5995,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-02-16T18:47:08.953000",
-      "days_since_review": 92,
+      "days_since_review": 93,
       "total_reviews": 36,
       "reviews_30d": 0,
       "reviews_90d": 0,
@@ -6487,8 +6009,8 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
-          "No review for 92d"
+          "no_review_90d",
+          "No review for 93d"
         ],
         [
           "AMBER",
@@ -6500,10 +6022,7 @@
       "google": {
         "place_id": "ChIJMfCyx8JTcUgRwSnH-9_chZE",
         "rating": 4.7,
-        "user_rating_count": 38,
-        "formatted_address": "97 High St, Marlborough SN8 1HD",
-        "google_maps_url": "https://maps.google.com/?cid=10486030161962019265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 38
       },
       "platforms": {
         "Google": {
@@ -6511,23 +6030,20 @@
           "rating": 4.72
         }
       },
-      "lat": 51.419,
-      "lng": -1.73354,
-      "id": 254361,
-      "name": "Winkworth Salisbury and Marlborough",
       "va": {
-        "overallRating": 4.72,
-        "totalReviews": 36,
-        "replyRate": null,
         "platforms": {
           "google": {
             "reviews": 36,
             "score": 4.72
           }
-        }
+        },
+        "overallRating": 4.72,
+        "totalReviews": 36,
+        "replyRate": null
       },
+      "id": 254361,
+      "name": "Winkworth Salisbury and Marlborough",
       "totalReviews": 36,
-      "replyRate": null,
       "googleScore": 4.7,
       "score": 67
     },
@@ -6549,7 +6065,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-20T16:52:34",
-      "days_since_review": 60,
+      "days_since_review": 61,
       "total_reviews": 1342,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -6564,7 +6080,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 60d"
+          "No review for 61d"
         ],
         [
           "AMBER",
@@ -6576,10 +6092,7 @@
       "google": {
         "place_id": "ChIJWbWL5dIPdkgRt-23F2FcEw8",
         "rating": 4.5,
-        "user_rating_count": 332,
-        "formatted_address": "97 Uxbridge Rd, London W12 8NL",
-        "google_maps_url": "https://maps.google.com/?cid=1086313507205934519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 332
       },
       "platforms": {
         "Google": {
@@ -6591,14 +6104,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5062,
-      "lng": -0.233165,
-      "id": 256601,
-      "name": "Winkworth Shepherd's Bush",
       "va": {
-        "overallRating": 4.04,
-        "totalReviews": 1018,
-        "replyRate": 69.23076923076923,
         "platforms": {
           "google": {
             "reviews": 225,
@@ -6608,10 +6114,14 @@
             "reviews": 793,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.04,
+        "totalReviews": 1018,
+        "replyRate": 69.23076923076923
       },
+      "id": 256601,
+      "name": "Winkworth Shepherd's Bush",
       "totalReviews": 1018,
-      "replyRate": 69.23076923076923,
       "googleScore": 4.5,
       "score": 76
     },
@@ -6656,11 +6166,7 @@
       "google": {
         "place_id": "ChIJwQFcwrccdkgRoqZY-zjdr0Y",
         "rating": 4.8,
-        "user_rating_count": 339,
-        "formatted_address": "184 Brick Ln, London E1 6SA",
-        "google_maps_url": "https://maps.google.com/?cid=5093532940384118434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 339
       },
       "platforms": {
         "Google": {
@@ -6672,14 +6178,7 @@
           "rating": 3.88
         }
       },
-      "lat": 51.5241,
-      "lng": -0.071411,
-      "id": 256602,
-      "name": "Winkworth Shoreditch",
       "va": {
-        "overallRating": 4.12,
-        "totalReviews": 1025,
-        "replyRate": 84.375,
         "platforms": {
           "google": {
             "reviews": 250,
@@ -6689,10 +6188,14 @@
             "reviews": 775,
             "score": 3.88
           }
-        }
+        },
+        "overallRating": 4.12,
+        "totalReviews": 1025,
+        "replyRate": 84.375
       },
+      "id": 256602,
+      "name": "Winkworth Shoreditch",
       "totalReviews": 1025,
-      "replyRate": 84.375,
       "googleScore": 4.8,
       "score": 76
     },
@@ -6714,7 +6217,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-09T18:40:10.147000",
-      "days_since_review": 40,
+      "days_since_review": 41,
       "total_reviews": 368,
       "reviews_30d": 0,
       "reviews_90d": 8,
@@ -6729,18 +6232,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 40d"
+          "No review for 41d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJRT1moDI-eEgRpfVwPxMtLi4",
         "rating": 4.6,
-        "user_rating_count": 170,
-        "formatted_address": "3 N Gate, Sleaford NG34 7BH",
-        "google_maps_url": "https://maps.google.com/?cid=3327646735365371301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 170
       },
       "platforms": {
         "Google": {
@@ -6752,14 +6251,7 @@
           "rating": 5.0
         }
       },
-      "lat": 52.999846,
-      "lng": -0.410708,
-      "id": 10511,
-      "name": "Winkworth Sleaford",
       "va": {
-        "overallRating": 4.63,
-        "totalReviews": 202,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 200,
@@ -6769,10 +6261,14 @@
             "reviews": 2,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.63,
+        "totalReviews": 202,
+        "replyRate": 100.0
       },
+      "id": 10511,
+      "name": "Winkworth Sleaford",
       "totalReviews": 202,
-      "replyRate": 100.0,
       "googleScore": 4.6,
       "score": 81
     },
@@ -6821,10 +6317,7 @@
       "google": {
         "place_id": "ChIJT2m-T2cFdkgRO3RjtQLd5qY",
         "rating": 4.6,
-        "user_rating_count": 73,
-        "formatted_address": "123a Gloucester Rd, South Kensington, London SW7 4TE",
-        "google_maps_url": "https://maps.google.com/?cid=12026542858642355259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 73
       },
       "platforms": {
         "Google": {
@@ -6836,14 +6329,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.4931,
-      "lng": -0.181381,
-      "id": 256603,
-      "name": "Winkworth South Kensington",
       "va": {
-        "overallRating": 3.95,
-        "totalReviews": 869,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 76,
@@ -6853,10 +6339,14 @@
             "reviews": 793,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 3.96,
+        "totalReviews": 869,
+        "replyRate": 0.0
       },
+      "id": 256603,
+      "name": "Winkworth South Kensington",
       "totalReviews": 869,
-      "replyRate": 0.0,
       "googleScore": 4.6,
       "score": 70
     },
@@ -6891,7 +6381,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 242d"
         ]
       ],
@@ -6899,10 +6389,7 @@
       "google": {
         "place_id": "ChIJFQG3DB-fc0gRCF4A9WjxTKk",
         "rating": 4.5,
-        "user_rating_count": 80,
-        "formatted_address": "29 Southbourne Grove, Southbourne, Bournemouth BH6 3QT",
-        "google_maps_url": "https://maps.google.com/?cid=12199390923729165832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 80
       },
       "platforms": {
         "Facebook": {
@@ -6914,27 +6401,24 @@
           "rating": 4.37
         }
       },
-      "lat": 50.726048,
-      "lng": -1.816125,
-      "id": 1183,
-      "name": "Winkworth Southbourne",
       "va": {
-        "overallRating": 4.56,
-        "totalReviews": 131,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 92,
-            "score": 4.37
-          },
           "facebook": {
             "reviews": 39,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 92,
+            "score": 4.37
           }
-        }
+        },
+        "overallRating": 4.56,
+        "totalReviews": 131,
+        "replyRate": null
       },
+      "id": 1183,
+      "name": "Winkworth Southbourne",
       "totalReviews": 131,
-      "replyRate": null,
       "googleScore": 4.5,
       "score": 78
     },
@@ -6983,11 +6467,7 @@
       "google": {
         "place_id": "ChIJIZ56l0YPdkgRyGGIXufvIDQ",
         "rating": 4.8,
-        "user_rating_count": 143,
-        "formatted_address": "241 Wimbledon Park Rd, London SW18 5RJ",
-        "google_maps_url": "https://maps.google.com/?cid=3756265866229473736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 143
       },
       "platforms": {
         "Google": {
@@ -6999,14 +6479,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4452,
-      "lng": -0.205882,
-      "id": 256604,
-      "name": "Winkworth Southfields",
       "va": {
-        "overallRating": 4.03,
-        "totalReviews": 978,
-        "replyRate": 72.72727272727273,
         "platforms": {
           "google": {
             "reviews": 145,
@@ -7016,10 +6489,14 @@
             "reviews": 833,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 4.03,
+        "totalReviews": 978,
+        "replyRate": 72.72727272727273
       },
+      "id": 256604,
+      "name": "Winkworth Southfields",
       "totalReviews": 978,
-      "replyRate": 72.72727272727273,
       "googleScore": 4.8,
       "score": 75
     },
@@ -7063,10 +6540,7 @@
       "google": {
         "place_id": "ChIJZ3Sj3L0adkgRnpEUnJ2Kux4",
         "rating": 4.9,
-        "user_rating_count": 108,
-        "formatted_address": "103-104 St John's Wood Terrace, London NW8 6PL",
-        "google_maps_url": "https://maps.google.com/?cid=2214516051315823006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 108
       },
       "platforms": {
         "Google": {
@@ -7078,14 +6552,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.5343,
-      "lng": -0.171101,
-      "id": 256605,
-      "name": "Winkworth St Johns Wood",
       "va": {
-        "overallRating": 4.02,
-        "totalReviews": 938,
-        "replyRate": 90.9090909090909,
         "platforms": {
           "google": {
             "reviews": 106,
@@ -7095,10 +6562,14 @@
             "reviews": 832,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 4.02,
+        "totalReviews": 938,
+        "replyRate": 90.9090909090909
       },
+      "id": 256605,
+      "name": "Winkworth St Johns Wood",
       "totalReviews": 938,
-      "replyRate": 90.9090909090909,
       "googleScore": 4.9,
       "score": 73
     },
@@ -7119,7 +6590,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-17T19:34:30.560000",
-      "days_since_review": 32,
+      "days_since_review": 33,
       "total_reviews": 165,
       "reviews_30d": 0,
       "reviews_90d": 27,
@@ -7134,7 +6605,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 32d"
+          "No review for 33d"
         ],
         [
           "RED",
@@ -7146,11 +6617,7 @@
       "google": {
         "place_id": "ChIJDUwQlSUEdkgRC45cZLoISpM",
         "rating": 4.9,
-        "user_rating_count": 224,
-        "formatted_address": "46-50 Streatham Hill, London SW2 4RD",
-        "google_maps_url": "https://maps.google.com/?cid=10613305068492721675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.75,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 224
       },
       "platforms": {
         "Google": {
@@ -7162,14 +6629,7 @@
           "rating": 5.0
         }
       },
-      "lat": 51.437606,
-      "lng": -0.127673,
-      "id": 15368,
-      "name": "Winkworth Streatham",
       "va": {
-        "overallRating": 4.7,
-        "totalReviews": 165,
-        "replyRate": 37.03703703703704,
         "platforms": {
           "google": {
             "reviews": 162,
@@ -7179,10 +6639,14 @@
             "reviews": 3,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.7,
+        "totalReviews": 165,
+        "replyRate": 37.03703703703704
       },
+      "id": 15368,
+      "name": "Winkworth Streatham",
       "totalReviews": 165,
-      "replyRate": 37.03703703703704,
       "googleScore": 4.9,
       "score": 80
     },
@@ -7231,11 +6695,7 @@
       "google": {
         "place_id": "ChIJDUwQlSUEdkgRC45cZLoISpM",
         "rating": 4.9,
-        "user_rating_count": 224,
-        "formatted_address": "46-50 Streatham Hill, London SW2 4RD",
-        "google_maps_url": "https://maps.google.com/?cid=10613305068492721675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 224
       },
       "platforms": {
         "Google": {
@@ -7247,14 +6707,7 @@
           "rating": 3.9
         }
       },
-      "lat": 51.4413,
-      "lng": -0.125291,
-      "id": 256606,
-      "name": "Winkworth Streatham",
       "va": {
-        "overallRating": 3.98,
-        "totalReviews": 922,
-        "replyRate": 7.6923076923076925,
         "platforms": {
           "google": {
             "reviews": 97,
@@ -7264,10 +6717,14 @@
             "reviews": 825,
             "score": 3.9
           }
-        }
+        },
+        "overallRating": 3.98,
+        "totalReviews": 922,
+        "replyRate": 7.6923076923076925
       },
+      "id": 256606,
+      "name": "Winkworth Streatham",
       "totalReviews": 922,
-      "replyRate": 7.6923076923076925,
       "googleScore": 4.9,
       "score": 72
     },
@@ -7315,10 +6772,7 @@
       "google": {
         "place_id": "ChIJYf4UYbQLdkgRmUNNFQRY3ss",
         "rating": 4.9,
-        "user_rating_count": 229,
-        "formatted_address": "26 Brighton Rd, Surbiton KT6 5PQ",
-        "google_maps_url": "https://maps.google.com/?cid=14690275809089635225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 229
       },
       "platforms": {
         "Google": {
@@ -7330,14 +6784,7 @@
           "rating": 4.17
         }
       },
-      "lat": 51.3915,
-      "lng": -0.30939,
-      "id": 256607,
-      "name": "Winkworth Surbiton",
       "va": {
-        "overallRating": 4.81,
-        "totalReviews": 230,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 194,
@@ -7347,10 +6794,14 @@
             "reviews": 36,
             "score": 4.17
           }
-        }
+        },
+        "overallRating": 4.81,
+        "totalReviews": 230,
+        "replyRate": 0.0
       },
+      "id": 256607,
+      "name": "Winkworth Surbiton",
       "totalReviews": 230,
-      "replyRate": 0.0,
       "googleScore": 4.9,
       "score": 72
     },
@@ -7372,7 +6823,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-15T18:44:57.043000",
-      "days_since_review": 34,
+      "days_since_review": 35,
       "total_reviews": 85,
       "reviews_30d": 0,
       "reviews_90d": 22,
@@ -7387,7 +6838,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 34d"
+          "No review for 35d"
         ],
         [
           "RED",
@@ -7404,10 +6855,7 @@
       "google": {
         "place_id": "ChIJdU-S898CdkgRPHTlHLoX_bY",
         "rating": 4.5,
-        "user_rating_count": 26,
-        "formatted_address": "Redriff Rd, London SE16 7LL",
-        "google_maps_url": "https://maps.google.com/?cid=13185721372126835772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 26
       },
       "platforms": {
         "Google": {
@@ -7419,14 +6867,7 @@
           "rating": 4.14
         }
       },
-      "lat": 51.4954,
-      "lng": -0.046963,
-      "id": 256608,
-      "name": "Winkworth Surrey Quays",
       "va": {
-        "overallRating": 4.2,
-        "totalReviews": 61,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 24,
@@ -7436,10 +6877,14 @@
             "reviews": 37,
             "score": 4.14
           }
-        }
+        },
+        "overallRating": 4.2,
+        "totalReviews": 61,
+        "replyRate": 0.0
       },
+      "id": 256608,
+      "name": "Winkworth Surrey Quays",
       "totalReviews": 61,
-      "replyRate": 0.0,
       "googleScore": 4.5,
       "score": 45
     },
@@ -7483,11 +6928,7 @@
       "google": {
         "place_id": "ChIJt3ehkd4FdkgRr3urLJGB-5Q",
         "rating": 4.7,
-        "user_rating_count": 188,
-        "formatted_address": "17 Upper Tooting Rd, Tooting Bec, London SW17 7TS",
-        "google_maps_url": "https://maps.google.com/?cid=10735316597287386031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 188
       },
       "platforms": {
         "Google": {
@@ -7499,14 +6940,7 @@
           "rating": 3.89
         }
       },
-      "lat": 51.4353,
-      "lng": -0.160144,
-      "id": 256609,
-      "name": "Winkworth Tooting",
       "va": {
-        "overallRating": 4.03,
-        "totalReviews": 965,
-        "replyRate": 100.0,
         "platforms": {
           "google": {
             "reviews": 177,
@@ -7516,10 +6950,14 @@
             "reviews": 788,
             "score": 3.89
           }
-        }
+        },
+        "overallRating": 4.03,
+        "totalReviews": 965,
+        "replyRate": 100.0
       },
+      "id": 256609,
+      "name": "Winkworth Tooting",
       "totalReviews": 965,
-      "replyRate": 100.0,
       "googleScore": 4.7,
       "score": 79
     },
@@ -7568,10 +7006,7 @@
       "google": {
         "place_id": "ChIJT4dF7zIbdkgRkpoXpnr-wRQ",
         "rating": 4.7,
-        "user_rating_count": 97,
-        "formatted_address": "55 New Oxford St, London WC1A 1BS",
-        "google_maps_url": "https://maps.google.com/?cid=1495756353989745298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 97
       },
       "platforms": {
         "Facebook": {
@@ -7587,15 +7022,12 @@
           "rating": 3.9
         }
       },
-      "lat": 51.5167,
-      "lng": -0.127099,
-      "id": 256610,
-      "name": "Winkworth West End",
       "va": {
-        "overallRating": 3.99,
-        "totalReviews": 924,
-        "replyRate": 52.38095238095239,
         "platforms": {
+          "facebook": {
+            "reviews": 1,
+            "score": 1.0
+          },
           "google": {
             "reviews": 100,
             "score": 4.73
@@ -7603,15 +7035,15 @@
           "trustpilot": {
             "reviews": 823,
             "score": 3.9
-          },
-          "facebook": {
-            "reviews": 1,
-            "score": 1.0
           }
-        }
+        },
+        "overallRating": 3.98,
+        "totalReviews": 924,
+        "replyRate": 52.38095238095239
       },
+      "id": 256610,
+      "name": "Winkworth West End",
       "totalReviews": 924,
-      "replyRate": 52.38095238095239,
       "googleScore": 4.7,
       "score": 71
     },
@@ -7660,10 +7092,7 @@
       "google": {
         "place_id": "ChIJx2MkmAsRdkgRyUSPHk3uUVs",
         "rating": 4.8,
-        "user_rating_count": 45,
-        "formatted_address": "142 W End Ln, London NW6 1SD",
-        "google_maps_url": "https://maps.google.com/?cid=6580302545557603529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 45
       },
       "platforms": {
         "Google": {
@@ -7675,14 +7104,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.5479,
-      "lng": -0.190827,
-      "id": 256611,
-      "name": "Winkworth West Hampstead",
       "va": {
-        "overallRating": 3.96,
-        "totalReviews": 862,
-        "replyRate": 76.47058823529412,
         "platforms": {
           "google": {
             "reviews": 46,
@@ -7692,10 +7114,14 @@
             "reviews": 816,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 3.96,
+        "totalReviews": 862,
+        "replyRate": 76.47058823529412
       },
+      "id": 256611,
+      "name": "Winkworth West Hampstead",
       "totalReviews": 862,
-      "replyRate": 76.47058823529412,
       "googleScore": 4.8,
       "score": 71
     },
@@ -7748,10 +7174,7 @@
       "google": {
         "place_id": "ChIJyXNHwAIEdkgRbWtkSSCBrWY",
         "rating": 4.6,
-        "user_rating_count": 38,
-        "formatted_address": "28 Knights Hill, Norwood, London SE27 0HY",
-        "google_maps_url": "https://maps.google.com/?cid=7398711738509847405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 38
       },
       "platforms": {
         "Google": {
@@ -7759,23 +7182,20 @@
           "rating": 4.58
         }
       },
-      "lat": 51.43266,
-      "lng": -0.104166,
-      "id": 13871,
-      "name": "Winkworth West Norwood",
       "va": {
-        "overallRating": 4.58,
-        "totalReviews": 43,
-        "replyRate": 0.0,
         "platforms": {
           "google": {
             "reviews": 43,
             "score": 4.58
           }
-        }
+        },
+        "overallRating": 4.58,
+        "totalReviews": 43,
+        "replyRate": 0.0
       },
+      "id": 13871,
+      "name": "Winkworth West Norwood",
       "totalReviews": 43,
-      "replyRate": 0.0,
       "googleScore": 4.6,
       "score": 52
     },
@@ -7796,7 +7216,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-18T15:44:39.373000",
-      "days_since_review": 31,
+      "days_since_review": 32,
       "total_reviews": 545,
       "reviews_30d": 0,
       "reviews_90d": 8,
@@ -7811,7 +7231,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 31d"
+          "No review for 32d"
         ],
         [
           "RED",
@@ -7823,10 +7243,7 @@
       "google": {
         "place_id": "ChIJzRJFDaGhc0gRl6qLY55O7Uw",
         "rating": 4.9,
-        "user_rating_count": 494,
-        "formatted_address": "77 Poole Rd, Westbourne, Bournemouth BH4 9BB",
-        "google_maps_url": "https://maps.google.com/?cid=5543173158544845463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 494
       },
       "platforms": {
         "Google": {
@@ -7838,14 +7255,7 @@
           "rating": 5.0
         }
       },
-      "lat": 50.722997,
-      "lng": -1.903374,
-      "id": 1170,
-      "name": "Winkworth Westbourne",
       "va": {
-        "overallRating": 4.89,
-        "totalReviews": 545,
-        "replyRate": 12.5,
         "platforms": {
           "google": {
             "reviews": 544,
@@ -7855,10 +7265,14 @@
             "reviews": 1,
             "score": 5.0
           }
-        }
+        },
+        "overallRating": 4.89,
+        "totalReviews": 545,
+        "replyRate": 12.5
       },
+      "id": 1170,
+      "name": "Winkworth Westbourne",
       "totalReviews": 545,
-      "replyRate": 12.5,
       "googleScore": 4.9,
       "score": 82
     },
@@ -7875,11 +7289,11 @@
       "nps": 0,
       "last_login_raw": "17.03.2026 11:19:56",
       "last_login_iso": "2026-03-17T11:19:56",
-      "days_since_login": 63,
+      "days_since_login": 64,
       "last_user": "MajorMahil",
       "last_email": "majormahil@winkworth.co.uk",
       "last_review_at": "2026-05-01T13:06:46.713000",
-      "days_since_review": 18,
+      "days_since_review": 19,
       "total_reviews": 86,
       "reviews_30d": 2,
       "reviews_90d": 12,
@@ -7889,17 +7303,14 @@
         [
           "AMBER",
           "login_stale_30d",
-          "Last login 63d ago"
+          "Last login 64d ago"
         ]
       ],
       "overall_rag": "AMBER",
       "google": {
         "place_id": "ChIJX5fyTNt1dkgR5k_u7RdbK9A",
         "rating": 4.8,
-        "user_rating_count": 80,
-        "formatted_address": "79 Queens Rd, Weybridge KT13 9UQ",
-        "google_maps_url": "https://maps.google.com/?cid=15000183142221762534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15
+        "user_rating_count": 80
       },
       "platforms": {
         "Facebook": {
@@ -7911,27 +7322,24 @@
           "rating": 4.73
         }
       },
-      "lat": 51.3682,
-      "lng": -0.445837,
-      "id": 7772,
-      "name": "Winkworth Weybridge",
       "va": {
-        "overallRating": 4.73,
-        "totalReviews": 86,
-        "replyRate": 100.0,
         "platforms": {
-          "google": {
-            "reviews": 85,
-            "score": 4.73
-          },
           "facebook": {
             "reviews": 1,
             "score": 5.0
+          },
+          "google": {
+            "reviews": 85,
+            "score": 4.73
           }
-        }
+        },
+        "overallRating": 4.73,
+        "totalReviews": 86,
+        "replyRate": 100.0
       },
+      "id": 7772,
+      "name": "Winkworth Weybridge",
       "totalReviews": 86,
-      "replyRate": 100.0,
       "googleScore": 4.8,
       "score": 83
     },
@@ -7953,7 +7361,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-13T11:58:00",
-      "days_since_review": 67,
+      "days_since_review": 68,
       "total_reviews": 941,
       "reviews_30d": 0,
       "reviews_90d": 11,
@@ -7968,7 +7376,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 67d"
+          "No review for 68d"
         ]
       ],
       "overall_rag": "RED",
@@ -7983,14 +7391,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.4224,
-      "lng": -0.209164,
-      "id": 257357,
-      "name": "Winkworth Wimbledon",
       "va": {
-        "overallRating": 3.97,
-        "totalReviews": 887,
-        "replyRate": 81.81818181818183,
         "platforms": {
           "google": {
             "reviews": 53,
@@ -8000,10 +7401,14 @@
             "reviews": 834,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 3.96,
+        "totalReviews": 887,
+        "replyRate": 81.81818181818183
       },
+      "id": 257357,
+      "name": "Winkworth Wimbledon",
       "totalReviews": 887,
-      "replyRate": 81.81818181818183,
       "score": 72
     },
     {
@@ -8023,7 +7428,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-04-08T18:28:00.780000",
-      "days_since_review": 41,
+      "days_since_review": 42,
       "total_reviews": 180,
       "reviews_30d": 0,
       "reviews_90d": 6,
@@ -8038,17 +7443,14 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 41d"
+          "No review for 42d"
         ]
       ],
       "overall_rag": "RED",
       "google": {
         "place_id": "ChIJDycCG4wNdEgR_bc4BaNATOU",
         "rating": 4.8,
-        "user_rating_count": 156,
-        "formatted_address": "72 High St, Winchester SO23 9DA",
-        "google_maps_url": "https://maps.google.com/?cid=16522652201826957309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 156
       },
       "platforms": {
         "Google": {
@@ -8056,23 +7458,20 @@
           "rating": 4.86
         }
       },
-      "lat": 51.062809,
-      "lng": -1.31731,
-      "id": 14714,
-      "name": "Winkworth Winchester",
       "va": {
-        "overallRating": 4.86,
-        "totalReviews": 180,
-        "replyRate": 83.33333333333334,
         "platforms": {
           "google": {
             "reviews": 180,
             "score": 4.86
           }
-        }
+        },
+        "overallRating": 4.86,
+        "totalReviews": 180,
+        "replyRate": 83.33333333333334
       },
+      "id": 14714,
+      "name": "Winkworth Winchester",
       "totalReviews": 180,
-      "replyRate": 83.33333333333334,
       "googleScore": 4.8,
       "score": 80
     },
@@ -8094,7 +7493,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-13T11:58:00",
-      "days_since_review": 67,
+      "days_since_review": 68,
       "total_reviews": 876,
       "reviews_30d": 0,
       "reviews_90d": 11,
@@ -8109,7 +7508,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 67d"
+          "No review for 68d"
         ],
         [
           "AMBER",
@@ -8121,10 +7520,7 @@
       "google": {
         "place_id": "ChIJ-ekW15GBdkgRjg063_myFVU",
         "rating": 4.8,
-        "user_rating_count": 26,
-        "formatted_address": "7 Broad St, Wokingham RG40 1AY",
-        "google_maps_url": "https://maps.google.com/?cid=6131003253996522894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 0.95
+        "user_rating_count": 26
       },
       "platforms": {
         "Google": {
@@ -8136,14 +7532,7 @@
           "rating": 3.91
         }
       },
-      "lat": 51.4109,
-      "lng": -0.834341,
-      "id": 258965,
-      "name": "Winkworth Wokingham",
       "va": {
-        "overallRating": 3.93,
-        "totalReviews": 853,
-        "replyRate": 81.81818181818183,
         "platforms": {
           "google": {
             "reviews": 18,
@@ -8153,10 +7542,14 @@
             "reviews": 835,
             "score": 3.91
           }
-        }
+        },
+        "overallRating": 3.92,
+        "totalReviews": 853,
+        "replyRate": 81.81818181818183
       },
+      "id": 258965,
+      "name": "Winkworth Wokingham",
       "totalReviews": 853,
-      "replyRate": 81.81818181818183,
       "googleScore": 4.8,
       "score": 65
     },
@@ -8178,7 +7571,7 @@
       "last_user": null,
       "last_email": null,
       "last_review_at": "2026-03-23T16:52:54.343000",
-      "days_since_review": 57,
+      "days_since_review": 58,
       "total_reviews": 1063,
       "reviews_30d": 0,
       "reviews_90d": 13,
@@ -8193,7 +7586,7 @@
         [
           "AMBER",
           "no_review_30d",
-          "No review for 57d"
+          "No review for 58d"
         ],
         [
           "AMBER",
@@ -8205,11 +7598,7 @@
       "google": {
         "place_id": "ChIJdc9uHLIJdkgRiwHjby-Wid8",
         "rating": 4.7,
-        "user_rating_count": 102,
-        "formatted_address": "Brabham Court, 33 Central Rd, Worcester Park KT4 8EG",
-        "google_maps_url": "https://maps.google.com/?cid=16107570672752066955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-        "match_confidence": 1.15,
-        "multi_va_attribution_count": 2
+        "user_rating_count": 102
       },
       "platforms": {
         "Google": {
@@ -8221,14 +7610,7 @@
           "rating": 3.88
         }
       },
-      "lat": 51.377,
-      "lng": -0.238953,
-      "id": 259233,
-      "name": "Winkworth Worcester Park",
       "va": {
-        "overallRating": 3.97,
-        "totalReviews": 947,
-        "replyRate": 69.23076923076923,
         "platforms": {
           "google": {
             "reviews": 99,
@@ -8238,10 +7620,14 @@
             "reviews": 848,
             "score": 3.88
           }
-        }
+        },
+        "overallRating": 3.96,
+        "totalReviews": 947,
+        "replyRate": 69.23076923076923
       },
+      "id": 259233,
+      "name": "Winkworth Worcester Park",
       "totalReviews": 947,
-      "replyRate": 69.23076923076923,
       "googleScore": 4.7,
       "score": 75
     },
@@ -8276,7 +7662,7 @@
         ],
         [
           "AMBER",
-          "no_review_30d",
+          "no_review_90d",
           "No review for 565d"
         ]
       ],
@@ -8296,80 +7682,63 @@
           "rating": 4.91
         }
       },
-      "lat": 50.8119,
-      "lng": -0.368155,
-      "id": 1375,
-      "name": "Winkworth Worthing",
       "va": {
-        "overallRating": 4.91,
-        "totalReviews": 185,
-        "replyRate": null,
         "platforms": {
-          "google": {
-            "reviews": 180,
-            "score": 4.91
+          "yell": {
+            "reviews": 2,
+            "score": 5.0
           },
           "facebook": {
             "reviews": 3,
             "score": 5.0
           },
-          "yell": {
-            "reviews": 2,
-            "score": 5.0
+          "google": {
+            "reviews": 180,
+            "score": 4.91
           }
-        }
+        },
+        "overallRating": 4.91,
+        "totalReviews": 185,
+        "replyRate": null
       },
+      "id": 1375,
+      "name": "Winkworth Worthing",
       "totalReviews": 185,
-      "replyRate": null,
       "score": 80
     }
   ],
-  "google_summary": {
-    "matched_offices": 96,
-    "total_offices": 103,
-    "match_rate_pct": 93.2,
-    "total_reviews": 14037,
-    "avg_rating": 4.74,
-    "avg_reviews_per_matched_office": 146.0,
-    "multi_va_attribution_warnings": 20,
-    "source": "Google Places API \u2014 harvested 2026-05-20 (incl. recovery pass)"
-  },
   "platforms_summary": {
     "matched_offices": 103,
     "total_offices": 103,
     "platforms": {
       "Google": {
-        "total_reviews": 12577,
-        "avg_rating": 4.74
+        "total_reviews": 3731,
+        "avg_rating": 4.734942132479685
       },
       "Trustpilot": {
-        "total_reviews": 43550,
-        "avg_rating": 3.9
+        "total_reviews": 179,
+        "avg_rating": 3.8965556831228474
       },
       "Facebook": {
-        "total_reviews": 158,
-        "avg_rating": 4.85
+        "total_reviews": 103,
+        "avg_rating": 4.812865497076023
       },
       "Yell": {
-        "total_reviews": 20,
-        "avg_rating": 2.5
-      },
-      "View Agents": {
-        "total_reviews": 64,
-        "avg_rating": 4.88
+        "total_reviews": 10,
+        "avg_rating": 2.5172413793103448
       }
     },
-    "grand_total_reviews": 56369,
-    "source": "ViewAgents review feeds \u2014 synced 2026-05-20"
+    "grand_total_reviews": 4023,
+    "source": "VA review feeds + Google Places API (deduped on RefId per platform)"
   },
   "platformFootprint": {
     "google": {
-      "reviews": 12577,
+      "reviews": 3731,
       "replies": 0,
-      "with_presence": 98
+      "with_presence": 101
     },
     "trustpilot": {
-      "reviews": 43550,
+      "reviews": 179,
       "replies": 0,
       "with_presence": 57
     },
@@ -8379,9 +7748,9 @@
       "with_presence": 0
     },
     "facebook": {
-      "reviews": 158,
+      "reviews": 103,
       "replies": 0,
-      "with_presence": 20
+      "with_presence": 24
     },
     "allagents": {
       "reviews": 0,
@@ -8389,14 +7758,14 @@
       "with_presence": 0
     },
     "yell": {
-      "reviews": 20,
+      "reviews": 10,
       "replies": 0,
-      "with_presence": 8
+      "with_presence": 10
     },
     "viewagents": {
-      "reviews": 64,
+      "reviews": 0,
       "replies": 0,
-      "with_presence": 3
+      "with_presence": 5
     }
   }
 }
