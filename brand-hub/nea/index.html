@@ -5071,6 +5071,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 
 
 
+
 <!-- BRAND-AGNOSTIC RENDER INJECTED -->
 <script>
 // ======================================================
@@ -5102,33 +5103,99 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
   function isContenderTier(t){ return (t||'').toLowerCase()==='contender'; }
   function isFoundationTier(t){ return (t||'').toLowerCase()==='foundation'; }
 
+  // Returns true if the dataset has any tiered offices (a TA client brand).
+  function hasTiers(data){
+    return (data.offices || []).some(function(o){ return o.tier; });
+  }
+
   // ---------- HERO ----------
   function renderHero(data){
     var brand = data.brand || 'Brand';
-    var offices = (data.offices || []).length;
-    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
-    var saturation = offices ? Math.round((winners/offices)*100) : 0;
+    var offices = (data.offices || []);
+    var officeCount = offices.length;
     setText('.hero-brand', brand);
+
+    // Update sub-tagline if it's the old EweMove default
+    var subTags = document.querySelectorAll('.hero-sub, .hero-tagline');
+    subTags.forEach(function(el){
+      if (/Your office network|audit cycle|Proof of concept/i.test(el.textContent)) {
+        el.textContent = 'UK office network \u00b7 Reputation snapshot';
+      }
+    });
+
     var vals = document.querySelectorAll('.hero-stats .hero-stat-value');
-    if (vals.length >= 3) {
-      vals[0].textContent = fmt(offices);
-      vals[1].textContent = fmt(winners);
-      vals[2].textContent = saturation + '%';
+    var labels = document.querySelectorAll('.hero-stats .hero-stat-label');
+
+    if (hasTiers(data)) {
+      // TA-client mode — show Winner stats
+      var winners = offices.filter(function(o){ return isWinnerTier(o.tier); }).length;
+      var saturation = officeCount ? Math.round((winners/officeCount)*100) : 0;
+      if (vals.length >= 3) {
+        vals[0].textContent = fmt(officeCount);
+        vals[1].textContent = fmt(winners);
+        vals[2].textContent = saturation + '%';
+      }
+      if (labels.length >= 3) {
+        labels[0].textContent = 'TOTAL OFFICES';
+        labels[1].textContent = 'TRUSTED AGENT WINNERS';
+        labels[2].textContent = 'WINNER SATURATION';
+      }
+    } else {
+      // Prospect mode — show review-volume stats
+      var totalReviews = (data.platforms_summary || {}).grand_total_reviews || 0;
+      var avgPerOffice = officeCount ? Math.round(totalReviews / officeCount) : 0;
+      if (vals.length >= 3) {
+        vals[0].textContent = fmt(officeCount);
+        vals[1].textContent = fmt(totalReviews);
+        vals[2].textContent = fmt(avgPerOffice);
+      }
+      if (labels.length >= 3) {
+        labels[0].textContent = 'TOTAL OFFICES';
+        labels[1].textContent = 'TOTAL REVIEWS (ALL PLATFORMS)';
+        labels[2].textContent = 'AVG REVIEWS PER OFFICE';
+      }
     }
   }
 
   // ---------- PERFORMANCE SUMMARY ----------
   function renderPerformance(data){
     var brand = data.brand || 'Brand';
-    var offices = (data.offices || []).length;
-    var winners = (data.offices || []).filter(function(o){ return isWinnerTier(o.tier); }).length;
-    var pct = offices ? Math.round((winners/offices)*100*10)/10 : 0;
+    var offices = data.offices || [];
     var cards = document.querySelectorAll('#performance .perf-card');
-    if (cards.length >= 1) {
+    if (!cards.length) return;
+
+    if (hasTiers(data)) {
+      var winners = offices.filter(function(o){ return isWinnerTier(o.tier); }).length;
+      var pct = offices.length ? Math.round((winners/offices.length)*100*10)/10 : 0;
       var c1 = cards[0];
       var lbl = c1.querySelector('.perf-label'); if (lbl) lbl.textContent = brand + ' Winner Saturation';
       var val = c1.querySelector('.perf-value'); if (val) val.textContent = pct + '%';
-      var desc = c1.querySelector('.perf-desc'); if (desc) desc.textContent = fmt(winners) + ' of ' + fmt(offices) + ' offices are Trusted Agent Winners';
+      var desc = c1.querySelector('.perf-desc'); if (desc) desc.textContent = fmt(winners) + ' of ' + fmt(offices.length) + ' offices are Trusted Agent Winners';
+    } else {
+      // Prospect mode — show avg rep score and reply rate as the headline
+      var withScore = offices.filter(function(o){ return num(o.reputation_score) > 0; });
+      var avgScore = withScore.length ? Math.round(withScore.reduce(function(s,o){ return s+num(o.reputation_score); },0) / withScore.length) : 0;
+      var withReply = offices.filter(function(o){ return o.reply_rate_90d != null; });
+      var avgReply = withReply.length ? Math.round(withReply.reduce(function(s,o){ return s+num(o.reply_rate_90d); },0) / withReply.length * 100) : 0;
+      var redCount = offices.filter(function(o){ return o.overall_rag === 'RED'; }).length;
+
+      var c1 = cards[0];
+      var lbl = c1.querySelector('.perf-label'); if (lbl) lbl.textContent = brand + ' Avg Reputation Score';
+      var val = c1.querySelector('.perf-value'); if (val) val.textContent = avgScore;
+      var desc = c1.querySelector('.perf-desc'); if (desc) desc.textContent = 'Across ' + fmt(withScore.length) + ' offices with review data';
+
+      if (cards.length >= 2) {
+        var c2 = cards[1];
+        var lbl2 = c2.querySelector('.perf-label'); if (lbl2) lbl2.textContent = 'Avg Reply Rate (90d)';
+        var val2 = c2.querySelector('.perf-value'); if (val2) val2.textContent = avgReply + '%';
+        var desc2 = c2.querySelector('.perf-desc'); if (desc2) desc2.textContent = withReply.length ? 'Based on ' + fmt(withReply.length) + ' offices' : 'No data';
+      }
+      if (cards.length >= 3) {
+        var c3 = cards[2];
+        var lbl3 = c3.querySelector('.perf-label'); if (lbl3) lbl3.textContent = 'Offices Needing Attention';
+        var val3 = c3.querySelector('.perf-value'); if (val3) val3.textContent = fmt(redCount);
+        var desc3 = c3.querySelector('.perf-desc'); if (desc3) desc3.textContent = 'Offices with RED status flags';
+      }
     }
   }
 
@@ -5136,26 +5203,63 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
   function renderTiers(data){
     var offices = data.offices || [];
     var total = offices.length;
+    var tiersSection = document.getElementById('tiers');
+
+    if (!hasTiers(data)) {
+      // Prospect mode — replace tier dist with RAG status distribution
+      var red    = offices.filter(function(o){ return o.overall_rag === 'RED'; }).length;
+      var amber  = offices.filter(function(o){ return o.overall_rag === 'AMBER'; }).length;
+      var green  = offices.filter(function(o){ return o.overall_rag === 'GREEN'; }).length;
+      var none   = total - red - amber - green;
+      var pctR = total ? +((red/total)*100).toFixed(1) : 0;
+      var pctA = total ? +((amber/total)*100).toFixed(1) : 0;
+      var pctG = total ? +((green/total)*100).toFixed(1) : 0;
+
+      // Update bars + counts; swap labels
+      var fills = document.querySelectorAll('#tiers .segment-bar-fill');
+      if (fills.length >= 3) {
+        // Reverse: green first, amber, red
+        fills[0].style.width = pctG + '%'; fills[0].style.background = '#10b981';
+        fills[1].style.width = pctA + '%'; fills[1].style.background = '#f59e0b';
+        fills[2].style.width = pctR + '%'; fills[2].style.background = '#ef4444';
+      }
+      var rows = tiersSection ? tiersSection.querySelectorAll('.tier-row') : [];
+      var labels = [
+        {name: 'Green', desc: 'Healthy reply rate, recent reviews, strong reputation', count: green, pct: pctG},
+        {name: 'Amber', desc: 'Some warning flags — slipping reply rate or stale reviews', count: amber, pct: pctA},
+        {name: 'Red',   desc: 'Multiple warning flags — needs attention', count: red, pct: pctR},
+      ];
+      rows.forEach(function(row, idx){
+        if (idx >= labels.length) return;
+        var info = labels[idx];
+        var nameEl = row.querySelector('.tier-name'); if (nameEl) nameEl.textContent = info.name;
+        var descEl = row.querySelector('.tier-desc'); if (descEl) descEl.textContent = info.desc;
+        var countEl = row.querySelector('.tier-count'); if (countEl) countEl.textContent = fmt(info.count);
+        var pctEl = row.querySelector('.tier-pct'); if (pctEl) pctEl.textContent = info.pct + '%';
+      });
+      // Update section title
+      var st = tiersSection ? tiersSection.querySelector('.section-title') : null;
+      if (st) st.textContent = 'Health Status Distribution';
+      return;
+    }
+
+    // TA-client mode
     var winners = offices.filter(function(o){ return isWinnerTier(o.tier); }).length;
     var contenders = offices.filter(function(o){ return isContenderTier(o.tier); }).length;
     var foundation = offices.filter(function(o){ return isFoundationTier(o.tier); }).length;
     var others = total - winners - contenders - foundation;
-    // Bucket "others" into foundation for the bar so it always sums to 100%
     foundation = foundation + others;
 
     var pctW = total ? +((winners/total)*100).toFixed(1) : 0;
     var pctC = total ? +((contenders/total)*100).toFixed(1) : 0;
     var pctF = total ? +((foundation/total)*100).toFixed(1) : 0;
 
-    // Update segment bar widths
     var fills = document.querySelectorAll('#tiers .segment-bar-fill');
     if (fills.length >= 3) {
       fills[0].style.width = pctW + '%';
       fills[1].style.width = pctC + '%';
       fills[2].style.width = pctF + '%';
     }
-
-    // Update tier counts
     var counts = document.querySelectorAll('#tiers .tier-count');
     var pcts = document.querySelectorAll('#tiers .tier-pct');
     if (counts.length >= 3) {
