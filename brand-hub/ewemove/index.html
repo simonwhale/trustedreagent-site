@@ -88,6 +88,9 @@
   background: var(--va-cyan-dark);
   color: #ffffff;
 }
+/* Smooth scroll for in-page nav */
+html { scroll-behavior: smooth; }
+section[id] { scroll-margin-top: 96px; }
 .va-subheader {
   background: #f5f7f9;
   border-bottom: 1px solid var(--va-border);
@@ -1591,7 +1594,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 <div class="main-content container">
 
 <!-- 2. PERFORMANCE SUMMARY -->
-<section>
+<section id="performance">
   <div class="section-title">Performance Summary</div>
   <div class="perf-grid">
     <div class="perf-card highlight">
@@ -1613,7 +1616,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 </section>
 
 <!-- 3. TIER DISTRIBUTION -->
-<section>
+<section id="tiers">
   <div class="section-title">Tier Distribution</div>
   <div class="card">
     <div class="segment-bar-track">
@@ -1756,7 +1759,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 </section>
 
 <!-- 4. OFFICE LEADERBOARD -->
-<section>
+<section id="offices">
   <div class="section-title">Office Leaderboard &mdash; All 161 Offices</div>
   <div class="card" style="padding:0;overflow:hidden;">
     <div class="table-scroll">
@@ -4034,7 +4037,7 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 </section>
 
 <!-- 5. REGIONAL BREAKDOWN -->
-<section>
+<section id="regional">
   <div class="section-title">Regional Breakdown</div>
   <div class="card" style="padding:0;overflow:hidden;">
     <table class="regional-table">
@@ -4346,6 +4349,47 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 <!-- ====================================================== -->
 <!--  V2 SCRIPT — MAP / PLATFORMS / CALCULATOR               -->
 <!-- ====================================================== -->
+<script>
+// ======================================================
+// VA HEADER NAV — active-state scroll spy
+// ======================================================
+(function(){
+  'use strict';
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.va-nav-link[href^="#"]'));
+  if (!navLinks.length) return;
+  var sections = navLinks.map(function(a){
+    var id = a.getAttribute('href').slice(1);
+    return { link: a, section: document.getElementById(id) };
+  }).filter(function(p){ return p.section; });
+  if (!sections.length) return;
+
+  function setActive(link) {
+    navLinks.forEach(function(l){ l.classList.remove('is-active'); });
+    if (link) link.classList.add('is-active');
+  }
+
+  // Click — immediate active swap
+  navLinks.forEach(function(a){
+    a.addEventListener('click', function(){ setActive(a); });
+  });
+
+  // Scroll spy: pick the section whose top is closest to the viewport top (after sticky-header offset)
+  var spy = function(){
+    var offset = 120;
+    var pos = window.scrollY + offset;
+    var current = sections[0];
+    for (var i = 0; i < sections.length; i++) {
+      var top = sections[i].section.offsetTop;
+      if (top <= pos) current = sections[i];
+    }
+    if (current) setActive(current.link);
+  };
+  window.addEventListener('scroll', spy, { passive: true });
+  window.addEventListener('resize', spy);
+  spy();
+})();
+</script>
+
 <script>
 // ======================================================
 // LEADERBOARD TABLE SORTING
