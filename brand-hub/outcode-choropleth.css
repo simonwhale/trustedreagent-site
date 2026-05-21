@@ -1,0 +1,206 @@
+/* outcode-choropleth.css — Layer 1 (Sam Dooley methodology)
+   Drop-in styles for the reusable Outcode Choropleth section.
+   Assumes the brand-hub palette is already defined (--navy, --gold, --gold-light, etc.) */
+
+.outcode-section {
+  margin: 64px 0 0;
+}
+.outcode-wrap {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 0;
+  background: var(--navy, #0a1e3d);
+  border: 1px solid rgba(201,163,92,0.18);
+  border-radius: 16px;
+  overflow: hidden;
+  min-height: 560px;
+}
+.outcode-controls {
+  background: rgba(0,0,0,0.18);
+  border-right: 1px solid rgba(201,163,92,0.18);
+  padding: 22px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.outcode-controls h3 {
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+.outcode-mode-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.outcode-mode-btn {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.72);
+  text-align: left;
+  padding: 9px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  transition: all 0.12s;
+}
+.outcode-mode-btn:hover {
+  background: rgba(201,163,92,0.10);
+  color: #fff;
+}
+.outcode-mode-btn.active {
+  background: rgba(201,163,92,0.20);
+  border-color: var(--gold, #c9a35c);
+  color: #fff;
+}
+.outcode-mode-btn .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.outcode-legend {
+  font-size: 12px;
+  color: rgba(255,255,255,0.65);
+  line-height: 1.55;
+}
+.outcode-legend .scale {
+  display: flex;
+  height: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 8px 0 4px;
+}
+.outcode-legend .scale span { flex: 1; }
+.outcode-legend .scale-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: rgba(255,255,255,0.5);
+}
+.outcode-footer-note {
+  margin-top: auto;
+  font-size: 10.5px;
+  color: rgba(255,255,255,0.40);
+  line-height: 1.55;
+}
+#outcode-map {
+  height: 560px;
+  width: 100%;
+  background: #0a1e3d;
+}
+/* Tooltip / popup */
+.outcode-popup .leaflet-popup-content-wrapper {
+  background: var(--navy, #0a1e3d);
+  color: #fff;
+  border: 1px solid rgba(201,163,92,0.45);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+}
+.outcode-popup .leaflet-popup-tip {
+  background: var(--navy, #0a1e3d);
+  border: 1px solid rgba(201,163,92,0.45);
+}
+.outcode-popup .leaflet-popup-content {
+  margin: 12px 14px;
+  font-family: inherit;
+  font-size: 13px;
+  min-width: 200px;
+}
+.outcode-popup .pc {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--gold-light, #dfc07a);
+  letter-spacing: -0.01em;
+  margin-bottom: 6px;
+}
+.outcode-popup .row {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 3px 0;
+  color: rgba(255,255,255,0.85);
+  font-size: 12.5px;
+}
+.outcode-popup .row b {
+  color: var(--gold-light, #dfc07a);
+  font-weight: 700;
+}
+.outcode-popup .pop-cta {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255,255,255,0.10);
+  font-size: 11px;
+  color: rgba(255,255,255,0.55);
+  text-align: center;
+  font-style: italic;
+}
+.outcode-popup .pop-champion {
+  margin-top: 8px;
+  padding: 6px 8px;
+  background: rgba(201,163,92,0.12);
+  border-radius: 6px;
+  border-left: 2px solid var(--gold, #c9a35c);
+}
+.outcode-popup .pop-champion .lbl {
+  font-size: 9.5px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  font-weight: 700;
+}
+.outcode-popup .pop-champion .name {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #fff;
+}
+/* Filter banner above the leaderboard (shown when an outcode is selected) */
+.outcode-filter-banner {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, rgba(201,163,92,0.18), rgba(201,163,92,0.04));
+  border: 1px solid rgba(201,163,92,0.40);
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 0 0 14px;
+  font-size: 14px;
+  color: var(--navy, #0a1e3d);
+}
+.outcode-filter-banner.active { display: flex; }
+.outcode-filter-banner .lbl { font-weight: 700; }
+.outcode-filter-banner .pc {
+  background: var(--navy, #0a1e3d);
+  color: var(--gold-light, #dfc07a);
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-weight: 800;
+  margin: 0 6px;
+  letter-spacing: 0.5px;
+}
+.outcode-filter-banner .clear {
+  background: transparent;
+  border: 1px solid rgba(10,30,61,0.30);
+  color: var(--navy, #0a1e3d);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.outcode-filter-banner .clear:hover { background: var(--navy, #0a1e3d); color: #fff; }
+
+@media (max-width: 900px) {
+  .outcode-wrap { grid-template-columns: 1fr; }
+  .outcode-controls { border-right: none; border-bottom: 1px solid rgba(201,163,92,0.18); }
+  #outcode-map { height: 460px; }
+}
