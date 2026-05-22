@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="../outcode-choropleth.css">
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script defer src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
 <style>
@@ -1690,6 +1691,17 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
   </div>
 </section>
 
+<!--  V2 — OUTCODE CHOROPLETH (Sam Dooley methodology L1)    -->
+<!-- ====================================================== -->
+<section id="v2-outcode-map" class="outcode-section">
+  <div class="section-title">Outcode View &mdash; Every Metric Rolled Up by Postcode District</div>
+  <div class="outcode-wrap">
+    <div class="outcode-controls" id="outcode-controls"></div>
+    <div id="outcode-map"></div>
+  </div>
+</section>
+
+<!-- ====================================================== -->
 <!-- ====================================================== -->
 <!--  V2 — MULTI-PLATFORM BREAKDOWN                          -->
 <!-- ====================================================== -->
@@ -1747,6 +1759,8 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 <!-- 4. OFFICE LEADERBOARD -->
 <section id="offices">
   <div class="section-title">Office Leaderboard &mdash; All 161 Offices</div>
+  <div class="outcode-filter-banner" id="outcode-filter-banner">
+    <div><span class="lbl">Filtered to outcode</span><span class="pc" id="outcode-filter-label">—</span><span id="outcode-filter-count" style="color:rgba(10,30,61,0.7);">— offices</span></div>
   <div class="card" style="padding:0;overflow:hidden;">
     <div class="table-scroll">
       <table class="leaderboard-table" id="leaderboardTable">
@@ -3352,5 +3366,74 @@ button.ops-stat.ops-rag-green[aria-pressed="true"] { box-shadow: 0 0 0 2px #16a3
 })();
 </script>
 <!-- END BRAND-AGNOSTIC RENDER -->
+<!--  OUTCODE CHOROPLETH (Sam Dooley methodology Layer 1)    -->
+<!-- ====================================================== -->
+<script src="../outcode-choropleth.js"></script>
+<script>
+(function(){
+  function boot(){
+    if (typeof L === 'undefined' || typeof OutcodeChoropleth === 'undefined') {
+      return setTimeout(boot, 150);
+    }
+    OutcodeChoropleth.init({
+      mapElementId: 'outcode-map',
+      controlsElementId: 'outcode-controls',
+      metricsUrl: 'outcode-metrics.json',
+      geoUrl: '../geo/uk-outcodes.geojson',
+      brandColor: '#c9a35c',
+      defaultMode: 'reputation'
+    });
+  }
+  boot();
+
+  // -----  CLICK → LEADERBOARD FILTER (HARD RULE)  -----
+  document.addEventListener('outcode-selected', function(ev){
+    var oc = ev.detail.outcode;
+    var tbody = document.querySelector('#offices table tbody');
+    if (!tbody) return;
+    var rows = tbody.querySelectorAll('tr');
+    var shown = 0;
+    rows.forEach(function(tr){
+      // postcode is the 3rd cell
+      var pcCell = tr.children[2];
+      if (!pcCell) { tr.style.display = ''; shown++; return; }
+      var pc = (pcCell.textContent || '').trim().toUpperCase().replace(/\s+/g, '');
+      // UK postcode rule: inward code is ALWAYS the last 3 chars (digit + 2 letters).
+      // Everything before that is the outcode. If pc is <= 4 chars, treat whole as outcode.
+      var rowOutcode = pc.length > 4 ? pc.slice(0, -3) : pc;
+      if (rowOutcode === oc) { tr.style.display = ''; shown++; }
+      else { tr.style.display = 'none'; }
+    });
+    var banner = document.getElementById('outcode-filter-banner');
+    var lbl = document.getElementById('outcode-filter-label');
+    var cnt = document.getElementById('outcode-filter-count');
+    if (banner) banner.classList.add('active');
+    if (lbl) lbl.textContent = oc;
+    if (cnt) cnt.textContent = shown + ' office' + (shown === 1 ? '' : 's');
+    // Update section title to reflect filter
+    var titleEl = document.querySelector('#offices .section-title');
+    if (titleEl) titleEl.innerHTML = 'Office Leaderboard &mdash; ' + shown + ' Office' + (shown === 1 ? '' : 's') + ' in ' + oc;
+    // Scroll into view
+    setTimeout(function(){
+      var offices = document.getElementById('offices');
+      if (offices) offices.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 50);
+  });
+
+  // Clear-filter button
+  document.addEventListener('click', function(ev){
+    if (ev.target && ev.target.id === 'outcode-filter-clear') {
+      var tbody = document.querySelector('#offices table tbody');
+      if (tbody) tbody.querySelectorAll('tr').forEach(function(tr){ tr.style.display = ''; });
+      var banner = document.getElementById('outcode-filter-banner');
+      if (banner) banner.classList.remove('active');
+      var titleEl = document.querySelector('#offices .section-title');
+      var totalRows = tbody ? tbody.querySelectorAll('tr').length : 0;
+      if (titleEl) titleEl.innerHTML = 'Office Leaderboard &mdash; All ' + totalRows + ' Offices';
+      if (OutcodeChoropleth && OutcodeChoropleth.clearSelection) OutcodeChoropleth.clearSelection();
+    }
+  });
+})();
+</script>
 </body>
 </html>
