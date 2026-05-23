@@ -156,6 +156,7 @@
     display:block; font-size:12px; font-weight:600;
     color:#3b4257; margin-bottom:4px; letter-spacing:0.02em;
   }
+  .req { color:#c84a4a; margin-left:2px; font-weight:700; }
   input, select {
     width:100%; padding:11px 14px;
     background:#fafafa; border:1px solid var(--line); border-radius:8px;
@@ -443,29 +444,29 @@
           <form id="lead-form" novalidate>
             <div class="field-row">
               <div class="field">
-                <label for="first_name">First name</label>
-                <input id="first_name" name="first_name" type="text" autocomplete="given-name" required>
+                <label for="first_name">First name <span class="req" aria-hidden="true">*</span></label>
+                <input id="first_name" name="first_name" type="text" autocomplete="given-name" required aria-required="true">
               </div>
               <div class="field">
-                <label for="last_name">Last name</label>
-                <input id="last_name" name="last_name" type="text" autocomplete="family-name" required>
+                <label for="last_name">Last name <span class="req" aria-hidden="true">*</span></label>
+                <input id="last_name" name="last_name" type="text" autocomplete="family-name" required aria-required="true">
               </div>
             </div>
             <div class="field">
-              <label for="email">Work email</label>
-              <input id="email" name="email" type="email" autocomplete="email" required>
+              <label for="email">Work email <span class="req" aria-hidden="true">*</span></label>
+              <input id="email" name="email" type="email" autocomplete="email" required aria-required="true">
             </div>
             <div class="field">
-              <label for="mobile">UK mobile</label>
-              <input id="mobile" name="mobile" type="tel" autocomplete="tel-national" placeholder="07…" required>
+              <label for="mobile">UK mobile <span class="req" aria-hidden="true">*</span></label>
+              <input id="mobile" name="mobile" type="tel" autocomplete="tel-national" placeholder="07…" required aria-required="true" pattern="^(\+?44|0)\s?7\d{3}\s?\d{6}$" inputmode="tel">
             </div>
             <div class="field">
-              <label for="company">Company</label>
-              <input id="company" name="company" type="text" autocomplete="organization" required>
+              <label for="company">Company <span class="req" aria-hidden="true">*</span></label>
+              <input id="company" name="company" type="text" autocomplete="organization" required aria-required="true">
             </div>
             <div class="field">
-              <label for="role">Job title</label>
-              <input id="role" name="role" type="text" autocomplete="organization-title" required>
+              <label for="role">Job title <span class="req" aria-hidden="true">*</span></label>
+              <input id="role" name="role" type="text" autocomplete="organization-title" required aria-required="true">
             </div>
 
             <!-- FormSubmit hidden config -->
