@@ -487,9 +487,8 @@
 
         <!-- Thank-you state -->
         <div class="thanks" id="thanks">
-          <h2>Thanks — your copy is on its way.</h2>
-          <p>Check your inbox. Meanwhile, you can read the full report below or grab it now:</p>
-          <a class="download-btn" href="Reputation-State-of-the-Nation-2026.md" download>Download the report</a>
+          <h2>Welcome — the full report is below.</h2>
+          <p>We've also emailed you a copy. Scroll down to start reading.</p>
         </div>
       </div>
 
@@ -855,6 +854,67 @@
   // Reveal body content even before submit on hash deep-links / after some scroll, so the page isn't a dead-end for anyone who deep-links in.
   // But by default, body is hidden until the form is successfully submitted.
 
+  // ---------- Engagement tracking (post-unlock) ----------
+  // Once the report is revealed, we want to measure dwell time + scroll depth so
+  // we can see which sections of State of the Nation are actually being read.
+  var engagementWired = false;
+  function wireEngagementTracking(emailHash) {
+    if (engagementWired || !window.Snitcher) return;
+    engagementWired = true;
+    var revealedAt = Date.now();
+    var maxScrollPct = 0;
+    var depthMilestones = { '25': false, '50': false, '75': false, '100': false };
+    var sectionsSeen = {};
+
+    function pctScrolled() {
+      var doc = document.documentElement;
+      var scrollTop = window.scrollY || doc.scrollTop;
+      var docHeight = (doc.scrollHeight || document.body.scrollHeight) - window.innerHeight;
+      return docHeight > 0 ? Math.round((scrollTop / docHeight) * 100) : 0;
+    }
+
+    window.addEventListener('scroll', function () {
+      var pct = pctScrolled();
+      if (pct > maxScrollPct) maxScrollPct = pct;
+      ['25','50','75','100'].forEach(function (m) {
+        if (!depthMilestones[m] && maxScrollPct >= parseInt(m,10)) {
+          depthMilestones[m] = true;
+          try { window.Snitcher.track('Report Scroll Milestone', { milestone_pct: parseInt(m,10), report: 'Reputation State of the Nation 2026' }); } catch (_) {}
+        }
+      });
+    }, { passive: true });
+
+    // Section-view tracking (which headings have been on-screen)
+    var headings = document.querySelectorAll('#body-content h2, #body-content h3');
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            var key = (entry.target.textContent || '').trim().slice(0, 80);
+            if (key && !sectionsSeen[key]) {
+              sectionsSeen[key] = true;
+              try { window.Snitcher.track('Report Section Viewed', { section: key, report: 'Reputation State of the Nation 2026' }); } catch (_) {}
+            }
+          }
+        });
+      }, { threshold: 0.4 });
+      headings.forEach(function (h) { io.observe(h); });
+    }
+
+    // Beacon on unload — captures the full dwell window even if user leaves
+    window.addEventListener('beforeunload', function () {
+      var secs = Math.round((Date.now() - revealedAt) / 1000);
+      try {
+        window.Snitcher.track('Report Dwell', {
+          report: 'Reputation State of the Nation 2026',
+          dwell_seconds: secs,
+          max_scroll_pct: maxScrollPct,
+          sections_seen_count: Object.keys(sectionsSeen).length
+        });
+      } catch (_) {}
+    });
+  }
+
   form.addEventListener('submit', async function (e) {
     e.preventDefault();
     clearError();
@@ -911,9 +971,18 @@
             jobTitle: data.role,
             phone: data.mobile
           });
-          window.Snitcher.track('Report Downloaded', { report: 'Reputation State of the Nation 2026', source: data.source });
+          window.Snitcher.track('Report Unlocked', { report: 'Reputation State of the Nation 2026', source: data.source });
         } catch (err) { /* no-op */ }
       }
+      // Smooth-scroll to the start of the report so the user lands in the content
+      setTimeout(function () {
+        var anchor = document.getElementById('body-content');
+        if (anchor && anchor.scrollIntoView) {
+          anchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 150);
+      // Start dwell + scroll-depth + section-view tracking
+      wireEngagementTracking();
     }
 
     // Belt-and-braces: 6s timeout to reveal anyway
