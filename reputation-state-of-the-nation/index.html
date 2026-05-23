@@ -284,6 +284,27 @@
   /* Superlatives list */
   .supers { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; margin-top:24px; }
   @media (max-width:880px) { .supers { grid-template-columns:1fr; } }
+
+  /* Chart figures (added 23 May 2026) */
+  .chart-figure {
+    margin: 28px 0 6px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 24px rgba(12,35,64,0.10);
+    background: #0c2340;
+  }
+  .chart-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  .chart-caption {
+    font-size: 13px;
+    color: #6a7388;
+    margin: 8px 4px 0;
+    line-height: 1.5;
+  }
   .super-card {
     background:#fff; border:1px solid var(--line); border-radius:12px; padding:24px;
     box-shadow:0 1px 3px rgba(0,0,0,0.03);
@@ -576,6 +597,11 @@
       <h2>The Boutique Agent Effect</h2>
       <p class="section-lede">When you group estate agents by their average Google star rating, the highest-rated band — 4.9 to 5★ — actually processes <em>fewer</em> listings per office than the band just below it. The reason isn't quality. It's review volume.</p>
 
+      <figure class="chart-figure">
+        <img src="chart-boutique-effect.png" alt="Bar chart: listings per office per year peak at 4.7-4.9 stars (226), drop sharply at 4.9-5 stars (163)" loading="lazy">
+      </figure>
+      <p class="chart-caption">The 4.9–5★ band processes 28% fewer listings per office than the 4.7–4.9★ band, despite being rated higher. Nearly half its members sit on fewer than 50 reviews — a handful of perfect early scores pinning the score at 5.0.</p>
+
       <h3 style="margin-top:18px;">The grouped view (the cleanest headline)</h3>
       <table class="data-table">
         <thead>
@@ -679,6 +705,11 @@
       <h2>The Engaged Agent — replying isn't just etiquette</h2>
       <p class="section-lede">Reply rate is a softer signal than star rating, but it's far from neutral. Agents who reply to 80%+ of their reviews retain about 7% more listings than agents who reply to under 20%.</p>
 
+      <figure class="chart-figure">
+        <img src="chart-reply-vs-withdrawal.png" alt="Dual-axis chart showing higher reply rates correlate with more listings won and fewer withdrawals" loading="lazy">
+      </figure>
+      <p class="chart-caption">Reply rate vs. transaction outcomes. Agents in the 81–100% reply band win 277 listings per office per year and withdraw 39.8% — versus 171 listings and 47.9% for the 1–20% band.</p>
+
       <table class="data-table">
         <thead>
           <tr>
@@ -696,6 +727,45 @@
       </table>
 
       <p style="margin-top:18px; color:#3b4257; font-size:16px; max-width:780px;">The real value of reply rate is what it signals to future clients reading reviews — and to Google's local-search ranking. An office that consistently replies signals attentiveness. One that ignores reviews signals indifference. The data shows the kind of agent who engages with feedback also happens to be the kind who closes more deals.</p>
+    </div>
+  </section>
+
+  <!-- When agents are judged, they deliver -->
+  <section class="block cream">
+    <div class="wrap">
+      <h2>When agents are judged, they deliver</h2>
+      <p class="section-lede">The complaint culture around estate agents is loud, but the data is quietly the other way. Across 18,562 UK estate-agent offices with Google ratings, 85% sit at 4.0★ or higher — and nearly half rate 4.7★ or above. When an agent is judged, they overwhelmingly get it right.</p>
+
+      <figure class="chart-figure">
+        <img src="chart-rating-distribution.png" alt="Bar chart: distribution of UK estate-agent Google ratings. Most offices sit at 4.7+ stars" loading="lazy">
+      </figure>
+      <p class="chart-caption">Distribution of Google ratings across 18,562 UK estate-agent offices, May 2026. The shape is left-skewed — most agents perform well, a small tail performs poorly.</p>
+
+      <p style="margin-top:24px; color:#3b4257; font-size:16px; max-width:780px;">But under that strong rating picture sits a structural problem: most agents don't have enough reviews to be statistically safe. Just over a fifth of UK offices (22%) have fewer than 20 Google reviews. 58% have under 100. For those agents, one bad customer experience can swing their rating by a full star — and one missed review request leaves their reputation hostage to the loudest voice.</p>
+
+      <figure class="chart-figure">
+        <img src="chart-review-volume-gap.png" alt="Stacked horizontal bar showing the distribution of UK estate agent offices across review-count bands" loading="lazy">
+      </figure>
+      <p class="chart-caption">Distribution of UK estate-agent offices by total Google review count. 22% are operating in the &lt;20-review zone where a single one-star review materially moves their headline number.</p>
+
+      <p style="margin-top:24px; color:#3b4257; font-size:16px; max-width:780px;">The industry has earned its ratings. What it hasn't done — yet — is build the discipline of routinely asking for them. Agents who run a structured review-request process collect 5–10× the review volume of those who don't, and stabilise their ratings against single-event swings. That's not vanity. That's operational risk management. And it's an entirely solvable problem.</p>
+    </div>
+  </section>
+
+  <!-- How estate agents stack up vs other industries -->
+  <section class="block">
+    <div class="wrap">
+      <h2>How estate agents stack up against other industries</h2>
+      <p class="section-lede">UK estate agents now rate higher than restaurants, banks, gyms, car dealers, healthcare and high-street retail on Google. The narrative that estate agents are "the worst" isn't supported by the underlying customer data.</p>
+
+      <figure class="chart-figure">
+        <img src="chart-industry-comparison.png" alt="Horizontal bar chart comparing UK estate agents at 4.43 stars against 16 other industries. Agents lead." loading="lazy">
+      </figure>
+      <p class="chart-caption">UK estate agents (4.43★, our analysis) compared against DAC Group's 2022 cross-industry customer review benchmark study (16 sectors, US/Canada/Europe mixed cohort). Agents lead every other consumer-facing service tracked, including retail tied at 4.3★.</p>
+
+      <p style="margin-top:24px; color:#3b4257; font-size:16px; max-width:780px;">A caveat worth being honest about: estate agents handle far fewer transactions per year than restaurants or supermarkets, so the review volume isn't directly comparable. An office that lists 100 properties a year will never compete on review count with a restaurant serving 100 covers a day. The right way to read this chart isn't "agents collect more reviews than other industries" — they don't. It's "when an agent is judged, the verdict is stronger than nearly anyone else."</p>
+
+      <p style="margin-top:18px; color:#3b4257; font-size:16px; max-width:780px;">The follow-on question is the obvious one: if 85% of UK agents already rate 4★+, why does the industry's reputation in the wider public still lag the data? Two reasons. First, transaction-grade customer experiences are inherently rare — you list a property once every seven years on average — so personal experience builds slowly. Second, the loudest voices on social media and in tabloid coverage skew negative, while the satisfied majority quietly close their deal and move on. The Google reviews show what actually happened. The narrative shows what people remember.</p>
     </div>
   </section>
 
