@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-25T05:04:06.147163Z",
+ "updated": "2026-05-26T05:01:40.189807Z",
  "brand": "NEA (Northern Estate Agencies)",
  "offices": [
   {
@@ -21,17 +21,17 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T17:53:11",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 2249,
    "reviews_30d": 92,
-   "reviews_90d": 115,
-   "replies_90d": 55,
-   "reply_rate_90d": 47.82608695652174,
+   "reviews_90d": 97,
+   "replies_90d": 37,
+   "reply_rate_90d": 38.144329896907216,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 48% (90d)"
+     "Reply rate 38% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -45,7 +45,7 @@
     "platforms": {},
     "overallRating": 4.74,
     "totalReviews": 0,
-    "replyRate": 47.82608695652174
+    "replyRate": 38.144329896907216
    },
    "id": 251848,
    "name": "Manning Stainton (LS18)",
@@ -72,7 +72,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T12:24:09.117000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 167,
    "reviews_30d": 3,
    "reviews_90d": 24,
@@ -117,12 +117,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T15:53:54.640000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 133,
    "reviews_30d": 1,
-   "reviews_90d": 8,
-   "replies_90d": 6,
-   "reply_rate_90d": 75.0,
+   "reviews_90d": 6,
+   "replies_90d": 4,
+   "reply_rate_90d": 66.66666666666666,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -135,7 +135,7 @@
     "platforms": {},
     "overallRating": 4.82,
     "totalReviews": 0,
-    "replyRate": 75.0
+    "replyRate": 66.66666666666666
    },
    "id": 244001,
    "name": "Manning Stainton Beeston",
@@ -162,7 +162,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-19T04:48:33.967000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 192,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -207,14 +207,20 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-08T16:53:38.593000",
-   "days_since_review": 16,
+   "days_since_review": 17,
    "total_reviews": 130,
    "reviews_30d": 2,
-   "reviews_90d": 6,
-   "replies_90d": 4,
-   "reply_rate_90d": 66.66666666666666,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "reviews_90d": 3,
+   "replies_90d": 1,
+   "reply_rate_90d": 33.33333333333333,
+   "flags": [
+    [
+     "AMBER",
+     "reply_rate_low",
+     "Reply rate 33% (90d)"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": {
     "place_id": "ChIJo8MJT59DeUgR-NUS2ymRWKk",
     "rating": 4.9,
@@ -225,7 +231,7 @@
     "platforms": {},
     "overallRating": 4.94,
     "totalReviews": 0,
-    "replyRate": 66.66666666666666
+    "replyRate": 33.33333333333333
    },
    "id": 244003,
    "name": "Manning Stainton Garforth",
@@ -252,14 +258,20 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-12T00:03:40.407000",
-   "days_since_review": 13,
+   "days_since_review": 14,
    "total_reviews": 126,
    "reviews_30d": 2,
-   "reviews_90d": 6,
-   "replies_90d": 3,
-   "reply_rate_90d": 50.0,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "reviews_90d": 5,
+   "replies_90d": 2,
+   "reply_rate_90d": 40.0,
+   "flags": [
+    [
+     "AMBER",
+     "reply_rate_low",
+     "Reply rate 40% (90d)"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": {
     "place_id": "ChIJX3B7VOHie0gRuP5xgknsMm8",
     "rating": 4.9,
@@ -270,7 +282,7 @@
     "platforms": {},
     "overallRating": 4.84,
     "totalReviews": 0,
-    "replyRate": 50.0
+    "replyRate": 40.0
    },
    "id": 8790,
    "name": "Manning Stainton Guiseley",
@@ -297,7 +309,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-15T14:23:53.833000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 183,
    "reviews_30d": 3,
    "reviews_90d": 7,
@@ -342,7 +354,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T17:04:13.730000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 166,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -386,10 +398,10 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-05-23T08:58:04",
+   "last_review_at": "2026-05-24T17:53:11",
    "days_since_review": 1,
-   "total_reviews": 2065,
-   "reviews_30d": 88,
+   "total_reviews": 2066,
+   "reviews_30d": 89,
    "reviews_90d": 102,
    "replies_90d": 37,
    "reply_rate_90d": 36.27450980392157,
@@ -438,7 +450,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-01T00:11:36.790000",
-   "days_since_review": 24,
+   "days_since_review": 25,
    "total_reviews": 336,
    "reviews_30d": 1,
    "reviews_90d": 4,
@@ -478,7 +490,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-11T00:13:00.197000",
-   "days_since_review": 14,
+   "days_since_review": 15,
    "total_reviews": 388,
    "reviews_30d": 2,
    "reviews_90d": 5,
@@ -523,12 +535,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T10:29:19.447000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 724,
    "reviews_30d": 11,
-   "reviews_90d": 39,
-   "replies_90d": 27,
-   "reply_rate_90d": 69.23076923076923,
+   "reviews_90d": 34,
+   "replies_90d": 22,
+   "reply_rate_90d": 64.70588235294117,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -541,7 +553,7 @@
     "platforms": {},
     "overallRating": 4.88,
     "totalReviews": 0,
-    "replyRate": 69.23076923076923
+    "replyRate": 64.70588235294117
    },
    "id": 8843,
    "name": "Manning Stainton Pudsey",
@@ -568,7 +580,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-18T12:02:41.667000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 129,
    "reviews_30d": 1,
    "reviews_90d": 4,
@@ -613,7 +625,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-18T11:57:44.510000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 293,
    "reviews_30d": 8,
    "reviews_90d": 27,
@@ -658,7 +670,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-01T23:12:52.460000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 150,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -694,8 +706,8 @@
    "postcode": "LS12 4PQ",
    "lat": 53.7842,
    "lng": -1.59519,
-   "reputation_score": 80,
-   "rating": 4.87,
+   "reputation_score": 81,
+   "rating": 4.76,
    "nps": 0,
    "last_login_raw": null,
    "last_login_iso": null,
@@ -703,20 +715,20 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-19T00:05:34.273000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 211,
    "reviews_30d": 3,
-   "reviews_90d": 34,
+   "reviews_90d": 22,
    "replies_90d": 5,
-   "reply_rate_90d": 14.705882352941178,
+   "reply_rate_90d": 22.727272727272727,
    "flags": [
     [
-     "RED",
-     "reply_rate_very_low",
-     "Reply rate 15% (90d)"
+     "AMBER",
+     "reply_rate_low",
+     "Reply rate 23% (90d)"
     ]
    ],
-   "overall_rag": "RED",
+   "overall_rag": "AMBER",
    "google": {
     "place_id": "ChIJX_cQauReeUgR6OHxyI4FQZ4",
     "rating": 4.9,
@@ -725,15 +737,15 @@
    "platforms": null,
    "va": {
     "platforms": {},
-    "overallRating": 4.87,
+    "overallRating": 4.76,
     "totalReviews": 0,
-    "replyRate": 14.705882352941178
+    "replyRate": 22.727272727272727
    },
    "id": 8740,
    "name": "Manning Stainton Wortley",
    "totalReviews": 0,
    "googleScore": 4.9,
-   "score": 80
+   "score": 81
   },
   {
    "office_id": 225471,
@@ -754,7 +766,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-12T12:23:52.590000",
-   "days_since_review": 12,
+   "days_since_review": 13,
    "total_reviews": 317,
    "reviews_30d": 2,
    "reviews_90d": 5,
@@ -799,7 +811,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-28T13:49:01.080000",
-   "days_since_review": 26,
+   "days_since_review": 27,
    "total_reviews": 389,
    "reviews_30d": 1,
    "reviews_90d": 9,
@@ -844,7 +856,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-23T09:42:14.733000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 175,
    "reviews_30d": 5,
    "reviews_90d": 10,
@@ -889,7 +901,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:08:46",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 1728,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -940,7 +952,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-19T01:19:30.380000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 187,
    "reviews_30d": 2,
    "reviews_90d": 6,
@@ -977,7 +989,7 @@
    "lat": 53.6531,
    "lng": -1.81648,
    "reputation_score": 75,
-   "rating": 4.79,
+   "rating": 4.8,
    "nps": 0,
    "last_login_raw": null,
    "last_login_iso": null,
@@ -985,7 +997,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T13:19:37.477000",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 288,
    "reviews_30d": 10,
    "reviews_90d": 15,
@@ -1001,7 +1013,7 @@
    "platforms": null,
    "va": {
     "platforms": {},
-    "overallRating": 4.79,
+    "overallRating": 4.8,
     "totalReviews": 0,
     "replyRate": 80.0
    },
@@ -1029,18 +1041,18 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-05-18T09:59:05.663000",
-   "days_since_review": 6,
+   "last_review_at": "2026-05-19T01:18:50.903000",
+   "days_since_review": 7,
    "total_reviews": 397,
    "reviews_30d": 12,
-   "reviews_90d": 19,
-   "replies_90d": 8,
-   "reply_rate_90d": 42.10526315789473,
+   "reviews_90d": 17,
+   "replies_90d": 6,
+   "reply_rate_90d": 35.294117647058826,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 42% (90d)"
+     "Reply rate 35% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1054,7 +1066,7 @@
     "platforms": {},
     "overallRating": 4.9,
     "totalReviews": 0,
-    "replyRate": 42.10526315789473
+    "replyRate": 35.294117647058826
    },
    "id": 241794,
    "name": "Ryder & Dutton Rawtenstall",
@@ -1081,8 +1093,8 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-30T01:16:28.247000",
-   "days_since_review": 25,
-   "total_reviews": 186,
+   "days_since_review": 26,
+   "total_reviews": 187,
    "reviews_30d": 1,
    "reviews_90d": 5,
    "replies_90d": 5,
@@ -1126,7 +1138,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-27T22:28:37.677000",
-   "days_since_review": 58,
+   "days_since_review": 59,
    "total_reviews": 228,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -1178,17 +1190,17 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T22:32:04",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 5020,
    "reviews_30d": 82,
-   "reviews_90d": 130,
-   "replies_90d": 49,
-   "reply_rate_90d": 37.69230769230769,
+   "reviews_90d": 126,
+   "replies_90d": 46,
+   "reply_rate_90d": 36.507936507936506,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 38% (90d)"
+     "Reply rate 37% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1202,7 +1214,7 @@
     "platforms": {},
     "overallRating": 4.78,
     "totalReviews": 0,
-    "replyRate": 37.69230769230769
+    "replyRate": 36.507936507936506
    },
    "id": 9071,
    "name": "Ryder and Dutton",
@@ -1230,12 +1242,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T00:18:27.880000",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 680,
    "reviews_30d": 10,
-   "reviews_90d": 59,
-   "replies_90d": 38,
-   "reply_rate_90d": 64.40677966101694,
+   "reviews_90d": 58,
+   "replies_90d": 37,
+   "reply_rate_90d": 63.793103448275865,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -1248,7 +1260,7 @@
     "platforms": {},
     "overallRating": 4.81,
     "totalReviews": 0,
-    "replyRate": 64.40677966101694
+    "replyRate": 63.793103448275865
    },
    "id": 11417,
    "name": "Ryder and Dutton",
@@ -1275,18 +1287,18 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-05-23T22:16:25",
+   "last_review_at": "2026-05-24T22:32:04",
    "days_since_review": 1,
-   "total_reviews": 2935,
-   "reviews_30d": 83,
+   "total_reviews": 2936,
+   "reviews_30d": 84,
    "reviews_90d": 107,
-   "replies_90d": 37,
-   "reply_rate_90d": 34.57943925233645,
+   "replies_90d": 35,
+   "reply_rate_90d": 32.71028037383177,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 35% (90d)"
+     "Reply rate 33% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1300,7 +1312,7 @@
     "platforms": {},
     "overallRating": 4.79,
     "totalReviews": 0,
-    "replyRate": 34.57943925233645
+    "replyRate": 32.71028037383177
    },
    "id": 253137,
    "name": "Ryder and Dutton",
@@ -1328,7 +1340,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:08:46",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2380,
    "reviews_30d": 41,
    "reviews_90d": 68,
@@ -1380,7 +1392,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-18T13:17:39.077000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 403,
    "reviews_30d": 5,
    "reviews_90d": 15,
@@ -1426,7 +1438,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T22:32:04",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 3032,
    "reviews_30d": 85,
    "reviews_90d": 129,
@@ -1478,7 +1490,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-23T22:16:25",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 2261,
    "reviews_30d": 49,
    "reviews_90d": 83,
@@ -1530,7 +1542,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T22:32:04",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 4089,
    "reviews_30d": 123,
    "reviews_90d": 166,
@@ -1576,17 +1588,17 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T22:32:04",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 2051,
    "reviews_30d": 81,
-   "reviews_90d": 87,
+   "reviews_90d": 82,
    "replies_90d": 30,
-   "reply_rate_90d": 34.48275862068966,
+   "reply_rate_90d": 36.58536585365854,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 34% (90d)"
+     "Reply rate 37% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1600,7 +1612,7 @@
     "platforms": {},
     "overallRating": 4.74,
     "totalReviews": 0,
-    "replyRate": 34.48275862068966
+    "replyRate": 36.58536585365854
    },
    "id": 253140,
    "name": "Ryder and Dutton",
