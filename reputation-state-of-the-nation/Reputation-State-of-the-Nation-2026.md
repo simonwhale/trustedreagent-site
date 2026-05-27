@@ -121,22 +121,9 @@ From 19,239 estate agents with validated Google data:
 ## UK superlatives
 
 **Most-reviewed offices in the UK:**
-1. **Dexters (Kingston)** — 1,809 reviews, 4.9★
-2. Butters John Bee — 1,773 reviews, 4.7★
-3. HouseSimple — 1,739 reviews, 4.1★
-4. Jones Robinson — 1,737 reviews, 4.8★
-5. haart (Lincoln) — 1,729 reviews, 4.8★
+*Office-level rankings withheld pre-conference. Area-level rankings available in the postcode-area league section above.*
 
-**Highest-rated offices with 100+ reviews:**
-1. Gino's Estate Agents (Nailsea) — 5.00★ / 190 reviews
-2. Property Personnel — 5.00★ / 184 reviews
-3. WR Estate Agents (Worcestershire) — 5.00★ / 184 reviews
-4. London HomeMoves — 5.00★ / 170 reviews
-5. Landmark Residential — 5.00★ / 169 reviews
 
-**Britain's lowest-rated estate agent** (100+ reviews): a single agent at 1.37★ across 148 reviews. We've held the name back pending a final fairness review — happy to share for editorial purposes.
-
----
 
 ## Five PR-ready angles for the trade press
 
@@ -148,7 +135,6 @@ From 19,239 estate agents with validated Google data:
 
 4. **"Half of UK estate agents ignore their reviews"** — 47% reply to fewer than half of their Google reviews. Replying isn't just etiquette: high-reply-rate agents have lower withdrawal rates and tend to carry higher overall ratings. (*Estate Agent Today / industry consultancy media*)
 
-5. **"Britain's most reviewed office: Dexters Kingston, 1,809 reviews at 4.9★"** — and Britain's lowest-rated, at 1.37★. (*London Evening Standard / regional press*)
 
 ---
 
