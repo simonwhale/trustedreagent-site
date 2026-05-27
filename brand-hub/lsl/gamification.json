@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-26T05:01:40.189807Z",
+ "updated": "2026-05-27T05:04:55.334249Z",
  "brand": "LSL",
  "offices": [
   {
@@ -21,7 +21,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T08:02:30.300000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 98,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -66,7 +66,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T00:07:00.687000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 160,
    "reviews_30d": 0,
    "reviews_90d": 29,
@@ -111,7 +111,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T08:02:37.410000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 351,
    "reviews_30d": 0,
    "reviews_90d": 20,
@@ -156,7 +156,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T08:02:44.750000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 486,
    "reviews_30d": 0,
    "reviews_90d": 12,
@@ -207,7 +207,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T08:02:51.830000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 388,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -258,7 +258,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T14:03:54.817000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 316,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -309,7 +309,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2017-01-05T00:44:38",
-   "days_since_review": 3428,
+   "days_since_review": 3429,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -319,7 +319,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3428d"
+     "No review for 3429d"
     ],
     [
      "RED",
@@ -360,7 +360,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-16T08:04:12.157000",
-   "days_since_review": 98,
+   "days_since_review": 99,
    "total_reviews": 67,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -370,7 +370,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 98d"
+     "No review for 99d"
     ],
     [
      "AMBER",
@@ -416,7 +416,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T08:04:19.193000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 462,
    "reviews_30d": 0,
    "reviews_90d": 15,
@@ -468,7 +468,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 815,
    "reviews_30d": 4,
    "reviews_90d": 18,
@@ -525,7 +525,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 556,
    "reviews_30d": 4,
    "reviews_90d": 26,
@@ -570,13 +570,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-17T13:16:24.313000",
-   "days_since_review": 38,
-   "total_reviews": 800,
-   "reviews_30d": 0,
-   "reviews_90d": 24,
+   "last_review_at": "2026-05-26T20:10:50",
+   "days_since_review": 0,
+   "total_reviews": 811,
+   "reviews_30d": 6,
+   "reviews_90d": 33,
    "replies_90d": 20,
-   "reply_rate_90d": 83.33333333333334,
+   "reply_rate_90d": 60.60606060606061,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -589,7 +589,7 @@
     "platforms": {},
     "overallRating": 3.6,
     "totalReviews": 0,
-    "replyRate": 83.33333333333334
+    "replyRate": 60.60606060606061
    },
    "id": 257848,
    "name": "Entwistle Green Bolton Sales",
@@ -617,7 +617,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 479,
    "reviews_30d": 4,
    "reviews_90d": 17,
@@ -668,13 +668,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-16T21:21:33.350000",
-   "days_since_review": 39,
-   "total_reviews": 866,
-   "reviews_30d": 0,
-   "reviews_90d": 33,
+   "last_review_at": "2026-05-26T20:10:50",
+   "days_since_review": 0,
+   "total_reviews": 883,
+   "reviews_30d": 6,
+   "reviews_90d": 42,
    "replies_90d": 31,
-   "reply_rate_90d": 93.93939393939394,
+   "reply_rate_90d": 73.80952380952381,
    "flags": [
     [
      "AMBER",
@@ -693,7 +693,7 @@
     "platforms": {},
     "overallRating": 3.48,
     "totalReviews": 0,
-    "replyRate": 93.93939393939394
+    "replyRate": 73.80952380952381
    },
    "id": 257920,
    "name": "Entwistle Green Crosby Sales",
@@ -720,11 +720,11 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-19T11:25:54",
-   "days_since_review": 67,
-   "total_reviews": 836,
-   "reviews_30d": 0,
-   "reviews_90d": 2,
+   "last_review_at": "2026-05-26T20:10:50",
+   "days_since_review": 0,
+   "total_reviews": 847,
+   "reviews_30d": 6,
+   "reviews_90d": 11,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
    "flags": [
@@ -777,7 +777,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 344,
    "reviews_30d": 4,
    "reviews_90d": 9,
@@ -835,7 +835,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 1155,
    "reviews_30d": 4,
    "reviews_90d": 38,
@@ -880,7 +880,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 396,
    "reviews_30d": 4,
    "reviews_90d": 9,
@@ -936,15 +936,21 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-23T21:46:54.993000",
-   "days_since_review": 63,
-   "total_reviews": 557,
-   "reviews_30d": 0,
-   "reviews_90d": 11,
+   "last_review_at": "2026-05-26T20:10:50",
+   "days_since_review": 0,
+   "total_reviews": 574,
+   "reviews_30d": 6,
+   "reviews_90d": 20,
    "replies_90d": 9,
-   "reply_rate_90d": 81.81818181818183,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "reply_rate_90d": 45.0,
+   "flags": [
+    [
+     "AMBER",
+     "reply_rate_low",
+     "Reply rate 45% (90d)"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": {
     "place_id": "ChIJaRH7NjAhe0gRNtnTuYT57PU",
     "rating": 4.6,
@@ -955,7 +961,7 @@
     "platforms": {},
     "overallRating": 2.45,
     "totalReviews": 0,
-    "replyRate": 81.81818181818183
+    "replyRate": 45.0
    },
    "id": 257922,
    "name": "Entwistle Green Liverpool City Sales",
@@ -982,13 +988,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-02T08:03:28.793000",
-   "days_since_review": 53,
-   "total_reviews": 704,
-   "reviews_30d": 0,
-   "reviews_90d": 18,
+   "last_review_at": "2026-05-26T20:10:50",
+   "days_since_review": 0,
+   "total_reviews": 723,
+   "reviews_30d": 6,
+   "reviews_90d": 29,
    "replies_90d": 18,
-   "reply_rate_90d": 100.0,
+   "reply_rate_90d": 62.06896551724138,
    "flags": [
     [
      "AMBER",
@@ -1007,7 +1013,7 @@
     "platforms": {},
     "overallRating": 2.43,
     "totalReviews": 0,
-    "replyRate": 100.0
+    "replyRate": 62.06896551724138
    },
    "id": 257923,
    "name": "Entwistle Green Maghull Sales",
@@ -1034,7 +1040,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 330,
    "reviews_30d": 4,
    "reviews_90d": 13,
@@ -1091,7 +1097,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 645,
    "reviews_30d": 4,
    "reviews_90d": 9,
@@ -1147,7 +1153,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T11:51:23",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 259,
    "reviews_30d": 4,
    "reviews_90d": 9,
@@ -1203,7 +1209,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-20T10:36:59",
-   "days_since_review": 66,
+   "days_since_review": 67,
    "total_reviews": 1837,
    "reviews_30d": 0,
    "reviews_90d": 20,
@@ -1259,7 +1265,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2017-11-19T09:25:34",
-   "days_since_review": 3109,
+   "days_since_review": 3110,
    "total_reviews": 12,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1269,7 +1275,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3109d"
+     "No review for 3110d"
     ],
     [
      "RED",
@@ -1311,7 +1317,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-20T10:36:59",
-   "days_since_review": 66,
+   "days_since_review": 67,
    "total_reviews": 2151,
    "reviews_30d": 0,
    "reviews_90d": 24,
@@ -1356,7 +1362,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-10T17:40:14.440000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 2071,
    "reviews_30d": 0,
    "reviews_90d": 22,
@@ -1412,7 +1418,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2017-03-15T20:31:06",
-   "days_since_review": 3358,
+   "days_since_review": 3359,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1422,7 +1428,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3358d"
+     "No review for 3359d"
     ],
     [
      "RED",
@@ -1468,7 +1474,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2015-03-30T17:11:19",
-   "days_since_review": 4074,
+   "days_since_review": 4075,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1478,7 +1484,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 4074d"
+     "No review for 4075d"
     ],
     [
      "RED",
@@ -1524,7 +1530,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T17:40:31.100000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 2174,
    "reviews_30d": 0,
    "reviews_90d": 38,
@@ -1576,7 +1582,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2075,
    "reviews_30d": 40,
    "reviews_90d": 63,
@@ -1627,7 +1633,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-08-19T17:25:00",
-   "days_since_review": 1010,
+   "days_since_review": 1011,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1637,7 +1643,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1010d"
+     "No review for 1011d"
     ],
     [
      "RED",
@@ -1683,7 +1689,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T22:33:14.840000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 140,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -1734,7 +1740,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2236,
    "reviews_30d": 40,
    "reviews_90d": 40,
@@ -1782,7 +1788,7 @@
    "lat": 52.9239,
    "lng": -1.47717,
    "reputation_score": 60,
-   "rating": 3.69,
+   "rating": 3.7,
    "nps": 0,
    "last_login_raw": null,
    "last_login_iso": null,
@@ -1790,7 +1796,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T16:26:45",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 1860,
    "reviews_30d": 50,
    "reviews_90d": 58,
@@ -1813,7 +1819,7 @@
    "platforms": null,
    "va": {
     "platforms": {},
-    "overallRating": 3.69,
+    "overallRating": 3.7,
     "totalReviews": 0,
     "replyRate": 1.7241379310344827
    },
@@ -1842,7 +1848,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 4376,
    "reviews_30d": 40,
    "reviews_90d": 90,
@@ -1898,7 +1904,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T07:54:32.870000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 223,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -1943,7 +1949,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-15T22:33:27.577000",
-   "days_since_review": 71,
+   "days_since_review": 72,
    "total_reviews": 289,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -1988,7 +1994,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T07:54:46.897000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 266,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -2039,13 +2045,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-13T13:13:18.850000",
-   "days_since_review": 42,
-   "total_reviews": 2370,
-   "reviews_30d": 0,
-   "reviews_90d": 37,
-   "replies_90d": 24,
-   "reply_rate_90d": 64.86486486486487,
+   "last_review_at": "2026-05-25T16:26:45",
+   "days_since_review": 1,
+   "total_reviews": 2404,
+   "reviews_30d": 40,
+   "reviews_90d": 76,
+   "replies_90d": 55,
+   "reply_rate_90d": 72.36842105263158,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -2058,7 +2064,7 @@
     "platforms": {},
     "overallRating": 3.66,
     "totalReviews": 0,
-    "replyRate": 64.86486486486487
+    "replyRate": 72.36842105263158
    },
    "id": 258212,
    "name": "Reeds Rains Sheffield City Living",
@@ -2085,7 +2091,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 1994,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -2141,7 +2147,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:27:48.547000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 206,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -2188,7 +2194,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T22:33:57.200000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 4343,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -2246,7 +2252,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T16:26:45",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 4949,
    "reviews_30d": 80,
    "reviews_90d": 129,
@@ -2297,7 +2303,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T22:05:36.477000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 201,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -2350,7 +2356,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T15:25:00",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 4770,
    "reviews_30d": 0,
    "reviews_90d": 54,
@@ -2406,7 +2412,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T16:24:26.010000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 248,
    "reviews_30d": 0,
    "reviews_90d": 9,
@@ -2451,7 +2457,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-17T10:41:45",
-   "days_since_review": 8,
+   "days_since_review": 9,
    "total_reviews": 304,
    "reviews_30d": 2,
    "reviews_90d": 10,
@@ -2498,7 +2504,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T16:26:45",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 4564,
    "reviews_30d": 40,
    "reviews_90d": 75,
@@ -2550,7 +2556,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T09:34:25",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2492,
    "reviews_30d": 40,
    "reviews_90d": 53,
@@ -2601,7 +2607,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T22:34:10.703000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 118,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -2647,7 +2653,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T20:30:19.447000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 2177,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -2692,7 +2698,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-15T22:34:20.877000",
-   "days_since_review": 71,
+   "days_since_review": 72,
    "total_reviews": 182,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -2745,7 +2751,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T15:25:44.587000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 4487,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -2785,7 +2791,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-22T19:17:45.720000",
-   "days_since_review": 64,
+   "days_since_review": 65,
    "total_reviews": 234,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -2831,7 +2837,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T22:34:46.317000",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 2209,
    "reviews_30d": 0,
    "reviews_90d": 26,
@@ -2882,7 +2888,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T22:36:57.637000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 213,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -2928,7 +2934,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2403,
    "reviews_30d": 40,
    "reviews_90d": 62,
@@ -2980,7 +2986,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-22T06:43:04.577000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 1944,
    "reviews_30d": 0,
    "reviews_90d": 27,
@@ -3037,7 +3043,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T16:04:06.213000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 2463,
    "reviews_30d": 0,
    "reviews_90d": 14,
@@ -3083,7 +3089,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2286,
    "reviews_30d": 40,
    "reviews_90d": 61,
@@ -3134,7 +3140,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-31T08:38:49.843000",
-   "days_since_review": 55,
+   "days_since_review": 56,
    "total_reviews": 418,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -3179,7 +3185,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T16:58:48.027000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 170,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -3226,7 +3232,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 3928,
    "reviews_30d": 40,
    "reviews_90d": 82,
@@ -3277,7 +3283,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T17:06:04.563000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 227,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -3322,7 +3328,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T20:13:16.613000",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 128,
    "reviews_30d": 0,
    "reviews_90d": 14,
@@ -3368,7 +3374,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T09:34:25",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2028,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -3420,7 +3426,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T22:10:33.263000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 2388,
    "reviews_30d": 0,
    "reviews_90d": 30,
@@ -3471,7 +3477,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-03-14T23:50:00",
-   "days_since_review": 1168,
+   "days_since_review": 1169,
    "total_reviews": 6,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -3481,7 +3487,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1168d"
+     "No review for 1169d"
     ],
     [
      "AMBER",
@@ -3524,7 +3530,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T15:25:32.237000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 4079,
    "reviews_30d": 0,
    "reviews_90d": 26,
@@ -3570,21 +3576,15 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-20T10:36:59",
-   "days_since_review": 66,
-   "total_reviews": 4274,
-   "reviews_30d": 0,
-   "reviews_90d": 44,
-   "replies_90d": 20,
-   "reply_rate_90d": 45.45454545454545,
-   "flags": [
-    [
-     "AMBER",
-     "reply_rate_low",
-     "Reply rate 45% (90d)"
-    ]
-   ],
-   "overall_rag": "AMBER",
+   "last_review_at": "2026-05-25T16:26:45",
+   "days_since_review": 1,
+   "total_reviews": 4308,
+   "reviews_30d": 40,
+   "reviews_90d": 83,
+   "replies_90d": 51,
+   "reply_rate_90d": 61.44578313253012,
+   "flags": [],
+   "overall_rag": "GREEN",
    "google": {
     "place_id": "ChIJ-RUoLPzdcEgRprjON2u5378",
     "rating": 4.7,
@@ -3595,7 +3595,7 @@
     "platforms": {},
     "overallRating": 4.61,
     "totalReviews": 0,
-    "replyRate": 45.45454545454545
+    "replyRate": 61.44578313253012
    },
    "id": 243736,
    "name": "Reeds Rains, Evesham",
@@ -3624,7 +3624,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T16:00:57.173000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 4178,
    "reviews_30d": 0,
    "reviews_90d": 28,
@@ -3670,7 +3670,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T17:49:57.040000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 2041,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -3717,7 +3717,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-17T15:51:00.923000",
-   "days_since_review": 38,
+   "days_since_review": 39,
    "total_reviews": 4184,
    "reviews_30d": 0,
    "reviews_90d": 51,
@@ -3769,7 +3769,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T18:57:04",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 244,
    "reviews_30d": 0,
    "reviews_90d": 20,
@@ -3821,7 +3821,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T15:24:21.683000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 390,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -3867,7 +3867,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2391,
    "reviews_30d": 40,
    "reviews_90d": 72,
@@ -3918,7 +3918,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T08:09:20.023000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 104,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -3963,7 +3963,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T16:44:56.963000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 218,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -4008,21 +4008,15 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-01T22:35:49.620000",
-   "days_since_review": 54,
-   "total_reviews": 2081,
-   "reviews_30d": 0,
-   "reviews_90d": 21,
-   "replies_90d": 8,
-   "reply_rate_90d": 38.095238095238095,
-   "flags": [
-    [
-     "AMBER",
-     "reply_rate_low",
-     "Reply rate 38% (90d)"
-    ]
-   ],
-   "overall_rag": "AMBER",
+   "last_review_at": "2026-05-25T16:26:45",
+   "days_since_review": 1,
+   "total_reviews": 2115,
+   "reviews_30d": 40,
+   "reviews_90d": 61,
+   "replies_90d": 39,
+   "reply_rate_90d": 63.934426229508205,
+   "flags": [],
+   "overall_rag": "GREEN",
    "google": {
     "place_id": "ChIJk8qxuCpoekgRf0Bf1dOQzJk",
     "rating": 4.1,
@@ -4033,7 +4027,7 @@
     "platforms": {},
     "overallRating": 4.14,
     "totalReviews": 0,
-    "replyRate": 38.095238095238095
+    "replyRate": 63.934426229508205
    },
    "id": 243742,
    "name": "Reeds Rains, Hanley",
@@ -4060,7 +4054,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T19:28:06.253000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 234,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -4105,7 +4099,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T18:20:36.180000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 273,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -4150,7 +4144,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-31T08:10:03.903000",
-   "days_since_review": 55,
+   "days_since_review": 56,
    "total_reviews": 55,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -4196,7 +4190,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-25T22:37:32.077000",
-   "days_since_review": 61,
+   "days_since_review": 62,
    "total_reviews": 285,
    "reviews_30d": 0,
    "reviews_90d": 9,
@@ -4242,7 +4236,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2173,
    "reviews_30d": 40,
    "reviews_90d": 57,
@@ -4293,7 +4287,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-22T16:33:05.737000",
-   "days_since_review": 64,
+   "days_since_review": 65,
    "total_reviews": 105,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -4339,7 +4333,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T17:36:40.363000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 2257,
    "reviews_30d": 0,
    "reviews_90d": 31,
@@ -4379,7 +4373,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-17T16:54:51.403000",
-   "days_since_review": 38,
+   "days_since_review": 39,
    "total_reviews": 312,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -4424,7 +4418,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-13T18:20:08.010000",
-   "days_since_review": 101,
+   "days_since_review": 102,
    "total_reviews": 251,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4434,7 +4428,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 101d"
+     "No review for 102d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -4476,7 +4470,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-20T10:36:59",
-   "days_since_review": 66,
+   "days_since_review": 67,
    "total_reviews": 2026,
    "reviews_30d": 0,
    "reviews_90d": 20,
@@ -4532,19 +4526,14 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-13T18:57:04",
-   "days_since_review": 73,
-   "total_reviews": 2099,
-   "reviews_30d": 0,
-   "reviews_90d": 20,
-   "replies_90d": 8,
-   "reply_rate_90d": 40.0,
+   "last_review_at": "2026-05-25T16:26:45",
+   "days_since_review": 1,
+   "total_reviews": 2133,
+   "reviews_30d": 40,
+   "reviews_90d": 59,
+   "replies_90d": 39,
+   "reply_rate_90d": 66.10169491525424,
    "flags": [
-    [
-     "AMBER",
-     "reply_rate_low",
-     "Reply rate 40% (90d)"
-    ],
     [
      "AMBER",
      "rep_score_med",
@@ -4562,7 +4551,7 @@
     "platforms": {},
     "overallRating": 4.89,
     "totalReviews": 0,
-    "replyRate": 40.0
+    "replyRate": 66.10169491525424
    },
    "id": 3756,
    "name": "Reeds Rains, Kenilworth",
@@ -4590,7 +4579,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-23T13:01:07",
-   "days_since_review": 153,
+   "days_since_review": 154,
    "total_reviews": 1896,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4600,7 +4589,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 153d"
+     "No review for 154d"
     ],
     [
      "AMBER",
@@ -4646,7 +4635,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-12T17:49:29.247000",
-   "days_since_review": 43,
+   "days_since_review": 44,
    "total_reviews": 123,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -4699,7 +4688,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-22T07:25:22.953000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 4720,
    "reviews_30d": 0,
    "reviews_90d": 51,
@@ -4751,7 +4740,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-17T14:38:54.567000",
-   "days_since_review": 38,
+   "days_since_review": 39,
    "total_reviews": 2064,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -4808,7 +4797,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2299,
    "reviews_30d": 40,
    "reviews_90d": 48,
@@ -4864,7 +4853,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T18:19:59.473000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 418,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -4910,7 +4899,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T22:40:23.690000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 443,
    "reviews_30d": 0,
    "reviews_90d": 34,
@@ -4955,7 +4944,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T17:00:10.620000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 591,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -5001,7 +4990,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-01-14T08:11:44.253000",
-   "days_since_review": 131,
+   "days_since_review": 132,
    "total_reviews": 101,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -5011,7 +5000,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 131d"
+     "No review for 132d"
     ],
     [
      "AMBER",
@@ -5057,7 +5046,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-11-14T14:09:00",
-   "days_since_review": 923,
+   "days_since_review": 924,
    "total_reviews": 3,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -5067,7 +5056,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 923d"
+     "No review for 924d"
     ],
     [
      "RED",
@@ -5110,7 +5099,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 3978,
    "reviews_30d": 40,
    "reviews_90d": 48,
@@ -5163,7 +5152,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T16:26:45",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 3946,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -5219,7 +5208,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T08:11:59.963000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 164,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -5266,7 +5255,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2526,
    "reviews_30d": 40,
    "reviews_90d": 71,
@@ -5319,7 +5308,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T16:26:45",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 5048,
    "reviews_30d": 40,
    "reviews_90d": 101,
@@ -5370,7 +5359,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T19:21:35.860000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 97,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -5415,7 +5404,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-24T08:12:29.260000",
-   "days_since_review": 62,
+   "days_since_review": 63,
    "total_reviews": 301,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -5460,7 +5449,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:21:42.683000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 229,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -5505,13 +5494,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-17T21:51:06.110000",
-   "days_since_review": 69,
-   "total_reviews": 2089,
-   "reviews_30d": 0,
-   "reviews_90d": 24,
-   "replies_90d": 12,
-   "reply_rate_90d": 50.0,
+   "last_review_at": "2026-05-25T16:26:45",
+   "days_since_review": 1,
+   "total_reviews": 2123,
+   "reviews_30d": 40,
+   "reviews_90d": 63,
+   "replies_90d": 43,
+   "reply_rate_90d": 68.25396825396825,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -5524,7 +5513,7 @@
     "platforms": {},
     "overallRating": 4.76,
     "totalReviews": 0,
-    "replyRate": 50.0
+    "replyRate": 68.25396825396825
    },
    "id": 243762,
    "name": "Reeds Rains, Portishead",
@@ -5551,7 +5540,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T17:48:46.003000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 238,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -5596,7 +5585,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-14T08:12:48.980000",
-   "days_since_review": 100,
+   "days_since_review": 101,
    "total_reviews": 47,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -5606,7 +5595,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 100d"
+     "No review for 101d"
     ],
     [
      "AMBER",
@@ -5653,7 +5642,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2201,
    "reviews_30d": 40,
    "reviews_90d": 44,
@@ -5705,7 +5694,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2421,
    "reviews_30d": 40,
    "reviews_90d": 63,
@@ -5751,7 +5740,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-07-29T23:21:37.413000",
-   "days_since_review": 2492,
+   "days_since_review": 2493,
    "total_reviews": 47,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -5761,7 +5750,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2492d"
+     "No review for 2493d"
     ],
     [
      "RED",
@@ -5807,7 +5796,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T07:55:11.667000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 111,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -5852,18 +5841,18 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-06T17:04:12.960000",
-   "days_since_review": 49,
-   "total_reviews": 2062,
-   "reviews_30d": 0,
-   "reviews_90d": 23,
-   "replies_90d": 11,
-   "reply_rate_90d": 47.82608695652174,
+   "last_review_at": "2026-05-25T01:06:41",
+   "days_since_review": 2,
+   "total_reviews": 2069,
+   "reviews_30d": 7,
+   "reviews_90d": 30,
+   "replies_90d": 12,
+   "reply_rate_90d": 40.0,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 48% (90d)"
+     "Reply rate 40% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5877,7 +5866,7 @@
     "platforms": {},
     "overallRating": 4.54,
     "totalReviews": 0,
-    "replyRate": 47.82608695652174
+    "replyRate": 40.0
    },
    "id": 9165,
    "name": "Reeds Rains, Sale",
@@ -5904,7 +5893,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-12T17:04:22",
-   "days_since_review": 43,
+   "days_since_review": 44,
    "total_reviews": 247,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -5949,7 +5938,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-22T17:55:25.343000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 417,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -5994,7 +5983,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:27:30.370000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 347,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -6040,7 +6029,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T13:38:11",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2266,
    "reviews_30d": 40,
    "reviews_90d": 67,
@@ -6092,7 +6081,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T15:24:42.140000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 2099,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -6137,7 +6126,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T19:17:42.817000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 510,
    "reviews_30d": 0,
    "reviews_90d": 13,
@@ -6182,7 +6171,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-12-21T00:00:01",
-   "days_since_review": 887,
+   "days_since_review": 888,
    "total_reviews": 5,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6192,7 +6181,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 887d"
+     "No review for 888d"
     ],
     [
      "RED",
@@ -6238,7 +6227,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T22:47:14.593000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 303,
    "reviews_30d": 0,
    "reviews_90d": 14,
@@ -6283,7 +6272,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:20:43.377000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 226,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -6329,7 +6318,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-03-28T10:44:04.373000",
-   "days_since_review": 788,
+   "days_since_review": 789,
    "total_reviews": 110,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6339,7 +6328,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 788d"
+     "No review for 789d"
     ],
     [
      "AMBER",
@@ -6380,7 +6369,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T22:33:47.627000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 172,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -6425,7 +6414,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T07:55:59.217000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 296,
    "reviews_30d": 0,
    "reviews_90d": 18,
@@ -6471,7 +6460,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T09:34:25",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 2407,
    "reviews_30d": 40,
    "reviews_90d": 63,
@@ -6522,7 +6511,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T22:13:02.087000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 158,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -6567,7 +6556,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-13T16:57:33.827000",
-   "days_since_review": 101,
+   "days_since_review": 102,
    "total_reviews": 32,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6577,7 +6566,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 101d"
+     "No review for 102d"
     ],
     [
      "RED",
@@ -6623,7 +6612,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T19:27:04.480000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 277,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -6676,7 +6665,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-18T13:24:47",
-   "days_since_review": 7,
+   "days_since_review": 8,
    "total_reviews": 442,
    "reviews_30d": 17,
    "reviews_90d": 48,
@@ -6728,7 +6717,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T19:03:16.593000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 135,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -6774,7 +6763,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-04-16T19:01:55.873000",
-   "days_since_review": 404,
+   "days_since_review": 405,
    "total_reviews": 191,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6784,7 +6773,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 404d"
+     "No review for 405d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6821,7 +6810,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T19:02:09.557000",
-   "days_since_review": 41,
+   "days_since_review": 42,
    "total_reviews": 351,
    "reviews_30d": 0,
    "reviews_90d": 12,
@@ -6867,7 +6856,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-20T18:56:23.080000",
-   "days_since_review": 35,
+   "days_since_review": 36,
    "total_reviews": 578,
    "reviews_30d": 0,
    "reviews_90d": 28,
@@ -6913,7 +6902,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-26T19:02:36.987000",
-   "days_since_review": 60,
+   "days_since_review": 61,
    "total_reviews": 163,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -6959,7 +6948,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T19:02:53.890000",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 257,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -7005,7 +6994,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T22:03:06.650000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 307,
    "reviews_30d": 0,
    "reviews_90d": 30,
@@ -7051,11 +7040,11 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-22T16:40:15.190000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 633,
    "reviews_30d": 0,
-   "reviews_90d": 25,
-   "replies_90d": 25,
+   "reviews_90d": 20,
+   "replies_90d": 20,
    "reply_rate_90d": 100.0,
    "flags": [],
    "overall_rag": "GREEN",
@@ -7097,7 +7086,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T22:25:00.460000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 411,
    "reviews_30d": 0,
    "reviews_90d": 25,
@@ -7143,7 +7132,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-26T19:03:24.997000",
-   "days_since_review": 60,
+   "days_since_review": 61,
    "total_reviews": 368,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -7188,7 +7177,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:03:47.087000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 39,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -7240,7 +7229,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:04:02.203000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 106,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -7291,7 +7280,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:04:18",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 40,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -7342,7 +7331,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-03-24T11:34:28.787000",
-   "days_since_review": 792,
+   "days_since_review": 793,
    "total_reviews": 18,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -7352,7 +7341,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 792d"
+     "No review for 793d"
     ],
     [
      "RED",
@@ -7394,7 +7383,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-09-03T20:10:29.343000",
-   "days_since_review": 264,
+   "days_since_review": 265,
    "total_reviews": 32,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -7404,7 +7393,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 264d"
+     "No review for 265d"
     ],
     [
      "AMBER",
@@ -7451,7 +7440,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T19:05:56.430000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 698,
    "reviews_30d": 0,
    "reviews_90d": 30,
@@ -7497,7 +7486,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T19:06:05.753000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 495,
    "reviews_30d": 0,
    "reviews_90d": 9,
@@ -7543,7 +7532,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T19:06:13.973000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 241,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -7589,7 +7578,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T19:06:22.690000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 452,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -7634,7 +7623,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T09:05:48.973000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 476,
    "reviews_30d": 0,
    "reviews_90d": 19,
@@ -7675,7 +7664,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-26T19:06:30.483000",
-   "days_since_review": 60,
+   "days_since_review": 61,
    "total_reviews": 396,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -7721,7 +7710,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-10T19:06:37.387000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 172,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -7765,7 +7754,7 @@
    "postcode": "BD17 6LX",
    "lat": 53.853359,
    "lng": -1.765658,
-   "reputation_score": 70,
+   "reputation_score": 71,
    "rating": 4.59,
    "nps": 0,
    "last_login_raw": null,
@@ -7774,7 +7763,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T11:08:09",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 302,
    "reviews_30d": 37,
    "reviews_90d": 60,
@@ -7804,7 +7793,7 @@
    "name": "YOUR MOVE Roebuck Residential Lettings",
    "totalReviews": 0,
    "googleScore": 4.6,
-   "score": 70
+   "score": 71
   },
   {
    "office_id": 254496,
@@ -7826,7 +7815,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T19:07:18.500000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 421,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -7871,7 +7860,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T19:07:08.410000",
-   "days_since_review": 41,
+   "days_since_review": 42,
    "total_reviews": 189,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -7922,7 +7911,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-07-29T23:15:45.407000",
-   "days_since_review": 2492,
+   "days_since_review": 2493,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -7932,7 +7921,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2492d"
+     "No review for 2493d"
     ],
     [
      "RED",
@@ -7978,7 +7967,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-08-26T00:00:00",
-   "days_since_review": 2099,
+   "days_since_review": 2100,
    "total_reviews": 22,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -7988,7 +7977,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2099d"
+     "No review for 2100d"
     ],
     [
      "RED",
@@ -8029,12 +8018,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T16:05:19.313000",
-   "days_since_review": 3,
-   "total_reviews": 266,
-   "reviews_30d": 3,
-   "reviews_90d": 14,
-   "replies_90d": 13,
-   "reply_rate_90d": 92.85714285714286,
+   "days_since_review": 4,
+   "total_reviews": 294,
+   "reviews_30d": 8,
+   "reviews_90d": 39,
+   "replies_90d": 34,
+   "reply_rate_90d": 87.17948717948718,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -8047,7 +8036,7 @@
     "platforms": {},
     "overallRating": 4.77,
     "totalReviews": 0,
-    "replyRate": 92.85714285714286
+    "replyRate": 87.17948717948718
    },
    "id": 741,
    "name": "Your Move (BA3)",
@@ -8074,7 +8063,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-01-09T00:00:00",
-   "days_since_review": 2329,
+   "days_since_review": 2330,
    "total_reviews": 16,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8084,7 +8073,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2329d"
+     "No review for 2330d"
     ],
     [
      "RED",
@@ -8118,7 +8107,7 @@
    "lat": 53.5936,
    "lng": -2.29663,
    "reputation_score": 81,
-   "rating": 4.68,
+   "rating": 4.69,
    "nps": 0,
    "last_login_raw": null,
    "last_login_iso": null,
@@ -8126,7 +8115,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-23T12:04:16.180000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 478,
    "reviews_30d": 30,
    "reviews_90d": 52,
@@ -8144,7 +8133,7 @@
    "platforms": null,
    "va": {
     "platforms": {},
-    "overallRating": 4.68,
+    "overallRating": 4.69,
     "totalReviews": 0,
     "replyRate": 44.230769230769226
    },
@@ -8172,7 +8161,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-10-02T00:00:00",
-   "days_since_review": 2428,
+   "days_since_review": 2429,
    "total_reviews": 31,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8182,7 +8171,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2428d"
+     "No review for 2429d"
     ],
     [
      "RED",
@@ -8223,7 +8212,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-01-16T09:23:20",
-   "days_since_review": 494,
+   "days_since_review": 495,
    "total_reviews": 39,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8233,7 +8222,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 494d"
+     "No review for 495d"
     ],
     [
      "RED",
@@ -8279,7 +8268,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T03:04:35.200000",
-   "days_since_review": 71,
+   "days_since_review": 72,
    "total_reviews": 2040,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -8330,7 +8319,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-03-05T00:00:00",
-   "days_since_review": 2273,
+   "days_since_review": 2274,
    "total_reviews": 26,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8340,7 +8329,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2273d"
+     "No review for 2274d"
     ],
     [
      "AMBER",
@@ -8381,7 +8370,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2018-03-03T00:00:00",
-   "days_since_review": 3006,
+   "days_since_review": 3007,
    "total_reviews": 7,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8391,7 +8380,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3006d"
+     "No review for 3007d"
     ],
     [
      "RED",
@@ -8432,7 +8421,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-01T15:59:27.570000",
-   "days_since_review": 54,
+   "days_since_review": 55,
    "total_reviews": 146,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -8477,7 +8466,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T18:58:39.143000",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 59,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -8528,7 +8517,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-19T16:34:07.257000",
-   "days_since_review": 36,
+   "days_since_review": 37,
    "total_reviews": 299,
    "reviews_30d": 0,
    "reviews_90d": 12,
@@ -8573,7 +8562,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-03-31T21:36:14.823000",
-   "days_since_review": 1151,
+   "days_since_review": 1152,
    "total_reviews": 24,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8583,7 +8572,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1151d"
+     "No review for 1152d"
     ],
     [
      "RED",
@@ -8624,7 +8613,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-07-28T00:00:00",
-   "days_since_review": 1763,
+   "days_since_review": 1764,
    "total_reviews": 72,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8634,7 +8623,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1763d"
+     "No review for 1764d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -8670,7 +8659,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 6,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8680,7 +8669,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "RED",
@@ -8721,7 +8710,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-07-10T00:00:00",
-   "days_since_review": 2146,
+   "days_since_review": 2147,
    "total_reviews": 47,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8731,7 +8720,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2146d"
+     "No review for 2147d"
     ],
     [
      "RED",
@@ -8777,7 +8766,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-02-19T00:00:00",
-   "days_since_review": 2288,
+   "days_since_review": 2289,
    "total_reviews": 15,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8787,7 +8776,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2288d"
+     "No review for 2289d"
     ],
     [
      "RED",
@@ -8828,7 +8817,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 31,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8838,7 +8827,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "AMBER",
@@ -8879,7 +8868,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2015-11-10T20:46:20",
-   "days_since_review": 3849,
+   "days_since_review": 3850,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8889,7 +8878,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3849d"
+     "No review for 3850d"
     ],
     [
      "RED",
@@ -8930,7 +8919,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T18:59:27.277000",
-   "days_since_review": 41,
+   "days_since_review": 42,
    "total_reviews": 611,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -8975,7 +8964,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-16T18:59:35.580000",
-   "days_since_review": 98,
+   "days_since_review": 99,
    "total_reviews": 154,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -8985,7 +8974,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 98d"
+     "No review for 99d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9026,7 +9015,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 2,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9036,7 +9025,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "RED",
@@ -9077,7 +9066,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-03-30T08:14:56.797000",
-   "days_since_review": 786,
+   "days_since_review": 787,
    "total_reviews": 106,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9087,7 +9076,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 786d"
+     "No review for 787d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9123,7 +9112,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-24T00:00:00",
-   "days_since_review": 2528,
+   "days_since_review": 2529,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9133,7 +9122,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2528d"
+     "No review for 2529d"
     ],
     [
      "RED",
@@ -9179,7 +9168,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-08-08T20:47:42",
-   "days_since_review": 1021,
+   "days_since_review": 1022,
    "total_reviews": 82,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9189,7 +9178,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1021d"
+     "No review for 1022d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9230,7 +9219,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-13T16:40:44.083000",
-   "days_since_review": 101,
+   "days_since_review": 102,
    "total_reviews": 142,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9240,7 +9229,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 101d"
+     "No review for 102d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9281,7 +9270,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-07-07T11:36:00",
-   "days_since_review": 1053,
+   "days_since_review": 1054,
    "total_reviews": 43,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9291,7 +9280,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1053d"
+     "No review for 1054d"
     ],
     [
      "AMBER",
@@ -9332,7 +9321,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2016-10-19T14:39:29",
-   "days_since_review": 3505,
+   "days_since_review": 3506,
    "total_reviews": 3,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9342,7 +9331,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3505d"
+     "No review for 3506d"
     ],
     [
      "RED",
@@ -9383,7 +9372,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-30T00:00:00",
-   "days_since_review": 2614,
+   "days_since_review": 2615,
    "total_reviews": 29,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9393,7 +9382,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2614d"
+     "No review for 2615d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9429,7 +9418,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-02-19T00:00:00",
-   "days_since_review": 2653,
+   "days_since_review": 2654,
    "total_reviews": 17,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9439,7 +9428,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2653d"
+     "No review for 2654d"
     ],
     [
      "RED",
@@ -9480,7 +9469,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-06-25T17:18:31",
-   "days_since_review": 699,
+   "days_since_review": 700,
    "total_reviews": 23,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9490,7 +9479,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 699d"
+     "No review for 700d"
     ],
     [
      "AMBER",
@@ -9531,7 +9520,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-06-24T00:00:00",
-   "days_since_review": 1797,
+   "days_since_review": 1798,
    "total_reviews": 95,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9541,7 +9530,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1797d"
+     "No review for 1798d"
     ],
     [
      "AMBER",
@@ -9582,7 +9571,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-01T17:03:50.287000",
-   "days_since_review": 54,
+   "days_since_review": 55,
    "total_reviews": 142,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -9627,7 +9616,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-11-27T00:00:00",
-   "days_since_review": 2372,
+   "days_since_review": 2373,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9637,7 +9626,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2372d"
+     "No review for 2373d"
     ],
     [
      "AMBER",
@@ -9678,7 +9667,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-03-14T13:18:06",
-   "days_since_review": 1168,
+   "days_since_review": 1169,
    "total_reviews": 127,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9688,7 +9677,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1168d"
+     "No review for 1169d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -9729,7 +9718,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-05-08T00:00:00",
-   "days_since_review": 2209,
+   "days_since_review": 2210,
    "total_reviews": 22,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9739,7 +9728,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2209d"
+     "No review for 2210d"
     ],
     [
      "AMBER",
@@ -9780,7 +9769,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-05-08T00:00:00",
-   "days_since_review": 2209,
+   "days_since_review": 2210,
    "total_reviews": 23,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9790,7 +9779,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2209d"
+     "No review for 2210d"
     ],
     [
      "AMBER",
@@ -9832,7 +9821,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T18:58:00.443000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 262,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -9883,7 +9872,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-04T00:00:00",
-   "days_since_review": 2640,
+   "days_since_review": 2641,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9893,7 +9882,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2640d"
+     "No review for 2641d"
     ],
     [
      "RED",
@@ -9934,7 +9923,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-08-31T00:00:00",
-   "days_since_review": 2460,
+   "days_since_review": 2461,
    "total_reviews": 13,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -9944,7 +9933,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2460d"
+     "No review for 2461d"
     ],
     [
      "RED",
@@ -9985,7 +9974,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T18:59:58.910000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 149,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -10030,7 +10019,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2018-03-03T00:00:00",
-   "days_since_review": 3006,
+   "days_since_review": 3007,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10040,7 +10029,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3006d"
+     "No review for 3007d"
     ],
     [
      "RED",
@@ -10081,7 +10070,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 2,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10091,7 +10080,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "RED",
@@ -10132,7 +10121,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-04-13T17:20:01.880000",
-   "days_since_review": 1138,
+   "days_since_review": 1139,
    "total_reviews": 163,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10142,7 +10131,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1138d"
+     "No review for 1139d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -10178,7 +10167,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-02-21T00:00:00",
-   "days_since_review": 2651,
+   "days_since_review": 2652,
    "total_reviews": 9,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10188,7 +10177,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2651d"
+     "No review for 2652d"
     ],
     [
      "RED",
@@ -10229,7 +10218,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-04-24T00:00:00",
-   "days_since_review": 2223,
+   "days_since_review": 2224,
    "total_reviews": 37,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10239,7 +10228,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2223d"
+     "No review for 2224d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -10275,7 +10264,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-02-19T00:00:00",
-   "days_since_review": 2653,
+   "days_since_review": 2654,
    "total_reviews": 7,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10285,7 +10274,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2653d"
+     "No review for 2654d"
     ],
     [
      "RED",
@@ -10326,7 +10315,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2018-12-02T00:00:00",
-   "days_since_review": 2732,
+   "days_since_review": 2733,
    "total_reviews": 13,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10336,7 +10325,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2732d"
+     "No review for 2733d"
     ],
     [
      "RED",
@@ -10377,7 +10366,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2017-09-15T11:58:25",
-   "days_since_review": 3174,
+   "days_since_review": 3175,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10387,7 +10376,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3174d"
+     "No review for 3175d"
     ],
     [
      "RED",
@@ -10428,7 +10417,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 34,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10438,7 +10427,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "AMBER",
@@ -10479,7 +10468,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-08-19T00:00:00",
-   "days_since_review": 2106,
+   "days_since_review": 2107,
    "total_reviews": 47,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10489,7 +10478,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2106d"
+     "No review for 2107d"
     ],
     [
      "RED",
@@ -10530,7 +10519,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T18:04:55.130000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 298,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -10576,7 +10565,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-03T00:00:00",
-   "days_since_review": 2641,
+   "days_since_review": 2642,
    "total_reviews": 16,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10586,7 +10575,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2641d"
+     "No review for 2642d"
     ],
     [
      "RED",
@@ -10627,7 +10616,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2015-11-10T16:38:09",
-   "days_since_review": 3849,
+   "days_since_review": 3850,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10637,7 +10626,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 3849d"
+     "No review for 3850d"
     ],
     [
      "RED",
@@ -10678,7 +10667,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2022-08-15T12:37:00",
-   "days_since_review": 1379,
+   "days_since_review": 1380,
    "total_reviews": 16,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10688,7 +10677,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1379d"
+     "No review for 1380d"
     ],
     [
      "AMBER",
@@ -10734,7 +10723,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-02T00:00:00",
-   "days_since_review": 2550,
+   "days_since_review": 2551,
    "total_reviews": 20,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10744,7 +10733,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2550d"
+     "No review for 2551d"
     ],
     [
      "RED",
@@ -10785,7 +10774,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-07-29T03:10:52.903000",
-   "days_since_review": 2493,
+   "days_since_review": 2494,
    "total_reviews": 5,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10795,7 +10784,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2493d"
+     "No review for 2494d"
     ],
     [
      "RED",
@@ -10836,7 +10825,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-25T00:00:00",
-   "days_since_review": 2527,
+   "days_since_review": 2528,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10846,7 +10835,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2527d"
+     "No review for 2528d"
     ],
     [
      "RED",
@@ -10887,7 +10876,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-07-30T00:02:17.470000",
-   "days_since_review": 2492,
+   "days_since_review": 2493,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10897,7 +10886,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2492d"
+     "No review for 2493d"
     ],
     [
      "RED",
@@ -10938,7 +10927,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-07-26T06:42:39.043000",
-   "days_since_review": 303,
+   "days_since_review": 304,
    "total_reviews": 147,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10948,7 +10937,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 303d"
+     "No review for 304d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -10989,7 +10978,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-24T00:00:00",
-   "days_since_review": 2528,
+   "days_since_review": 2529,
    "total_reviews": 11,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -10999,7 +10988,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2528d"
+     "No review for 2529d"
     ],
     [
      "RED",
@@ -11040,7 +11029,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-24T00:00:00",
-   "days_since_review": 2528,
+   "days_since_review": 2529,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11050,7 +11039,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2528d"
+     "No review for 2529d"
     ],
     [
      "RED",
@@ -11091,7 +11080,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-03-04T00:00:00",
-   "days_since_review": 2640,
+   "days_since_review": 2641,
    "total_reviews": 5,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11101,7 +11090,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2640d"
+     "No review for 2641d"
     ],
     [
      "RED",
@@ -11142,7 +11131,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T19:00:53.817000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 170,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -11187,7 +11176,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T19:04:43.250000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 185,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -11227,7 +11216,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-02-16T00:00:00",
-   "days_since_review": 2656,
+   "days_since_review": 2657,
    "total_reviews": 4,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11237,7 +11226,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2656d"
+     "No review for 2657d"
     ],
     [
      "RED",
@@ -11278,7 +11267,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-25T19:44:10.687000",
-   "days_since_review": 61,
+   "days_since_review": 62,
    "total_reviews": 337,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -11323,7 +11312,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-04-04T00:00:00",
-   "days_since_review": 2609,
+   "days_since_review": 2610,
    "total_reviews": 12,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11333,7 +11322,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2609d"
+     "No review for 2610d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -11369,7 +11358,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-02-10T00:00:00",
-   "days_since_review": 2297,
+   "days_since_review": 2298,
    "total_reviews": 9,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11379,7 +11368,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2297d"
+     "No review for 2298d"
     ],
     [
      "RED",
@@ -11420,7 +11409,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-09-16T00:00:00",
-   "days_since_review": 2444,
+   "days_since_review": 2445,
    "total_reviews": 17,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11430,7 +11419,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2444d"
+     "No review for 2445d"
     ],
     [
      "AMBER",
@@ -11471,7 +11460,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-02-10T00:00:00",
-   "days_since_review": 2662,
+   "days_since_review": 2663,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11481,7 +11470,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2662d"
+     "No review for 2663d"
     ],
     [
      "RED",
@@ -11522,7 +11511,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2019-06-24T00:00:00",
-   "days_since_review": 2528,
+   "days_since_review": 2529,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11532,7 +11521,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2528d"
+     "No review for 2529d"
     ],
     [
      "RED",
@@ -11573,7 +11562,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T18:13:09.443000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 147,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -11618,7 +11607,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T18:29:39.537000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 120,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -11664,7 +11653,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-23T11:52:05.600000",
-   "days_since_review": 153,
+   "days_since_review": 154,
    "total_reviews": 252,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11674,7 +11663,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 153d"
+     "No review for 154d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -11710,7 +11699,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T18:55:48.887000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 189,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -11756,7 +11745,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T16:06:56.800000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 215,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -11807,7 +11796,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T18:07:42.953000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 280,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -11852,7 +11841,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-06-30T00:00:00",
-   "days_since_review": 1791,
+   "days_since_review": 1792,
    "total_reviews": 50,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11862,7 +11851,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1791d"
+     "No review for 1792d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -11904,7 +11893,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-10T18:56:05.070000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 352,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -11949,7 +11938,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-07-03T18:52:35.943000",
-   "days_since_review": 691,
+   "days_since_review": 692,
    "total_reviews": 19,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -11959,7 +11948,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 691d"
+     "No review for 692d"
     ],
     [
      "AMBER",
@@ -12000,7 +11989,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-12T16:05:25.587000",
-   "days_since_review": 43,
+   "days_since_review": 44,
    "total_reviews": 154,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -12051,7 +12040,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-08T17:03:21.447000",
-   "days_since_review": 47,
+   "days_since_review": 48,
    "total_reviews": 156,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -12096,7 +12085,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T17:08:46.327000",
-   "days_since_review": 41,
+   "days_since_review": 42,
    "total_reviews": 126,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -12142,7 +12131,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T17:47:14.743000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 438,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -12187,7 +12176,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-16T06:45:07.103000",
-   "days_since_review": 160,
+   "days_since_review": 161,
    "total_reviews": 44,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -12197,7 +12186,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 160d"
+     "No review for 161d"
     ],
     [
      "AMBER",
@@ -12244,7 +12233,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T18:56:47.113000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 123,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -12290,7 +12279,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T16:02:11.487000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 256,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -12336,7 +12325,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:05:32.103000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 424,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -12387,7 +12376,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-08-28T00:00:00",
-   "days_since_review": 2097,
+   "days_since_review": 2098,
    "total_reviews": 102,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -12397,7 +12386,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2097d"
+     "No review for 2098d"
     ],
     [
      "AMBER",
@@ -12444,7 +12433,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T19:04:08.547000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 630,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -12497,7 +12486,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T15:52:18",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 468,
    "reviews_30d": 40,
    "reviews_90d": 70,
@@ -12548,7 +12537,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-04-24T00:00:00",
-   "days_since_review": 1858,
+   "days_since_review": 1859,
    "total_reviews": 41,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -12558,7 +12547,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1858d"
+     "No review for 1859d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -12600,7 +12589,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T16:36:05.400000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 547,
    "reviews_30d": 0,
    "reviews_90d": 12,
@@ -12645,7 +12634,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-01-03T15:53:00",
-   "days_since_review": 1238,
+   "days_since_review": 1239,
    "total_reviews": 106,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -12655,7 +12644,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1238d"
+     "No review for 1239d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -12696,7 +12685,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T10:02:25.290000",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 60,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -12741,7 +12730,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T16:53:59.667000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 230,
    "reviews_30d": 0,
    "reviews_90d": 13,
@@ -12787,7 +12776,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T18:57:11.277000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 270,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -12832,7 +12821,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T22:10:09.120000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 323,
    "reviews_30d": 0,
    "reviews_90d": 31,
@@ -12877,7 +12866,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T22:03:55.717000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 366,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -12928,7 +12917,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-09-02T00:00:00",
-   "days_since_review": 2092,
+   "days_since_review": 2093,
    "total_reviews": 16,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -12938,7 +12927,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2092d"
+     "No review for 2093d"
     ],
     [
      "RED",
@@ -12985,7 +12974,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T16:56:11.903000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 762,
    "reviews_30d": 0,
    "reviews_90d": 34,
@@ -13030,7 +13019,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T16:03:20.527000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 474,
    "reviews_30d": 0,
    "reviews_90d": 19,
@@ -13075,7 +13064,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-19T16:35:53.837000",
-   "days_since_review": 36,
+   "days_since_review": 37,
    "total_reviews": 202,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -13121,7 +13110,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T16:35:24.343000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 336,
    "reviews_30d": 0,
    "reviews_90d": 10,
@@ -13166,7 +13155,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T16:54:08.833000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 215,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -13211,7 +13200,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-24T08:40:24.747000",
-   "days_since_review": 62,
+   "days_since_review": 63,
    "total_reviews": 274,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -13257,7 +13246,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T14:57:46.163000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 309,
    "reviews_30d": 0,
    "reviews_90d": 13,
@@ -13302,7 +13291,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T18:17:08.110000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 215,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -13348,7 +13337,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T18:57:23.933000",
-   "days_since_review": 41,
+   "days_since_review": 42,
    "total_reviews": 251,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -13394,7 +13383,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T08:57:34.367000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 443,
    "reviews_30d": 0,
    "reviews_90d": 25,
@@ -13439,7 +13428,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-03-21T00:00:00",
-   "days_since_review": 2257,
+   "days_since_review": 2258,
    "total_reviews": 4,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -13449,7 +13438,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2257d"
+     "No review for 2258d"
     ],
     [
      "RED",
@@ -13497,7 +13486,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 252,
    "reviews_30d": 0,
    "reviews_90d": 26,
@@ -13544,7 +13533,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-22T15:52:18",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 156,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -13600,7 +13589,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-03-25T00:00:00",
-   "days_since_review": 2253,
+   "days_since_review": 2254,
    "total_reviews": 52,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -13610,7 +13599,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2253d"
+     "No review for 2254d"
     ],
     [
      "AMBER",
@@ -13656,7 +13645,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T16:54:17.913000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 200,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -13702,7 +13691,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T18:59:09.827000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 598,
    "reviews_30d": 0,
    "reviews_90d": 12,
@@ -13747,7 +13736,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T22:04:05.677000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 249,
    "reviews_30d": 0,
    "reviews_90d": 9,
@@ -13792,7 +13781,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T18:56:18.220000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 151,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -13837,7 +13826,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-02-16T17:35:00",
-   "days_since_review": 829,
+   "days_since_review": 830,
    "total_reviews": 196,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -13847,7 +13836,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 829d"
+     "No review for 830d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -13888,7 +13877,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T18:19:06.460000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 166,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -13933,7 +13922,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-13T17:07:55.960000",
-   "days_since_review": 101,
+   "days_since_review": 102,
    "total_reviews": 53,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -13943,7 +13932,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 101d"
+     "No review for 102d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -13984,7 +13973,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-05-02T09:28:59.083000",
-   "days_since_review": 753,
+   "days_since_review": 754,
    "total_reviews": 27,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -13994,7 +13983,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 753d"
+     "No review for 754d"
     ],
     [
      "AMBER",
@@ -14036,7 +14025,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T19:01:28.670000",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 138,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -14081,7 +14070,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T16:07:03.937000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 247,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -14126,7 +14115,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T22:09:47.670000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 145,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -14164,7 +14153,7 @@
    "postcode": "LU6 1LA",
    "lat": 51.887018,
    "lng": -0.521925,
-   "reputation_score": 67,
+   "reputation_score": 68,
    "rating": 4.05,
    "nps": 0,
    "last_login_raw": null,
@@ -14173,7 +14162,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T11:08:09",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 142,
    "reviews_30d": 37,
    "reviews_90d": 57,
@@ -14188,7 +14177,7 @@
     [
      "AMBER",
      "rep_score_med",
-     "Rep score 67"
+     "Rep score 68"
     ]
    ],
    "overall_rag": "AMBER",
@@ -14203,7 +14192,7 @@
    "id": 259041,
    "name": "Your Move Jameson Owen",
    "totalReviews": 0,
-   "score": 67
+   "score": 68
   },
   {
    "office_id": 258054,
@@ -14224,13 +14213,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
-   "total_reviews": 292,
-   "reviews_30d": 0,
-   "reviews_90d": 20,
-   "replies_90d": 11,
-   "reply_rate_90d": 55.00000000000001,
+   "last_review_at": "2026-05-26T22:20:49",
+   "days_since_review": 0,
+   "total_reviews": 328,
+   "reviews_30d": 37,
+   "reviews_90d": 57,
+   "replies_90d": 42,
+   "reply_rate_90d": 73.68421052631578,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -14243,7 +14232,7 @@
     "platforms": {},
     "overallRating": 4.37,
     "totalReviews": 0,
-    "replyRate": 55.00000000000001
+    "replyRate": 73.68421052631578
    },
    "id": 258054,
    "name": "Your Move Kirkby-in-Ashfield",
@@ -14269,13 +14258,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
-   "total_reviews": 36,
-   "reviews_30d": 0,
-   "reviews_90d": 20,
-   "replies_90d": 11,
-   "reply_rate_90d": 55.00000000000001,
+   "last_review_at": "2026-05-26T22:20:49",
+   "days_since_review": 0,
+   "total_reviews": 76,
+   "reviews_30d": 40,
+   "reviews_90d": 60,
+   "replies_90d": 42,
+   "reply_rate_90d": 70.0,
    "flags": [
     [
      "AMBER",
@@ -14294,7 +14283,7 @@
     "platforms": {},
     "overallRating": 3.97,
     "totalReviews": 0,
-    "replyRate": 55.00000000000001
+    "replyRate": 70.0
    },
    "id": 258448,
    "name": "Your Move Land & New Homes - West Midlands",
@@ -14321,7 +14310,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T16:55:46.863000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 381,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -14366,7 +14355,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T16:18:53.440000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 137,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -14412,7 +14401,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:05:05.223000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 233,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -14458,7 +14447,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T20:45:56.850000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 181,
    "reviews_30d": 0,
    "reviews_90d": 9,
@@ -14509,7 +14498,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2020-08-03T00:00:00",
-   "days_since_review": 2122,
+   "days_since_review": 2123,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -14519,7 +14508,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 2122d"
+     "No review for 2123d"
     ],
     [
      "RED",
@@ -14565,7 +14554,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2022-10-25T10:30:00",
-   "days_since_review": 1308,
+   "days_since_review": 1309,
    "total_reviews": 83,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -14575,7 +14564,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1308d"
+     "No review for 1309d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -14616,7 +14605,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-10-15T00:00:00",
-   "days_since_review": 1684,
+   "days_since_review": 1685,
    "total_reviews": 105,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -14626,7 +14615,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1684d"
+     "No review for 1685d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -14667,7 +14656,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-01-27T18:08:32",
-   "days_since_review": 1944,
+   "days_since_review": 1945,
    "total_reviews": 53,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -14677,7 +14666,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1944d"
+     "No review for 1945d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -14718,7 +14707,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-05-02T00:00:00",
-   "days_since_review": 1850,
+   "days_since_review": 1851,
    "total_reviews": 54,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -14728,7 +14717,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1850d"
+     "No review for 1851d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -14770,7 +14759,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T17:12:50",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 265,
    "reviews_30d": 37,
    "reviews_90d": 37,
@@ -14821,7 +14810,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-22T16:35:32.853000",
-   "days_since_review": 64,
+   "days_since_review": 65,
    "total_reviews": 105,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -14866,13 +14855,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
-   "total_reviews": 1093,
-   "reviews_30d": 0,
-   "reviews_90d": 20,
-   "replies_90d": 11,
-   "reply_rate_90d": 55.00000000000001,
+   "last_review_at": "2026-05-26T22:20:49",
+   "days_since_review": 0,
+   "total_reviews": 1128,
+   "reviews_30d": 37,
+   "reviews_90d": 57,
+   "replies_90d": 39,
+   "reply_rate_90d": 68.42105263157895,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -14885,7 +14874,7 @@
     "platforms": {},
     "overallRating": 4.22,
     "totalReviews": 0,
-    "replyRate": 55.00000000000001
+    "replyRate": 68.42105263157895
    },
    "id": 257828,
    "name": "Your Move Murray Rogers, Bromwich",
@@ -14912,13 +14901,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
-   "total_reviews": 307,
-   "reviews_30d": 0,
-   "reviews_90d": 20,
-   "replies_90d": 11,
-   "reply_rate_90d": 55.00000000000001,
+   "last_review_at": "2026-05-26T22:20:49",
+   "days_since_review": 0,
+   "total_reviews": 343,
+   "reviews_30d": 37,
+   "reviews_90d": 57,
+   "replies_90d": 39,
+   "reply_rate_90d": 68.42105263157895,
    "flags": [],
    "overall_rag": "GREEN",
    "google": null,
@@ -14927,7 +14916,7 @@
     "platforms": {},
     "overallRating": 4.43,
     "totalReviews": 0,
-    "replyRate": 55.00000000000001
+    "replyRate": 68.42105263157895
    },
    "id": 257829,
    "name": "Your Move Murray Rogers, Stechford",
@@ -14953,7 +14942,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-21T23:21:19.560000",
-   "days_since_review": 34,
+   "days_since_review": 35,
    "total_reviews": 283,
    "reviews_30d": 0,
    "reviews_90d": 11,
@@ -15005,7 +14994,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:05:22.700000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 783,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -15050,7 +15039,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-06-01T00:00:00",
-   "days_since_review": 1820,
+   "days_since_review": 1821,
    "total_reviews": 92,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15060,7 +15049,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1820d"
+     "No review for 1821d"
     ],
     [
      "AMBER",
@@ -15106,7 +15095,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-10T20:47:09.147000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 858,
    "reviews_30d": 0,
    "reviews_90d": 19,
@@ -15152,7 +15141,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-10T18:58:51.513000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 93,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -15203,7 +15192,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-01-13T17:25:42.623000",
-   "days_since_review": 132,
+   "days_since_review": 133,
    "total_reviews": 90,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15213,7 +15202,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 132d"
+     "No review for 133d"
     ],
     [
      "AMBER",
@@ -15259,7 +15248,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T10:02:31.193000",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 219,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -15305,7 +15294,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 252,
    "reviews_30d": 0,
    "reviews_90d": 22,
@@ -15350,7 +15339,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-12T18:50:58.720000",
-   "days_since_review": 43,
+   "days_since_review": 44,
    "total_reviews": 178,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -15401,7 +15390,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-01-23T22:55:23.733000",
-   "days_since_review": 122,
+   "days_since_review": 123,
    "total_reviews": 159,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15411,7 +15400,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 122d"
+     "No review for 123d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -15452,7 +15441,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T17:45:49.377000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 332,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -15503,7 +15492,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T17:02:27.010000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 202,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -15548,7 +15537,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-22T17:08:02.743000",
-   "days_since_review": 154,
+   "days_since_review": 155,
    "total_reviews": 127,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15558,7 +15547,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 154d"
+     "No review for 155d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -15599,7 +15588,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2022-11-26T18:01:54",
-   "days_since_review": 1276,
+   "days_since_review": 1277,
    "total_reviews": 96,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15609,7 +15598,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1276d"
+     "No review for 1277d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -15650,7 +15639,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-31T08:39:38.307000",
-   "days_since_review": 55,
+   "days_since_review": 56,
    "total_reviews": 118,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -15701,7 +15690,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T22:28:59.113000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 165,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -15754,7 +15743,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-04-17T21:35:41.473000",
-   "days_since_review": 403,
+   "days_since_review": 404,
    "total_reviews": 234,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15764,7 +15753,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 403d"
+     "No review for 404d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -15801,7 +15790,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-02T18:58:12.537000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 322,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -15852,7 +15841,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-06-28T00:00:00",
-   "days_since_review": 1793,
+   "days_since_review": 1794,
    "total_reviews": 74,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -15862,7 +15851,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1793d"
+     "No review for 1794d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -15905,7 +15894,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-19T14:33:26",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 601,
    "reviews_30d": 0,
    "reviews_90d": 34,
@@ -15956,7 +15945,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T17:05:29.200000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 127,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -16007,7 +15996,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:22:00.120000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 222,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -16053,7 +16042,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-12T19:05:13.870000",
-   "days_since_review": 43,
+   "days_since_review": 44,
    "total_reviews": 326,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -16099,7 +16088,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T19:04:58.890000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 646,
    "reviews_30d": 0,
    "reviews_90d": 24,
@@ -16150,7 +16139,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-10-30T23:53:39.740000",
-   "days_since_review": 572,
+   "days_since_review": 573,
    "total_reviews": 15,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16160,7 +16149,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 572d"
+     "No review for 573d"
     ],
     [
      "RED",
@@ -16206,7 +16195,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-13T09:39:20.023000",
-   "days_since_review": 42,
+   "days_since_review": 43,
    "total_reviews": 145,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -16251,7 +16240,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-23T16:53:39.963000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 220,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -16296,7 +16285,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-10-18T00:00:00",
-   "days_since_review": 1681,
+   "days_since_review": 1682,
    "total_reviews": 80,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16306,7 +16295,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1681d"
+     "No review for 1682d"
     ],
     [
      "AMBER",
@@ -16352,7 +16341,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-10-18T00:00:00",
-   "days_since_review": 1681,
+   "days_since_review": 1682,
    "total_reviews": 81,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16362,7 +16351,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1681d"
+     "No review for 1682d"
     ],
     [
      "AMBER",
@@ -16408,7 +16397,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-15T14:50:02.910000",
-   "days_since_review": 71,
+   "days_since_review": 72,
    "total_reviews": 41,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -16453,7 +16442,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T16:05:50.857000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 179,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -16499,7 +16488,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T14:59:45.647000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 520,
    "reviews_30d": 0,
    "reviews_90d": 19,
@@ -16545,12 +16534,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-23T15:04:57.283000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 550,
    "reviews_30d": 7,
-   "reviews_90d": 29,
-   "replies_90d": 22,
-   "reply_rate_90d": 75.86206896551724,
+   "reviews_90d": 31,
+   "replies_90d": 26,
+   "reply_rate_90d": 83.87096774193549,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -16563,7 +16552,7 @@
     "platforms": {},
     "overallRating": 4.42,
     "totalReviews": 0,
-    "replyRate": 75.86206896551724
+    "replyRate": 83.87096774193549
    },
    "id": 16102,
    "name": "Your Move Tunbridge wells",
@@ -16590,7 +16579,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-27T21:34:38.067000",
-   "days_since_review": 87,
+   "days_since_review": 88,
    "total_reviews": 166,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -16635,7 +16624,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-06-01T00:00:00",
-   "days_since_review": 1820,
+   "days_since_review": 1821,
    "total_reviews": 80,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16645,7 +16634,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1820d"
+     "No review for 1821d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -16686,7 +16675,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-13T17:02:36.057000",
-   "days_since_review": 73,
+   "days_since_review": 74,
    "total_reviews": 184,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -16731,7 +16720,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-07T18:25:26.673000",
-   "days_since_review": 48,
+   "days_since_review": 49,
    "total_reviews": 94,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -16782,7 +16771,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T16:05:19.670000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 696,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -16827,7 +16816,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-04-02T04:42:00",
-   "days_since_review": 1150,
+   "days_since_review": 1151,
    "total_reviews": 45,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16837,7 +16826,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1150d"
+     "No review for 1151d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -16878,7 +16867,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-15T22:47:45.543000",
-   "days_since_review": 71,
+   "days_since_review": 72,
    "total_reviews": 182,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -16924,7 +16913,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-09-14T00:00:00",
-   "days_since_review": 1715,
+   "days_since_review": 1716,
    "total_reviews": 114,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -16934,7 +16923,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1715d"
+     "No review for 1716d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -16975,7 +16964,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:26:22.610000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 282,
    "reviews_30d": 0,
    "reviews_90d": 7,
@@ -17020,7 +17009,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-30T18:53:07.820000",
-   "days_since_review": 56,
+   "days_since_review": 57,
    "total_reviews": 163,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -17065,7 +17054,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-06T19:06:47.287000",
-   "days_since_review": 49,
+   "days_since_review": 50,
    "total_reviews": 228,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -17110,7 +17099,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2021-10-14T00:00:00",
-   "days_since_review": 1685,
+   "days_since_review": 1686,
    "total_reviews": 77,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -17120,7 +17109,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1685d"
+     "No review for 1686d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -17161,7 +17150,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-15T15:42:29.493000",
-   "days_since_review": 40,
+   "days_since_review": 41,
    "total_reviews": 153,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -17212,7 +17201,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-25T15:45:26.507000",
-   "days_since_review": 61,
+   "days_since_review": 62,
    "total_reviews": 193,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -17257,7 +17246,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-27T09:28:09.627000",
-   "days_since_review": 87,
+   "days_since_review": 88,
    "total_reviews": 181,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -17309,7 +17298,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T17:12:50",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 560,
    "reviews_30d": 40,
    "reviews_90d": 40,
@@ -17362,17 +17351,17 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-24T08:21:35.243000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 711,
    "reviews_30d": 46,
    "reviews_90d": 104,
-   "replies_90d": 35,
-   "reply_rate_90d": 33.65384615384615,
+   "replies_90d": 36,
+   "reply_rate_90d": 34.61538461538461,
    "flags": [
     [
      "AMBER",
      "reply_rate_low",
-     "Reply rate 34% (90d)"
+     "Reply rate 35% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -17386,7 +17375,7 @@
     "platforms": {},
     "overallRating": 4.85,
     "totalReviews": 0,
-    "replyRate": 33.65384615384615
+    "replyRate": 34.61538461538461
    },
    "id": 2413,
    "name": "Your Move, Carlisle",
@@ -17412,13 +17401,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-04-28T00:02:59.217000",
-   "days_since_review": 28,
-   "total_reviews": 224,
-   "reviews_30d": 1,
-   "reviews_90d": 10,
-   "replies_90d": 5,
-   "reply_rate_90d": 50.0,
+   "last_review_at": "2026-05-12T12:03:18.173000",
+   "days_since_review": 14,
+   "total_reviews": 243,
+   "reviews_30d": 3,
+   "reviews_90d": 21,
+   "replies_90d": 16,
+   "reply_rate_90d": 76.19047619047619,
    "flags": [],
    "overall_rag": "GREEN",
    "google": {
@@ -17431,7 +17420,7 @@
     "platforms": {},
     "overallRating": 4.8,
     "totalReviews": 0,
-    "replyRate": 50.0
+    "replyRate": 76.19047619047619
    },
    "id": 815,
    "name": "Your Move, Darwen",
@@ -17458,7 +17447,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-01T23:21:49.343000",
-   "days_since_review": 24,
+   "days_since_review": 25,
    "total_reviews": 114,
    "reviews_30d": 1,
    "reviews_90d": 7,
@@ -17504,7 +17493,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-21T17:12:50",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 379,
    "reviews_30d": 40,
    "reviews_90d": 60,
@@ -17555,7 +17544,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-13T22:04:13.260000",
-   "days_since_review": 101,
+   "days_since_review": 102,
    "total_reviews": 104,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -17565,7 +17554,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 101d"
+     "No review for 102d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -17606,7 +17595,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-11T08:38:04.293000",
-   "days_since_review": 44,
+   "days_since_review": 45,
    "total_reviews": 202,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -17652,7 +17641,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T19:06:43.593000",
-   "days_since_review": 70,
+   "days_since_review": 71,
    "total_reviews": 72,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -17699,7 +17688,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-09T18:55:50.967000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 460,
    "reviews_30d": 0,
    "reviews_90d": 23,
@@ -17744,7 +17733,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-20T23:23:38.147000",
-   "days_since_review": 5,
+   "days_since_review": 6,
    "total_reviews": 132,
    "reviews_30d": 1,
    "reviews_90d": 3,
@@ -17790,7 +17779,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-18T15:51:48.820000",
-   "days_since_review": 37,
+   "days_since_review": 38,
    "total_reviews": 198,
    "reviews_30d": 0,
    "reviews_90d": 52,
@@ -17847,7 +17836,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-20T23:31:40.147000",
-   "days_since_review": 5,
+   "days_since_review": 6,
    "total_reviews": 188,
    "reviews_30d": 5,
    "reviews_90d": 23,
