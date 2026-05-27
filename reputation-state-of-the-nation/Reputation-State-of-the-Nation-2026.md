@@ -1,4 +1,4 @@
-# Reputation State of the Nation
+# The Reputation – State of the Nation
 ### UK Estate Agent Reviews & Performance — 2026 Report
 
 **Published by:** Trusted Agent (a Kerfuffle initiative)
@@ -165,7 +165,7 @@ From 19,239 estate agents with validated Google data:
 
 ## What's coming next
 
-This is the first edition. Reputation State of the Nation will be published quarterly, with each edition refreshing the data and adding deeper cuts:
+This is the first edition. The Reputation – State of the Nation will be published quarterly, with each edition refreshing the data and adding deeper cuts:
 
 - **Regional breakdowns** — Yorkshire vs South-East vs Scotland comparisons
 - **Per-postcode area leaderboards** — see live at [thetrustedagent.co.uk/your-area/](https://thetrustedagent.co.uk/your-area/) (top 100 areas now live)
