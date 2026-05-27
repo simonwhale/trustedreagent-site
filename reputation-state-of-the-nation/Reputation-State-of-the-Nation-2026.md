@@ -81,7 +81,7 @@ How an agent's rating relates to whether their listings actually sell. "Withdraw
 | **4.7–4.9★** | **56.3%** | **43.7%** |
 | 4.9–5.0★ | 53.5% | 46.5% |
 
-**The money quote:** Top-rated agents (4.5★+) **retain 43% more listings** than agents below 4.5★ — their listings actually sell, instead of coming off the market unsold. At the extremes, the gap is even sharper: 4.7–4.9★ agents retain **67% more listings** than agents rated below 3★.
+**The money quote:** Top-rated agents (4.5★+) **retain 29% more listings** than agents below 4.5★ — their listings actually sell, instead of coming off the market unsold. At the extremes, the gap is even sharper: 4.7–4.9★ agents retain **67% more listings** than agents rated below 3★.
 
 ---
 
@@ -142,7 +142,7 @@ From 19,239 estate agents with validated Google data:
 
 1. **"The Boutique Agent Effect"** — why a perfect 5★ rating doesn't mean more business. A counterintuitive finding that points readers to a better consumer rule: read the review count, not just the star. (*Property Industry Eye / Daily Mail money section*)
 
-2. **"Top-rated agents retain 43% more listings"** — the clearest consumer-protection story. List with a 4.5★+ agent and your property is far more likely to sell rather than be withdrawn. (*Property Industry Eye / Negotiator / Estate Agent Today*)
+2. **"Top-rated agents retain 29% more listings"** — the clearest consumer-protection story. List with a 4.5★+ agent and your property is far more likely to sell rather than be withdrawn. (*Property Industry Eye / Negotiator / Estate Agent Today*)
 
 3. **"4.5★+ agents take on 3× more business per office"** than agents below 4★ — the volume side of the same story. (*Property Industry Eye / Negotiator*)
 
