@@ -3,7 +3,7 @@
 
 **Published by:** Trusted Agent (a Kerfuffle initiative)
 **Date:** 17 May 2026
-**Coverage:** 20,061 UK estate agent offices, of which 19,239 (95.1%) have validated Google review data. Performance data covers the 12-month sliding window May 2024 – May 2026, sourced from TwentyEA Insight.
+**Coverage:** 20,061 UK estate agent offices, of which 19,239 (95.1%) have validated Google review data. Performance data covers a two-year window (May 2024 – May 2026), sourced from TwentyEA Insight. We use a two-year window rather than a single year to smooth annual market variability — all per-office listings figures in this report are totals across that two-year window.
 
 ---
 
@@ -11,7 +11,7 @@
 
 - **Office** = one branch (e.g. "Belvoir Brighton")
 - **Company** = the brand, all its offices together (e.g. "Belvoir")
-- **Listings per office per year** = how many properties one office takes on for sale in a year. The industry calls this "new instructions".
+- **Listings per office (2-year window)** = how many properties one office takes on for sale in a year. The industry calls this "new instructions".
 - **Withdrawn** = a property the agent listed that came off the market without selling. High % = bad for the agent.
 - **Reply rate** = how often the agent writes a reply to their Google reviews.
 - **Trusted Agent Winner** = an agent in the top 10% of our rating model. Specific names are confidential until 7 July 2026.
@@ -26,7 +26,7 @@ When you group estate agents by their average Google star rating, the highest-ra
 
 **Grouped view (the cleanest headline):**
 
-| Company's average Google rating | Listings per office per year |
+| Company's average Google rating | Listings per office (2-year window) |
 |---|---|
 | Under 4.0★ | 64 |
 | 4.0–4.5★ | 142 |
@@ -36,7 +36,7 @@ The 4.5★+ band processes **77% more business per office than agents below 4.5�
 
 **Unfiltered view (showing the boutique band):**
 
-| Company's average Google rating | Listings per office per year |
+| Company's average Google rating | Listings per office (2-year window) |
 |---|---|
 | Under 3.0★ | 36 |
 | 3.0–3.5★ | 52 |
@@ -87,7 +87,7 @@ How an agent's rating relates to whether their listings actually sell. "Withdraw
 
 ### 3. The reply rate signal — the mark of an engaged agent
 
-| % of reviews replied to | Listings per office per year | % of listings withdrawn |
+| % of reviews replied to | Listings per office (2-year window) | % of listings withdrawn |
 |---|---|---|
 | 1–20% | 171 | 47.9% |
 | 20–50% | 190 | 48.9% |
@@ -155,7 +155,7 @@ From 19,239 estate agents with validated Google data:
 ## Method notes
 
 - **Source data:** Google Places API validation across the full UK estate agent universe (95.1% match rate after a full revalidation pass). TwentyEA Insight Sales Competitive Landscape for transaction data.
-- **Time period:** 12-month sliding window, May 2024 – May 2026 (TwentyEA default).
+- **Time period:** Two-year window, May 2024 – May 2026. Chosen over a single-year cut to smooth annual market variability. All per-office listings figures are totals across the two-year window.
 - **Coverage:** All UK postcode areas. England, Scotland, Wales, Northern Ireland included.
 - **Cleaning:** Non-trading and virtual-office registered addresses (e.g. 128 City Road, N1 6DX) excluded, alongside a small set of non-estate-agent property businesses.
 - **Joining method:** Brand × postcode area. One company operating in two postcode areas is counted twice; this is intentional, because the TwentyEA data reports market share separately for each postcode area.
