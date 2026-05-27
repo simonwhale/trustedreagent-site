@@ -155,13 +155,12 @@ This is the first edition. The Reputation – State of the Nation will be publis
 
 - **Regional breakdowns** — Yorkshire vs South-East vs Scotland comparisons
 - **Per-postcode area leaderboards** — see live at [thetrustedagent.co.uk/your-area/](https://thetrustedagent.co.uk/your-area/) (top 100 areas now live)
-- **Multi-platform breakdown** — Google, Trustpilot, Facebook, Feefo, AllAgents, ViewAgents, Yell
 - **Trusted Agent 2026 Winners** — revealed on 7 July at the awards
 
 ---
 
 ## Footnote
 
-If you think some of the findings in this report are stark, you should see what's going on in **social housing**. Across 24 of the biggest UK social housing landlords, the average Google rating is **2.31★** — versus 4.43★ for estate agents. Clarion Housing carries 587 reviews at 1.46★. Southern Housing 326 reviews at 1.48★.
+Some of these stats might not be absolutely top notch, but look at this. Across 24 of the biggest UK social housing landlords, the average Google rating is **2.31★** — versus 4.43★ for estate agents. A separate report on that is coming. It deserves its own.
 
 A separate report on that is coming. It deserves its own.
