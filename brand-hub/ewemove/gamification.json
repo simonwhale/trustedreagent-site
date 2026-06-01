@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-31T05:03:38.483014Z",
+ "updated": "2026-06-01T05:03:54.500622Z",
  "brand": "EweMove",
  "offices": [
   {
@@ -17,13 +17,13 @@
    "nps": 100,
    "last_login_raw": "09.05.2025 11:15:29",
    "last_login_iso": "2025-05-09T11:15:29",
-   "days_since_login": 386,
+   "days_since_login": 387,
    "last_user": "JamesHillier",
    "last_email": "James.hillier@ewemove.com",
    "last_review_at": "2026-05-30T12:58:40.937000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 323,
-   "reviews_30d": 5,
+   "reviews_30d": 4,
    "reviews_90d": 20,
    "replies_90d": 18,
    "reply_rate_90d": 90.0,
@@ -31,7 +31,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 386d ago"
+     "Last login 387d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -72,7 +72,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-02-20T17:12:25.780000",
-   "days_since_review": 99,
+   "days_since_review": 100,
    "total_reviews": 39,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -87,7 +87,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 99d"
+     "No review for 100d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -123,7 +123,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-22T18:26:04.340000",
-   "days_since_review": 38,
+   "days_since_review": 39,
    "total_reviews": 33,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -138,7 +138,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 38d"
+     "No review for 39d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -179,7 +179,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-11-20T00:40:11.637000",
-   "days_since_review": 192,
+   "days_since_review": 193,
    "total_reviews": 45,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -194,7 +194,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 192d"
+     "No review for 193d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -226,11 +226,11 @@
    "nps": 100,
    "last_login_raw": "22.12.2025 02:03:18",
    "last_login_iso": "2025-12-22T02:03:18",
-   "days_since_login": 160,
+   "days_since_login": 161,
    "last_user": "CatherinePotter",
    "last_email": "catherine.potter@ewemove.com",
    "last_review_at": "2026-05-21T09:26:45.933000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 46,
    "reviews_30d": 2,
    "reviews_90d": 4,
@@ -271,11 +271,11 @@
    "nps": 0,
    "last_login_raw": "29.11.2025 03:24:03",
    "last_login_iso": "2025-11-29T03:24:03",
-   "days_since_login": 183,
+   "days_since_login": 184,
    "last_user": "LukeHiggins",
    "last_email": "luke.higgins@ewemove.com",
    "last_review_at": "2026-01-30T12:08:03.837000",
-   "days_since_review": 120,
+   "days_since_review": 121,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -285,12 +285,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 183d ago"
+     "Last login 184d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 120d"
+     "No review for 121d"
     ],
     [
      "AMBER",
@@ -332,13 +332,13 @@
    "nps": 85,
    "last_login_raw": "02.02.2026 10:42:16",
    "last_login_iso": "2026-02-02T10:42:16",
-   "days_since_login": 117,
+   "days_since_login": 118,
    "last_user": "VictoriaSlyvester",
    "last_email": "victoria.sylvester@ewemove.com",
    "last_review_at": "2026-05-06T13:56:04.423000",
-   "days_since_review": 24,
+   "days_since_review": 25,
    "total_reviews": 144,
-   "reviews_30d": 6,
+   "reviews_30d": 3,
    "reviews_90d": 11,
    "replies_90d": 10,
    "reply_rate_90d": 90.9090909090909,
@@ -378,13 +378,13 @@
    "nps": 0,
    "last_login_raw": "19.06.2024 12:26:27",
    "last_login_iso": "2024-06-19T12:26:27",
-   "days_since_login": 710,
+   "days_since_login": 711,
    "last_user": "sasasaasasa",
    "last_email": "domenic@viewagents.com",
-   "last_review_at": "2026-05-23T02:03:43.033000",
-   "days_since_review": 8,
+   "last_review_at": "2026-05-24T14:31:31.873000",
+   "days_since_review": 7,
    "total_reviews": 1393,
-   "reviews_30d": 28,
+   "reviews_30d": 26,
    "reviews_90d": 65,
    "replies_90d": 65,
    "reply_rate_90d": 100.0,
@@ -392,7 +392,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 710d ago"
+     "Last login 711d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -430,13 +430,13 @@
    "nps": 0,
    "last_login_raw": "19.06.2024 12:26:27",
    "last_login_iso": "2024-06-19T12:26:27",
-   "days_since_login": 710,
+   "days_since_login": 711,
    "last_user": "sasasaasasa",
    "last_email": "domenic@viewagents.com",
    "last_review_at": "2026-05-01T10:45:44.940000",
-   "days_since_review": 29,
+   "days_since_review": 30,
    "total_reviews": 42,
-   "reviews_30d": 2,
+   "reviews_30d": 0,
    "reviews_90d": 2,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
@@ -444,7 +444,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 710d ago"
+     "Last login 711d ago"
     ],
     [
      "RED",
@@ -491,11 +491,11 @@
    "nps": 0,
    "last_login_raw": "08.10.2025 10:00:13",
    "last_login_iso": "2025-10-08T10:00:13",
-   "days_since_login": 234,
+   "days_since_login": 235,
    "last_user": "YvonneRay",
    "last_email": "yvonne.ray@ewemove.com",
    "last_review_at": "2026-05-03T12:23:46.943000",
-   "days_since_review": 27,
+   "days_since_review": 28,
    "total_reviews": 49,
    "reviews_30d": 1,
    "reviews_90d": 1,
@@ -505,7 +505,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 234d ago"
+     "Last login 235d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -537,11 +537,11 @@
    "nps": 33,
    "last_login_raw": "19.05.2026 10:14:09",
    "last_login_iso": "2026-05-19T10:14:09",
-   "days_since_login": 11,
+   "days_since_login": 12,
    "last_user": "JanePeck",
    "last_email": "jane.peck@ewemove.com",
    "last_review_at": "2026-04-03T06:15:04.997000",
-   "days_since_review": 57,
+   "days_since_review": 58,
    "total_reviews": 107,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -551,7 +551,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 57d"
+     "No review for 58d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -588,11 +588,11 @@
    "nps": 0,
    "last_login_raw": "19.09.2024 01:43:04",
    "last_login_iso": "2024-09-19T01:43:04",
-   "days_since_login": 619,
+   "days_since_login": 620,
    "last_user": "SukhyDhillon",
    "last_email": "sukhy.dhillon@ewemove.com",
    "last_review_at": "2026-05-21T13:29:40.820000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 34,
    "reviews_30d": 1,
    "reviews_90d": 3,
@@ -602,7 +602,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 619d ago"
+     "Last login 620d ago"
     ],
     [
      "AMBER",
@@ -639,14 +639,14 @@
    "nps": 0,
    "last_login_raw": "18.04.2026 09:35:44",
    "last_login_iso": "2026-04-18T09:35:44",
-   "days_since_login": 42,
+   "days_since_login": 43,
    "last_user": "TobyGreen",
    "last_email": "toby.green@ewemove.com",
    "last_review_at": "2026-05-23T08:44:48.040000",
-   "days_since_review": 7,
+   "days_since_review": 8,
    "total_reviews": 28,
    "reviews_30d": 3,
-   "reviews_90d": 8,
+   "reviews_90d": 7,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
    "flags": [
@@ -690,11 +690,11 @@
    "nps": 100,
    "last_login_raw": "07.05.2026 12:58:51",
    "last_login_iso": "2026-05-07T12:58:51",
-   "days_since_login": 23,
+   "days_since_login": 24,
    "last_user": "NickMallinder",
    "last_email": "nick.mallinder@ewemove.com",
    "last_review_at": "2026-05-08T13:47:34.023000",
-   "days_since_review": 22,
+   "days_since_review": 23,
    "total_reviews": 32,
    "reviews_30d": 2,
    "reviews_90d": 4,
@@ -734,7 +734,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-18T01:31:20.780000",
-   "days_since_review": 13,
+   "days_since_review": 14,
    "total_reviews": 62,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -780,9 +780,9 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-16T07:35:31.400000",
-   "days_since_review": 14,
+   "days_since_review": 15,
    "total_reviews": 92,
-   "reviews_30d": 2,
+   "reviews_30d": 1,
    "reviews_90d": 15,
    "replies_90d": 11,
    "reply_rate_90d": 73.33333333333333,
@@ -832,11 +832,11 @@
    "nps": 0,
    "last_login_raw": "01.10.2024 01:53:47",
    "last_login_iso": "2024-10-01T01:53:47",
-   "days_since_login": 607,
+   "days_since_login": 608,
    "last_user": "NeilBeglin",
    "last_email": "neil.beglin@ewemove.com",
    "last_review_at": "2026-05-14T12:31:24.017000",
-   "days_since_review": 16,
+   "days_since_review": 17,
    "total_reviews": 58,
    "reviews_30d": 1,
    "reviews_90d": 1,
@@ -846,7 +846,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 607d ago"
+     "Last login 608d ago"
     ],
     [
      "RED",
@@ -883,11 +883,11 @@
    "nps": 0,
    "last_login_raw": "26.02.2025 11:10:40",
    "last_login_iso": "2025-02-26T11:10:40",
-   "days_since_login": 458,
+   "days_since_login": 459,
    "last_user": "AlistairSmith",
    "last_email": "alistair.smith@ewemove.com",
    "last_review_at": "2026-05-24T08:28:41.357000",
-   "days_since_review": 6,
+   "days_since_review": 7,
    "total_reviews": 21,
    "reviews_30d": 1,
    "reviews_90d": 6,
@@ -897,7 +897,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 458d ago"
+     "Last login 459d ago"
     ],
     [
      "AMBER",
@@ -934,7 +934,7 @@
    "nps": 0,
    "last_login_raw": "17.04.2026 01:08:32",
    "last_login_iso": "2026-04-17T01:08:32",
-   "days_since_login": 44,
+   "days_since_login": 45,
    "last_user": "SamGent",
    "last_email": "sam.gent@ewemove.com",
    "last_review_at": null,
@@ -980,11 +980,11 @@
    "nps": 100,
    "last_login_raw": "25.05.2026 05:27:44",
    "last_login_iso": "2026-05-25T05:27:44",
-   "days_since_login": 5,
+   "days_since_login": 6,
    "last_user": "DanStevens",
    "last_email": "dan.stevens@ewemove.com",
    "last_review_at": "2026-05-30T12:40:21.120000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 164,
    "reviews_30d": 14,
    "reviews_90d": 28,
@@ -1030,7 +1030,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-16T10:44:12.547000",
-   "days_since_review": 75,
+   "days_since_review": 76,
    "total_reviews": 32,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -1045,7 +1045,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 75d"
+     "No review for 76d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1077,26 +1077,26 @@
    "nps": 0,
    "last_login_raw": "02.08.2025 06:47:39",
    "last_login_iso": "2025-08-02T06:47:39",
-   "days_since_login": 301,
+   "days_since_login": 302,
    "last_user": "AdamWooding",
    "last_email": "adam.wooding@ewemove.com",
    "last_review_at": "2026-05-21T15:05:52.170000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 21,
    "reviews_30d": 1,
-   "reviews_90d": 4,
+   "reviews_90d": 3,
    "replies_90d": 1,
-   "reply_rate_90d": 25.0,
+   "reply_rate_90d": 33.33333333333333,
    "flags": [
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 301d ago"
+     "Last login 302d ago"
     ],
     [
      "RED",
      "reply_rate_low",
-     "Reply rate 25% (90d)"
+     "Reply rate 33% (90d)"
     ],
     [
      "AMBER",
@@ -1111,7 +1111,7 @@
     "platforms": {},
     "overallRating": 5.0,
     "totalReviews": 0,
-    "replyRate": 25.0
+    "replyRate": 33.33333333333333
    },
    "id": 244075,
    "name": "EweMove Castle Bromwich",
@@ -1133,11 +1133,11 @@
    "nps": 0,
    "last_login_raw": "19.06.2024 12:26:27",
    "last_login_iso": "2024-06-19T12:26:27",
-   "days_since_login": 710,
+   "days_since_login": 711,
    "last_user": "sasasaasasa",
    "last_email": "domenic@viewagents.com",
    "last_review_at": "2026-05-16T02:00:47.957000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 39,
    "reviews_30d": 8,
    "reviews_90d": 19,
@@ -1147,7 +1147,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 710d ago"
+     "Last login 711d ago"
     ],
     [
      "RED",
@@ -1194,11 +1194,11 @@
    "nps": 0,
    "last_login_raw": "25.03.2026 09:05:28",
    "last_login_iso": "2026-03-25T09:05:28",
-   "days_since_login": 66,
+   "days_since_login": 67,
    "last_user": "AndreaMarkham",
    "last_email": "andrea.markham@ewemove.com",
    "last_review_at": "2026-05-09T14:45:23.690000",
-   "days_since_review": 21,
+   "days_since_review": 22,
    "total_reviews": 43,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -1234,11 +1234,11 @@
    "nps": 0,
    "last_login_raw": "14.04.2025 04:15:28",
    "last_login_iso": "2025-04-14T04:15:28",
-   "days_since_login": 412,
+   "days_since_login": 413,
    "last_user": "DeanDu Plessis",
    "last_email": "dean.du-plessis@ewemove.com",
    "last_review_at": "2026-05-27T22:08:20.173000",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 66,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -1248,7 +1248,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 412d ago"
+     "Last login 413d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1275,16 +1275,16 @@
    "postcode": "GL50 1HT",
    "lat": 51.8976,
    "lng": -2.07627,
-   "reputation_score": 81,
-   "rating": 4.41,
+   "reputation_score": 87,
+   "rating": 4.66,
    "nps": 0,
    "last_login_raw": "27.08.2025 08:02:31",
    "last_login_iso": "2025-08-27T08:02:31",
-   "days_since_login": 276,
+   "days_since_login": 277,
    "last_user": "DanJones",
    "last_email": "dan.jones@ewemove.com",
    "last_review_at": "2025-08-31T02:00:59.793000",
-   "days_since_review": 273,
+   "days_since_review": 274,
    "total_reviews": 42,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1294,12 +1294,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 276d ago"
+     "Last login 277d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 273d"
+     "No review for 274d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1311,7 +1311,7 @@
    "platforms": null,
    "va": {
     "platforms": {},
-    "overallRating": 4.41,
+    "overallRating": 4.66,
     "totalReviews": 0,
     "replyRate": null
    },
@@ -1319,7 +1319,7 @@
    "name": "EweMove Cheltenham",
    "totalReviews": 0,
    "googleScore": 4.4,
-   "score": 81
+   "score": 87
   },
   {
    "office_id": 244023,
@@ -1336,11 +1336,11 @@
    "nps": 0,
    "last_login_raw": "02.06.2024 10:39:54",
    "last_login_iso": "2024-06-02T10:39:54",
-   "days_since_login": 727,
+   "days_since_login": 728,
    "last_user": "JamesHodgson",
    "last_email": "james.hodgson@ewemove.com",
    "last_review_at": "2025-07-20T02:39:26.850000",
-   "days_since_review": 315,
+   "days_since_review": 316,
    "total_reviews": 24,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1350,12 +1350,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 727d ago"
+     "Last login 728d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 315d"
+     "No review for 316d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1391,7 +1391,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-14T19:47:27.740000",
-   "days_since_review": 46,
+   "days_since_review": 47,
    "total_reviews": 4,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -1406,7 +1406,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 46d"
+     "No review for 47d"
     ],
     [
      "AMBER",
@@ -1443,7 +1443,7 @@
    "nps": 0,
    "last_login_raw": "28.04.2025 10:53:40",
    "last_login_iso": "2025-04-28T10:53:40",
-   "days_since_login": 397,
+   "days_since_login": 398,
    "last_user": "ScottBriggs",
    "last_email": "scott.briggs@ewemove.com",
    "last_review_at": null,
@@ -1457,7 +1457,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 397d ago"
+     "Last login 398d ago"
     ],
     [
      "RED",
@@ -1499,13 +1499,13 @@
    "nps": 100,
    "last_login_raw": "18.11.2025 09:55:13",
    "last_login_iso": "2025-11-18T09:55:13",
-   "days_since_login": 193,
+   "days_since_login": 194,
    "last_user": "GiovanniTummino",
    "last_email": "giovanni.tummino@ewemove.com",
    "last_review_at": "2026-05-16T01:31:07.220000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 115,
-   "reviews_30d": 2,
+   "reviews_30d": 1,
    "reviews_90d": 7,
    "replies_90d": 6,
    "reply_rate_90d": 85.71428571428571,
@@ -1513,7 +1513,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 193d ago"
+     "Last login 194d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1549,7 +1549,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-01-15T20:56:29.983000",
-   "days_since_review": 135,
+   "days_since_review": 136,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1564,7 +1564,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 135d"
+     "No review for 136d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1596,11 +1596,11 @@
    "nps": 0,
    "last_login_raw": "13.01.2025 11:26:57",
    "last_login_iso": "2025-01-13T11:26:57",
-   "days_since_login": 502,
+   "days_since_login": 503,
    "last_user": "JoMoss",
    "last_email": "jo.moss@ewemove.com",
    "last_review_at": "2026-02-16T13:42:56.907000",
-   "days_since_review": 103,
+   "days_since_review": 104,
    "total_reviews": 157,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1610,12 +1610,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 502d ago"
+     "Last login 503d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 103d"
+     "No review for 104d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1652,11 +1652,11 @@
    "nps": 60,
    "last_login_raw": "10.12.2025 12:24:16",
    "last_login_iso": "2025-12-10T12:24:16",
-   "days_since_login": 171,
+   "days_since_login": 172,
    "last_user": "PaulBottomley",
    "last_email": "paul.bottomley@ewemove.com",
    "last_review_at": "2026-05-21T14:07:20.717000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 73,
    "reviews_30d": 1,
    "reviews_90d": 2,
@@ -1692,11 +1692,11 @@
    "nps": 87,
    "last_login_raw": "22.05.2026 09:43:07",
    "last_login_iso": "2026-05-22T09:43:07",
-   "days_since_login": 8,
+   "days_since_login": 9,
    "last_user": "SteveBreese",
    "last_email": "steve.breese@ewemove.com",
    "last_review_at": "2026-05-19T21:48:45.127000",
-   "days_since_review": 11,
+   "days_since_review": 12,
    "total_reviews": 28,
    "reviews_30d": 1,
    "reviews_90d": 4,
@@ -1738,7 +1738,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-29T17:16:14.443000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 137,
    "reviews_30d": 1,
    "reviews_90d": 3,
@@ -1790,11 +1790,11 @@
    "nps": 0,
    "last_login_raw": "20.05.2026 01:26:56",
    "last_login_iso": "2026-05-20T01:26:56",
-   "days_since_login": 11,
+   "days_since_login": 12,
    "last_user": "StephenToal",
    "last_email": "stephen.toal@ewemove.com",
    "last_review_at": "2026-05-08T19:57:33.873000",
-   "days_since_review": 22,
+   "days_since_review": 23,
    "total_reviews": 37,
    "reviews_30d": 3,
    "reviews_90d": 5,
@@ -1886,11 +1886,11 @@
    "nps": 0,
    "last_login_raw": "14.03.2025 12:03:26",
    "last_login_iso": "2025-03-14T12:03:26",
-   "days_since_login": 442,
+   "days_since_login": 443,
    "last_user": "SpencerGeorgiou",
    "last_email": "spencer.georgiou@ewemove.com",
    "last_review_at": "2025-10-10T13:25:57.790000",
-   "days_since_review": 232,
+   "days_since_review": 233,
    "total_reviews": 15,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -1900,12 +1900,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 442d ago"
+     "Last login 443d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 232d"
+     "No review for 233d"
     ],
     [
      "AMBER",
@@ -1944,13 +1944,13 @@
    "nps": 0,
    "last_login_raw": "09.05.2025 11:15:29",
    "last_login_iso": "2025-05-09T11:15:29",
-   "days_since_login": 386,
+   "days_since_login": 387,
    "last_user": "JamesHillier",
    "last_email": "James.hillier@ewemove.com",
    "last_review_at": "2026-05-30T12:52:43.333000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 966,
-   "reviews_30d": 15,
+   "reviews_30d": 12,
    "reviews_90d": 54,
    "replies_90d": 54,
    "reply_rate_90d": 100.0,
@@ -1958,7 +1958,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 386d ago"
+     "Last login 387d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -1995,7 +1995,7 @@
    "nps": 0,
    "last_login_raw": "30.03.2026 04:45:24",
    "last_login_iso": "2026-03-30T04:45:24",
-   "days_since_login": 62,
+   "days_since_login": 63,
    "last_user": "LeeRamsden",
    "last_email": "lee.ramsden@ewemove.com",
    "last_review_at": null,
@@ -2041,7 +2041,7 @@
    "nps": 0,
    "last_login_raw": "17.01.2025 11:01:16",
    "last_login_iso": "2025-01-17T11:01:16",
-   "days_since_login": 498,
+   "days_since_login": 499,
    "last_user": "LorraineAndrews",
    "last_email": "lorraine.andrews@ewemove.com",
    "last_review_at": null,
@@ -2055,7 +2055,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 498d ago"
+     "Last login 499d ago"
     ],
     [
      "RED",
@@ -2098,11 +2098,11 @@
    "nps": 0,
    "last_login_raw": "27.01.2026 07:58:05",
    "last_login_iso": "2026-01-27T07:58:05",
-   "days_since_login": 123,
+   "days_since_login": 124,
    "last_user": "RyanWebster",
    "last_email": "ryan.webster@ewemove.com",
    "last_review_at": "2026-05-15T20:05:33.547000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 24,
    "reviews_30d": 1,
    "reviews_90d": 3,
@@ -2144,11 +2144,11 @@
    "nps": 0,
    "last_login_raw": "27.06.2025 08:03:43",
    "last_login_iso": "2025-06-27T08:03:43",
-   "days_since_login": 337,
+   "days_since_login": 338,
    "last_user": "GrahamFaulkner",
    "last_email": "graham.faulkner@ewemove.com",
    "last_review_at": "2026-03-25T01:06:32.290000",
-   "days_since_review": 67,
+   "days_since_review": 68,
    "total_reviews": 82,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -2158,12 +2158,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 337d ago"
+     "Last login 338d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 67d"
+     "No review for 68d"
     ],
     [
      "RED",
@@ -2200,11 +2200,11 @@
    "nps": 0,
    "last_login_raw": "14.10.2024 09:13:09",
    "last_login_iso": "2024-10-14T09:13:09",
-   "days_since_login": 593,
+   "days_since_login": 594,
    "last_user": "PhillipWaller",
    "last_email": "phillip.waller@ewemove.com",
    "last_review_at": "2026-04-29T16:39:42.687000",
-   "days_since_review": 31,
+   "days_since_review": 32,
    "total_reviews": 55,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -2214,12 +2214,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 593d ago"
+     "Last login 594d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 31d"
+     "No review for 32d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -2255,7 +2255,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-05T22:55:01.553000",
-   "days_since_review": 55,
+   "days_since_review": 56,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -2270,7 +2270,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 55d"
+     "No review for 56d"
     ],
     [
      "RED",
@@ -2312,11 +2312,11 @@
    "nps": 95,
    "last_login_raw": "29.05.2025 09:47:48",
    "last_login_iso": "2025-05-29T09:47:48",
-   "days_since_login": 366,
+   "days_since_login": 367,
    "last_user": "SamirBelet",
    "last_email": "samir.belet@ewemove.com",
    "last_review_at": "2026-04-07T15:10:53.713000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 43,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -2326,12 +2326,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 366d ago"
+     "Last login 367d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 53d"
+     "No review for 54d"
     ],
     [
      "AMBER",
@@ -2368,11 +2368,11 @@
    "nps": 0,
    "last_login_raw": "28.04.2026 12:28:45",
    "last_login_iso": "2026-04-28T12:28:45",
-   "days_since_login": 32,
+   "days_since_login": 33,
    "last_user": "TadleyOffice",
    "last_email": "tadley@ewemove.com",
    "last_review_at": "2026-04-24T08:57:31.040000",
-   "days_since_review": 36,
+   "days_since_review": 37,
    "total_reviews": 148,
    "reviews_30d": 0,
    "reviews_90d": 8,
@@ -2382,7 +2382,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 36d"
+     "No review for 37d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -2423,7 +2423,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-26T00:39:40.337000",
-   "days_since_review": 66,
+   "days_since_review": 67,
    "total_reviews": 113,
    "reviews_30d": 0,
    "reviews_90d": 5,
@@ -2438,7 +2438,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 66d"
+     "No review for 67d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -2479,7 +2479,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-03-07T02:05:39.273000",
-   "days_since_review": 815,
+   "days_since_review": 816,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -2494,7 +2494,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 815d"
+     "No review for 816d"
     ],
     [
      "AMBER",
@@ -2535,7 +2535,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-09T02:08:17.487000",
-   "days_since_review": 22,
+   "days_since_review": 23,
    "total_reviews": 154,
    "reviews_30d": 1,
    "reviews_90d": 10,
@@ -2581,7 +2581,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-10T14:31:16.900000",
-   "days_since_review": 20,
+   "days_since_review": 21,
    "total_reviews": 151,
    "reviews_30d": 2,
    "reviews_90d": 11,
@@ -2623,7 +2623,7 @@
    "nps": 0,
    "last_login_raw": "15.05.2025 10:13:40",
    "last_login_iso": "2025-05-15T10:13:40",
-   "days_since_login": 380,
+   "days_since_login": 381,
    "last_user": "KarlRoberts",
    "last_email": "karl.roberts@ewemove.com",
    "last_review_at": null,
@@ -2637,7 +2637,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 380d ago"
+     "Last login 381d ago"
     ],
     [
      "RED",
@@ -2674,11 +2674,11 @@
    "nps": 0,
    "last_login_raw": "07.04.2026 08:44:47",
    "last_login_iso": "2026-04-07T08:44:47",
-   "days_since_login": 53,
+   "days_since_login": 54,
    "last_user": "PaulBenson",
    "last_email": "paul.benson@ewemove.com",
    "last_review_at": "2026-05-19T19:40:49.340000",
-   "days_since_review": 11,
+   "days_since_review": 12,
    "total_reviews": 109,
    "reviews_30d": 4,
    "reviews_90d": 9,
@@ -2729,7 +2729,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-24T02:57:04.477000",
-   "days_since_review": 68,
+   "days_since_review": 69,
    "total_reviews": 115,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -2744,7 +2744,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 68d"
+     "No review for 69d"
     ],
     [
      "RED",
@@ -2785,7 +2785,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-07-24T03:23:12.603000",
-   "days_since_review": 311,
+   "days_since_review": 312,
    "total_reviews": 25,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -2800,7 +2800,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 311d"
+     "No review for 312d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -2832,11 +2832,11 @@
    "nps": 100,
    "last_login_raw": "25.03.2026 01:06:19",
    "last_login_iso": "2026-03-25T01:06:19",
-   "days_since_login": 67,
+   "days_since_login": 68,
    "last_user": "GREGJAKOBEK",
    "last_email": "greg.jakobek@ewemove.com",
    "last_review_at": "2026-04-24T17:42:14.993000",
-   "days_since_review": 36,
+   "days_since_review": 37,
    "total_reviews": 37,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -2846,7 +2846,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 36d"
+     "No review for 37d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -2882,7 +2882,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-25T19:08:59.627000",
-   "days_since_review": 5,
+   "days_since_review": 6,
    "total_reviews": 48,
    "reviews_30d": 4,
    "reviews_90d": 4,
@@ -2934,11 +2934,11 @@
    "nps": 0,
    "last_login_raw": "20.02.2026 06:14:05",
    "last_login_iso": "2026-02-20T06:14:05",
-   "days_since_login": 99,
+   "days_since_login": 100,
    "last_user": "MarkDavis",
    "last_email": "mark.davis@ewemove.com",
    "last_review_at": "2026-05-30T09:45:00.383000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 122,
    "reviews_30d": 3,
    "reviews_90d": 19,
@@ -2984,12 +2984,12 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-28T21:17:48.307000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 210,
-   "reviews_30d": 10,
-   "reviews_90d": 32,
-   "replies_90d": 31,
-   "reply_rate_90d": 96.875,
+   "reviews_30d": 9,
+   "reviews_90d": 30,
+   "replies_90d": 29,
+   "reply_rate_90d": 96.66666666666667,
    "flags": [
     [
      "AMBER",
@@ -3004,7 +3004,7 @@
     "platforms": {},
     "overallRating": 4.99,
     "totalReviews": 0,
-    "replyRate": 96.875
+    "replyRate": 96.66666666666667
    },
    "id": 244107,
    "name": "EweMove Hebden Bridge",
@@ -3026,11 +3026,11 @@
    "nps": 0,
    "last_login_raw": "05.05.2026 08:23:34",
    "last_login_iso": "2026-05-05T08:23:34",
-   "days_since_login": 25,
+   "days_since_login": 26,
    "last_user": "JuliaHorsman",
    "last_email": "julia.horsman@ewemove.com",
    "last_review_at": "2026-05-05T14:28:02.427000",
-   "days_since_review": 25,
+   "days_since_review": 26,
    "total_reviews": 2,
    "reviews_30d": 2,
    "reviews_90d": 2,
@@ -3080,13 +3080,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2023-03-12T02:54:44.417000",
-   "days_since_review": 1176,
-   "total_reviews": 15,
+   "last_review_at": "2026-04-30T14:31:01.827000",
+   "days_since_review": 31,
+   "total_reviews": 47,
    "reviews_30d": 0,
-   "reviews_90d": 0,
-   "replies_90d": 0,
-   "reply_rate_90d": null,
+   "reviews_90d": 1,
+   "replies_90d": 1,
+   "reply_rate_90d": 100.0,
    "flags": [
     [
      "AMBER",
@@ -3095,8 +3095,8 @@
     ],
     [
      "AMBER",
-     "no_review_90d",
-     "No review for 1176d"
+     "no_review_30d",
+     "No review for 31d"
     ],
     [
      "AMBER",
@@ -3111,7 +3111,7 @@
     "platforms": {},
     "overallRating": 4.67,
     "totalReviews": 0,
-    "replyRate": null
+    "replyRate": 100.0
    },
    "id": 244110,
    "name": "EweMove High Wycombe",
@@ -3133,11 +3133,11 @@
    "nps": 0,
    "last_login_raw": "30.05.2026 10:53:45",
    "last_login_iso": "2026-05-30T10:53:45",
-   "days_since_login": 0,
+   "days_since_login": 1,
    "last_user": "RachaelHeppingstall",
    "last_email": "rachael.heppingstall@ewemove.com",
    "last_review_at": "2026-05-25T18:31:08.283000",
-   "days_since_review": 5,
+   "days_since_review": 6,
    "total_reviews": 141,
    "reviews_30d": 4,
    "reviews_90d": 4,
@@ -3184,11 +3184,11 @@
    "nps": 0,
    "last_login_raw": "26.09.2025 01:43:56",
    "last_login_iso": "2025-09-26T01:43:56",
-   "days_since_login": 247,
+   "days_since_login": 248,
    "last_user": "NabeehaAhmed",
    "last_email": "nabeeha.hameed@ewemove.com",
    "last_review_at": "2025-11-15T14:14:43.180000",
-   "days_since_review": 196,
+   "days_since_review": 197,
    "total_reviews": 5,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -3198,12 +3198,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 247d ago"
+     "Last login 248d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 196d"
+     "No review for 197d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -3240,7 +3240,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-15T09:44:21.990000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 168,
    "reviews_30d": 2,
    "reviews_90d": 3,
@@ -3286,7 +3286,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-30T20:46:25",
-   "days_since_review": 30,
+   "days_since_review": 31,
    "total_reviews": 22,
    "reviews_30d": 0,
    "reviews_90d": 6,
@@ -3297,6 +3297,11 @@
      "AMBER",
      "never_logged_in",
      "Never logged in"
+    ],
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 31d"
     ],
     [
      "AMBER",
@@ -3342,7 +3347,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-29T20:10:27.283000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 158,
    "reviews_30d": 2,
    "reviews_90d": 5,
@@ -3389,7 +3394,7 @@
    "nps": 0,
    "last_login_raw": "02.02.2026 08:50:18",
    "last_login_iso": "2026-02-02T08:50:18",
-   "days_since_login": 117,
+   "days_since_login": 118,
    "last_user": "DavidTaylor",
    "last_email": "david.taylor@ewemove.com",
    "last_review_at": null,
@@ -3445,7 +3450,7 @@
    "nps": 0,
    "last_login_raw": "20.04.2026 01:06:19",
    "last_login_iso": "2026-04-20T01:06:19",
-   "days_since_login": 41,
+   "days_since_login": 42,
    "last_user": "CraigBlake",
    "last_email": "craig.blake@ewemove.com",
    "last_review_at": null,
@@ -3491,11 +3496,11 @@
    "nps": 0,
    "last_login_raw": "29.04.2026 12:01:19",
    "last_login_iso": "2026-04-29T12:01:19",
-   "days_since_login": 31,
+   "days_since_login": 32,
    "last_user": "PhilSmith",
    "last_email": "phil.smith@ewemove.com",
    "last_review_at": "2026-05-30T14:18:46.997000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 18,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -3534,13 +3539,13 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-05-12T20:35:17.337000",
-   "days_since_review": 18,
-   "total_reviews": 208,
-   "reviews_30d": 1,
-   "reviews_90d": 11,
+   "last_review_at": "2026-05-31T08:32:08.363000",
+   "days_since_review": 0,
+   "total_reviews": 209,
+   "reviews_30d": 2,
+   "reviews_90d": 12,
    "replies_90d": 11,
-   "reply_rate_90d": 100.0,
+   "reply_rate_90d": 91.66666666666666,
    "flags": [
     [
      "AMBER",
@@ -3555,7 +3560,7 @@
     "platforms": {},
     "overallRating": 4.9,
     "totalReviews": 0,
-    "replyRate": 100.0
+    "replyRate": 91.66666666666666
    },
    "id": 244122,
    "name": "EweMove Leicester North",
@@ -3577,11 +3582,11 @@
    "nps": 0,
    "last_login_raw": "01.05.2026 06:30:27",
    "last_login_iso": "2026-05-01T06:30:27",
-   "days_since_login": 29,
+   "days_since_login": 30,
    "last_user": "ChristopherNaylor",
    "last_email": "chris.naylor@ewemove.com",
    "last_review_at": "2026-05-23T02:10:08.643000",
-   "days_since_review": 8,
+   "days_since_review": 9,
    "total_reviews": 446,
    "reviews_30d": 1,
    "reviews_90d": 5,
@@ -3626,17 +3631,22 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-12T18:35:34.283000",
-   "days_since_review": 18,
+   "days_since_review": 19,
    "total_reviews": 2,
    "reviews_30d": 2,
    "reviews_90d": 2,
-   "replies_90d": 2,
-   "reply_rate_90d": 100.0,
+   "replies_90d": 1,
+   "reply_rate_90d": 50.0,
    "flags": [
     [
      "AMBER",
      "never_logged_in",
      "Never logged in"
+    ],
+    [
+     "AMBER",
+     "reply_rate_med",
+     "Reply rate 50% (90d)"
     ],
     [
      "AMBER",
@@ -3651,7 +3661,7 @@
     "platforms": {},
     "overallRating": 5.0,
     "totalReviews": 0,
-    "replyRate": 100.0
+    "replyRate": 50.0
    },
    "id": 261697,
    "name": "EweMove Llantrisant & Pontyclun ",
@@ -3677,7 +3687,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-16T03:41:43.110000",
-   "days_since_review": 45,
+   "days_since_review": 46,
    "total_reviews": 101,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -3692,7 +3702,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 45d"
+     "No review for 46d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -3728,7 +3738,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2024-09-08T01:58:40.430000",
-   "days_since_review": 630,
+   "days_since_review": 631,
    "total_reviews": 27,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -3743,7 +3753,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 630d"
+     "No review for 631d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -3784,7 +3794,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-27T22:05:29.133000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 11,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -3799,7 +3809,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 33d"
+     "No review for 34d"
     ],
     [
      "RED",
@@ -3841,11 +3851,11 @@
    "nps": 0,
    "last_login_raw": "23.05.2024 09:42:39",
    "last_login_iso": "2024-05-23T09:42:39",
-   "days_since_login": 737,
+   "days_since_login": 738,
    "last_user": "SeanFairbridge",
    "last_email": "sean.fairbridge@ewemove.com",
    "last_review_at": "2026-05-30T21:06:33.590000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 62,
    "reviews_30d": 2,
    "reviews_90d": 3,
@@ -3855,7 +3865,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 737d ago"
+     "Last login 738d ago"
     ],
     [
      "RED",
@@ -3892,16 +3902,16 @@
    "nps": 0,
    "last_login_raw": "29.05.2026 02:43:22",
    "last_login_iso": "2026-05-29T02:43:22",
-   "days_since_login": 2,
+   "days_since_login": 3,
    "last_user": "MathewMiles",
    "last_email": "matthewmiles@ewemove.com",
    "last_review_at": "2026-05-01T18:47:57.770000",
-   "days_since_review": 29,
+   "days_since_review": 30,
    "total_reviews": 115,
-   "reviews_30d": 1,
-   "reviews_90d": 6,
-   "replies_90d": 5,
-   "reply_rate_90d": 83.33333333333334,
+   "reviews_30d": 0,
+   "reviews_90d": 5,
+   "replies_90d": 4,
+   "reply_rate_90d": 80.0,
    "flags": [],
    "overall_rag": "GREEN",
    "google": null,
@@ -3910,7 +3920,7 @@
     "platforms": {},
     "overallRating": 4.89,
     "totalReviews": 0,
-    "replyRate": 83.33333333333334
+    "replyRate": 80.0
    },
    "id": 244128,
    "name": "EweMove Morley & Rothwell",
@@ -3932,7 +3942,7 @@
    "nps": 0,
    "last_login_raw": "25.02.2026 12:17:21",
    "last_login_iso": "2026-02-25T12:17:21",
-   "days_since_login": 94,
+   "days_since_login": 95,
    "last_user": "AlisonAstrand",
    "last_email": "alison.astrand@ewemove.com",
    "last_review_at": null,
@@ -3983,11 +3993,11 @@
    "nps": 57,
    "last_login_raw": "12.05.2026 01:49:41",
    "last_login_iso": "2026-05-12T01:49:41",
-   "days_since_login": 19,
+   "days_since_login": 20,
    "last_user": "JamesAger",
    "last_email": "james.ager@ewemove.com",
    "last_review_at": "2026-05-28T14:54:37.253000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 313,
    "reviews_30d": 5,
    "reviews_90d": 11,
@@ -4028,11 +4038,11 @@
    "nps": 0,
    "last_login_raw": "06.06.2025 05:39:42",
    "last_login_iso": "2025-06-06T05:39:42",
-   "days_since_login": 358,
+   "days_since_login": 359,
    "last_user": "KhilanShah",
    "last_email": "khilan.shah@ewemove.com",
    "last_review_at": "2026-05-30T13:47:12.780000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 177,
    "reviews_30d": 4,
    "reviews_90d": 7,
@@ -4042,7 +4052,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 358d ago"
+     "Last login 359d ago"
     ],
     [
      "AMBER",
@@ -4084,18 +4094,24 @@
    "nps": 0,
    "last_login_raw": "06.04.2026 11:50:54",
    "last_login_iso": "2026-04-06T11:50:54",
-   "days_since_login": 54,
+   "days_since_login": 55,
    "last_user": "RichardSykes",
    "last_email": "ric.sykes@ewemove.com",
    "last_review_at": "2026-04-30T15:00:52.710000",
-   "days_since_review": 30,
+   "days_since_review": 31,
    "total_reviews": 12,
    "reviews_30d": 0,
    "reviews_90d": 7,
    "replies_90d": 7,
    "reply_rate_90d": 100.0,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "flags": [
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 31d"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": null,
    "platforms": null,
    "va": {
@@ -4124,7 +4140,7 @@
    "nps": 0,
    "last_login_raw": "22.05.2026 09:24:26",
    "last_login_iso": "2026-05-22T09:24:26",
-   "days_since_login": 8,
+   "days_since_login": 9,
    "last_user": "MichaelWebster",
    "last_email": "michael.webster@ewemove.com",
    "last_review_at": null,
@@ -4173,11 +4189,11 @@
    "days_since_login": null,
    "last_user": null,
    "last_email": null,
-   "last_review_at": "2026-05-16T14:27:39.767000",
-   "days_since_review": 14,
-   "total_reviews": 83,
-   "reviews_30d": 1,
-   "reviews_90d": 3,
+   "last_review_at": "2026-05-30T07:48:33",
+   "days_since_review": 1,
+   "total_reviews": 84,
+   "reviews_30d": 2,
+   "reviews_90d": 4,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
    "flags": [
@@ -4221,11 +4237,11 @@
    "nps": 0,
    "last_login_raw": "02.01.2026 01:54:42",
    "last_login_iso": "2026-01-02T01:54:42",
-   "days_since_login": 149,
+   "days_since_login": 150,
    "last_user": "JamieCareless",
    "last_email": "jamie.careless@ewemove.com",
    "last_review_at": "2026-03-23T06:22:23.247000",
-   "days_since_review": 68,
+   "days_since_review": 69,
    "total_reviews": 3,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -4235,7 +4251,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 68d"
+     "No review for 69d"
     ],
     [
      "AMBER",
@@ -4272,13 +4288,13 @@
    "nps": 0,
    "last_login_raw": "13.05.2025 10:33:09",
    "last_login_iso": "2025-05-13T10:33:09",
-   "days_since_login": 382,
+   "days_since_login": 383,
    "last_user": "ClaireRodwell",
    "last_email": "claire.rodwell@ewemove.com",
    "last_review_at": "2026-05-15T07:01:12.007000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 76,
-   "reviews_30d": 3,
+   "reviews_30d": 1,
    "reviews_90d": 9,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
@@ -4286,7 +4302,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 382d ago"
+     "Last login 383d ago"
     ],
     [
      "RED",
@@ -4323,26 +4339,26 @@
    "nps": 0,
    "last_login_raw": "04.04.2025 08:54:46",
    "last_login_iso": "2025-04-04T08:54:46",
-   "days_since_login": 421,
+   "days_since_login": 422,
    "last_user": "AndrewBlaney",
    "last_email": "andrew.blaney@ewemove.com",
-   "last_review_at": "2026-05-01T00:42:22.707000",
-   "days_since_review": 30,
-   "total_reviews": 28,
-   "reviews_30d": 0,
-   "reviews_90d": 6,
+   "last_review_at": "2026-05-31T10:27:41.043000",
+   "days_since_review": 0,
+   "total_reviews": 29,
+   "reviews_30d": 1,
+   "reviews_90d": 7,
    "replies_90d": 2,
-   "reply_rate_90d": 33.33333333333333,
+   "reply_rate_90d": 28.57142857142857,
    "flags": [
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 421d ago"
+     "Last login 422d ago"
     ],
     [
      "RED",
      "reply_rate_low",
-     "Reply rate 33% (90d)"
+     "Reply rate 29% (90d)"
     ]
    ],
    "overall_rag": "RED",
@@ -4356,7 +4372,7 @@
     "platforms": {},
     "overallRating": 5.0,
     "totalReviews": 0,
-    "replyRate": 33.33333333333333
+    "replyRate": 28.57142857142857
    },
    "id": 244080,
    "name": "EweMove Orpington & Chelsfield",
@@ -4379,11 +4395,11 @@
    "nps": 100,
    "last_login_raw": "22.11.2025 06:06:23",
    "last_login_iso": "2025-11-22T06:06:23",
-   "days_since_login": 189,
+   "days_since_login": 190,
    "last_user": "NevLyon",
    "last_email": "nev.lyon@ewemove.com",
    "last_review_at": "2026-04-03T06:37:03.880000",
-   "days_since_review": 57,
+   "days_since_review": 58,
    "total_reviews": 118,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -4393,12 +4409,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 189d ago"
+     "Last login 190d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 57d"
+     "No review for 58d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -4430,11 +4446,11 @@
    "nps": 100,
    "last_login_raw": "22.02.2026 03:48:52",
    "last_login_iso": "2026-02-22T03:48:52",
-   "days_since_login": 98,
+   "days_since_login": 99,
    "last_user": "LindenAndrew",
    "last_email": "linden.andrew@ewemove.com ",
    "last_review_at": "2025-10-25T05:50:51.233000",
-   "days_since_review": 217,
+   "days_since_review": 218,
    "total_reviews": 20,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4444,7 +4460,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 217d"
+     "No review for 218d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -4532,7 +4548,7 @@
    "nps": 0,
    "last_login_raw": "15.05.2026 12:34:52",
    "last_login_iso": "2026-05-15T12:34:52",
-   "days_since_login": 15,
+   "days_since_login": 16,
    "last_user": "AaronMay",
    "last_email": "aaron.may@ewemove.com",
    "last_review_at": null,
@@ -4578,21 +4594,21 @@
    "nps": 0,
    "last_login_raw": "20.04.2026 11:41:06",
    "last_login_iso": "2026-04-20T11:41:06",
-   "days_since_login": 40,
+   "days_since_login": 41,
    "last_user": "JonathanDawson",
    "last_email": "york@ewemove.com",
-   "last_review_at": "2026-05-29T14:53:58.950000",
-   "days_since_review": 1,
-   "total_reviews": 345,
-   "reviews_30d": 3,
-   "reviews_90d": 11,
+   "last_review_at": "2026-05-31T13:40:31.020000",
+   "days_since_review": 0,
+   "total_reviews": 346,
+   "reviews_30d": 4,
+   "reviews_90d": 12,
    "replies_90d": 8,
-   "reply_rate_90d": 72.72727272727273,
+   "reply_rate_90d": 66.66666666666666,
    "flags": [
     [
      "AMBER",
      "reply_rate_med",
-     "Reply rate 73% (90d)"
+     "Reply rate 67% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -4606,7 +4622,7 @@
     "platforms": {},
     "overallRating": 4.71,
     "totalReviews": 0,
-    "replyRate": 72.72727272727273
+    "replyRate": 66.66666666666666
    },
    "id": 244197,
    "name": "EweMove Pocklington",
@@ -4633,7 +4649,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-10-31T08:26:50.300000",
-   "days_since_review": 211,
+   "days_since_review": 212,
    "total_reviews": 22,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4648,7 +4664,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 211d"
+     "No review for 212d"
     ],
     [
      "RED",
@@ -4689,7 +4705,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-30T02:18:32.847000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 16,
    "reviews_30d": 2,
    "reviews_90d": 5,
@@ -4745,7 +4761,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-06-18T03:26:34.990000",
-   "days_since_review": 347,
+   "days_since_review": 348,
    "total_reviews": 7,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4760,7 +4776,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 347d"
+     "No review for 348d"
     ],
     [
      "AMBER",
@@ -4797,7 +4813,7 @@
    "nps": 0,
    "last_login_raw": "04.07.2024 10:05:39",
    "last_login_iso": "2024-07-04T10:05:39",
-   "days_since_login": 695,
+   "days_since_login": 696,
    "last_user": "HeathKenyon",
    "last_email": "heath.kenyon@ewemove.com",
    "last_review_at": null,
@@ -4811,7 +4827,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 695d ago"
+     "Last login 696d ago"
     ],
     [
      "RED",
@@ -4857,7 +4873,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2023-03-08T01:54:38.140000",
-   "days_since_review": 1180,
+   "days_since_review": 1181,
    "total_reviews": 7,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4872,7 +4888,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 1180d"
+     "No review for 1181d"
     ],
     [
      "RED",
@@ -4913,7 +4929,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-11-21T08:22:53.203000",
-   "days_since_review": 190,
+   "days_since_review": 191,
    "total_reviews": 21,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -4928,7 +4944,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 190d"
+     "No review for 191d"
     ],
     [
      "RED",
@@ -4969,7 +4985,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-25T10:20:12.670000",
-   "days_since_review": 35,
+   "days_since_review": 36,
    "total_reviews": 18,
    "reviews_30d": 0,
    "reviews_90d": 4,
@@ -4984,7 +5000,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 35d"
+     "No review for 36d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5016,11 +5032,11 @@
    "nps": 100,
    "last_login_raw": "23.03.2023 10:48:24",
    "last_login_iso": "2023-03-23T10:48:24",
-   "days_since_login": 1164,
+   "days_since_login": 1165,
    "last_user": "MalcolmWhite",
    "last_email": "malcolm.white@ewemove.com",
    "last_review_at": "2026-04-07T11:11:28.320000",
-   "days_since_review": 53,
+   "days_since_review": 54,
    "total_reviews": 147,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -5030,12 +5046,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 1164d ago"
+     "Last login 1165d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 53d"
+     "No review for 54d"
     ],
     [
      "RED",
@@ -5077,11 +5093,11 @@
    "nps": 0,
    "last_login_raw": "15.09.2025 04:03:24",
    "last_login_iso": "2025-09-15T04:03:24",
-   "days_since_login": 258,
+   "days_since_login": 259,
    "last_user": "AndrewDavy",
    "last_email": "andrew.davy@ewemove.com",
    "last_review_at": "2026-02-03T15:35:08.587000",
-   "days_since_review": 116,
+   "days_since_review": 117,
    "total_reviews": 39,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -5091,12 +5107,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 258d ago"
+     "Last login 259d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 116d"
+     "No review for 117d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5133,11 +5149,11 @@
    "nps": 0,
    "last_login_raw": "18.11.2025 09:55:13",
    "last_login_iso": "2025-11-18T09:55:13",
-   "days_since_login": 193,
+   "days_since_login": 194,
    "last_user": "GiovanniTummino",
    "last_email": "giovanni.tummino@ewemove.com",
    "last_review_at": "2026-04-29T02:41:41.860000",
-   "days_since_review": 32,
+   "days_since_review": 33,
    "total_reviews": 65,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -5147,12 +5163,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 193d ago"
+     "Last login 194d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 32d"
+     "No review for 33d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5184,10 +5200,10 @@
    "nps": 0,
    "last_login_raw": "28.03.2026 10:00:19",
    "last_login_iso": "2026-03-28T10:00:19",
-   "days_since_login": 63,
+   "days_since_login": 64,
    "last_user": "RiponAhmed",
    "last_email": "ripon.ahmed@ewemove.com",
-   "last_review_at": "2026-05-28T22:16:31.857000",
+   "last_review_at": "2026-05-29T14:29:44.303000",
    "days_since_review": 2,
    "total_reviews": 170,
    "reviews_30d": 4,
@@ -5224,11 +5240,11 @@
    "nps": 0,
    "last_login_raw": "28.04.2026 08:49:43",
    "last_login_iso": "2026-04-28T08:49:43",
-   "days_since_login": 32,
+   "days_since_login": 33,
    "last_user": "DeanLatham",
    "last_email": "dean.latham@ewemove.com",
    "last_review_at": "2026-04-28T08:59:38.533000",
-   "days_since_review": 32,
+   "days_since_review": 33,
    "total_reviews": 1,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -5238,7 +5254,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 32d"
+     "No review for 33d"
     ],
     [
      "RED",
@@ -5280,7 +5296,7 @@
    "nps": 0,
    "last_login_raw": "28.04.2026 05:27:00",
    "last_login_iso": "2026-04-28T05:27:00",
-   "days_since_login": 32,
+   "days_since_login": 33,
    "last_user": "AlexTaplin",
    "last_email": "alex.taplin@ewemove.com",
    "last_review_at": null,
@@ -5326,13 +5342,13 @@
    "nps": 0,
    "last_login_raw": "09.05.2025 11:15:29",
    "last_login_iso": "2025-05-09T11:15:29",
-   "days_since_login": 386,
+   "days_since_login": 387,
    "last_user": "JamesHillier",
    "last_email": "James.hillier@ewemove.com",
    "last_review_at": "2026-05-30T13:07:07.407000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 303,
-   "reviews_30d": 5,
+   "reviews_30d": 4,
    "reviews_90d": 18,
    "replies_90d": 18,
    "reply_rate_90d": 100.0,
@@ -5340,7 +5356,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 386d ago"
+     "Last login 387d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5373,11 +5389,11 @@
    "nps": 0,
    "last_login_raw": "04.07.2024 11:34:48",
    "last_login_iso": "2024-07-04T11:34:48",
-   "days_since_login": 695,
+   "days_since_login": 696,
    "last_user": "AlekSapic",
    "last_email": "alek.sapic@ewemove.com",
    "last_review_at": "2026-05-28T03:01:58.107000",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 34,
    "reviews_30d": 2,
    "reviews_90d": 3,
@@ -5387,7 +5403,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 695d ago"
+     "Last login 696d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5423,7 +5439,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-21T19:42:27.810000",
-   "days_since_review": 39,
+   "days_since_review": 40,
    "total_reviews": 59,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -5438,7 +5454,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 39d"
+     "No review for 40d"
     ],
     [
      "RED",
@@ -5475,11 +5491,11 @@
    "nps": 0,
    "last_login_raw": "23.05.2024 11:57:34",
    "last_login_iso": "2024-05-23T11:57:34",
-   "days_since_login": 737,
+   "days_since_login": 738,
    "last_user": "DavidWiffen",
    "last_email": "david.wiffen@ewemove.com",
    "last_review_at": "2026-04-27T11:57:56.887000",
-   "days_since_review": 33,
+   "days_since_review": 34,
    "total_reviews": 47,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -5489,12 +5505,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 737d ago"
+     "Last login 738d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 33d"
+     "No review for 34d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5527,13 +5543,13 @@
    "nps": 93,
    "last_login_raw": "29.05.2026 03:38:35",
    "last_login_iso": "2026-05-29T03:38:35",
-   "days_since_login": 2,
+   "days_since_login": 3,
    "last_user": "davidkruse",
    "last_email": "david.kruse@ewemove.com",
    "last_review_at": "2026-05-08T11:38:40.710000",
-   "days_since_review": 22,
+   "days_since_review": 23,
    "total_reviews": 156,
-   "reviews_30d": 5,
+   "reviews_30d": 3,
    "reviews_90d": 7,
    "replies_90d": 6,
    "reply_rate_90d": 85.71428571428571,
@@ -5572,25 +5588,31 @@
    "nps": 0,
    "last_login_raw": "01.12.2025 10:46:50",
    "last_login_iso": "2025-12-01T10:46:50",
-   "days_since_login": 180,
+   "days_since_login": 181,
    "last_user": "JonathanDavies",
    "last_email": "jonathan.davies@ewemove.com",
-   "last_review_at": "2026-05-26T21:09:45.490000",
-   "days_since_review": 4,
-   "total_reviews": 206,
+   "last_review_at": "2026-05-31T12:35:19.820000",
+   "days_since_review": 0,
+   "total_reviews": 207,
    "reviews_30d": 5,
-   "reviews_90d": 24,
+   "reviews_90d": 25,
    "replies_90d": 22,
-   "reply_rate_90d": 91.66666666666666,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "reply_rate_90d": 88.0,
+   "flags": [
+    [
+     "AMBER",
+     "login_stale_180d",
+     "Last login 181d ago"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": null,
    "platforms": null,
    "va": {
     "platforms": {},
     "overallRating": 4.81,
     "totalReviews": 0,
-    "replyRate": 91.66666666666666
+    "replyRate": 88.0
    },
    "id": 244163,
    "name": "EweMove St Helens",
@@ -5612,11 +5634,11 @@
    "nps": 0,
    "last_login_raw": "15.05.2026 08:03:56",
    "last_login_iso": "2026-05-15T08:03:56",
-   "days_since_login": 15,
+   "days_since_login": 16,
    "last_user": "MikeBailey",
    "last_email": "mike.bailey@ewemove.com",
    "last_review_at": "2026-05-28T10:07:23.947000",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 212,
    "reviews_30d": 4,
    "reviews_90d": 32,
@@ -5659,7 +5681,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-28T11:22:12",
-   "days_since_review": 2,
+   "days_since_review": 3,
    "total_reviews": 419,
    "reviews_30d": 3,
    "reviews_90d": 8,
@@ -5711,21 +5733,21 @@
    "nps": 0,
    "last_login_raw": "08.03.2025 10:30:39",
    "last_login_iso": "2025-03-08T10:30:39",
-   "days_since_login": 448,
+   "days_since_login": 449,
    "last_user": "MoAhmed",
    "last_email": "mo.ahmed@ewemove.com",
    "last_review_at": "2026-05-30T08:50:27.467000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 172,
    "reviews_30d": 3,
-   "reviews_90d": 6,
-   "replies_90d": 6,
+   "reviews_90d": 5,
+   "replies_90d": 5,
    "reply_rate_90d": 100.0,
    "flags": [
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 448d ago"
+     "Last login 449d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -5762,7 +5784,7 @@
    "nps": 0,
    "last_login_raw": "14.05.2026 10:31:21",
    "last_login_iso": "2026-05-14T10:31:21",
-   "days_since_login": 16,
+   "days_since_login": 17,
    "last_user": "JimBerry",
    "last_email": "jim.berry@ewemove.com",
    "last_review_at": null,
@@ -5808,7 +5830,7 @@
    "nps": 0,
    "last_login_raw": "30.05.2026 12:21:13",
    "last_login_iso": "2026-05-30T12:21:13",
-   "days_since_login": 0,
+   "days_since_login": 1,
    "last_user": "PeterRometta1",
    "last_email": "peterrometta@gmail.com",
    "last_review_at": null,
@@ -5859,13 +5881,13 @@
    "nps": 0,
    "last_login_raw": "23.04.2026 10:04:20",
    "last_login_iso": "2026-04-23T10:04:20",
-   "days_since_login": 37,
+   "days_since_login": 38,
    "last_user": "AlissaDavis",
    "last_email": "alissa.davis@ewemove.com",
    "last_review_at": "2026-05-04T17:47:24.383000",
-   "days_since_review": 26,
+   "days_since_review": 27,
    "total_reviews": 33,
-   "reviews_30d": 3,
+   "reviews_30d": 1,
    "reviews_90d": 8,
    "replies_90d": 6,
    "reply_rate_90d": 75.0,
@@ -5910,11 +5932,11 @@
    "nps": 0,
    "last_login_raw": "12.03.2026 02:29:23",
    "last_login_iso": "2026-03-12T02:29:23",
-   "days_since_login": 80,
+   "days_since_login": 81,
    "last_user": "AmyDodd",
    "last_email": "amy.dodd@ewemove.com",
-   "last_review_at": "2026-05-28T20:24:16.347000",
-   "days_since_review": 2,
+   "last_review_at": "2026-05-29T01:29:53.333000",
+   "days_since_review": 3,
    "total_reviews": 187,
    "reviews_30d": 2,
    "reviews_90d": 7,
@@ -5956,11 +5978,11 @@
    "nps": 0,
    "last_login_raw": "17.05.2026 10:10:59",
    "last_login_iso": "2026-05-17T10:10:59",
-   "days_since_login": 13,
+   "days_since_login": 14,
    "last_user": "JoshuaBrighton",
    "last_email": "joshua.brighton@ewemove.com",
    "last_review_at": "2026-05-15T09:26:23.227000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 14,
    "reviews_30d": 3,
    "reviews_90d": 3,
@@ -6003,11 +6025,11 @@
    "nps": 100,
    "last_login_raw": "13.01.2025 11:26:57",
    "last_login_iso": "2025-01-13T11:26:57",
-   "days_since_login": 502,
+   "days_since_login": 503,
    "last_user": "JoMoss",
    "last_email": "jo.moss@ewemove.com",
    "last_review_at": "2026-05-27T19:17:30.723000",
-   "days_since_review": 3,
+   "days_since_review": 4,
    "total_reviews": 272,
    "reviews_30d": 3,
    "reviews_90d": 16,
@@ -6017,7 +6039,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 502d ago"
+     "Last login 503d ago"
     ],
     [
      "AMBER",
@@ -6059,11 +6081,11 @@
    "nps": 0,
    "last_login_raw": "26.03.2026 05:20:49",
    "last_login_iso": "2026-03-26T05:20:49",
-   "days_since_login": 65,
+   "days_since_login": 66,
    "last_user": "PeterCollingswood",
    "last_email": "pete.collingswood@ewemove.com",
    "last_review_at": "2026-03-28T03:49:21.777000",
-   "days_since_review": 64,
+   "days_since_review": 65,
    "total_reviews": 19,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -6073,7 +6095,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 64d"
+     "No review for 65d"
     ],
     [
      "RED",
@@ -6119,7 +6141,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-04-28T03:09:48.037000",
-   "days_since_review": 398,
+   "days_since_review": 399,
    "total_reviews": 23,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6134,7 +6156,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 398d"
+     "No review for 399d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6166,11 +6188,11 @@
    "nps": 0,
    "last_login_raw": "27.11.2025 03:54:22",
    "last_login_iso": "2025-11-27T03:54:22",
-   "days_since_login": 185,
+   "days_since_login": 186,
    "last_user": "LeeTilley",
    "last_email": "lee.tilley@ewemove.com",
    "last_review_at": "2025-10-17T08:27:02.563000",
-   "days_since_review": 225,
+   "days_since_review": 226,
    "total_reviews": 10,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6180,12 +6202,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 185d ago"
+     "Last login 186d ago"
     ],
     [
      "AMBER",
      "no_review_90d",
-     "No review for 225d"
+     "No review for 226d"
     ],
     [
      "AMBER",
@@ -6227,7 +6249,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-05-26T14:58:35.013000",
-   "days_since_review": 4,
+   "days_since_review": 5,
    "total_reviews": 225,
    "reviews_30d": 2,
    "reviews_90d": 10,
@@ -6274,11 +6296,11 @@
    "nps": 100,
    "last_login_raw": "13.05.2026 11:58:38",
    "last_login_iso": "2026-05-13T11:58:38",
-   "days_since_login": 17,
+   "days_since_login": 18,
    "last_user": "AdrianJohnston",
    "last_email": "Adrian.Johnston@ewemove.com",
    "last_review_at": "2026-05-13T12:10:33.603000",
-   "days_since_review": 17,
+   "days_since_review": 18,
    "total_reviews": 58,
    "reviews_30d": 2,
    "reviews_90d": 2,
@@ -6323,7 +6345,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-10T03:41:00.763000",
-   "days_since_review": 172,
+   "days_since_review": 173,
    "total_reviews": 56,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6338,7 +6360,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 172d"
+     "No review for 173d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6379,7 +6401,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-05-11T07:07:18.960000",
-   "days_since_review": 384,
+   "days_since_review": 385,
    "total_reviews": 14,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6394,7 +6416,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 384d"
+     "No review for 385d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6430,7 +6452,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-09-11T15:22:07.453000",
-   "days_since_review": 261,
+   "days_since_review": 262,
    "total_reviews": 156,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6445,7 +6467,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 261d"
+     "No review for 262d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6477,11 +6499,11 @@
    "nps": 0,
    "last_login_raw": "30.05.2026 12:21:13",
    "last_login_iso": "2026-05-30T12:21:13",
-   "days_since_login": 0,
+   "days_since_login": 1,
    "last_user": "PeterRometta1",
    "last_email": "peterrometta@gmail.com",
    "last_review_at": "2026-01-29T04:26:45.540000",
-   "days_since_review": 122,
+   "days_since_review": 123,
    "total_reviews": 4,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6491,7 +6513,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 122d"
+     "No review for 123d"
     ],
     [
      "AMBER",
@@ -6528,11 +6550,11 @@
    "nps": 100,
    "last_login_raw": "29.04.2026 08:20:15",
    "last_login_iso": "2026-04-29T08:20:15",
-   "days_since_login": 31,
+   "days_since_login": 32,
    "last_user": "CharlotteThomasson",
    "last_email": "charlotte.thomasson@ewemove.com",
    "last_review_at": "2026-05-21T07:10:56.603000",
-   "days_since_review": 9,
+   "days_since_review": 10,
    "total_reviews": 151,
    "reviews_30d": 3,
    "reviews_90d": 12,
@@ -6568,11 +6590,11 @@
    "nps": 0,
    "last_login_raw": "14.05.2026 09:25:21",
    "last_login_iso": "2026-05-14T09:25:21",
-   "days_since_login": 16,
+   "days_since_login": 17,
    "last_user": "BenBooth",
    "last_email": "ben.booth@ewemove.com",
    "last_review_at": "2026-05-30T06:53:30.790000",
-   "days_since_review": 0,
+   "days_since_review": 1,
    "total_reviews": 77,
    "reviews_30d": 6,
    "reviews_90d": 8,
@@ -6614,11 +6636,11 @@
    "nps": 0,
    "last_login_raw": "20.05.2026 02:22:02",
    "last_login_iso": "2026-05-20T02:22:02",
-   "days_since_login": 11,
+   "days_since_login": 12,
    "last_user": "DebiBell",
    "last_email": "debi.bell@ewemove.com",
    "last_review_at": "2026-02-23T08:52:52.687000",
-   "days_since_review": 96,
+   "days_since_review": 97,
    "total_reviews": 2,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6628,7 +6650,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 96d"
+     "No review for 97d"
     ],
     [
      "AMBER",
@@ -6669,7 +6691,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-04-03T04:28:42.043000",
-   "days_since_review": 58,
+   "days_since_review": 59,
    "total_reviews": 123,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -6684,7 +6706,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 58d"
+     "No review for 59d"
     ],
     [
      "RED",
@@ -6725,7 +6747,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2025-12-22T07:22:28.190000",
-   "days_since_review": 159,
+   "days_since_review": 160,
    "total_reviews": 8,
    "reviews_30d": 0,
    "reviews_90d": 0,
@@ -6740,7 +6762,7 @@
     [
      "AMBER",
      "no_review_90d",
-     "No review for 159d"
+     "No review for 160d"
     ],
     [
      "RED",
@@ -6777,7 +6799,7 @@
    "nps": 0,
    "last_login_raw": "16.03.2026 12:53:59",
    "last_login_iso": "2026-03-16T12:53:59",
-   "days_since_login": 75,
+   "days_since_login": 76,
    "last_user": "RossNorton",
    "last_email": "ross.norton@ewemove.com",
    "last_review_at": null,
@@ -6823,11 +6845,11 @@
    "nps": 0,
    "last_login_raw": "06.09.2025 12:27:12",
    "last_login_iso": "2025-09-06T12:27:12",
-   "days_since_login": 266,
+   "days_since_login": 267,
    "last_user": "GeorginaHopkinson",
    "last_email": "georgina.hopkinson@ewemove.com",
    "last_review_at": "2026-05-29T13:17:52.413000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 31,
    "reviews_30d": 1,
    "reviews_90d": 2,
@@ -6837,7 +6859,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 266d ago"
+     "Last login 267d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6874,11 +6896,11 @@
    "nps": 0,
    "last_login_raw": "02.07.2025 10:31:32",
    "last_login_iso": "2025-07-02T10:31:32",
-   "days_since_login": 332,
+   "days_since_login": 333,
    "last_user": "SophieLowndes-Toole",
    "last_email": "sophie.lowndes-toole@ewemove.com",
    "last_review_at": "2026-05-05T13:03:21.403000",
-   "days_since_review": 25,
+   "days_since_review": 26,
    "total_reviews": 90,
    "reviews_30d": 1,
    "reviews_90d": 2,
@@ -6888,7 +6910,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 332d ago"
+     "Last login 333d ago"
     ],
     [
      "AMBER",
@@ -6930,11 +6952,11 @@
    "nps": 0,
    "last_login_raw": "17.11.2025 04:49:35",
    "last_login_iso": "2025-11-17T04:49:35",
-   "days_since_login": 195,
+   "days_since_login": 196,
    "last_user": "PaulGammage",
    "last_email": "paul.gammage@ewemove.com",
    "last_review_at": "2026-05-29T08:18:10.773000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 184,
    "reviews_30d": 5,
    "reviews_90d": 11,
@@ -6944,7 +6966,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 195d ago"
+     "Last login 196d ago"
     ]
    ],
    "overall_rag": "AMBER",
@@ -6981,21 +7003,21 @@
    "nps": 0,
    "last_login_raw": "20.04.2026 11:41:06",
    "last_login_iso": "2026-04-20T11:41:06",
-   "days_since_login": 40,
+   "days_since_login": 41,
    "last_user": "JonathanDawson",
    "last_email": "york@ewemove.com",
-   "last_review_at": "2026-05-29T14:53:53.053000",
-   "days_since_review": 1,
-   "total_reviews": 355,
-   "reviews_30d": 3,
-   "reviews_90d": 12,
+   "last_review_at": "2026-05-31T13:40:21.950000",
+   "days_since_review": 0,
+   "total_reviews": 356,
+   "reviews_30d": 4,
+   "reviews_90d": 13,
    "replies_90d": 8,
-   "reply_rate_90d": 66.66666666666666,
+   "reply_rate_90d": 61.53846153846154,
    "flags": [
     [
      "AMBER",
      "reply_rate_med",
-     "Reply rate 67% (90d)"
+     "Reply rate 62% (90d)"
     ]
    ],
    "overall_rag": "AMBER",
@@ -7009,7 +7031,7 @@
     "platforms": {},
     "overallRating": 4.72,
     "totalReviews": 0,
-    "replyRate": 66.66666666666666
+    "replyRate": 61.53846153846154
    },
    "id": 244196,
    "name": "EweMove York",
@@ -7032,11 +7054,11 @@
    "nps": 100,
    "last_login_raw": "20.11.2025 12:19:17",
    "last_login_iso": "2025-11-20T12:19:17",
-   "days_since_login": 191,
+   "days_since_login": 192,
    "last_user": "MattClinton",
    "last_email": "matt.clinton@ewemove.com",
    "last_review_at": "2026-03-29T04:05:29.250000",
-   "days_since_review": 63,
+   "days_since_review": 64,
    "total_reviews": 26,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -7046,12 +7068,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 191d ago"
+     "Last login 192d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 63d"
+     "No review for 64d"
     ],
     [
      "RED",
@@ -7088,18 +7110,24 @@
    "nps": 0,
    "last_login_raw": "01.05.2026 10:06:53",
    "last_login_iso": "2026-05-01T10:06:53",
-   "days_since_login": 29,
+   "days_since_login": 30,
    "last_user": "LeeDevenish",
    "last_email": "lee.devenish@ewemove.com",
    "last_review_at": "2026-04-30T19:44:52.463000",
-   "days_since_review": 30,
+   "days_since_review": 31,
    "total_reviews": 92,
    "reviews_30d": 0,
    "reviews_90d": 5,
    "replies_90d": 4,
    "reply_rate_90d": 80.0,
-   "flags": [],
-   "overall_rag": "GREEN",
+   "flags": [
+    [
+     "AMBER",
+     "no_review_30d",
+     "No review for 31d"
+    ]
+   ],
+   "overall_rag": "AMBER",
    "google": {
     "place_id": "ChIJIyhBU_xljqIRwUZXmYQwL-I",
     "rating": 5.0,
@@ -7133,11 +7161,11 @@
    "nps": 0,
    "last_login_raw": "19.05.2026 10:07:38",
    "last_login_iso": "2026-05-19T10:07:38",
-   "days_since_login": 11,
+   "days_since_login": 12,
    "last_user": "MarkStephens",
    "last_email": "mark.stephens@ewemove.com",
    "last_review_at": "2026-05-29T13:29:33.050000",
-   "days_since_review": 1,
+   "days_since_review": 2,
    "total_reviews": 84,
    "reviews_30d": 5,
    "reviews_90d": 21,
@@ -7177,7 +7205,7 @@
    "last_user": null,
    "last_email": null,
    "last_review_at": "2026-03-07T15:52:03.317000",
-   "days_since_review": 84,
+   "days_since_review": 85,
    "total_reviews": 15,
    "reviews_30d": 0,
    "reviews_90d": 1,
@@ -7192,7 +7220,7 @@
     [
      "AMBER",
      "no_review_30d",
-     "No review for 84d"
+     "No review for 85d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -7224,11 +7252,11 @@
    "nps": 0,
    "last_login_raw": "27.05.2026 07:48:48",
    "last_login_iso": "2026-05-27T07:48:48",
-   "days_since_login": 3,
+   "days_since_login": 4,
    "last_user": "LenneWelch",
    "last_email": "lenne.welch@ewemove.com",
    "last_review_at": "2026-05-22T09:52:45.900000",
-   "days_since_review": 8,
+   "days_since_review": 9,
    "total_reviews": 24,
    "reviews_30d": 3,
    "reviews_90d": 5,
@@ -7264,11 +7292,11 @@
    "nps": 0,
    "last_login_raw": "06.05.2025 05:57:35",
    "last_login_iso": "2025-05-06T05:57:35",
-   "days_since_login": 389,
+   "days_since_login": 390,
    "last_user": "SimonAdams",
    "last_email": "simon.adams@ewemove.com",
    "last_review_at": "2026-03-22T08:31:25.850000",
-   "days_since_review": 69,
+   "days_since_review": 70,
    "total_reviews": 29,
    "reviews_30d": 0,
    "reviews_90d": 2,
@@ -7278,12 +7306,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 389d ago"
+     "Last login 390d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 69d"
+     "No review for 70d"
     ]
    ],
    "overall_rag": "AMBER",
@@ -7315,11 +7343,11 @@
    "nps": 0,
    "last_login_raw": "21.05.2026 02:34:41",
    "last_login_iso": "2026-05-21T02:34:41",
-   "days_since_login": 10,
+   "days_since_login": 11,
    "last_user": "SamanthaCorbett",
    "last_email": "samantha.corbett@ewemove.com",
    "last_review_at": "2026-05-23T14:18:31.643000",
-   "days_since_review": 7,
+   "days_since_review": 8,
    "total_reviews": 43,
    "reviews_30d": 5,
    "reviews_90d": 10,
@@ -7360,7 +7388,7 @@
    "nps": 0,
    "last_login_raw": "07.11.2024 03:58:44",
    "last_login_iso": "2024-11-07T03:58:44",
-   "days_since_login": 570,
+   "days_since_login": 571,
    "last_user": "EleanorRoberts",
    "last_email": "Eleanor.Roberts@ewemove.com",
    "last_review_at": null,
@@ -7374,7 +7402,7 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 570d ago"
+     "Last login 571d ago"
     ],
     [
      "RED",
@@ -7416,21 +7444,21 @@
    "nps": 0,
    "last_login_raw": "16.10.2025 11:26:03",
    "last_login_iso": "2025-10-16T11:26:03",
-   "days_since_login": 226,
+   "days_since_login": 227,
    "last_user": "AnnUpson",
    "last_email": "anna.upson@ewemove.com",
    "last_review_at": "2026-05-15T16:50:03.810000",
-   "days_since_review": 15,
+   "days_since_review": 16,
    "total_reviews": 16,
    "reviews_30d": 1,
-   "reviews_90d": 2,
+   "reviews_90d": 1,
    "replies_90d": 0,
    "reply_rate_90d": 0.0,
    "flags": [
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 226d ago"
+     "Last login 227d ago"
     ],
     [
      "RED",
@@ -7477,11 +7505,11 @@
    "nps": 100,
    "last_login_raw": "23.03.2023 10:48:24",
    "last_login_iso": "2023-03-23T10:48:24",
-   "days_since_login": 1164,
+   "days_since_login": 1165,
    "last_user": "MalcolmWhite",
    "last_email": "malcolm.white@ewemove.com",
    "last_review_at": "2026-03-31T00:32:22.207000",
-   "days_since_review": 61,
+   "days_since_review": 62,
    "total_reviews": 200,
    "reviews_30d": 0,
    "reviews_90d": 3,
@@ -7491,12 +7519,12 @@
     [
      "AMBER",
      "login_stale_180d",
-     "Last login 1164d ago"
+     "Last login 1165d ago"
     ],
     [
      "AMBER",
      "no_review_30d",
-     "No review for 61d"
+     "No review for 62d"
     ],
     [
      "RED",
