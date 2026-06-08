@@ -24,7 +24,7 @@
 
 When you group estate agents by their average Google star rating, the highest-rated band (4.9-5.0★) actually does **less** business than the band just below it (4.7-4.9★). The reason isn't quality — it's review volume.
 
-**Grouped view (the cleanest headline):**
+**Grouped view:**
 
 | Company's average Google rating | Listings per office (2-year window) |
 |---|---|
@@ -44,7 +44,7 @@ The 4.5★+ band processes **77% more business per office than agents below 4.5�
 | 4.0–4.3★ | 118 |
 | 4.3–4.5★ | 171 |
 | 4.5–4.7★ | 194 |
-| **4.7–4.9★** | **222** ← peak |
+| **4.7–4.9★ (peak star rating to volume causality)** | **222** ← peak |
 | 4.9–5.0★ | 160 ← boutique band
 
 **The filtered picture — the "Boutique Agent Effect" revealed:**
@@ -94,7 +94,7 @@ How an agent's rating relates to whether their listings actually sell. "Withdraw
 | 50–80% | 185 | 46.1% |
 | 80–100% | 189 | 44.3% |
 
-**What this means:** Reply rate is a softer signal than star rating, but far from neutral. Agents who reply to 80%+ of their reviews retain about **7% more listings** than agents who reply to under 20%. More importantly, replying correlates strongly with carrying a higher star rating in the first place — it's part of the same engaged-agent profile.
+**What this means:** Reply rate is a softer signal than star rating, but far from neutral. Agents who reply to 80%+ of their reviews retain about **7% more listings** than agents who reply to under 20%, emphasising their all-round commitment to customer service. More importantly, replying correlates strongly with carrying a higher star rating in the first place — it's part of the same engaged-agent profile.
 
 The real value of reply rate is what it signals to **future clients reading reviews** and to **Google's local-search ranking**. An office that consistently replies signals attentiveness; one that ignores reviews signals indifference. The data shows the kind of agent who engages with feedback also happens to be the kind who closes more deals.
 
