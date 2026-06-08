@@ -140,7 +140,7 @@ From 19,239 estate agents with validated Google data:
 
 ## Method notes
 
-- **Source data:** Google Places API validation across the full UK estate agent universe (95.1% match rate after a full revalidation pass), joined to a Sales Competitive Landscape dataset for transaction performance.
+- **Source data:** ViewAgents Data Harvest validation across the full UK estate agent universe (95.1% match rate after a full revalidation pass), joined to a Sales Competitive Landscape dataset for transaction performance.
 - **Time period:** Two-year window, May 2024 – May 2026. Chosen over a single-year cut to smooth annual market variability. All per-office listings figures are totals across the two-year window.
 - **Coverage:** All UK postcode areas. England, Scotland, Wales, Northern Ireland included.
 - **Cleaning:** Non-trading and virtual-office registered addresses (e.g. 128 City Road, N1 6DX) excluded, alongside a small set of non-estate-agent property businesses.
