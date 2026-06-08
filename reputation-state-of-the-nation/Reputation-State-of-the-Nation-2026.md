@@ -3,7 +3,7 @@
 
 **Published by:** Trusted Agent (a Kerfuffle initiative)
 **Date:** 17 May 2026
-**Coverage:** 20,061 UK estate agent offices, of which 19,239 (95.1%) have validated Google review data. Performance data covers a two-year window (May 2024 – May 2026), sourced from TwentyEA Insight. We use a two-year window rather than a single year to smooth annual market variability — all per-office listings figures in this report are totals across that two-year window.
+**Coverage:** 20,061 UK estate agent offices, of which 19,239 (95.1%) have validated Google review data. Performance data covers a two-year window (May 2024 – May 2026). We use a two-year window rather than a single year to smooth annual market variability — all per-office listings figures in this report are totals across that two-year window.
 
 ---
 
@@ -140,11 +140,11 @@ From 19,239 estate agents with validated Google data:
 
 ## Method notes
 
-- **Source data:** Google Places API validation across the full UK estate agent universe (95.1% match rate after a full revalidation pass). TwentyEA Insight Sales Competitive Landscape for transaction data.
+- **Source data:** Google Places API validation across the full UK estate agent universe (95.1% match rate after a full revalidation pass), joined to a Sales Competitive Landscape dataset for transaction performance.
 - **Time period:** Two-year window, May 2024 – May 2026. Chosen over a single-year cut to smooth annual market variability. All per-office listings figures are totals across the two-year window.
 - **Coverage:** All UK postcode areas. England, Scotland, Wales, Northern Ireland included.
 - **Cleaning:** Non-trading and virtual-office registered addresses (e.g. 128 City Road, N1 6DX) excluded, alongside a small set of non-estate-agent property businesses.
-- **Joining method:** Brand × postcode area. One company operating in two postcode areas is counted twice; this is intentional, because the TwentyEA data reports market share separately for each postcode area.
+- **Joining method:** Brand × postcode area. One company operating in two postcode areas is counted twice; this is intentional, because the underlying transaction dataset reports market share separately for each postcode area.
 - **Sample sizes available on request** for any specific finding.
 
 ---
