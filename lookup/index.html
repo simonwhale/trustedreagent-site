@@ -187,9 +187,7 @@
       padding: 0.2rem 0.5rem;
       border-radius: 4px;
     }
-    .ac-tier--T { background: rgba(11,138,138,0.12); color: #0B8A8A; }
-    .ac-tier--G { background: rgba(212,175,55,0.15); color: #b8860b; }
-    .ac-tier--P { background: rgba(80,90,110,0.15); color: #3a4a66; font-weight: 700; }
+    .ac-tier--P, .ac-tier--G, .ac-tier--T { background: rgba(11,138,138,0.12); color: #0B8A8A; }
 
     /* Results */
     .results {
@@ -229,9 +227,7 @@
       border-radius: 100px;
       display: inline-block;
     }
-    .tier-T { background: rgba(11,138,138,0.15); color: #15C0C0; border: 1px solid rgba(11,138,138,0.3); }
-    .tier-G { background: rgba(212,175,55,0.18); color: #f1c40f; border: 1px solid rgba(212,175,55,0.4); }
-    .tier-P { background: rgba(220,225,240,0.18); color: #cfd8e8; border: 1px solid rgba(220,225,240,0.4); font-weight: 700; }
+    .tier-P, .tier-G, .tier-T { background: rgba(11,138,138,0.15); color: #15C0C0; border: 1px solid rgba(11,138,138,0.3); }
     .agent-header__area {
       font-size: 0.85rem;
       color: rgba(255,255,255,0.5);
@@ -670,8 +666,8 @@
     var emptyDiv = document.getElementById('empty');
     var searchSection = document.getElementById('search-section');
 
-    var tierNames = { P: 'Platinum Trusted Agent', G: 'Gold Trusted Agent', T: 'Trusted Agent' };
-    var tierShort = { P: 'Platinum', G: 'Gold', T: 'Trusted Agent' };
+    var tierNames = { P: 'Trusted Agent', G: 'Trusted Agent', T: 'Trusted Agent' };
+    var tierShort = { P: 'Trusted Agent', G: 'Trusted Agent', T: 'Trusted Agent' };
 
     searchInput.addEventListener('input', function() {
       var q = this.value.trim().toLowerCase();
