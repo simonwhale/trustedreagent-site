@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>You're a Trusted Agent — Free Day Pass to K Con 2026</title>
+<meta name="description" content="As a 2026 Trusted Agent, your complimentary K Con Day Pass is on us. Tuesday 7 July, ICC Wales, Newport. Reduced colleague rates available.">
+<meta property="og:title" content="You're a Trusted Agent — Free Day Pass to K Con 2026">
+<meta property="og:description" content="Your complimentary K Con Day Pass is on us. Tuesday 7 July, ICC Wales.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://thetrustedagent.co.uk/claim-day-pass">
+<link rel="preconnect" href="https://api.fontshare.com" crossorigin>
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=clash-display@600,700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;scroll-behavior:smooth;scroll-padding-top:2rem}
+body{min-height:100dvh;font-family:'Satoshi',sans-serif;font-size:clamp(1rem,.95rem + .25vw,1.125rem);line-height:1.6;color:#cbd6ef;background:#0A1E3D;overflow-x:hidden}
+img,svg{display:block;max-width:100%}
+input,button,textarea,select{font:inherit;color:inherit}
+h1,h2,h3,h4{font-family:'Clash Display',sans-serif;line-height:1.15;text-wrap:balance}
+p,li{text-wrap:pretty;max-width:72ch}
+button{cursor:pointer;background:none;border:none}
+::selection{background:rgba(200,150,12,.3);color:#fff}
+:focus-visible{outline:2px solid #C8960C;outline-offset:3px;border-radius:4px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+:root{
+  /* TA brand palette */
+  --ta-navy-deep:#0A1E3D;
+  --ta-navy:#1A1A2E;
+  --ta-navy-mid:#182d5b;
+  --ta-teal:#0B8A8A;
+  --ta-gold:#C8960C;
+  --ta-gold-light:#f3c244;
+  --ta-gold-pale:#fad26c;
+  --ta-pink:#E91E8C;
+  --ta-cream:#cbd6ef;
+  --card-bg:#0e1d3a;
+  --ease-out:cubic-bezier(.16,1,.3,1);
+}
+
+.container{width:min(720px,90vw);margin:0 auto;padding:0 1.25rem}
+.container-wide{width:min(980px,92vw);margin:0 auto;padding:0 1.25rem}
+
+/* ── Hero with gold seal ── */
+.ta-hero{
+  position:relative;
+  background:
+    radial-gradient(ellipse 100% 80% at 50% 0%, rgba(200,150,12,.12), transparent 70%),
+    linear-gradient(180deg,#0A1E3D 0%,#0e1d3a 40%,#0A1E3D 100%);
+  overflow:hidden;
+  padding:0 0 clamp(2rem,5vw,3rem);
+}
+.ta-hero::before{
+  content:'';position:absolute;left:50%;top:0;width:min(440px,60vw);height:100%;
+  background:radial-gradient(ellipse 100% 100% at 50% 0%, rgba(200,150,12,.18), transparent 75%);
+  transform:translateX(-50%);
+  pointer-events:none;z-index:0;
+}
+
+/* ── Top bar ── */
+.top-bar{
+  position:relative;z-index:2;
+  padding:.85rem 0;text-align:center;
+  background:rgba(10,30,61,.85);
+  border-bottom:2px solid var(--ta-gold);
+}
+.top-bar .wordmark{
+  font-family:'Clash Display',sans-serif;font-weight:700;
+  font-size:1.05rem;letter-spacing:.05em;
+  color:#fff;
+}
+.top-bar .wordmark em{font-style:normal;color:var(--ta-gold-light);font-weight:700}
+
+/* ── Invitation Card ── */
+.invitation-section{position:relative;z-index:1;padding:clamp(3rem,8vw,5rem) 0 clamp(1rem,3vw,2rem);text-align:center}
+.invitation-card{
+  background:linear-gradient(170deg,#0e1d3a 0%,#1a2647 100%);
+  color:#fff;
+  border-radius:14px;padding:clamp(2rem,6vw,3.25rem) clamp(1.5rem,5vw,2.75rem);
+  position:relative;overflow:hidden;
+  box-shadow:0 30px 80px rgba(0,0,0,.5),0 0 0 1px rgba(200,150,12,.3);
+  max-width:620px;margin:0 auto;
+}
+.invitation-card::before,.invitation-card::after{content:'';position:absolute;width:60px;height:60px;border:2px solid var(--ta-gold);opacity:.55}
+.invitation-card::before{top:16px;left:16px;border-right:0;border-bottom:0}
+.invitation-card::after{bottom:16px;right:16px;border-left:0;border-top:0}
+
+.pre-title{font-size:.7rem;letter-spacing:.3em;text-transform:uppercase;color:var(--ta-gold-light);margin-bottom:.85rem;font-weight:700}
+
+.ta-seal{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:74px;height:74px;border-radius:50%;
+  background:linear-gradient(135deg,var(--ta-gold) 0%,var(--ta-gold-pale) 50%,var(--ta-gold) 100%);
+  color:var(--ta-navy);
+  font-family:'Clash Display',sans-serif;font-weight:700;font-size:1.8rem;
+  margin-bottom:1.4rem;
+  box-shadow:0 8px 24px rgba(200,150,12,.35),inset 0 -2px 6px rgba(0,0,0,.18);
+  letter-spacing:-.02em;
+}
+
+h1.invite-title{
+  font-size:clamp(2rem,4.5vw,3rem);font-weight:700;color:#fff;
+  margin-bottom:.6rem;letter-spacing:-0.01em;line-height:1.05;
+}
+h1.invite-title em{font-style:normal;color:var(--ta-gold-light)}
+
+.event-name{font-family:'Clash Display',sans-serif;font-size:clamp(1.1rem,2.4vw,1.4rem);font-weight:700;color:var(--ta-gold-light);margin-bottom:.2rem}
+.event-name span{display:block;font-size:.65em;font-weight:500;letter-spacing:.1em;color:rgba(203,214,239,.7);margin-top:.3rem;text-transform:uppercase}
+.event-meta{font-size:.95rem;color:rgba(203,214,239,.75);margin-bottom:1.5rem}
+
+.gold-divider{width:80px;height:1px;background:linear-gradient(90deg,transparent,var(--ta-gold),transparent);margin:1.25rem auto}
+
+.invite-message{font-size:clamp(.95rem,1.8vw,1.05rem);color:rgba(255,255,255,.9);line-height:1.7;max-width:46ch;margin:0 auto 1.25rem}
+.invite-message strong{color:#fff}
+
+.value-pill{
+  display:inline-flex;align-items:center;gap:.5rem;
+  font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ta-navy);background:linear-gradient(135deg,var(--ta-gold) 0%,var(--ta-gold-pale) 100%);
+  padding:.55rem 1.1rem;border-radius:6px;margin-bottom:1.1rem;
+  box-shadow:0 4px 12px rgba(200,150,12,.35);
+}
+.value-pill .strike{text-decoration:line-through;opacity:.65;font-weight:500}
+
+.invite-subtext{font-size:.9rem;color:rgba(203,214,239,.7);line-height:1.6;max-width:44ch;margin:0 auto}
+
+/* ── RSVP Form ── */
+.rsvp-section{position:relative;z-index:1;padding:clamp(2rem,5vw,4rem) 0 clamp(2rem,4vw,3rem)}
+.rsvp-section h2{text-align:center;font-size:clamp(1.4rem,3vw,2rem);color:#fff;margin-bottom:.5rem}
+.rsvp-section .section-sub{text-align:center;font-size:.95rem;color:rgba(203,214,239,.7);margin-bottom:2rem;max-width:48ch;margin-left:auto;margin-right:auto}
+
+.form-card{
+  max-width:520px;margin:0 auto;
+  background:rgba(255,255,255,.04);
+  border:1px solid rgba(200,150,12,.25);
+  border-radius:14px;padding:clamp(1.5rem,4vw,2.25rem);
+  backdrop-filter:blur(8px);
+}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1rem}
+.form-group{margin-bottom:1rem;text-align:left}
+.form-group label{display:block;font-size:.82rem;font-weight:600;color:rgba(255,255,255,.9);margin-bottom:.4rem;letter-spacing:.02em}
+.form-group .optional{font-weight:400;color:rgba(203,214,239,.55);font-size:.78rem}
+.form-group input{
+  width:100%;padding:.85rem 1rem;
+  background:rgba(0,0,0,.3);
+  border:1px solid rgba(200,150,12,.25);
+  border-radius:8px;color:#fff;font-size:.95rem;
+  transition:border-color 180ms,background 180ms;
+}
+.form-group input::placeholder{color:rgba(203,214,239,.35)}
+.form-group input:focus{outline:none;border-color:var(--ta-gold);background:rgba(0,0,0,.4)}
+.form-group.has-error input{border-color:#ff5577;background:rgba(255,30,80,.08)}
+.form-group .error-msg{display:none;font-size:.78rem;color:#ff8899;margin-top:.35rem}
+.form-group.has-error .error-msg{display:block}
+
+.btn-primary{
+  display:block;width:100%;padding:1rem 1.25rem;margin-top:.5rem;
+  background:linear-gradient(135deg,var(--ta-gold) 0%,var(--ta-gold-light) 100%);
+  color:var(--ta-navy);border-radius:8px;font-weight:700;font-size:1rem;letter-spacing:.02em;
+  border:none;cursor:pointer;
+  box-shadow:0 8px 24px rgba(200,150,12,.4);
+  transition:transform 180ms,box-shadow 180ms;
+}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 12px 32px rgba(200,150,12,.5)}
+.btn-primary:disabled{opacity:.6;cursor:wait;transform:none}
+
+.form-fineprint{font-size:.75rem;color:rgba(203,214,239,.55);text-align:center;margin-top:1rem;line-height:1.5}
+
+/* Success state */
+.rsvp-success{display:none;text-align:center;max-width:520px;margin:0 auto;padding:2rem;background:rgba(11,138,138,.1);border:1px solid rgba(11,138,138,.4);border-radius:14px}
+.rsvp-success.visible{display:block}
+.rsvp-success .checkmark{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:var(--ta-teal);color:#fff;margin:0 auto 1rem}
+.rsvp-success h3{color:#fff;font-size:1.6rem;margin-bottom:.5rem}
+.rsvp-success p{color:rgba(255,255,255,.85);margin-bottom:1rem;font-size:.95rem;max-width:none}
+.rsvp-success .next-steps{text-align:left;background:rgba(0,0,0,.25);border-radius:8px;padding:1rem 1.25rem;margin-top:1rem}
+.rsvp-success .next-steps strong{color:#fff;display:block;margin-bottom:.5rem;font-size:.9rem;letter-spacing:.05em;text-transform:uppercase}
+.rsvp-success .next-steps ol{padding-left:1.25rem;color:rgba(203,214,239,.75);font-size:.9rem}
+.rsvp-success .next-steps li{margin-bottom:.4rem}
+
+/* ── What's Included ── */
+.content-section{padding:clamp(2rem,5vw,4rem) 0;border-top:1px solid rgba(200,150,12,.15)}
+.content-section h2{text-align:center;font-size:clamp(1.4rem,3vw,2rem);color:#fff;margin-bottom:.5rem}
+.section-sub{text-align:center;font-size:.95rem;color:rgba(203,214,239,.7);margin-bottom:2rem;max-width:50ch;margin-left:auto;margin-right:auto}
+.includes-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:.75rem;max-width:680px;margin:0 auto}
+.incl-item{display:flex;align-items:flex-start;gap:.6rem;padding:.85rem 1rem;background:rgba(255,255,255,.04);border:1px solid rgba(200,150,12,.12);border-radius:8px;font-size:.9rem;color:rgba(255,255,255,.85)}
+.incl-item svg{flex-shrink:0;margin-top:.15rem}
+
+/* ── Colleague tickets section ── */
+.colleagues-section{padding:clamp(2.5rem,6vw,4.5rem) 0;border-top:1px solid rgba(200,150,12,.15);text-align:center}
+.colleagues-section h2{color:#fff;font-size:clamp(1.6rem,3.2vw,2.2rem);margin-bottom:.5rem}
+.colleagues-section .eyebrow{font-size:.7rem;letter-spacing:.3em;text-transform:uppercase;color:var(--ta-gold-light);font-weight:700;margin-bottom:.6rem}
+.colleagues-section .lede{color:rgba(203,214,239,.8);max-width:54ch;margin:0 auto 2.25rem;font-size:1rem}
+
+.colleague-tickets-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:1.25rem;max-width:920px;margin:0 auto;
+}
+.col-ticket-card{
+  background:linear-gradient(170deg,#0e1d3a 0%,#1a2647 100%);
+  border:1px solid rgba(200,150,12,.25);
+  border-radius:12px;padding:1.5rem 1.4rem;text-align:left;
+  display:flex;flex-direction:column;
+  box-shadow:0 12px 32px rgba(0,0,0,.3);
+}
+.col-ticket-card.featured{border-color:var(--ta-gold);box-shadow:0 12px 36px rgba(200,150,12,.25),0 0 0 1px var(--ta-gold)}
+.col-ticket-card h3{color:#fff;font-size:1.15rem;margin-bottom:.5rem}
+.col-ticket-card .price{font-family:'Clash Display',sans-serif;font-weight:700;font-size:1.65rem;color:#fff;line-height:1}
+.col-ticket-card .price span{font-size:.6rem;font-weight:500;color:rgba(203,214,239,.65);text-transform:uppercase;letter-spacing:.1em;display:block;margin-top:.25rem}
+.col-ticket-card .was{font-size:.85rem;color:rgba(203,214,239,.55);text-decoration:line-through;margin-top:.4rem}
+.col-ticket-card .was .ta-save{color:var(--ta-gold-light);font-weight:700;margin-left:.5rem;text-decoration:none}
+.col-ticket-card ul{list-style:none;padding:0;margin:1rem 0 1.25rem;font-size:.85rem;color:rgba(203,214,239,.85)}
+.col-ticket-card li{padding-left:1.4rem;position:relative;margin-bottom:.35rem;line-height:1.45}
+.col-ticket-card li::before{content:'';position:absolute;left:0;top:.4em;width:14px;height:7px;border-left:2px solid var(--ta-gold);border-bottom:2px solid var(--ta-gold);transform:rotate(-45deg)}
+.col-ticket-card .btn-book{
+  margin-top:auto;display:inline-block;text-align:center;
+  padding:.85rem 1rem;border-radius:8px;font-weight:700;font-size:.95rem;
+  background:linear-gradient(135deg,var(--ta-gold) 0%,var(--ta-gold-light) 100%);
+  color:var(--ta-navy);text-decoration:none;
+  transition:transform 180ms,box-shadow 180ms;
+}
+.col-ticket-card .btn-book:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(200,150,12,.4)}
+.col-ticket-card.featured .btn-book{background:linear-gradient(135deg,#E91E8C 0%,#b81568 100%);color:#fff;box-shadow:0 6px 18px rgba(233,30,140,.3)}
+.col-ticket-card.featured .btn-book:hover{box-shadow:0 10px 28px rgba(233,30,140,.45)}
+
+.col-tip{
+  max-width:620px;margin:2.5rem auto 0;padding:1.25rem 1.5rem;
+  background:rgba(11,138,138,.1);border:1px solid rgba(11,138,138,.3);
+  border-radius:10px;font-size:.9rem;color:rgba(203,214,239,.9);line-height:1.6;
+}
+.col-tip strong{color:#fff}
+
+/* ── Footer ── */
+.site-footer{padding:clamp(2rem,5vw,3rem) 0;text-align:center;background:#06122a;border-top:1px solid rgba(200,150,12,.2)}
+.site-footer a{color:rgba(203,214,239,.65);text-decoration:none;font-size:.85rem;margin-bottom:.75rem;display:inline-block}
+.site-footer a:hover{color:var(--ta-gold-light)}
+.site-footer .small-print{font-size:.75rem;color:rgba(203,214,239,.5);max-width:54ch;margin:.75rem auto 0;line-height:1.5}
+.site-footer .ta-line{font-family:'Clash Display',sans-serif;font-weight:700;color:#fff;font-size:1.05rem;letter-spacing:.05em;margin-bottom:.5rem}
+.site-footer .ta-line em{font-style:normal;color:var(--ta-gold-light)}
+
+@media(max-width:600px){
+  .form-row{grid-template-columns:1fr}
+  .invitation-card::before,.invitation-card::after{width:40px;height:40px}
+  .colleague-tickets-grid{grid-template-columns:1fr;max-width:380px}
+}
+</style>
+</head>
+<body>
+
+<div class="ta-hero">
+  <!-- Top bar -->
+  <div class="top-bar">
+    <div class="container">
+      <div class="wordmark"><em>Trusted Agent</em> &times; Kerfuffle Conference</div>
+    </div>
+  </div>
+
+  <!-- Invitation -->
+  <section class="invitation-section">
+    <div class="container">
+      <div class="invitation-card">
+        <div class="ta-seal">TA</div>
+
+        <p class="pre-title">You're a Trusted Agent</p>
+        <h1 class="invite-title">Your <em>K Conference</em> Day Pass &mdash; on us</h1>
+
+        <p class="event-name">Kerfuffle Conference<br><span>Built On Trust 2026</span></p>
+        <p class="event-meta">Tuesday 7 July 2026 &mdash; ICC Wales, Newport</p>
+
+        <div class="value-pill">
+          <span>Free Day Pass</span>
+          <span class="strike">£199 + VAT</span>
+        </div>
+
+        <p class="invite-message">You made the 2026 Trusted Agent list. As a thank you, your Day Pass is on us &mdash; come and meet the rest of the country's best agents in person. <strong>No payment, no catch.</strong></p>
+
+        <div class="gold-divider"></div>
+
+        <p class="invite-subtext">Includes all conference sessions, networking, lunch and the exhibition. One Day Pass per agency &mdash; just tell us you're coming.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- RSVP Form -->
+<section class="rsvp-section" id="rsvpSection">
+  <div class="container">
+    <div id="formContainer">
+      <h2>Claim your Day Pass</h2>
+      <p class="section-sub">Two minutes. We'll confirm by email and add you to the K Con guest list.</p>
+
+      <form class="form-card" id="rsvpForm" novalidate>
+        <div class="form-row">
+          <div class="form-group" id="fgFirst">
+            <label for="firstName">First name</label>
+            <input type="text" id="firstName" name="firstName" required autocomplete="given-name" placeholder="Jane">
+            <div class="error-msg">Please enter your first name</div>
+          </div>
+          <div class="form-group" id="fgLast">
+            <label for="lastName">Last name</label>
+            <input type="text" id="lastName" name="lastName" required autocomplete="family-name" placeholder="Smith">
+            <div class="error-msg">Please enter your last name</div>
+          </div>
+        </div>
+        <div class="form-group" id="fgEmail">
+          <label for="email">Work email</label>
+          <input type="email" id="email" name="email" required autocomplete="email" placeholder="jane@youragency.co.uk">
+          <div class="error-msg">Please enter a valid email address</div>
+        </div>
+        <div class="form-group" id="fgCompany">
+          <label for="company">Agency name</label>
+          <input type="text" id="company" name="company" required autocomplete="organization" placeholder="Your agency">
+          <div class="error-msg">Please enter your agency name</div>
+        </div>
+        <div class="form-group" id="fgPhone">
+          <label for="phone">Mobile <span class="optional">(for any last-minute updates)</span></label>
+          <input type="tel" id="phone" name="phone" required autocomplete="tel" placeholder="07&hellip;" pattern="[0-9 +()\-]{7,}">
+          <div class="error-msg">Please enter your mobile number</div>
+        </div>
+        <button type="submit" class="btn-primary" id="submitBtn">Confirm my Day Pass &rsaquo;</button>
+        <p class="form-fineprint">By RSVPing, you agree we'll email you confirmation and event details. One free Day Pass per agency domain.</p>
+      </form>
+    </div>
+
+    <div class="rsvp-success" id="successBox">
+      <div class="checkmark"><svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div>
+      <h3>You're on the list.</h3>
+      <p id="successLine">Your Day Pass is reserved &mdash; check your inbox shortly for confirmation.</p>
+      <div class="next-steps">
+        <strong>What happens next</strong>
+        <ol>
+          <li>Confirmation email lands in your inbox within 5 minutes.</li>
+          <li>Joining instructions and arrival details sent end of June.</li>
+          <li>See you at ICC Wales on Tuesday 7 July.</li>
+        </ol>
+      </div>
+      <p style="font-size:.85rem;color:rgba(203,214,239,.7);margin-top:.75rem">Questions in the meantime &mdash; <a href="mailto:simon@kerfuffle.com" style="color:var(--ta-gold-light)">simon@kerfuffle.com</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- What's Included -->
+<section class="content-section">
+  <div class="container">
+    <h2>What's included in your Day Pass</h2>
+    <p class="section-sub">The full daytime conference &mdash; sessions, networking, lunch and exhibition.</p>
+    <div class="includes-grid">
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>All conference sessions and keynotes</span></div>
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Networking sessions and delegate lounges</span></div>
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Delegate lunch and refreshments</span></div>
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Exhibition access to all supplier stands</span></div>
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Event content and post-event recordings</span></div>
+      <div class="incl-item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C8960C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span>Speaker meet &amp; greet opportunities</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- Colleague tickets -->
+<section class="colleagues-section">
+  <div class="container-wide">
+    <div class="eyebrow">Bringing the team</div>
+    <h2>Reduced rates for your colleagues</h2>
+    <p class="lede">Want to bring someone from your office? Your colleagues book at the same special Trusted Agent prices as you'd find on thetrustedagent.co.uk &mdash; nothing public, just for your team.</p>
+
+    <div class="colleague-tickets-grid">
+
+      <!-- Day Pass -->
+      <div class="col-ticket-card">
+        <h3>Day Pass</h3>
+        <div class="price">£199 <span>+VAT &middot; Trusted Agent rate</span></div>
+        <div class="was">was £250 <span class="ta-save">SAVE £51</span></div>
+        <ul>
+          <li>Full day conference access</li>
+          <li>All sessions, networking, lunch</li>
+          <li>Exhibition + supplier stands</li>
+        </ul>
+        <a href="https://buy.stripe.com/3cI4gy2Gj2NCei4clm8AE0B" target="_blank" rel="noopener" class="btn-book">Book Day Pass &rsaquo;</a>
+      </div>
+
+      <!-- Day + Evening -->
+      <div class="col-ticket-card">
+        <h3>Day + Evening Gala</h3>
+        <div class="price">£275 <span>+VAT &middot; Trusted Agent rate</span></div>
+        <div class="was">was £350 <span class="ta-save">SAVE £75</span></div>
+        <ul>
+          <li>Everything in Day Pass</li>
+          <li>Evening gala dinner</li>
+          <li>Awards ceremony seat</li>
+        </ul>
+        <a href="https://buy.stripe.com/fZudR880Dag44Hu4SU8AE0C" target="_blank" rel="noopener" class="btn-book">Book Day + Evening &rsaquo;</a>
+      </div>
+
+      <!-- VIP (featured) -->
+      <div class="col-ticket-card featured">
+        <h3>VIP Pass</h3>
+        <div class="price">£399 <span>+VAT &middot; Trusted Agent rate</span></div>
+        <div class="was">was £550 <span class="ta-save">SAVE £151</span></div>
+        <ul>
+          <li>Everything in Day + Evening</li>
+          <li>VIP networking lunch</li>
+          <li>Premium seating + after-party</li>
+        </ul>
+        <a href="https://buy.stripe.com/3cIeVcdkX5ZO8XKetu8AE0D" target="_blank" rel="noopener" class="btn-book">Book VIP &rsaquo;</a>
+      </div>
+
+      <!-- Table of 10 -->
+      <div class="col-ticket-card">
+        <h3>Table of 10</h3>
+        <div class="price">£2,000 <span>+VAT &middot; Trusted Agent rate</span></div>
+        <div class="was">was £5,500 <span class="ta-save">SAVE £3,500</span></div>
+        <ul>
+          <li>Whole team at the gala</li>
+          <li>Reserved table for 10</li>
+          <li>All evening dining + awards</li>
+        </ul>
+        <a href="https://buy.stripe.com/14A3cu6Wz1Jy5Lybhi8AE0E" target="_blank" rel="noopener" class="btn-book">Book Table &rsaquo;</a>
+      </div>
+
+    </div>
+
+    <div class="col-tip">
+      <strong>Heads up.</strong> The reduced Trusted Agent rates above are not advertised publicly &mdash; they're the same prices Trusted Agents see on thetrustedagent.co.uk. Anyone from your business can use them. Just forward this page to whoever's coming.
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="ta-line"><em>Trusted Agent</em> 2026 &middot; Awards reveal at K Con 2026</div>
+    <a href="https://www.kerfuffleconference.com">kerfuffleconference.com</a>
+    &middot;
+    <a href="https://www.thetrustedagent.co.uk">thetrustedagent.co.uk</a>
+    <p class="small-print">Free Day Pass for confirmed 2026 Trusted Agents, one per agency domain. Kerfuffle Conference 2026 is organised by Kerfuffle Ltd. Built on Trust. &copy; 2026 Kerfuffle Ltd.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var form = document.getElementById('rsvpForm');
+  var btn = document.getElementById('submitBtn');
+  var formBox = document.getElementById('formContainer');
+  var successBox = document.getElementById('successBox');
+  var successLine = document.getElementById('successLine');
+
+  function showError(groupId, msg){
+    var g = document.getElementById(groupId);
+    if (!g) return;
+    g.classList.add('has-error');
+    if (msg) {
+      var em = g.querySelector('.error-msg');
+      if (em) em.textContent = msg;
+    }
+  }
+  function clearErrors(){
+    document.querySelectorAll('.form-group.has-error').forEach(function(g){ g.classList.remove('has-error'); });
+  }
+  function isEmail(v){ return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v); }
+  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, function(c){ return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]; }); }
+
+  form.addEventListener('submit', async function(e){
+    e.preventDefault();
+    clearErrors();
+
+    var firstName = document.getElementById('firstName').value.trim();
+    var lastName  = document.getElementById('lastName').value.trim();
+    var email     = document.getElementById('email').value.trim();
+    var company   = document.getElementById('company').value.trim();
+    var phone     = document.getElementById('phone').value.trim();
+
+    var ok = true;
+    if (firstName.length < 1) { showError('fgFirst'); ok = false; }
+    if (lastName.length  < 1) { showError('fgLast');  ok = false; }
+    if (!isEmail(email))      { showError('fgEmail'); ok = false; }
+    if (company.length   < 1) { showError('fgCompany'); ok = false; }
+    if (phone.replace(/\D/g,'').length < 7) { showError('fgPhone'); ok = false; }
+    if (!ok) return;
+
+    btn.disabled = true;
+    btn.textContent = 'Reserving your Day Pass\u2026';
+
+    try {
+      var fullName = (firstName + ' ' + lastName).trim();
+      var rsvpPromise = fetch('https://ran-v6-platform.onrender.com/api/rsvp', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          fullName:   fullName,
+          email:      email,
+          company:    company || 'Unknown',
+          phone:      phone   || 'Not provided',
+          membership: 'Trusted Agent Day Pass'
+        })
+      }).then(function(r){
+        return r.json().then(function(d){ return { status: r.status, data: d }; }).catch(function(){ return { status: r.status, data: {} }; });
+      }).catch(function(err){
+        console.warn('[trusted-agent] RSVP bridge failed (non-blocking):', err);
+        return { status: 0, data: { error: 'network' } };
+      });
+
+      var brevoPromise = fetch('https://www.kerfuffleconference.com/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          firstName: firstName,
+          lastName:  lastName,
+          email:     email,
+          company:   company || undefined,
+          phone:     phone   || undefined,
+          source:    'trusted-agent'
+        })
+      });
+
+      var rsvpResult = await rsvpPromise;
+      var brevoResp  = await brevoPromise;
+
+      // Domain already claimed by a colleague
+      if (rsvpResult.status === 409 && rsvpResult.data.error === 'domain_claimed') {
+        var who = rsvpResult.data.claimedBy || 'a colleague';
+        throw new Error('Your agency\u2019s free Day Pass has already been claimed by ' + who + '. Anyone else from your business can still book using the reduced Trusted Agent rates below. Or email simon@kerfuffle.com.');
+      }
+      if (rsvpResult.status === 409 && rsvpResult.data.error === 'already_registered') {
+        throw new Error('This email address has already RSVP\u2019d. Check your inbox for the original confirmation, or email simon@kerfuffle.com.');
+      }
+      if (rsvpResult.status === 409 && rsvpResult.data.error === 'membership_full') {
+        throw new Error('The Trusted Agent Day Pass allocation is full. Email simon@kerfuffle.com to be added to the waitlist.');
+      }
+      if (rsvpResult.status !== 200 && rsvpResult.status !== 201) {
+        var rsvpErr = (rsvpResult.data && rsvpResult.data.error) ? rsvpResult.data.error : ('rsvp_status_' + rsvpResult.status);
+        console.error('[trusted-agent] RSVP bridge non-ok:', rsvpResult.status, rsvpResult.data);
+        throw new Error('We couldn\u2019t reserve your seat (' + rsvpErr + '). Please email simon@kerfuffle.com.');
+      }
+      if (!brevoResp.ok) {
+        var errData = await brevoResp.json().catch(function(){return {};});
+        console.error('[trusted-agent] /api/subscribe non-ok:', brevoResp.status, errData);
+      }
+
+      successLine.innerHTML = 'Your Day Pass is reserved' + (firstName ? ', ' + escapeHtml(firstName) : '') + ' &mdash; check your inbox shortly for confirmation.';
+      formBox.style.display = 'none';
+      successBox.classList.add('visible');
+      window.scrollTo({ top: successBox.getBoundingClientRect().top + window.scrollY - 40, behavior: 'smooth' });
+
+    } catch(err) {
+      btn.disabled = false;
+      btn.textContent = 'Confirm my Day Pass \u203a';
+      alert(err.message || 'Something went wrong. Please try again.');
+    }
+  });
+})();
+</script>
+
+</body>
+</html>
