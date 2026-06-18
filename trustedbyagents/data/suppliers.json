@@ -1,0 +1,7390 @@
+[
+  {
+    "id": "sup-0001",
+    "name": "10Ninety",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/10ninety"
+  },
+  {
+    "id": "sup-0002",
+    "name": "2point0 Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/2point0-group"
+  },
+  {
+    "id": "sup-0003",
+    "name": "360imagery",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/360imagery"
+  },
+  {
+    "id": "sup-0004",
+    "name": "99home",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/99home"
+  },
+  {
+    "id": "sup-0005",
+    "name": "Able Agent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/able-agent"
+  },
+  {
+    "id": "sup-0006",
+    "name": "Acaboom",
+    "category": "Proptech",
+    "usage": 12,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/acaboom"
+  },
+  {
+    "id": "sup-0007",
+    "name": "Accommodation",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/accommodation"
+  },
+  {
+    "id": "sup-0008",
+    "name": "Aconveyancing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/aconveyancing"
+  },
+  {
+    "id": "sup-0009",
+    "name": "Acquaint",
+    "category": "CRM",
+    "usage": 158,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/acquaint"
+  },
+  {
+    "id": "sup-0010",
+    "name": "Acquaint Softtech Private Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/acquaint-softtech-private-limited"
+  },
+  {
+    "id": "sup-0011",
+    "name": "Active Agent",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/active-agent"
+  },
+  {
+    "id": "sup-0012",
+    "name": "Activepipe",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/activepipe"
+  },
+  {
+    "id": "sup-0013",
+    "name": "Adam J Walker And Associates Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/adam-j-walker-and-associates-ltd"
+  },
+  {
+    "id": "sup-0014",
+    "name": "Addintel",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/addintel"
+  },
+  {
+    "id": "sup-0015",
+    "name": "Addland",
+    "category": "Data",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/addland"
+  },
+  {
+    "id": "sup-0016",
+    "name": "Adiuvo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/adiuvo"
+  },
+  {
+    "id": "sup-0017",
+    "name": "Adoor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/adoor"
+  },
+  {
+    "id": "sup-0018",
+    "name": "Agc Accouter Group Of Companies",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agc-accouter-group-of-companies"
+  },
+  {
+    "id": "sup-0019",
+    "name": "Agency Express",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agency-express"
+  },
+  {
+    "id": "sup-0020",
+    "name": "Agency Mentors",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agency-mentors"
+  },
+  {
+    "id": "sup-0021",
+    "name": "Agent Checker",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-checker"
+  },
+  {
+    "id": "sup-0022",
+    "name": "Agent Design Kit",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-design-kit"
+  },
+  {
+    "id": "sup-0023",
+    "name": "Agent Extra Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-extra-ltd"
+  },
+  {
+    "id": "sup-0024",
+    "name": "Agent Hub Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-hub-ltd"
+  },
+  {
+    "id": "sup-0025",
+    "name": "Agent Media",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-media"
+  },
+  {
+    "id": "sup-0026",
+    "name": "Agent Rainmaker",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-rainmaker"
+  },
+  {
+    "id": "sup-0027",
+    "name": "Agent Response",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-response"
+  },
+  {
+    "id": "sup-0028",
+    "name": "Agent Software Hello Again Spectre",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agent-software-hello-again-spectre"
+  },
+  {
+    "id": "sup-0029",
+    "name": "AgentOS",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agentos"
+  },
+  {
+    "id": "sup-0030",
+    "name": "agentPay",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agentpay"
+  },
+  {
+    "id": "sup-0031",
+    "name": "AgentPro",
+    "category": "CRM",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agentpro"
+  },
+  {
+    "id": "sup-0032",
+    "name": "Agentrelay",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agentrelay"
+  },
+  {
+    "id": "sup-0033",
+    "name": "Agents Giving",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agents-giving"
+  },
+  {
+    "id": "sup-0034",
+    "name": "Agents Together",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agents-together"
+  },
+  {
+    "id": "sup-0035",
+    "name": "Agentsync",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/agentsync"
+  },
+  {
+    "id": "sup-0036",
+    "name": "Airthings",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/airthings"
+  },
+  {
+    "id": "sup-0037",
+    "name": "Albert William Recruitment",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/albert-william-recruitment"
+  },
+  {
+    "id": "sup-0038",
+    "name": "All Services4u",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/all-services4u"
+  },
+  {
+    "id": "sup-0039",
+    "name": "AllAgents",
+    "category": "Reviews",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/allagents"
+  },
+  {
+    "id": "sup-0040",
+    "name": "Alldaypa",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/alldaypa"
+  },
+  {
+    "id": "sup-0041",
+    "name": "Altium Legal",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/altium-legal"
+  },
+  {
+    "id": "sup-0042",
+    "name": "Alto",
+    "category": "CRM",
+    "usage": 453,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/alto"
+  },
+  {
+    "id": "sup-0043",
+    "name": "Amdaris",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/amdaris"
+  },
+  {
+    "id": "sup-0044",
+    "name": "Ampla Finance",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ampla-finance"
+  },
+  {
+    "id": "sup-0045",
+    "name": "Amr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/amr"
+  },
+  {
+    "id": "sup-0046",
+    "name": "Amr Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/amr-group"
+  },
+  {
+    "id": "sup-0047",
+    "name": "An Expert Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/an-expert-consultancy"
+  },
+  {
+    "id": "sup-0048",
+    "name": "Anabode",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/anabode"
+  },
+  {
+    "id": "sup-0049",
+    "name": "Angels Media",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/angels-media"
+  },
+  {
+    "id": "sup-0050",
+    "name": "Answer4u",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/answer4u"
+  },
+  {
+    "id": "sup-0051",
+    "name": "Answerconnect Uk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/answerconnect-uk"
+  },
+  {
+    "id": "sup-0052",
+    "name": "Anyone",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/anyone"
+  },
+  {
+    "id": "sup-0053",
+    "name": "Anyvan Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/anyvan-ltd"
+  },
+  {
+    "id": "sup-0054",
+    "name": "Anyword",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/anyword"
+  },
+  {
+    "id": "sup-0055",
+    "name": "Apex",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/apex"
+  },
+  {
+    "id": "sup-0056",
+    "name": "Apex 27",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/apex27"
+  },
+  {
+    "id": "sup-0057",
+    "name": "Aplyid",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/aplyid"
+  },
+  {
+    "id": "sup-0058",
+    "name": "Apollo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/apollo"
+  },
+  {
+    "id": "sup-0059",
+    "name": "Arla Propertymark 2",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/arla-propertymark-2"
+  },
+  {
+    "id": "sup-0060",
+    "name": "Arnold Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/arnold-inventories"
+  },
+  {
+    "id": "sup-0061",
+    "name": "Art Division",
+    "category": "Other",
+    "usage": 6,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/art-division"
+  },
+  {
+    "id": "sup-0062",
+    "name": "Arthur Online Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/arthur-online-ltd"
+  },
+  {
+    "id": "sup-0063",
+    "name": "Asdt",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/asdt"
+  },
+  {
+    "id": "sup-0064",
+    "name": "Ashcroft Mailing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ashcroft-mailing"
+  },
+  {
+    "id": "sup-0065",
+    "name": "Ask Porter",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ask-porter"
+  },
+  {
+    "id": "sup-0066",
+    "name": "Askhomey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/askhomey"
+  },
+  {
+    "id": "sup-0067",
+    "name": "Assist Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/assist-inventories"
+  },
+  {
+    "id": "sup-0068",
+    "name": "Assured Sales",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/assured-sales"
+  },
+  {
+    "id": "sup-0069",
+    "name": "Assured Sales And Progression Asap",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/assured-sales-and-progression-asap"
+  },
+  {
+    "id": "sup-0070",
+    "name": "Athomehere Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/athomehere-ltd"
+  },
+  {
+    "id": "sup-0071",
+    "name": "Atomic Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/atomic-consultancy"
+  },
+  {
+    "id": "sup-0072",
+    "name": "Auction House",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/auction-house"
+  },
+  {
+    "id": "sup-0073",
+    "name": "Auto Social",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/auto-social"
+  },
+  {
+    "id": "sup-0074",
+    "name": "Autoenhance Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/autoenhance-ai"
+  },
+  {
+    "id": "sup-0075",
+    "name": "Automated Accounting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/automated-accounting"
+  },
+  {
+    "id": "sup-0076",
+    "name": "Autoprop Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/autoprop-ai"
+  },
+  {
+    "id": "sup-0077",
+    "name": "Avrillo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/avrillo"
+  },
+  {
+    "id": "sup-0078",
+    "name": "Axcess Web",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/axcess-web"
+  },
+  {
+    "id": "sup-0079",
+    "name": "B Hive Block Management Partners",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/b-hive-block-management-partners"
+  },
+  {
+    "id": "sup-0080",
+    "name": "Baldock Brothers Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/baldock-brothers-consultancy"
+  },
+  {
+    "id": "sup-0081",
+    "name": "Bamboo Auctions",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bamboo-auctions"
+  },
+  {
+    "id": "sup-0082",
+    "name": "Barbuck Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/barbuck-limited"
+  },
+  {
+    "id": "sup-0083",
+    "name": "Barracuda",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/barracuda"
+  },
+  {
+    "id": "sup-0084",
+    "name": "Beagel",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/beagel"
+  },
+  {
+    "id": "sup-0085",
+    "name": "Belvoir Group Plc",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/belvoir-group-plc"
+  },
+  {
+    "id": "sup-0086",
+    "name": "Ben Newman Photography",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ben-newman-photography"
+  },
+  {
+    "id": "sup-0087",
+    "name": "Besley Copp",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/besley-copp"
+  },
+  {
+    "id": "sup-0088",
+    "name": "Besmove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/besmove"
+  },
+  {
+    "id": "sup-0089",
+    "name": "Bestagent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bestagent"
+  },
+  {
+    "id": "sup-0090",
+    "name": "Bid",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bid"
+  },
+  {
+    "id": "sup-0091",
+    "name": "Bluesky",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bluesky"
+  },
+  {
+    "id": "sup-0092",
+    "name": "Bombbomb",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bombbomb"
+  },
+  {
+    "id": "sup-0093",
+    "name": "Boxbrownie Com",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/boxbrownie-com"
+  },
+  {
+    "id": "sup-0094",
+    "name": "Breezemove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/breezemove"
+  },
+  {
+    "id": "sup-0095",
+    "name": "Bric Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bric-software"
+  },
+  {
+    "id": "sup-0096",
+    "name": "Bricks And Agent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bricks-and-agent"
+  },
+  {
+    "id": "sup-0097",
+    "name": "Bricks Logic",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bricks-logic"
+  },
+  {
+    "id": "sup-0098",
+    "name": "Bridge Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bridge-ai"
+  },
+  {
+    "id": "sup-0099",
+    "name": "BriefYourMarket",
+    "category": "Email Marketing",
+    "usage": 12,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/brief-your-market"
+  },
+  {
+    "id": "sup-0100",
+    "name": "Bright Logic",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bright-logic"
+  },
+  {
+    "id": "sup-0101",
+    "name": "Bright Move Residential",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/bright-move-residential"
+  },
+  {
+    "id": "sup-0102",
+    "name": "Brightbee Marketing Ab",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/brightbee-marketing-ab"
+  },
+  {
+    "id": "sup-0103",
+    "name": "Building Passport",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/building-passport"
+  },
+  {
+    "id": "sup-0104",
+    "name": "By Design",
+    "category": "Networks & Franchises",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/by-design"
+  },
+  {
+    "id": "sup-0105",
+    "name": "C A R L Communication",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/c-a-r-l-communication"
+  },
+  {
+    "id": "sup-0106",
+    "name": "C4b",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/c4b"
+  },
+  {
+    "id": "sup-0107",
+    "name": "Callwell",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/callwell"
+  },
+  {
+    "id": "sup-0108",
+    "name": "Calmony",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/calmony"
+  },
+  {
+    "id": "sup-0109",
+    "name": "Cameroon S Planning Solutions Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cameroon-s-planning-solutions-ltd"
+  },
+  {
+    "id": "sup-0110",
+    "name": "Cannell Signs Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cannell-signs-ltd"
+  },
+  {
+    "id": "sup-0111",
+    "name": "Canopy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/canopy"
+  },
+  {
+    "id": "sup-0112",
+    "name": "Carolinemary Consultants Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/carolinemary-consultants-ltd"
+  },
+  {
+    "id": "sup-0113",
+    "name": "Cbre Vantage",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cbre-vantage"
+  },
+  {
+    "id": "sup-0114",
+    "name": "Cct",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cct"
+  },
+  {
+    "id": "sup-0115",
+    "name": "Certie",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/certie"
+  },
+  {
+    "id": "sup-0116",
+    "name": "Cfh Docmail Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cfh-docmail-ltd"
+  },
+  {
+    "id": "sup-0117",
+    "name": "CFP",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cfp"
+  },
+  {
+    "id": "sup-0118",
+    "name": "Chainflow",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/chainflow"
+  },
+  {
+    "id": "sup-0119",
+    "name": "Chapps",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/chapps"
+  },
+  {
+    "id": "sup-0120",
+    "name": "Chapter Ii",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/chapter-ii"
+  },
+  {
+    "id": "sup-0121",
+    "name": "Chat Heroes",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/chat-heroes"
+  },
+  {
+    "id": "sup-0122",
+    "name": "Checkatrade",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/checkatrade"
+  },
+  {
+    "id": "sup-0123",
+    "name": "Checkboard",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/checkboard"
+  },
+  {
+    "id": "sup-0124",
+    "name": "Cherry Pick People",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cherry-pick-people"
+  },
+  {
+    "id": "sup-0125",
+    "name": "Chimni",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/chimni"
+  },
+  {
+    "id": "sup-0126",
+    "name": "Christopher Watkin",
+    "category": "Consulting",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/christopher-watkin"
+  },
+  {
+    "id": "sup-0127",
+    "name": "Citrus Content",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/citrus-content"
+  },
+  {
+    "id": "sup-0128",
+    "name": "Clarity Media Leads",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/clarity-media-leads"
+  },
+  {
+    "id": "sup-0129",
+    "name": "Clarks Computer Systems",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/clarks-computer-systems"
+  },
+  {
+    "id": "sup-0130",
+    "name": "Classic Folios And Spaciable",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/classic-folios-and-spaciable"
+  },
+  {
+    "id": "sup-0131",
+    "name": "Clear Property Services Company Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/clear-property-services-company-ltd"
+  },
+  {
+    "id": "sup-0132",
+    "name": "Clevaa",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/clevaa"
+  },
+  {
+    "id": "sup-0133",
+    "name": "Cml Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cml-software"
+  },
+  {
+    "id": "sup-0134",
+    "name": "Coadjute",
+    "category": "Conveyancing Tracking",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/coadjute"
+  },
+  {
+    "id": "sup-0135",
+    "name": "Coastal Waste",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/coastal-waste"
+  },
+  {
+    "id": "sup-0136",
+    "name": "Coho",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/coho"
+  },
+  {
+    "id": "sup-0137",
+    "name": "Collins Property Recruitment Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/collins-property-recruitment-ltd"
+  },
+  {
+    "id": "sup-0138",
+    "name": "CommVersion",
+    "category": "Other",
+    "usage": 11,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/comm-version"
+  },
+  {
+    "id": "sup-0139",
+    "name": "Complete Asap",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/complete-asap"
+  },
+  {
+    "id": "sup-0140",
+    "name": "Complete My Sale",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/complete-my-sale"
+  },
+  {
+    "id": "sup-0141",
+    "name": "Compliance Matters",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/compliance-matters"
+  },
+  {
+    "id": "sup-0142",
+    "name": "Complylex",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/complylex"
+  },
+  {
+    "id": "sup-0143",
+    "name": "Consortia Marketing Consortia Promo Gifts",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/consortia-marketing-consortia-promo-gifts"
+  },
+  {
+    "id": "sup-0144",
+    "name": "Content For",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/content-for"
+  },
+  {
+    "id": "sup-0145",
+    "name": "Conversepop",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/conversepop"
+  },
+  {
+    "id": "sup-0146",
+    "name": "Conveyancing Alliance Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/conveyancing-alliance-limited"
+  },
+  {
+    "id": "sup-0147",
+    "name": "Corelogic",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/corelogic"
+  },
+  {
+    "id": "sup-0148",
+    "name": "Cornerstone",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cornerstone"
+  },
+  {
+    "id": "sup-0149",
+    "name": "Costar",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/costar"
+  },
+  {
+    "id": "sup-0150",
+    "name": "Countrywide Signs",
+    "category": "eSign",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/countrywide-signs"
+  },
+  {
+    "id": "sup-0151",
+    "name": "Courtman Co",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/courtman-co"
+  },
+  {
+    "id": "sup-0152",
+    "name": "Cox Flight",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cox-flight"
+  },
+  {
+    "id": "sup-0153",
+    "name": "Cre Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cre-group"
+  },
+  {
+    "id": "sup-0154",
+    "name": "Cream Hr Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cream-hr-limited"
+  },
+  {
+    "id": "sup-0155",
+    "name": "Credas Technologies Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/credas-technologies-ltd"
+  },
+  {
+    "id": "sup-0156",
+    "name": "Crux",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/crux"
+  },
+  {
+    "id": "sup-0157",
+    "name": "Crystal Roof",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/crystal-roof"
+  },
+  {
+    "id": "sup-0158",
+    "name": "Cy Training Works",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cy-training-works"
+  },
+  {
+    "id": "sup-0159",
+    "name": "Cybrancee",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cybrancee"
+  },
+  {
+    "id": "sup-0160",
+    "name": "Cynq",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/cynq"
+  },
+  {
+    "id": "sup-0161",
+    "name": "Dataloft",
+    "category": "Data",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dataloft"
+  },
+  {
+    "id": "sup-0162",
+    "name": "David 2 Goliath",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/david-2-goliath"
+  },
+  {
+    "id": "sup-0163",
+    "name": "David Lee",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/david-lee"
+  },
+  {
+    "id": "sup-0164",
+    "name": "Dawsons Training Wales",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dawsons-training-wales"
+  },
+  {
+    "id": "sup-0165",
+    "name": "Dctr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dctr"
+  },
+  {
+    "id": "sup-0166",
+    "name": "Decorus For Sage",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/decorus-for-sage"
+  },
+  {
+    "id": "sup-0167",
+    "name": "Delegait Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/delegait-ltd"
+  },
+  {
+    "id": "sup-0168",
+    "name": "Demand Logic",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/demand-logic"
+  },
+  {
+    "id": "sup-0169",
+    "name": "Deverellsmith",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/deverellsmith"
+  },
+  {
+    "id": "sup-0170",
+    "name": "Dez Rez",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dezrez"
+  },
+  {
+    "id": "sup-0171",
+    "name": "Dezrez Legal",
+    "category": "Conveyancing Tracking",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dezrez-legal"
+  },
+  {
+    "id": "sup-0172",
+    "name": "Different Edge Leadership",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/different-edge-leadership"
+  },
+  {
+    "id": "sup-0173",
+    "name": "Digital Munkey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/digital-munkey"
+  },
+  {
+    "id": "sup-0174",
+    "name": "Digital Office Systems",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/digital-office-systems"
+  },
+  {
+    "id": "sup-0175",
+    "name": "Digital Sparks",
+    "category": "Marketing",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/digital-sparks"
+  },
+  {
+    "id": "sup-0176",
+    "name": "Digi-Val",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/digival"
+  },
+  {
+    "id": "sup-0177",
+    "name": "Digiworkr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/digiworkr"
+  },
+  {
+    "id": "sup-0178",
+    "name": "Diomed Consulting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/diomed-consulting"
+  },
+  {
+    "id": "sup-0179",
+    "name": "Direct Repairs Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/direct-repairs-ltd"
+  },
+  {
+    "id": "sup-0180",
+    "name": "Distinctive Homes",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/distinctive-homes"
+  },
+  {
+    "id": "sup-0181",
+    "name": "Distribute Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/distribute-digital"
+  },
+  {
+    "id": "sup-0182",
+    "name": "Divido",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/divido"
+  },
+  {
+    "id": "sup-0183",
+    "name": "Dna Property Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dna-property-services"
+  },
+  {
+    "id": "sup-0184",
+    "name": "Do It For Dom",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/do-it-for-dom"
+  },
+  {
+    "id": "sup-0185",
+    "name": "Docubien Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/docubien-ai"
+  },
+  {
+    "id": "sup-0186",
+    "name": "Domus",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/domus"
+  },
+  {
+    "id": "sup-0187",
+    "name": "Doorkeep",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/doorkeep"
+  },
+  {
+    "id": "sup-0188",
+    "name": "Dove Hawk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dove-hawk"
+  },
+  {
+    "id": "sup-0189",
+    "name": "Dowling Jones Design",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dowling-jones-design"
+  },
+  {
+    "id": "sup-0190",
+    "name": "DPS",
+    "category": "Tenancy Deposit",
+    "usage": 32,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dps"
+  },
+  {
+    "id": "sup-0191",
+    "name": "Dragonfly",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dragonfly"
+  },
+  {
+    "id": "sup-0192",
+    "name": "Drawbotics",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/drawbotics"
+  },
+  {
+    "id": "sup-0193",
+    "name": "Duesday",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/duesday"
+  },
+  {
+    "id": "sup-0194",
+    "name": "Dwellant",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/dwellant"
+  },
+  {
+    "id": "sup-0195",
+    "name": "Ea Masters",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ea-masters"
+  },
+  {
+    "id": "sup-0196",
+    "name": "Eaanalytics",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/eaanalytics"
+  },
+  {
+    "id": "sup-0197",
+    "name": "Easymatch",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/easymatch"
+  },
+  {
+    "id": "sup-0198",
+    "name": "E-Conveyancer",
+    "category": "Conveyancing Tracking",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/econveyancer"
+  },
+  {
+    "id": "sup-0199",
+    "name": "Edge Technologies",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/edge-technologies"
+  },
+  {
+    "id": "sup-0200",
+    "name": "Edozo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/edozo"
+  },
+  {
+    "id": "sup-0201",
+    "name": "Ehouse",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ehouse"
+  },
+  {
+    "id": "sup-0202",
+    "name": "Eig Property Auctions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/eig-property-auctions"
+  },
+  {
+    "id": "sup-0203",
+    "name": "Elg Media Management",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/elg-media-management"
+  },
+  {
+    "id": "sup-0204",
+    "name": "Elite Consultancy Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/elite-consultancy-group"
+  },
+  {
+    "id": "sup-0205",
+    "name": "Elite Conveyancing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/elite-conveyancing"
+  },
+  {
+    "id": "sup-0206",
+    "name": "Elocations",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/elocations"
+  },
+  {
+    "id": "sup-0207",
+    "name": "Embrace Financial Services",
+    "category": "Other",
+    "usage": 8,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/embrace-financial-services"
+  },
+  {
+    "id": "sup-0208",
+    "name": "Emzo Marketing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/emzo-marketing"
+  },
+  {
+    "id": "sup-0209",
+    "name": "Enquiry Management By Ire",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/enquiry-management-by-ire"
+  },
+  {
+    "id": "sup-0210",
+    "name": "Epc Choice",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/epc-choice"
+  },
+  {
+    "id": "sup-0211",
+    "name": "Epic Agent Crm",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/epic-agent-crm"
+  },
+  {
+    "id": "sup-0212",
+    "name": "Eset",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/eset"
+  },
+  {
+    "id": "sup-0213",
+    "name": "Estas",
+    "category": "Reviews",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estas"
+  },
+  {
+    "id": "sup-0214",
+    "name": "Estate Agency Marketing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-agency-marketing"
+  },
+  {
+    "id": "sup-0215",
+    "name": "Estate Agent Social Media",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-agent-social-media"
+  },
+  {
+    "id": "sup-0216",
+    "name": "Estate Agent Today",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-agent-today"
+  },
+  {
+    "id": "sup-0217",
+    "name": "Estate Agents Learning",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-agents-learning"
+  },
+  {
+    "id": "sup-0218",
+    "name": "Estate Apps",
+    "category": "Website",
+    "usage": 127,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-apps"
+  },
+  {
+    "id": "sup-0219",
+    "name": "Estate Pro",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-pro"
+  },
+  {
+    "id": "sup-0220",
+    "name": "Estate Signs Print Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-signs-print-ltd"
+  },
+  {
+    "id": "sup-0221",
+    "name": "EstateTrack",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estate-track"
+  },
+  {
+    "id": "sup-0222",
+    "name": "Estateagent Content",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estateagent-content"
+  },
+  {
+    "id": "sup-0223",
+    "name": "Estatecreate",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estatecreate"
+  },
+  {
+    "id": "sup-0224",
+    "name": "Estates IT Ltd",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/estates-it-ltd"
+  },
+  {
+    "id": "sup-0225",
+    "name": "Everknock",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/everknock"
+  },
+  {
+    "id": "sup-0226",
+    "name": "Everycloud Photography",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/everycloud-photography"
+  },
+  {
+    "id": "sup-0227",
+    "name": "Everything Lettings",
+    "category": "Lettings",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/everything-lettings"
+  },
+  {
+    "id": "sup-0228",
+    "name": "Evo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/evo"
+  },
+  {
+    "id": "sup-0229",
+    "name": "Evolution It",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/evolution-it"
+  },
+  {
+    "id": "sup-0230",
+    "name": "Evolve Partnership Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/evolve-partnership-limited"
+  },
+  {
+    "id": "sup-0231",
+    "name": "Ewemove Franchise",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ewemove-franchise"
+  },
+  {
+    "id": "sup-0232",
+    "name": "Excite Interiors",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/excite-interiors"
+  },
+  {
+    "id": "sup-0233",
+    "name": "Executive Property Management Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/executive-property-management-solutions"
+  },
+  {
+    "id": "sup-0234",
+    "name": "Exp",
+    "category": "Networks & Franchises",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/exp"
+  },
+  {
+    "id": "sup-0235",
+    "name": "Expert Agent",
+    "category": "CRM",
+    "usage": 399,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/expert-agent"
+  },
+  {
+    "id": "sup-0236",
+    "name": "Eye Spy 360",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/eye-spy-360"
+  },
+  {
+    "id": "sup-0237",
+    "name": "Ez Property Reports Nationwide Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ez-property-reports-nationwide-ltd"
+  },
+  {
+    "id": "sup-0238",
+    "name": "Face For Business",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/face-for-business"
+  },
+  {
+    "id": "sup-0239",
+    "name": "FCC Paragon",
+    "category": "Proptech",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fcc-paragon"
+  },
+  {
+    "id": "sup-0240",
+    "name": "Fcs Compliance",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fcs-compliance"
+  },
+  {
+    "id": "sup-0241",
+    "name": "Feefo",
+    "category": "Review Widget",
+    "usage": 190,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/feefo"
+  },
+  {
+    "id": "sup-0242",
+    "name": "Fimble Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fimble-ltd"
+  },
+  {
+    "id": "sup-0243",
+    "name": "Finch",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/finch"
+  },
+  {
+    "id": "sup-0244",
+    "name": "Find Mapping Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/find-mapping-ltd"
+  },
+  {
+    "id": "sup-0245",
+    "name": "Findingaplace",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/findingaplace"
+  },
+  {
+    "id": "sup-0246",
+    "name": "Fire Wave",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fire-wave"
+  },
+  {
+    "id": "sup-0247",
+    "name": "Fixflo",
+    "category": "Maintenance",
+    "usage": 57,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fixflo"
+  },
+  {
+    "id": "sup-0248",
+    "name": "Flamefish Media",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/flamefish-media"
+  },
+  {
+    "id": "sup-0249",
+    "name": "Flamingo Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/flamingo-digital"
+  },
+  {
+    "id": "sup-0250",
+    "name": "Flatfair",
+    "category": "AI Assistant",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/flatfair"
+  },
+  {
+    "id": "sup-0251",
+    "name": "Flowprop Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/flowprop-ai"
+  },
+  {
+    "id": "sup-0252",
+    "name": "Fmg Search Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fmg-search-limited"
+  },
+  {
+    "id": "sup-0253",
+    "name": "FocalAgent",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/focal-agent"
+  },
+  {
+    "id": "sup-0254",
+    "name": "Folio London",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/folio-london"
+  },
+  {
+    "id": "sup-0255",
+    "name": "Fourlabs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fourlabs"
+  },
+  {
+    "id": "sup-0256",
+    "name": "Fourwalls",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fourwalls"
+  },
+  {
+    "id": "sup-0257",
+    "name": "Frank Marketing",
+    "category": "Portal",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/frank-marketing"
+  },
+  {
+    "id": "sup-0258",
+    "name": "Frank Virtual Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/frank-virtual-ltd"
+  },
+  {
+    "id": "sup-0259",
+    "name": "Fse Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fse-digital"
+  },
+  {
+    "id": "sup-0260",
+    "name": "Full Power",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/full-power"
+  },
+  {
+    "id": "sup-0261",
+    "name": "Gavl",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gavl"
+  },
+  {
+    "id": "sup-0262",
+    "name": "Gazeal",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gazeal"
+  },
+  {
+    "id": "sup-0263",
+    "name": "Gcb Recruitment",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gcb-recruitment"
+  },
+  {
+    "id": "sup-0264",
+    "name": "Genifea",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/genifea"
+  },
+  {
+    "id": "sup-0265",
+    "name": "Genmar",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/genmar"
+  },
+  {
+    "id": "sup-0266",
+    "name": "Geocale",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/geocale"
+  },
+  {
+    "id": "sup-0267",
+    "name": "GetAgent",
+    "category": "Valuation Tool",
+    "usage": 161,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/getagent"
+  },
+  {
+    "id": "sup-0268",
+    "name": "GetGround",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/getground"
+  },
+  {
+    "id": "sup-0269",
+    "name": "Ghost Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ghost-software"
+  },
+  {
+    "id": "sup-0270",
+    "name": "Giraffe360",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/giraffe-360"
+  },
+  {
+    "id": "sup-0271",
+    "name": "Glide Utilities Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/glide-utilities-ltd"
+  },
+  {
+    "id": "sup-0272",
+    "name": "Global 4 Communications Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/global-4-communications-ltd"
+  },
+  {
+    "id": "sup-0273",
+    "name": "GlueDog",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gluedog"
+  },
+  {
+    "id": "sup-0274",
+    "name": "Gnb Habitat",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gnb-habitat"
+  },
+  {
+    "id": "sup-0275",
+    "name": "Gnb Property Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gnb-property-software"
+  },
+  {
+    "id": "sup-0276",
+    "name": "Gnomen",
+    "category": "CRM",
+    "usage": 59,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gnomen"
+  },
+  {
+    "id": "sup-0277",
+    "name": "Goodlord",
+    "category": "Lettings Workflow",
+    "usage": 23,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/goodlord"
+  },
+  {
+    "id": "sup-0278",
+    "name": "Google Workspace",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/google-workspace"
+  },
+  {
+    "id": "sup-0279",
+    "name": "Goto",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/goto"
+  },
+  {
+    "id": "sup-0280",
+    "name": "Grandis",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/grandis"
+  },
+  {
+    "id": "sup-0281",
+    "name": "Green Kite",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/green-kite"
+  },
+  {
+    "id": "sup-0282",
+    "name": "Greenhouse Os",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/greenhouse-os"
+  },
+  {
+    "id": "sup-0283",
+    "name": "Gridizen",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/gridizen"
+  },
+  {
+    "id": "sup-0284",
+    "name": "Grosvenor Systems Propman",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/grosvenor-systems-propman"
+  },
+  {
+    "id": "sup-0285",
+    "name": "Growth Track Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/growth-track-limited"
+  },
+  {
+    "id": "sup-0286",
+    "name": "Growtion",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/growtion"
+  },
+  {
+    "id": "sup-0287",
+    "name": "Guardian Support",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/guardian-support"
+  },
+  {
+    "id": "sup-0288",
+    "name": "Habiteo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/habiteo"
+  },
+  {
+    "id": "sup-0289",
+    "name": "Halo Rent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/halo-rent"
+  },
+  {
+    "id": "sup-0290",
+    "name": "Hamilton Property Inventory Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hamilton-property-inventory-group"
+  },
+  {
+    "id": "sup-0291",
+    "name": "Hammock",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hammock"
+  },
+  {
+    "id": "sup-0292",
+    "name": "Hanley Payments",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hanley-payments"
+  },
+  {
+    "id": "sup-0293",
+    "name": "Hargreaves Consulting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hargreaves-consulting"
+  },
+  {
+    "id": "sup-0294",
+    "name": "Harrisons Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/harrisons-signs"
+  },
+  {
+    "id": "sup-0295",
+    "name": "Hashtag Clean Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hashtag-clean-ltd"
+  },
+  {
+    "id": "sup-0296",
+    "name": "Hauskey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hauskey"
+  },
+  {
+    "id": "sup-0297",
+    "name": "Haversley",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/haversley"
+  },
+  {
+    "id": "sup-0298",
+    "name": "Havn Property Management Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/havn-property-management-ltd"
+  },
+  {
+    "id": "sup-0299",
+    "name": "Hbb Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hbb-solutions"
+  },
+  {
+    "id": "sup-0300",
+    "name": "Heath Property Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/heath-property-solutions"
+  },
+  {
+    "id": "sup-0301",
+    "name": "Hello Mortgage Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hello-mortgage-limited"
+  },
+  {
+    "id": "sup-0302",
+    "name": "Hello Propty Uk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hello-propty-uk"
+  },
+  {
+    "id": "sup-0303",
+    "name": "Hellomint",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hellomint"
+  },
+  {
+    "id": "sup-0304",
+    "name": "Helloreport",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/helloreport"
+  },
+  {
+    "id": "sup-0305",
+    "name": "Help Me Fix",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/help-me-fix"
+  },
+  {
+    "id": "sup-0306",
+    "name": "Helphound",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/helphound"
+  },
+  {
+    "id": "sup-0307",
+    "name": "Help The Move",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/helpthemove"
+  },
+  {
+    "id": "sup-0308",
+    "name": "Hinch Property Management",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hinch-property-management"
+  },
+  {
+    "id": "sup-0309",
+    "name": "Hipla",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hipla"
+  },
+  {
+    "id": "sup-0310",
+    "name": "Hive Boost",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hive-boost"
+  },
+  {
+    "id": "sup-0311",
+    "name": "Hm Referencing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hm-referencing"
+  },
+  {
+    "id": "sup-0312",
+    "name": "Hmo Conversions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hmo-conversions"
+  },
+  {
+    "id": "sup-0313",
+    "name": "Hmo Network",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hmo-network"
+  },
+  {
+    "id": "sup-0314",
+    "name": "Hmo Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hmo-services"
+  },
+  {
+    "id": "sup-0315",
+    "name": "Home Co Uk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-co-uk"
+  },
+  {
+    "id": "sup-0316",
+    "name": "Home Energy Assessments",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-energy-assessments"
+  },
+  {
+    "id": "sup-0317",
+    "name": "Home Live",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-live"
+  },
+  {
+    "id": "sup-0318",
+    "name": "Home Move Box",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-move-box"
+  },
+  {
+    "id": "sup-0319",
+    "name": "Home of Mortgages",
+    "category": "Mortgage",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-of-mortgages"
+  },
+  {
+    "id": "sup-0320",
+    "name": "Home Social Network",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/home-social-network"
+  },
+  {
+    "id": "sup-0321",
+    "name": "Homebox",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homebox"
+  },
+  {
+    "id": "sup-0322",
+    "name": "Homeflow",
+    "category": "CRM",
+    "usage": 455,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homeflow"
+  },
+  {
+    "id": "sup-0323",
+    "name": "Homelet Part Of Barbon Insurance Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homelet-part-of-barbon-insurance-group"
+  },
+  {
+    "id": "sup-0324",
+    "name": "Homemove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homemove"
+  },
+  {
+    "id": "sup-0325",
+    "name": "Homepad",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homepad"
+  },
+  {
+    "id": "sup-0326",
+    "name": "Homeppl",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homeppl"
+  },
+  {
+    "id": "sup-0327",
+    "name": "Homesalepack",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homesalepack"
+  },
+  {
+    "id": "sup-0328",
+    "name": "Homesearch Network",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homesearch-network"
+  },
+  {
+    "id": "sup-0329",
+    "name": "Hometrack",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hometrack"
+  },
+  {
+    "id": "sup-0330",
+    "name": "Homewords",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homewords"
+  },
+  {
+    "id": "sup-0331",
+    "name": "Homey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homey"
+  },
+  {
+    "id": "sup-0332",
+    "name": "Homyze",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/homyze"
+  },
+  {
+    "id": "sup-0333",
+    "name": "Housecure",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/housecure"
+  },
+  {
+    "id": "sup-0334",
+    "name": "Houseviz",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/houseviz"
+  },
+  {
+    "id": "sup-0335",
+    "name": "Housing Hand",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/housing-hand"
+  },
+  {
+    "id": "sup-0336",
+    "name": "Housr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/housr"
+  },
+  {
+    "id": "sup-0337",
+    "name": "Houzecheck",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/houzecheck"
+  },
+  {
+    "id": "sup-0338",
+    "name": "Humberts Franchise",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/humberts-franchise"
+  },
+  {
+    "id": "sup-0339",
+    "name": "Hunters Franchise Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hunters-franchise-group"
+  },
+  {
+    "id": "sup-0340",
+    "name": "Husband",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/husband"
+  },
+  {
+    "id": "sup-0341",
+    "name": "Hybr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/hybr"
+  },
+  {
+    "id": "sup-0342",
+    "name": "I Creative",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/i-creative"
+  },
+  {
+    "id": "sup-0343",
+    "name": "I Packs By Hive",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/i-packs-by-hive"
+  },
+  {
+    "id": "sup-0344",
+    "name": "I4t Global",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/i4t-global"
+  },
+  {
+    "id": "sup-0345",
+    "name": "Iain C White Business Consultants",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iain-c-white-business-consultants"
+  },
+  {
+    "id": "sup-0346",
+    "name": "IAM Sold",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iam-sold"
+  },
+  {
+    "id": "sup-0347",
+    "name": "Iamproperty",
+    "category": "Data",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iamproperty"
+  },
+  {
+    "id": "sup-0348",
+    "name": "Iceberg Digital",
+    "category": "Other",
+    "usage": 6,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iceberg-digital"
+  },
+  {
+    "id": "sup-0349",
+    "name": "Idwell",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/idwell"
+  },
+  {
+    "id": "sup-0350",
+    "name": "Iinsure365",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iinsure365"
+  },
+  {
+    "id": "sup-0351",
+    "name": "Imageeditingagency",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/imageeditingagency"
+  },
+  {
+    "id": "sup-0352",
+    "name": "Imfuna Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/imfuna-ltd"
+  },
+  {
+    "id": "sup-0353",
+    "name": "Inox",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inox"
+  },
+  {
+    "id": "sup-0354",
+    "name": "Inside Talent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inside-talent"
+  },
+  {
+    "id": "sup-0355",
+    "name": "Instep Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/instep-ai"
+  },
+  {
+    "id": "sup-0356",
+    "name": "Integra Property Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/integra-property-services"
+  },
+  {
+    "id": "sup-0357",
+    "name": "Integrated Interest",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/integrated-interest"
+  },
+  {
+    "id": "sup-0358",
+    "name": "Interior Capture",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/interior-capture"
+  },
+  {
+    "id": "sup-0359",
+    "name": "Intouch Display",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/intouch-display"
+  },
+  {
+    "id": "sup-0360",
+    "name": "Invenhomes Inventory Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/invenhomes-inventory-services"
+  },
+  {
+    "id": "sup-0361",
+    "name": "Inventory Company",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inventory-company"
+  },
+  {
+    "id": "sup-0362",
+    "name": "Inventory Hive",
+    "category": "Inventory",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inventory-hive"
+  },
+  {
+    "id": "sup-0363",
+    "name": "Inventorybase",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inventorybase"
+  },
+  {
+    "id": "sup-0364",
+    "name": "Inventorypro",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/inventorypro"
+  },
+  {
+    "id": "sup-0365",
+    "name": "Iovox",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iovox"
+  },
+  {
+    "id": "sup-0366",
+    "name": "Ip Office",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ip-office"
+  },
+  {
+    "id": "sup-0367",
+    "name": "Ire Keywhere",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ire-keywhere"
+  },
+  {
+    "id": "sup-0368",
+    "name": "Irvine Insurance",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/irvine-insurance"
+  },
+  {
+    "id": "sup-0369",
+    "name": "Ista",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ista"
+  },
+  {
+    "id": "sup-0370",
+    "name": "iSurvey",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/isurvey"
+  },
+  {
+    "id": "sup-0371",
+    "name": "It And General",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/it-and-general"
+  },
+  {
+    "id": "sup-0372",
+    "name": "Itcs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/itcs"
+  },
+  {
+    "id": "sup-0373",
+    "name": "Ittria",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ittria"
+  },
+  {
+    "id": "sup-0374",
+    "name": "J P Gardner",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/j-p-gardner"
+  },
+  {
+    "id": "sup-0375",
+    "name": "Jan Foo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/jan-foo"
+  },
+  {
+    "id": "sup-0376",
+    "name": "Josh Phegan",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/josh-phegan"
+  },
+  {
+    "id": "sup-0377",
+    "name": "Juna Business Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/juna-business-ltd"
+  },
+  {
+    "id": "sup-0378",
+    "name": "Jupix",
+    "category": "CRM",
+    "usage": 400,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/jupix"
+  },
+  {
+    "id": "sup-0379",
+    "name": "Just Move In",
+    "category": "Other",
+    "usage": 9,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/just-move-in"
+  },
+  {
+    "id": "sup-0380",
+    "name": "Jwd Mortgages Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/jwd-mortgages-limited"
+  },
+  {
+    "id": "sup-0381",
+    "name": "K Riley Va Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/k-riley-va-services"
+  },
+  {
+    "id": "sup-0382",
+    "name": "Kamma",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kamma"
+  },
+  {
+    "id": "sup-0383",
+    "name": "Kaptur",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kaptur"
+  },
+  {
+    "id": "sup-0384",
+    "name": "Kdg Property",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kdg-property"
+  },
+  {
+    "id": "sup-0385",
+    "name": "Keoghs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keoghs"
+  },
+  {
+    "id": "sup-0386",
+    "name": "Kerfuffle",
+    "category": "Community",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kerfuffle"
+  },
+  {
+    "id": "sup-0387",
+    "name": "Kerfuffle Con The Kerfuffle Conference",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kerfuffle-con-the-kerfuffle-conference"
+  },
+  {
+    "id": "sup-0388",
+    "name": "Key Currency",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/key-currency"
+  },
+  {
+    "id": "sup-0389",
+    "name": "Keyhive Io",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keyhive-io"
+  },
+  {
+    "id": "sup-0390",
+    "name": "Keynest",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keynest"
+  },
+  {
+    "id": "sup-0391",
+    "name": "Keysafe Uk Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keysafe-uk-ltd"
+  },
+  {
+    "id": "sup-0392",
+    "name": "Keysio",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keysio"
+  },
+  {
+    "id": "sup-0393",
+    "name": "Keyzapp",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keyzapp"
+  },
+  {
+    "id": "sup-0394",
+    "name": "Keyzy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keyzy"
+  },
+  {
+    "id": "sup-0395",
+    "name": "Klerky",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/klerky"
+  },
+  {
+    "id": "sup-0396",
+    "name": "Knightway Associates",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/knightway-associates"
+  },
+  {
+    "id": "sup-0397",
+    "name": "Know Your Market",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/know-your-market"
+  },
+  {
+    "id": "sup-0398",
+    "name": "Konica",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/konica"
+  },
+  {
+    "id": "sup-0399",
+    "name": "Kotini",
+    "category": "AI Assistant",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kotini"
+  },
+  {
+    "id": "sup-0400",
+    "name": "Kpr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kpr"
+  },
+  {
+    "id": "sup-0401",
+    "name": "Kremer Signs",
+    "category": "eSign",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kremer-signs"
+  },
+  {
+    "id": "sup-0402",
+    "name": "Krispy House",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/krispy-house"
+  },
+  {
+    "id": "sup-0403",
+    "name": "Kwikcast",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/kwikcast"
+  },
+  {
+    "id": "sup-0404",
+    "name": "Laddr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/laddr"
+  },
+  {
+    "id": "sup-0405",
+    "name": "Land Insight",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/land-insight"
+  },
+  {
+    "id": "sup-0406",
+    "name": "Land & New Homes Network",
+    "category": "Data",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/land-new-homes-network"
+  },
+  {
+    "id": "sup-0407",
+    "name": "Land Registry",
+    "category": "Data",
+    "usage": 22,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/land-registry"
+  },
+  {
+    "id": "sup-0408",
+    "name": "Land Tech",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/land-tech"
+  },
+  {
+    "id": "sup-0409",
+    "name": "Landhawk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/landhawk"
+  },
+  {
+    "id": "sup-0410",
+    "name": "Landlord Action",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/landlord-action"
+  },
+  {
+    "id": "sup-0411",
+    "name": "Landlord Broadband",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/landlord-broadband"
+  },
+  {
+    "id": "sup-0412",
+    "name": "Landmarkagent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/landmarkagent"
+  },
+  {
+    "id": "sup-0413",
+    "name": "Lanten",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lanten"
+  },
+  {
+    "id": "sup-0414",
+    "name": "Largemortgageloans Com",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/largemortgageloans-com"
+  },
+  {
+    "id": "sup-0415",
+    "name": "Lastingsales",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lastingsales"
+  },
+  {
+    "id": "sup-0416",
+    "name": "Lca Jobs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lca-jobs"
+  },
+  {
+    "id": "sup-0417",
+    "name": "Leadoo",
+    "category": "Lead Gen",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/leadoo"
+  },
+  {
+    "id": "sup-0418",
+    "name": "Lead Pro",
+    "category": "Lead Gen",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/leadpro"
+  },
+  {
+    "id": "sup-0419",
+    "name": "Leave Dates",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/leave-dates"
+  },
+  {
+    "id": "sup-0420",
+    "name": "Legal Bricks",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/legal-bricks"
+  },
+  {
+    "id": "sup-0421",
+    "name": "Legal Eye",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/legal-eye"
+  },
+  {
+    "id": "sup-0422",
+    "name": "Legal Marketing Services Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/legal-marketing-services-ltd"
+  },
+  {
+    "id": "sup-0423",
+    "name": "Legalforlandlords",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/legalforlandlords"
+  },
+  {
+    "id": "sup-0424",
+    "name": "Leidar Uk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/leidar-uk"
+  },
+  {
+    "id": "sup-0425",
+    "name": "Lemon And Lime Interiors",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lemon-and-lime-interiors"
+  },
+  {
+    "id": "sup-0426",
+    "name": "Lessen",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lessen"
+  },
+  {
+    "id": "sup-0427",
+    "name": "Let Alliance",
+    "category": "Other",
+    "usage": 7,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/let-alliance"
+  },
+  {
+    "id": "sup-0428",
+    "name": "Letcheck Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/letcheck-inventories"
+  },
+  {
+    "id": "sup-0429",
+    "name": "Lethq",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lethq"
+  },
+  {
+    "id": "sup-0430",
+    "name": "Letmojo Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/letmojo-ltd"
+  },
+  {
+    "id": "sup-0431",
+    "name": "Lets Help",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lets-help"
+  },
+  {
+    "id": "sup-0432",
+    "name": "Letsbid Property",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/letsbid-property"
+  },
+  {
+    "id": "sup-0433",
+    "name": "Lettie",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lettie"
+  },
+  {
+    "id": "sup-0434",
+    "name": "Letting Leads",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/letting-leads"
+  },
+  {
+    "id": "sup-0435",
+    "name": "Lettingguru",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lettingguru"
+  },
+  {
+    "id": "sup-0436",
+    "name": "Lettings In A Box",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lettings-in-a-box"
+  },
+  {
+    "id": "sup-0437",
+    "name": "Lettspay",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lettspay"
+  },
+  {
+    "id": "sup-0438",
+    "name": "Letwise Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/letwise-ai"
+  },
+  {
+    "id": "sup-0439",
+    "name": "Leverstock",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/leverstock"
+  },
+  {
+    "id": "sup-0440",
+    "name": "Lifetime Legal",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lifetime-legal"
+  },
+  {
+    "id": "sup-0441",
+    "name": "Lightwork",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lightwork"
+  },
+  {
+    "id": "sup-0442",
+    "name": "Linx",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/linx"
+  },
+  {
+    "id": "sup-0443",
+    "name": "Lisa Isaacs Media Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lisa-isaacs-media-solutions"
+  },
+  {
+    "id": "sup-0444",
+    "name": "Listing Logic",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/listing-logic"
+  },
+  {
+    "id": "sup-0445",
+    "name": "Locrating Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/locrating-ltd"
+  },
+  {
+    "id": "sup-0446",
+    "name": "London Office",
+    "category": "Networks & Franchises",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/london-office"
+  },
+  {
+    "id": "sup-0447",
+    "name": "Lonres Com Limited",
+    "category": "Networks & Franchises",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lonres-com-limited"
+  },
+  {
+    "id": "sup-0448",
+    "name": "Loop",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/loop"
+  },
+  {
+    "id": "sup-0449",
+    "name": "Loqate Postcode",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/loqate-postcode"
+  },
+  {
+    "id": "sup-0450",
+    "name": "Los Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/los-digital"
+  },
+  {
+    "id": "sup-0451",
+    "name": "Love2move",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/love2move"
+  },
+  {
+    "id": "sup-0452",
+    "name": "Lsl Franchise",
+    "category": "Networks & Franchises",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lsl-franchise"
+  },
+  {
+    "id": "sup-0453",
+    "name": "Lumon",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/lumon"
+  },
+  {
+    "id": "sup-0454",
+    "name": "Macdonald And Company",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/macdonald-and-company"
+  },
+  {
+    "id": "sup-0455",
+    "name": "Made Snappy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/made-snappy"
+  },
+  {
+    "id": "sup-0456",
+    "name": "Magicplan",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/magicplan"
+  },
+  {
+    "id": "sup-0457",
+    "name": "Magnus James",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/magnus-james"
+  },
+  {
+    "id": "sup-0458",
+    "name": "Mardens Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mardens-signs"
+  },
+  {
+    "id": "sup-0459",
+    "name": "Marsh Commercial",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/marsh-commercial"
+  },
+  {
+    "id": "sup-0460",
+    "name": "Marvellous Pr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/marvellous-pr"
+  },
+  {
+    "id": "sup-0461",
+    "name": "Marvellous Training",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/marvellous-training"
+  },
+  {
+    "id": "sup-0462",
+    "name": "Matterport",
+    "category": "Other",
+    "usage": 9,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/matterport"
+  },
+  {
+    "id": "sup-0463",
+    "name": "Me2uvideos",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/me2uvideos"
+  },
+  {
+    "id": "sup-0464",
+    "name": "Meero",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/meero"
+  },
+  {
+    "id": "sup-0465",
+    "name": "Meet Elise",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/meet-elise"
+  },
+  {
+    "id": "sup-0466",
+    "name": "Metric Connect Digital Marketing",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/metric-connect-digital-marketing"
+  },
+  {
+    "id": "sup-0467",
+    "name": "Mezzex",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mezzex"
+  },
+  {
+    "id": "sup-0468",
+    "name": "Mid West Displays",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mid-west-displays"
+  },
+  {
+    "id": "sup-0469",
+    "name": "MIL Outsource",
+    "category": "Other",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mil-outsource"
+  },
+  {
+    "id": "sup-0470",
+    "name": "Mindworking",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mindworking"
+  },
+  {
+    "id": "sup-0471",
+    "name": "Mint Insurance Brokers",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mint-insurance-brokers"
+  },
+  {
+    "id": "sup-0472",
+    "name": "Mio",
+    "category": "Conveyancing Tracking",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mio"
+  },
+  {
+    "id": "sup-0473",
+    "name": "Miprogram",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/miprogram"
+  },
+  {
+    "id": "sup-0474",
+    "name": "Mne Accounting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mne-accounting"
+  },
+  {
+    "id": "sup-0475",
+    "name": "Modelprop",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/modelprop"
+  },
+  {
+    "id": "sup-0476",
+    "name": "Momenzo App",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/momenzo-app"
+  },
+  {
+    "id": "sup-0477",
+    "name": "Moneypenny",
+    "category": "Other",
+    "usage": 13,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/moneypenny"
+  },
+  {
+    "id": "sup-0478",
+    "name": "Monspire",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/monspire"
+  },
+  {
+    "id": "sup-0479",
+    "name": "Moonlite Blinds And Shutters",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/moonlite-blinds-and-shutters"
+  },
+  {
+    "id": "sup-0480",
+    "name": "Mooved",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mooved"
+  },
+  {
+    "id": "sup-0481",
+    "name": "Mortgage Advice Bureau",
+    "category": "Mortgage",
+    "usage": 22,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mortgage-advice-bureau"
+  },
+  {
+    "id": "sup-0482",
+    "name": "Mortgage Bureau",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mortgage-bureau"
+  },
+  {
+    "id": "sup-0483",
+    "name": "Mortgage Finder Wales",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mortgage-finder-wales"
+  },
+  {
+    "id": "sup-0484",
+    "name": "Mortgage Pathways",
+    "category": "Mortgage",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mortgage-pathways"
+  },
+  {
+    "id": "sup-0485",
+    "name": "Move With Us",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/move-with-us"
+  },
+  {
+    "id": "sup-0486",
+    "name": "Moveable",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/moveable"
+  },
+  {
+    "id": "sup-0487",
+    "name": "Movegenius",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/movegenius"
+  },
+  {
+    "id": "sup-0488",
+    "name": "Moverly",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/moverly"
+  },
+  {
+    "id": "sup-0489",
+    "name": "Movestreets",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/movestreets"
+  },
+  {
+    "id": "sup-0490",
+    "name": "Movinghub",
+    "category": "Proptech",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/movinghub"
+  },
+  {
+    "id": "sup-0491",
+    "name": "MoxiWorks",
+    "category": "Other",
+    "usage": 11,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/moxiworks"
+  },
+  {
+    "id": "sup-0492",
+    "name": "Mr And Mrs Clarke",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mr-and-mrs-clarke"
+  },
+  {
+    "id": "sup-0493",
+    "name": "MRI Software",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mri-software"
+  },
+  {
+    "id": "sup-0494",
+    "name": "Mutually Yours Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mutually-yours-limited"
+  },
+  {
+    "id": "sup-0495",
+    "name": "Muuvo",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/muuvo"
+  },
+  {
+    "id": "sup-0496",
+    "name": "Muve",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/muve"
+  },
+  {
+    "id": "sup-0497",
+    "name": "My Home Move",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/my-home-move"
+  },
+  {
+    "id": "sup-0498",
+    "name": "My Mortgage Protection Experts Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/my-mortgage-protection-experts-ltd"
+  },
+  {
+    "id": "sup-0499",
+    "name": "MyDeposits",
+    "category": "Tenancy Deposit",
+    "usage": 8,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mydeposits"
+  },
+  {
+    "id": "sup-0500",
+    "name": "Mytoor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mytoor"
+  },
+  {
+    "id": "sup-0501",
+    "name": "National Safety Inspections Ltd Nsi",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/national-safety-inspections-ltd-nsi"
+  },
+  {
+    "id": "sup-0502",
+    "name": "Nbc Property Master Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nbc-property-master-ltd"
+  },
+  {
+    "id": "sup-0503",
+    "name": "Neilwhitfield Com",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/neilwhitfield-com"
+  },
+  {
+    "id": "sup-0504",
+    "name": "Nestflo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nestflo"
+  },
+  {
+    "id": "sup-0505",
+    "name": "Nesti",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nesti"
+  },
+  {
+    "id": "sup-0506",
+    "name": "Nestsen",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nestsen"
+  },
+  {
+    "id": "sup-0507",
+    "name": "Netanagent",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/netanagent"
+  },
+  {
+    "id": "sup-0508",
+    "name": "Network Auctions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/network-auctions"
+  },
+  {
+    "id": "sup-0509",
+    "name": "Nhabit",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nhabit"
+  },
+  {
+    "id": "sup-0510",
+    "name": "Nichecom",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nichecom"
+  },
+  {
+    "id": "sup-0511",
+    "name": "Nimbus Maps",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nimbus-maps"
+  },
+  {
+    "id": "sup-0512",
+    "name": "No Letting Go Inventory Management",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/no-letting-go-inventory-management"
+  },
+  {
+    "id": "sup-0513",
+    "name": "Nodalview",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nodalview"
+  },
+  {
+    "id": "sup-0514",
+    "name": "Northrow",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/northrow"
+  },
+  {
+    "id": "sup-0515",
+    "name": "Northscale",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/northscale"
+  },
+  {
+    "id": "sup-0516",
+    "name": "Nptn",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nptn"
+  },
+  {
+    "id": "sup-0517",
+    "name": "NRLA",
+    "category": "Other",
+    "usage": 8,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nrla"
+  },
+  {
+    "id": "sup-0518",
+    "name": "Nuera Training Business Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nuera-training-business-consultancy"
+  },
+  {
+    "id": "sup-0519",
+    "name": "Nurturecloud",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nurturecloud"
+  },
+  {
+    "id": "sup-0520",
+    "name": "Nw Property Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/nw-property-signs"
+  },
+  {
+    "id": "sup-0521",
+    "name": "Octopus Communications",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/octopus-communications"
+  },
+  {
+    "id": "sup-0522",
+    "name": "Offr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/offr"
+  },
+  {
+    "id": "sup-0523",
+    "name": "Omg Mentoring",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/omg-mentoring"
+  },
+  {
+    "id": "sup-0524",
+    "name": "OntheMarket",
+    "category": "Portal",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/on-the-market"
+  },
+  {
+    "id": "sup-0525",
+    "name": "One Objective",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/one-objective"
+  },
+  {
+    "id": "sup-0526",
+    "name": "One Utility Bill",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/one-utility-bill"
+  },
+  {
+    "id": "sup-0527",
+    "name": "OneDome",
+    "category": "Proptech",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/onedome"
+  },
+  {
+    "id": "sup-0528",
+    "name": "Open Box",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/open-box"
+  },
+  {
+    "id": "sup-0529",
+    "name": "Open House Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/open-house-inventories"
+  },
+  {
+    "id": "sup-0530",
+    "name": "OpenBrix",
+    "category": "Proptech",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/openbrix"
+  },
+  {
+    "id": "sup-0531",
+    "name": "Opening The Gates",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/opening-the-gates"
+  },
+  {
+    "id": "sup-0532",
+    "name": "Openview Powered By Vtuk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/openview-powered-by-vtuk"
+  },
+  {
+    "id": "sup-0533",
+    "name": "Opndoor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/opndoor"
+  },
+  {
+    "id": "sup-0534",
+    "name": "Optimistics",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/optimistics"
+  },
+  {
+    "id": "sup-0535",
+    "name": "Optimus",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/optimus"
+  },
+  {
+    "id": "sup-0536",
+    "name": "Optus Homes",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/optus-homes"
+  },
+  {
+    "id": "sup-0537",
+    "name": "Oracle Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/oracle-group"
+  },
+  {
+    "id": "sup-0538",
+    "name": "Orange Mobile",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/orange-mobile"
+  },
+  {
+    "id": "sup-0539",
+    "name": "Orbit Utilities",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/orbit-utilities"
+  },
+  {
+    "id": "sup-0540",
+    "name": "Orca",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/orca"
+  },
+  {
+    "id": "sup-0541",
+    "name": "Orca 2",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/orca-2"
+  },
+  {
+    "id": "sup-0542",
+    "name": "Oriel Finance",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/oriel-finance"
+  },
+  {
+    "id": "sup-0543",
+    "name": "Outsourcery",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/outsourcery"
+  },
+  {
+    "id": "sup-0544",
+    "name": "Panoptic Motion",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/panoptic-motion"
+  },
+  {
+    "id": "sup-0545",
+    "name": "Paperturn",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/paperturn"
+  },
+  {
+    "id": "sup-0546",
+    "name": "Paragon Environmental Safety Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/paragon-environmental-safety-limited"
+  },
+  {
+    "id": "sup-0547",
+    "name": "Pass The Keys",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pass-the-keys"
+  },
+  {
+    "id": "sup-0548",
+    "name": "Pattinson Auction",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pattinson-auction"
+  },
+  {
+    "id": "sup-0549",
+    "name": "Paul Long Facebook Marketing For Property Professionals",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/paul-long-facebook-marketing-for-property-professionals"
+  },
+  {
+    "id": "sup-0551",
+    "name": "Peach Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/peach-software"
+  },
+  {
+    "id": "sup-0552",
+    "name": "Pegnumi",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pegnumi"
+  },
+  {
+    "id": "sup-0553",
+    "name": "Peptalk Pr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/peptalk-pr"
+  },
+  {
+    "id": "sup-0554",
+    "name": "Perfect Portal",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/perfect-portal"
+  },
+  {
+    "id": "sup-0555",
+    "name": "Peter Fuller Property Consultants Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/peter-fuller-property-consultants-limited"
+  },
+  {
+    "id": "sup-0556",
+    "name": "Phoenix Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/phoenix-inventories"
+  },
+  {
+    "id": "sup-0557",
+    "name": "Pickfords",
+    "category": "Removals",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pickfords"
+  },
+  {
+    "id": "sup-0558",
+    "name": "Pip Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pip-ltd"
+  },
+  {
+    "id": "sup-0559",
+    "name": "Planup",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/planup"
+  },
+  {
+    "id": "sup-0560",
+    "name": "Please Connect Me",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/please-connect-me"
+  },
+  {
+    "id": "sup-0561",
+    "name": "Pleasesign",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pleasesign"
+  },
+  {
+    "id": "sup-0562",
+    "name": "Plentific",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/plentific"
+  },
+  {
+    "id": "sup-0563",
+    "name": "Plump Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/plump-digital"
+  },
+  {
+    "id": "sup-0564",
+    "name": "Pm Connections Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pm-connections-ltd"
+  },
+  {
+    "id": "sup-0565",
+    "name": "Postwizard",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/postwizard"
+  },
+  {
+    "id": "sup-0566",
+    "name": "Premier Estate Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/premier-estate-limited"
+  },
+  {
+    "id": "sup-0567",
+    "name": "Primelocation",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prime-location"
+  },
+  {
+    "id": "sup-0568",
+    "name": "Pro Lead Generation",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pro-lead-generation"
+  },
+  {
+    "id": "sup-0569",
+    "name": "Procomplete",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/procomplete"
+  },
+  {
+    "id": "sup-0570",
+    "name": "Proconvey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/proconvey"
+  },
+  {
+    "id": "sup-0571",
+    "name": "Product Care",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/product-care"
+  },
+  {
+    "id": "sup-0572",
+    "name": "Professional Inventories",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/professional-inventories"
+  },
+  {
+    "id": "sup-0573",
+    "name": "Progresa",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/progresa"
+  },
+  {
+    "id": "sup-0574",
+    "name": "Prontaprint",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prontaprint"
+  },
+  {
+    "id": "sup-0575",
+    "name": "Prop Media",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prop-media"
+  },
+  {
+    "id": "sup-0576",
+    "name": "Propalt",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propalt"
+  },
+  {
+    "id": "sup-0577",
+    "name": "Propbar",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propbar"
+  },
+  {
+    "id": "sup-0578",
+    "name": "Propcall",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propcall"
+  },
+  {
+    "id": "sup-0579",
+    "name": "Propco",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propco"
+  },
+  {
+    "id": "sup-0580",
+    "name": "Proper Pr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/proper-pr"
+  },
+  {
+    "id": "sup-0581",
+    "name": "Property Academy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-academy"
+  },
+  {
+    "id": "sup-0582",
+    "name": "Property Collection",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-collection"
+  },
+  {
+    "id": "sup-0583",
+    "name": "Property Deals Insight",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-deals-insight"
+  },
+  {
+    "id": "sup-0584",
+    "name": "Property Detective",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-detective"
+  },
+  {
+    "id": "sup-0585",
+    "name": "Property Hive",
+    "category": "Other",
+    "usage": 19,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-hive"
+  },
+  {
+    "id": "sup-0586",
+    "name": "Property Hive Software Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-hive-software-ltd"
+  },
+  {
+    "id": "sup-0587",
+    "name": "Property Industry Eye",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-industry-eye"
+  },
+  {
+    "id": "sup-0588",
+    "name": "Property Information Portal By Designs On Property",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-information-portal-by-designs-on-property"
+  },
+  {
+    "id": "sup-0589",
+    "name": "Property Inventory Clerks",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-inventory-clerks"
+  },
+  {
+    "id": "sup-0590",
+    "name": "Property Log Book",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-log-book"
+  },
+  {
+    "id": "sup-0591",
+    "name": "Property Logic",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-logic"
+  },
+  {
+    "id": "sup-0592",
+    "name": "Property Network",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-network"
+  },
+  {
+    "id": "sup-0593",
+    "name": "Property Personnel",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-personnel"
+  },
+  {
+    "id": "sup-0594",
+    "name": "Property Price Guru",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-price-guru"
+  },
+  {
+    "id": "sup-0595",
+    "name": "Property Redress Scheme",
+    "category": "Other",
+    "usage": 18,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-redress-scheme"
+  },
+  {
+    "id": "sup-0596",
+    "name": "Property Risks",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-risks"
+  },
+  {
+    "id": "sup-0597",
+    "name": "Property Searches Direct Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-searches-direct-ltd"
+  },
+  {
+    "id": "sup-0598",
+    "name": "PropertyStream",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-stream"
+  },
+  {
+    "id": "sup-0599",
+    "name": "Property Tours",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-tours"
+  },
+  {
+    "id": "sup-0600",
+    "name": "Property Web Design Pro",
+    "category": "Website",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-web-design-pro"
+  },
+  {
+    "id": "sup-0601",
+    "name": "Property Webmasters",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-webmasters"
+  },
+  {
+    "id": "sup-0602",
+    "name": "Property Xyz",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-xyz"
+  },
+  {
+    "id": "sup-0603",
+    "name": "Propertybase",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertybase"
+  },
+  {
+    "id": "sup-0604",
+    "name": "Propertybox",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertybox"
+  },
+  {
+    "id": "sup-0605",
+    "name": "Propertygoose Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertygoose-limited"
+  },
+  {
+    "id": "sup-0606",
+    "name": "Propertyheads",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertyheads"
+  },
+  {
+    "id": "sup-0607",
+    "name": "Propertylabb",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertylabb"
+  },
+  {
+    "id": "sup-0608",
+    "name": "Propertymark",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propertymark"
+  },
+  {
+    "id": "sup-0609",
+    "name": "Propflo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propflo"
+  },
+  {
+    "id": "sup-0610",
+    "name": "Propgenie",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propgenie"
+  },
+  {
+    "id": "sup-0611",
+    "name": "Propoly",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propoly"
+  },
+  {
+    "id": "sup-0612",
+    "name": "Proportunity",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/proportunity"
+  },
+  {
+    "id": "sup-0613",
+    "name": "Propserv",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/propserv"
+  },
+  {
+    "id": "sup-0614",
+    "name": "Proptycentric Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/proptycentric-ltd"
+  },
+  {
+    "id": "sup-0615",
+    "name": "Prospect Engine",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prospect-engine"
+  },
+  {
+    "id": "sup-0616",
+    "name": "Prospector Pro",
+    "category": "Lead Gen",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prospector-pro"
+  },
+  {
+    "id": "sup-0617",
+    "name": "Prsto",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/prsto"
+  },
+  {
+    "id": "sup-0618",
+    "name": "Pupil",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pupil"
+  },
+  {
+    "id": "sup-0619",
+    "name": "Push Property",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/push-property"
+  },
+  {
+    "id": "sup-0620",
+    "name": "Pvs Media",
+    "category": "Marketing",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/pvs-media"
+  },
+  {
+    "id": "sup-0621",
+    "name": "Qr Properties",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/qr-properties"
+  },
+  {
+    "id": "sup-0622",
+    "name": "Qualifyr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/qualifyr"
+  },
+  {
+    "id": "sup-0623",
+    "name": "Qube Global Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/qube-global-software"
+  },
+  {
+    "id": "sup-0624",
+    "name": "Rapidrent",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rapidrent"
+  },
+  {
+    "id": "sup-0625",
+    "name": "Ravensworth",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/ravensworth"
+  },
+  {
+    "id": "sup-0626",
+    "name": "Rayner Personnel",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rayner-personnel"
+  },
+  {
+    "id": "sup-0627",
+    "name": "Reach Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reach-digital"
+  },
+  {
+    "id": "sup-0628",
+    "name": "Real Media Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/real-media-group"
+  },
+  {
+    "id": "sup-0629",
+    "name": "Real Plus",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/real-plus"
+  },
+  {
+    "id": "sup-0630",
+    "name": "Real Sight",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/real-sight"
+  },
+  {
+    "id": "sup-0631",
+    "name": "Realforce",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/realforce"
+  },
+  {
+    "id": "sup-0632",
+    "name": "Realmove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/realmove"
+  },
+  {
+    "id": "sup-0633",
+    "name": "Realpage",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/realpage"
+  },
+  {
+    "id": "sup-0634",
+    "name": "Realyse",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/realyse"
+  },
+  {
+    "id": "sup-0635",
+    "name": "Reapit",
+    "category": "CRM",
+    "usage": 66,
+    "source": "Kerfuffle",
+    "aliases": [
+      "RPS",
+      "ReapIT",
+      "Reapit",
+      "Reapit Ltd"
+    ],
+    "url": "https://www.kerfuffle.com/suppliers/reapit-ltd"
+  },
+  {
+    "id": "sup-0636",
+    "name": "Reeds Financial",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reeds-financial"
+  },
+  {
+    "id": "sup-0637",
+    "name": "Refectio",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/refectio"
+  },
+  {
+    "id": "sup-0638",
+    "name": "Reheroes",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reheroes"
+  },
+  {
+    "id": "sup-0639",
+    "name": "Rello",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rello"
+  },
+  {
+    "id": "sup-0640",
+    "name": "Relocation Agent Network",
+    "category": "Networks & Franchises",
+    "usage": 9,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/relocation-agent-network"
+  },
+  {
+    "id": "sup-0641",
+    "name": "Relocation Agent Network Conference Awards",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/relocation-agent-network-conference-awards"
+  },
+  {
+    "id": "sup-0642",
+    "name": "Rent By Focus Micro Systems Property Management Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent-by-focus-micro-systems-property-management-software"
+  },
+  {
+    "id": "sup-0643",
+    "name": "Rent Checks",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent-checks"
+  },
+  {
+    "id": "sup-0644",
+    "name": "Rent Guarantor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent-guarantor"
+  },
+  {
+    "id": "sup-0645",
+    "name": "Rent Guard",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent-guard"
+  },
+  {
+    "id": "sup-0646",
+    "name": "Rent Shield",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent-shield"
+  },
+  {
+    "id": "sup-0647",
+    "name": "Rent4sure",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rent4sure"
+  },
+  {
+    "id": "sup-0648",
+    "name": "Rentfind Inspector",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rentfind-inspector"
+  },
+  {
+    "id": "sup-0649",
+    "name": "Rentman",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rentman"
+  },
+  {
+    "id": "sup-0650",
+    "name": "Rentmoola",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rentmoola"
+  },
+  {
+    "id": "sup-0651",
+    "name": "Rentprofile",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rentprofile"
+  },
+  {
+    "id": "sup-0652",
+    "name": "Rentround",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rentround"
+  },
+  {
+    "id": "sup-0653",
+    "name": "Repair Network",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/repair-network"
+  },
+  {
+    "id": "sup-0654",
+    "name": "Reports 2 Go",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reports-2-go"
+  },
+  {
+    "id": "sup-0655",
+    "name": "Reposit",
+    "category": "Tenant Referencing",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reposit"
+  },
+  {
+    "id": "sup-0656",
+    "name": "Reputation",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/reputation"
+  },
+  {
+    "id": "sup-0657",
+    "name": "Resi Analytics",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/resi-analytics"
+  },
+  {
+    "id": "sup-0658",
+    "name": "Resident",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/resident"
+  },
+  {
+    "id": "sup-0659",
+    "name": "Residential People",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/residential-people"
+  },
+  {
+    "id": "sup-0660",
+    "name": "Residently",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/residently"
+  },
+  {
+    "id": "sup-0661",
+    "name": "Resisure",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/resisure"
+  },
+  {
+    "id": "sup-0662",
+    "name": "Respacio",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/respacio"
+  },
+  {
+    "id": "sup-0663",
+    "name": "Responseiq",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/responseiq"
+  },
+  {
+    "id": "sup-0664",
+    "name": "Restb",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/restb"
+  },
+  {
+    "id": "sup-0665",
+    "name": "Review Cards",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/review-cards"
+  },
+  {
+    "id": "sup-0666",
+    "name": "Revvis Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/revvis-limited"
+  },
+  {
+    "id": "sup-0667",
+    "name": "Rex Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rex-software"
+  },
+  {
+    "id": "sup-0668",
+    "name": "Richard Durrant",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/richard-durrant"
+  },
+  {
+    "id": "sup-0669",
+    "name": "Richard Rawlings",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/richard-rawlings"
+  },
+  {
+    "id": "sup-0670",
+    "name": "RightMove",
+    "category": "Portal",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rightmove"
+  },
+  {
+    "id": "sup-0671",
+    "name": "Rightval",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rightval"
+  },
+  {
+    "id": "sup-0672",
+    "name": "River Lpm",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/river-lpm"
+  },
+  {
+    "id": "sup-0673",
+    "name": "Roar Digital",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/roar-digital"
+  },
+  {
+    "id": "sup-0674",
+    "name": "Roboteer",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/roboteer"
+  },
+  {
+    "id": "sup-0675",
+    "name": "Roby Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/roby-ai"
+  },
+  {
+    "id": "sup-0676",
+    "name": "Roomservice By Cort",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/roomservice-by-cort"
+  },
+  {
+    "id": "sup-0677",
+    "name": "Root Fifty Two",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/root-fifty-two"
+  },
+  {
+    "id": "sup-0678",
+    "name": "Roxus Io",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/roxus-io"
+  },
+  {
+    "id": "sup-0679",
+    "name": "Rtp Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rtp-solutions"
+  },
+  {
+    "id": "sup-0680",
+    "name": "Run Ads Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/run-ads-digital"
+  },
+  {
+    "id": "sup-0681",
+    "name": "Rushbrook Rathbone",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/rushbrook-rathbone"
+  },
+  {
+    "id": "sup-0682",
+    "name": "Russou",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/russou"
+  },
+  {
+    "id": "sup-0683",
+    "name": "Safe House Insurance",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/safe-house-insurance"
+  },
+  {
+    "id": "sup-0684",
+    "name": "Safe2 Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/safe2-ltd"
+  },
+  {
+    "id": "sup-0685",
+    "name": "Safemove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/safemove"
+  },
+  {
+    "id": "sup-0686",
+    "name": "Sage",
+    "category": "Other",
+    "usage": 10,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sage"
+  },
+  {
+    "id": "sup-0687",
+    "name": "SalesRook",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/salesrook"
+  },
+  {
+    "id": "sup-0688",
+    "name": "Sava",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sava"
+  },
+  {
+    "id": "sup-0689",
+    "name": "Savage Silk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/savage-silk"
+  },
+  {
+    "id": "sup-0690",
+    "name": "Savard",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/savard"
+  },
+  {
+    "id": "sup-0691",
+    "name": "Scan A Sign",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/scan-a-sign"
+  },
+  {
+    "id": "sup-0692",
+    "name": "Sdl Surveying",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sdl-surveying"
+  },
+  {
+    "id": "sup-0693",
+    "name": "Sdlauctions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sdlauctions"
+  },
+  {
+    "id": "sup-0694",
+    "name": "Search Acumen",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/search-acumen"
+  },
+  {
+    "id": "sup-0695",
+    "name": "Searchflow",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/searchflow"
+  },
+  {
+    "id": "sup-0696",
+    "name": "Searchsmartly Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/searchsmartly-ltd"
+  },
+  {
+    "id": "sup-0697",
+    "name": "Secured Lending Auditing Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/secured-lending-auditing-ltd"
+  },
+  {
+    "id": "sup-0698",
+    "name": "Settle",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/settle"
+  },
+  {
+    "id": "sup-0699",
+    "name": "Shergroup",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/shergroup"
+  },
+  {
+    "id": "sup-0700",
+    "name": "Sherwin Currid",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sherwin-currid"
+  },
+  {
+    "id": "sup-0701",
+    "name": "Sidekiq",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sidekiq"
+  },
+  {
+    "id": "sup-0702",
+    "name": "Signable",
+    "category": "eSign",
+    "usage": 6,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/signable"
+  },
+  {
+    "id": "sup-0703",
+    "name": "Signboard",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/signboard"
+  },
+  {
+    "id": "sup-0704",
+    "name": "Signs Display",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/signs-display"
+  },
+  {
+    "id": "sup-0705",
+    "name": "Sim7 Creative",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sim7-creative"
+  },
+  {
+    "id": "sup-0706",
+    "name": "Simplermovedata",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/simplermovedata"
+  },
+  {
+    "id": "sup-0707",
+    "name": "Simplify",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/simplify"
+  },
+  {
+    "id": "sup-0708",
+    "name": "Simply Conveyancing",
+    "category": "Conveyancing Tracking",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/simply-conveyancing"
+  },
+  {
+    "id": "sup-0709",
+    "name": "Sinclair Taylor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sinclair-taylor"
+  },
+  {
+    "id": "sup-0710",
+    "name": "Sizzledeck",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sizzledeck"
+  },
+  {
+    "id": "sup-0711",
+    "name": "Sjm Consultants",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sjm-consultants"
+  },
+  {
+    "id": "sup-0712",
+    "name": "Skip The Deposit",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/skip-the-deposit"
+  },
+  {
+    "id": "sup-0713",
+    "name": "Slc Solicitors",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/slc-solicitors"
+  },
+  {
+    "id": "sup-0714",
+    "name": "Slothmove",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/slothmove"
+  },
+  {
+    "id": "sup-0715",
+    "name": "Smart Compliance",
+    "category": "Compliance",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/smart-compliance"
+  },
+  {
+    "id": "sup-0716",
+    "name": "Smart Property Tours",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/smart-property-tours"
+  },
+  {
+    "id": "sup-0717",
+    "name": "Smart Sure",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/smart-sure"
+  },
+  {
+    "id": "sup-0718",
+    "name": "Smartroom",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/smartroom"
+  },
+  {
+    "id": "sup-0719",
+    "name": "SmartSearch",
+    "category": "Other",
+    "usage": 7,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/smartsearch"
+  },
+  {
+    "id": "sup-0720",
+    "name": "SME Professional",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sme-professional"
+  },
+  {
+    "id": "sup-0721",
+    "name": "SMS Speedway",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sms-speedway"
+  },
+  {
+    "id": "sup-0722",
+    "name": "Solace",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/solace"
+  },
+  {
+    "id": "sup-0723",
+    "name": "Solutions Retail Displays",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/solutions-retail-displays"
+  },
+  {
+    "id": "sup-0724",
+    "name": "Sort Move",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sort-move"
+  },
+  {
+    "id": "sup-0725",
+    "name": "South West Hygiene",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/south-west-hygiene"
+  },
+  {
+    "id": "sup-0726",
+    "name": "Southern Electric",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/southern-electric"
+  },
+  {
+    "id": "sup-0727",
+    "name": "Space Trace",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/space-trace"
+  },
+  {
+    "id": "sup-0728",
+    "name": "Spe Property Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spe-property-signs"
+  },
+  {
+    "id": "sup-0729",
+    "name": "Spe Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spe-signs"
+  },
+  {
+    "id": "sup-0730",
+    "name": "Spec",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spec"
+  },
+  {
+    "id": "sup-0731",
+    "name": "Spec Digital Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spec-digital-limited"
+  },
+  {
+    "id": "sup-0732",
+    "name": "Spectre",
+    "category": "Prospecting",
+    "usage": 20,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spectre"
+  },
+  {
+    "id": "sup-0733",
+    "name": "Spike Global",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/spike-global"
+  },
+  {
+    "id": "sup-0734",
+    "name": "Sprift",
+    "category": "Data",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sprift"
+  },
+  {
+    "id": "sup-0735",
+    "name": "Sse",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/sse"
+  },
+  {
+    "id": "sup-0736",
+    "name": "Standard Life",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/standard-life"
+  },
+  {
+    "id": "sup-0737",
+    "name": "Standout Property Manager",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/standout-property-manager"
+  },
+  {
+    "id": "sup-0738",
+    "name": "StandOut Property Websites",
+    "category": "Website",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/standout-property-websites"
+  },
+  {
+    "id": "sup-0739",
+    "name": "Starberry",
+    "category": "CRM",
+    "usage": 35,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/starberry"
+  },
+  {
+    "id": "sup-0740",
+    "name": "Stephen Brown",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/stephen-brown"
+  },
+  {
+    "id": "sup-0741",
+    "name": "Stitch Ai Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/stitch-ai-ltd"
+  },
+  {
+    "id": "sup-0742",
+    "name": "Street",
+    "category": "CRM",
+    "usage": 150,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/street"
+  },
+  {
+    "id": "sup-0743",
+    "name": "Street Insights",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/street-insights"
+  },
+  {
+    "id": "sup-0744",
+    "name": "Stronghold Asset Management",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/stronghold-asset-management"
+  },
+  {
+    "id": "sup-0745",
+    "name": "Summit Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/summit-digital"
+  },
+  {
+    "id": "sup-0746",
+    "name": "Superb Digital",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/superb-digital"
+  },
+  {
+    "id": "sup-0747",
+    "name": "Supreme Billboards",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/supreme-billboards"
+  },
+  {
+    "id": "sup-0748",
+    "name": "Survey Shack",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/survey-shack"
+  },
+  {
+    "id": "sup-0749",
+    "name": "Swoop Funding",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/swoop-funding"
+  },
+  {
+    "id": "sup-0750",
+    "name": "Symple",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/symple"
+  },
+  {
+    "id": "sup-0751",
+    "name": "Tall Zebra Designs Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tall-zebra-designs-ltd"
+  },
+  {
+    "id": "sup-0752",
+    "name": "Tamsin Wheatcroft",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tamsin-wheatcroft"
+  },
+  {
+    "id": "sup-0753",
+    "name": "Tapi",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tapi"
+  },
+  {
+    "id": "sup-0754",
+    "name": "Tappter",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tappter"
+  },
+  {
+    "id": "sup-0755",
+    "name": "Team Source",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/team-source"
+  },
+  {
+    "id": "sup-0756",
+    "name": "Technicweb",
+    "category": "Website",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/technicweb"
+  },
+  {
+    "id": "sup-0757",
+    "name": "Technology Blueprint Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/technology-blueprint-ltd"
+  },
+  {
+    "id": "sup-0758",
+    "name": "Teclet",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/teclet"
+  },
+  {
+    "id": "sup-0759",
+    "name": "Tenancy Deposit Scheme Tds",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenancy-deposit-scheme-tds"
+  },
+  {
+    "id": "sup-0760",
+    "name": "Tenancy Home Essentials Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenancy-home-essentials-ltd"
+  },
+  {
+    "id": "sup-0761",
+    "name": "Tenancy360",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenancy360"
+  },
+  {
+    "id": "sup-0762",
+    "name": "Tenant Screening",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenant-screening"
+  },
+  {
+    "id": "sup-0763",
+    "name": "Tenant Shop",
+    "category": "Other",
+    "usage": 3,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenant-shop"
+  },
+  {
+    "id": "sup-0764",
+    "name": "Tenantviews",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tenantviews"
+  },
+  {
+    "id": "sup-0765",
+    "name": "Tennoc",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tennoc"
+  },
+  {
+    "id": "sup-0766",
+    "name": "Test Supplier",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/test-supplier"
+  },
+  {
+    "id": "sup-0767",
+    "name": "The Agency Content Club",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-agency-content-club"
+  },
+  {
+    "id": "sup-0768",
+    "name": "The Ambitious Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-ambitious-group"
+  },
+  {
+    "id": "sup-0769",
+    "name": "The Auction Company",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-auction-company"
+  },
+  {
+    "id": "sup-0770",
+    "name": "The Cyber Desk Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-cyber-desk-ltd"
+  },
+  {
+    "id": "sup-0771",
+    "name": "The Depositary",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-depositary"
+  },
+  {
+    "id": "sup-0772",
+    "name": "The Design Print Company",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-design-print-company"
+  },
+  {
+    "id": "sup-0773",
+    "name": "The Drum Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-drum-consultancy"
+  },
+  {
+    "id": "sup-0774",
+    "name": "The Estate Agent Consultancy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-estate-agent-consultancy"
+  },
+  {
+    "id": "sup-0775",
+    "name": "The Federation Of Independent Agents",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-federation-of-independent-agents"
+  },
+  {
+    "id": "sup-0776",
+    "name": "The Guild Of Letting Management Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-guild-of-letting-management-ltd"
+  },
+  {
+    "id": "sup-0777",
+    "name": "The Guild of Property Professionals",
+    "category": "Networks & Franchises",
+    "usage": 27,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-guild-of-property-professionals"
+  },
+  {
+    "id": "sup-0778",
+    "name": "The Home Buying And Selling Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-home-buying-and-selling-group"
+  },
+  {
+    "id": "sup-0779",
+    "name": "The Humphrey Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-humphrey-group"
+  },
+  {
+    "id": "sup-0780",
+    "name": "The Icg",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-icg"
+  },
+  {
+    "id": "sup-0781",
+    "name": "The Inhouse Way",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-inhouse-way"
+  },
+  {
+    "id": "sup-0782",
+    "name": "The Inventory Specialists Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-inventory-specialists-ltd"
+  },
+  {
+    "id": "sup-0783",
+    "name": "The Letting Partnership",
+    "category": "Lettings",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-letting-partnership"
+  },
+  {
+    "id": "sup-0784",
+    "name": "The Lettings Hub",
+    "category": "Lettings",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-lettings-hub"
+  },
+  {
+    "id": "sup-0785",
+    "name": "The Live Organisation",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-live-organisation"
+  },
+  {
+    "id": "sup-0786",
+    "name": "The Moving Hub",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-moving-hub"
+  },
+  {
+    "id": "sup-0787",
+    "name": "The Negotiator",
+    "category": "Other",
+    "usage": 2,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-negotiator"
+  },
+  {
+    "id": "sup-0788",
+    "name": "The Partnership",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-partnership"
+  },
+  {
+    "id": "sup-0789",
+    "name": "The Plan Portal",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-plan-portal"
+  },
+  {
+    "id": "sup-0790",
+    "name": "The Portable Proptech Cmo",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-portable-proptech-cmo"
+  },
+  {
+    "id": "sup-0791",
+    "name": "The Property Drivebuy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-property-drivebuy"
+  },
+  {
+    "id": "sup-0792",
+    "name": "The Property Jungle",
+    "category": "Other",
+    "usage": 45,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-property-jungle"
+  },
+  {
+    "id": "sup-0793",
+    "name": "The Property Ombudsman",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-property-ombudsman"
+  },
+  {
+    "id": "sup-0794",
+    "name": "The Property Portal",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-property-portal"
+  },
+  {
+    "id": "sup-0795",
+    "name": "The Real Smart Home",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-real-smart-home"
+  },
+  {
+    "id": "sup-0796",
+    "name": "The Recruitment Lounge",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-recruitment-lounge"
+  },
+  {
+    "id": "sup-0797",
+    "name": "The Sms Works Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-sms-works-ltd"
+  },
+  {
+    "id": "sup-0798",
+    "name": "The Zeus App",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-zeus-app"
+  },
+  {
+    "id": "sup-0799",
+    "name": "Thirdfort",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/thirdfort"
+  },
+  {
+    "id": "sup-0800",
+    "name": "Thirsty Works",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/thirsty-works"
+  },
+  {
+    "id": "sup-0801",
+    "name": "Thomas Westcott",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/thomas-westcott"
+  },
+  {
+    "id": "sup-0802",
+    "name": "Tili",
+    "category": "Other",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tili"
+  },
+  {
+    "id": "sup-0803",
+    "name": "Tilsun Group",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tilsun-group"
+  },
+  {
+    "id": "sup-0804",
+    "name": "Tmgroup",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tmgroup"
+  },
+  {
+    "id": "sup-0805",
+    "name": "Tms Group Uk Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tms-group-uk-ltd"
+  },
+  {
+    "id": "sup-0806",
+    "name": "Toby Martin Consultancy Training",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/toby-martin-consultancy-training"
+  },
+  {
+    "id": "sup-0807",
+    "name": "Tom Panos",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tom-panos"
+  },
+  {
+    "id": "sup-0808",
+    "name": "Tony Morris International",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tony-morris-international"
+  },
+  {
+    "id": "sup-0809",
+    "name": "Touchright",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/touchright"
+  },
+  {
+    "id": "sup-0810",
+    "name": "Towers Virtual Tours",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/towers-virtual-tours"
+  },
+  {
+    "id": "sup-0811",
+    "name": "Town Country",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/town-country"
+  },
+  {
+    "id": "sup-0812",
+    "name": "Trace Solutions",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/trace-solutions"
+  },
+  {
+    "id": "sup-0813",
+    "name": "Training For Professionals",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/training-for-professionals"
+  },
+  {
+    "id": "sup-0814",
+    "name": "Trust Audit",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/trust-audit"
+  },
+  {
+    "id": "sup-0815",
+    "name": "Trust Inventory",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/trust-inventory"
+  },
+  {
+    "id": "sup-0816",
+    "name": "Trustpilot",
+    "category": "Reviews",
+    "usage": 316,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/trustpilot"
+  },
+  {
+    "id": "sup-0817",
+    "name": "Truval",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/truval"
+  },
+  {
+    "id": "sup-0818",
+    "name": "Turn Key Photography",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/turn-key-photography"
+  },
+  {
+    "id": "sup-0819",
+    "name": "twentyEA",
+    "category": "Data",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/twentyea"
+  },
+  {
+    "id": "sup-0820",
+    "name": "Twindig",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/twindig"
+  },
+  {
+    "id": "sup-0821",
+    "name": "U See Homes",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/u-see-homes"
+  },
+  {
+    "id": "sup-0822",
+    "name": "Upscore",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/upscore"
+  },
+  {
+    "id": "sup-0823",
+    "name": "Urban Planet",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/urban-planet",
+    "aliases": [
+      "Urban Planet Ltd"
+    ]
+  },
+  {
+    "id": "sup-0824",
+    "name": "Uremovals",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/uremovals"
+  },
+  {
+    "id": "sup-0825",
+    "name": "Utilitell",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/utilitell"
+  },
+  {
+    "id": "sup-0826",
+    "name": "Utilitymix",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/utilitymix"
+  },
+  {
+    "id": "sup-0827",
+    "name": "Vaboo",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vaboo"
+  },
+  {
+    "id": "sup-0828",
+    "name": "Valpal",
+    "category": "Lead Gen",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/valpal"
+  },
+  {
+    "id": "sup-0829",
+    "name": "Van Mildert",
+    "category": "Other",
+    "usage": 4,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/van-mildert"
+  },
+  {
+    "id": "sup-0830",
+    "name": "Vaultea",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vaultea"
+  },
+  {
+    "id": "sup-0831",
+    "name": "Veco Software",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/veco-software"
+  },
+  {
+    "id": "sup-0832",
+    "name": "Verabyte Consulting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/verabyte-consulting"
+  },
+  {
+    "id": "sup-0833",
+    "name": "Veri Check Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/veri-check-ltd"
+  },
+  {
+    "id": "sup-0834",
+    "name": "Verify 365",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/verify-365"
+  },
+  {
+    "id": "sup-0835",
+    "name": "VerifyTrusted",
+    "category": "Review Widget",
+    "usage": 37,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/verify-trusted"
+  },
+  {
+    "id": "sup-0836",
+    "name": "Veriphy",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/veriphy"
+  },
+  {
+    "id": "sup-0837",
+    "name": "Veri-Smart",
+    "category": "Proptech",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/verismart"
+  },
+  {
+    "id": "sup-0838",
+    "name": "Vevila",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vevila"
+  },
+  {
+    "id": "sup-0839",
+    "name": "Veya Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/veya-limited"
+  },
+  {
+    "id": "sup-0840",
+    "name": "Vibrant Energy Matters",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vibrant-energy-matters"
+  },
+  {
+    "id": "sup-0841",
+    "name": "ViewAgents",
+    "category": "CRM",
+    "usage": 1,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/view-agents"
+  },
+  {
+    "id": "sup-0842",
+    "name": "View My Chain",
+    "category": "Conveyancing Tracking",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/view-my-chain"
+  },
+  {
+    "id": "sup-0843",
+    "name": "Viewber",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/viewber"
+  },
+  {
+    "id": "sup-0844",
+    "name": "Viewzly Ai",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/viewzly-ai"
+  },
+  {
+    "id": "sup-0845",
+    "name": "Vindey",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vindey"
+  },
+  {
+    "id": "sup-0846",
+    "name": "Viridor",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/viridor"
+  },
+  {
+    "id": "sup-0847",
+    "name": "Virtual 360 Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/virtual-360-limited"
+  },
+  {
+    "id": "sup-0848",
+    "name": "Virtual Viewings",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/virtual-viewings"
+  },
+  {
+    "id": "sup-0849",
+    "name": "Virtualoom",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/virtualoom"
+  },
+  {
+    "id": "sup-0850",
+    "name": "Visitor Chat",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/visitor-chat"
+  },
+  {
+    "id": "sup-0851",
+    "name": "Vista Vr",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vista-vr"
+  },
+  {
+    "id": "sup-0852",
+    "name": "Vistabee",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vistabee"
+  },
+  {
+    "id": "sup-0853",
+    "name": "Vloj",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vloj"
+  },
+  {
+    "id": "sup-0854",
+    "name": "Vodafone",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vodafone"
+  },
+  {
+    "id": "sup-0855",
+    "name": "Vouch",
+    "category": "Tenant Referencing",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vouch"
+  },
+  {
+    "id": "sup-0856",
+    "name": "Vyomm",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/vyomm"
+  },
+  {
+    "id": "sup-0857",
+    "name": "Warner Property Services Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/warner-property-services-ltd"
+  },
+  {
+    "id": "sup-0858",
+    "name": "Watchdog Hq Trading Name Of Clear Skies Consulting Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/watchdog-hq-trading-name-of-clear-skies-consulting-ltd"
+  },
+  {
+    "id": "sup-0859",
+    "name": "Wbfp Ltd T A Salesprogressors Co Uk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wbfp-ltd-t-a-salesprogressors-co-uk"
+  },
+  {
+    "id": "sup-0860",
+    "name": "We Are Unchained",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/we-are-unchained"
+  },
+  {
+    "id": "sup-0861",
+    "name": "We Fix Now",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/we-fix-now"
+  },
+  {
+    "id": "sup-0862",
+    "name": "We Handle Calls",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/we-handle-calls"
+  },
+  {
+    "id": "sup-0863",
+    "name": "Webdadi",
+    "category": "Website",
+    "usage": 10,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/webdadi"
+  },
+  {
+    "id": "sup-0864",
+    "name": "Wecomplete",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wecomplete"
+  },
+  {
+    "id": "sup-0865",
+    "name": "Wectory",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wectory"
+  },
+  {
+    "id": "sup-0866",
+    "name": "What House Digital Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/what-house-digital-ltd"
+  },
+  {
+    "id": "sup-0867",
+    "name": "What3words",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/what3words"
+  },
+  {
+    "id": "sup-0868",
+    "name": "White Chalk",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/white-chalk"
+  },
+  {
+    "id": "sup-0869",
+    "name": "Wildix",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wildix"
+  },
+  {
+    "id": "sup-0870",
+    "name": "Wink Property App Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wink-property-app-ltd"
+  },
+  {
+    "id": "sup-0871",
+    "name": "Women In Estate Agency",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/women-in-estate-agency"
+  },
+  {
+    "id": "sup-0872",
+    "name": "Women In Residential Property",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/women-in-residential-property"
+  },
+  {
+    "id": "sup-0873",
+    "name": "Worknest",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/worknest"
+  },
+  {
+    "id": "sup-0875",
+    "name": "Worldwide Va",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/worldwide-va"
+  },
+  {
+    "id": "sup-0876",
+    "name": "Worth Recruiting",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/worth-recruiting"
+  },
+  {
+    "id": "sup-0877",
+    "name": "Wpa Healthcare",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/wpa-healthcare"
+  },
+  {
+    "id": "sup-0878",
+    "name": "Www Moovshack Com",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/www-moovshack-com"
+  },
+  {
+    "id": "sup-0879",
+    "name": "Xchangehero Ltd",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/xchangehero-ltd"
+  },
+  {
+    "id": "sup-0880",
+    "name": "Xpress Signs",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/xpress-signs"
+  },
+  {
+    "id": "sup-0881",
+    "name": "Yardi Breeze",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yardi-breeze"
+  },
+  {
+    "id": "sup-0882",
+    "name": "Yomdel",
+    "category": "Live Chat",
+    "usage": 376,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yomdel"
+  },
+  {
+    "id": "sup-0883",
+    "name": "Yorlet",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yorlet"
+  },
+  {
+    "id": "sup-0884",
+    "name": "Yoti Sign",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yoti-sign"
+  },
+  {
+    "id": "sup-0885",
+    "name": "Your Business Number",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/your-business-number"
+  },
+  {
+    "id": "sup-0886",
+    "name": "Your Lead In",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/your-lead-in"
+  },
+  {
+    "id": "sup-0887",
+    "name": "Yuno",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yuno"
+  },
+  {
+    "id": "sup-0888",
+    "name": "Zeal Inventory Services",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/zeal-inventory-services"
+  },
+  {
+    "id": "sup-0889",
+    "name": "Zero Deposit",
+    "category": "Other",
+    "usage": 12,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/zero-deposit"
+  },
+  {
+    "id": "sup-0890",
+    "name": "Zoipa Limited",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/zoipa-limited"
+  },
+  {
+    "id": "sup-0891",
+    "name": "Zoopla",
+    "category": "Portal",
+    "usage": 816,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/zoopla"
+  },
+  {
+    "id": "sup-0892",
+    "name": "Zplan",
+    "category": "Other",
+    "usage": 0,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/zplan"
+  },
+  {
+    "id": "sup-0893",
+    "name": "RISE by MoxiWorks",
+    "category": "Marketing",
+    "usage": 0,
+    "source": "CTP",
+    "url": "https://www.comparetheproptech.com/moxiworks"
+  },
+  {
+    "id": "sup-0894",
+    "name": "UniHomes",
+    "category": "Portals",
+    "usage": 0,
+    "source": "CTP",
+    "url": "https://www.comparetheproptech.com/unihomes"
+  },
+  {
+    "id": "sup-0895",
+    "name": "MarketRent",
+    "category": "Valuation & Rent Reviews",
+    "usage": 0,
+    "source": "CTP",
+    "url": "https://www.comparetheproptech.com/marketrent"
+  },
+  {
+    "id": "sup-0896",
+    "name": "FernRewards",
+    "category": "Tenant Finance & Rewards",
+    "usage": 0,
+    "source": "CTP",
+    "url": "https://www.comparetheproptech.com/fernrewards"
+  },
+  {
+    "id": "sup-0897",
+    "name": "Google Reviews",
+    "category": "Review Widget",
+    "usage": 1242,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0898",
+    "name": "IRE",
+    "category": "CRM",
+    "usage": 799,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0899",
+    "name": "PropertyJungle",
+    "category": "CRM",
+    "usage": 450,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0900",
+    "name": "PropertyFile",
+    "category": "CRM",
+    "usage": 364,
+    "source": "Directory",
+    "aliases": [
+      "PropertyFile",
+      "Property File",
+      "PropertyFile Jupix Alto"
+    ]
+  },
+  {
+    "id": "sup-0901",
+    "name": "Divi",
+    "category": "CMS Plugin (WP)",
+    "usage": 267,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0902",
+    "name": "Trustindex",
+    "category": "Review Widget",
+    "usage": 229,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0903",
+    "name": "Clarity",
+    "category": "Analytics",
+    "usage": 228,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0904",
+    "name": "Wix",
+    "category": "Hosting",
+    "usage": 197,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0905",
+    "name": "GNB",
+    "category": "CRM",
+    "usage": 158,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0906",
+    "name": "LiveChat",
+    "category": "Chat Widget",
+    "usage": 143,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0907",
+    "name": "Squarespace",
+    "category": "Hosting",
+    "usage": 117,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0908",
+    "name": "PropertyPal",
+    "category": "Property Portal (NI)",
+    "usage": 114,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0909",
+    "name": "Tawk",
+    "category": "Chat Widget",
+    "usage": 104,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0910",
+    "name": "HubSpot",
+    "category": "Chat",
+    "usage": 96,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0911",
+    "name": "AppManager",
+    "category": "CRM",
+    "usage": 88,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0912",
+    "name": "Mailchimp",
+    "category": "Email Marketing",
+    "usage": 73,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0913",
+    "name": "The Property Ombudsman (TPO)",
+    "category": "Other",
+    "usage": 57,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0914",
+    "name": "RICS",
+    "category": "Other",
+    "usage": 51,
+    "source": "Directory"
+  },
+  {
+    "id": "sup-0915",
+    "name": "Fine & Country",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fine-and-country"
+  },
+  {
+    "id": "sup-0916",
+    "name": "FIA",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/fia"
+  },
+  {
+    "id": "sup-0917",
+    "name": "Mayfair Group",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/mayfair-group"
+  },
+  {
+    "id": "sup-0918",
+    "name": "Property Franchise Group",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/property-franchise-group"
+  },
+  {
+    "id": "sup-0919",
+    "name": "Winkworth",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/winkworth"
+  },
+  {
+    "id": "sup-0920",
+    "name": "YOPA",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/yopa"
+  },
+  {
+    "id": "sup-0921",
+    "name": "TAUK",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/tauk"
+  },
+  {
+    "id": "sup-0922",
+    "name": "Keller Williams",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/keller-williams"
+  },
+  {
+    "id": "sup-0923",
+    "name": "The Property Experts",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/the-property-experts"
+  },
+  {
+    "id": "sup-0924",
+    "name": "IAD",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/iad"
+  },
+  {
+    "id": "sup-0925",
+    "name": "Perry Power",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/perry-power"
+  },
+  {
+    "id": "sup-0926",
+    "name": "Avocado",
+    "category": "Networks & Franchises",
+    "usage": 5,
+    "source": "Kerfuffle",
+    "url": "https://www.kerfuffle.com/suppliers/avocado"
+  }
+]
