@@ -511,6 +511,21 @@ h1.invite-title em{font-style:normal;color:var(--ta-gold-light)}
         })
       });
 
+      // Dual-write to TA Hub day_pass_claims so the redundancy fan-out (sales@ + Drive + Dropbox) fires.
+      // Fire-and-forget — never blocks the user's submission or shows them an error.
+      fetch('https://trusted-agent-hub.onrender.com/api/day-pass-claim', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name:    fullName,
+          email:   email,
+          company: company || 'Unknown',
+          phone:   phone   || 'Not provided'
+        })
+      }).catch(function(err){
+        console.warn('[trusted-agent] TA Hub claim bridge failed (non-blocking):', err);
+      });
+
       var rsvpResult = await rsvpPromise;
       var brevoResp  = await brevoPromise;
 
